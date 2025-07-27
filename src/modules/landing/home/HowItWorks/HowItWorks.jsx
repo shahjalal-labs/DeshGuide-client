@@ -42,9 +42,8 @@ const HowItWorks = () => {
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 max-w-7xl mx-auto">
         {steps.map((step, i) => (
-          <div data-aos="zoom-in-right">
+          <div data-aos="zoom-in-right" key={i}>
             <motion.div
-              key={i}
               initial={{ opacity: 0, y: 40 }}
               whileInView={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5, delay: i * 0.2 }}

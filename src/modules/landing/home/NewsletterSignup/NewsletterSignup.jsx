@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { darkSwal } from "../../../../hooks/usePostData";
+import { swalErrorToast } from "../../../shared/ui/swalToast";
 
 const NewsletterSignup = () => {
   const [email, setEmail] = useState("");
@@ -8,9 +9,15 @@ const NewsletterSignup = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     if (!email) {
-      darkSwal.fire({
+      /*       darkSwal.fire({
         icon: "warning",
         title: "Please enter your email",
+      }); */
+
+      swalErrorToast({
+        title: "Please enter your email",
+        icon: "warning",
+        text: "You have to enter your email address",
       });
       return;
     }
@@ -24,8 +31,13 @@ const NewsletterSignup = () => {
       });
       setEmail("");
     } catch {
-      darkSwal.fire({
+      /*       darkSwal.fire({
         icon: "error",
+        title: "Subscription failed",
+        text: "Please try again later.",
+      }); */
+
+      swalErrorToast({
         title: "Subscription failed",
         text: "Please try again later.",
       });

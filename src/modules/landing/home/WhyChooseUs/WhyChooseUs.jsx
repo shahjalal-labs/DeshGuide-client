@@ -42,9 +42,9 @@ const WhyChooseUs = () => {
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 max-w-7xl mx-auto">
         {reasons.map((reason, index) => (
-          <div data-aos="zoom-out-left">
+          <div data-aos="zoom-out-left"              key={index}
+          >
             <motion.div
-              key={index}
               initial={{ opacity: 0, y: 40 }}
               whileInView={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5, delay: index * 0.2 }}

@@ -53,17 +53,12 @@ const SignUpForm = () => {
 
       await axiosSecure.post("/users", newUser);
 
-      darkSwal.fire({
-        icon: "success",
-        title: "Account Created",
-        text: "Welcome to DeshGuide!",
-        timer: 2000,
-        showConfirmButton: false,
-      });
       swalSuccessToast({ text: "Account created successfully!" });
 
       reset();
-      navigate("/");
+      setTimeout(() => {
+        navigate(from, { replace: true });
+      }, 1500);
     } catch (err) {
       darkSwal.fire({
         icon: "error",
@@ -76,7 +71,7 @@ const SignUpForm = () => {
   return (
     <form
       onSubmit={handleSubmit(onSubmit)}
-      className="flex-1 bg-base-200 border-base-300 border rounded-box w-fit p-4
+      className="flex-1 bg-base-200  border rounded-box w-fit p-4
       border-[#5f5f9f] rounded-2xl shadow-xl glow-border pulse-glow"
     >
       <h2 className="text-gray-500 text-2xl text-center font-bold">
