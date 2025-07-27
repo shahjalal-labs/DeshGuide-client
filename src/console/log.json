@@ -1,16 +1,8 @@
-[01:42 PM 27-07-25] []  random data RandomGuides.jsx 13
-[01:42 PM 27-07-25] []  random data RandomGuides.jsx 13
-[01:42 PM 27-07-25] [
-  {
-    "_id": "68851f1a48e669e21a93e85b",
-    "status": "accepted",
-    "createdAt": "2025-07-26T18:31:54.566Z",
-    "user": {
-      "_id": "68851af3606080f1804fcc36",
-      "name": "Md. Shahjalal",
-      "email": "dev.shahjalal@gmail.com"
-    }
-  },
+[02:17 PM 27-07-25] []  random data RandomGuides.jsx 13
+[02:17 PM 27-07-25] []  random data RandomGuides.jsx 13
+[02:17 PM 27-07-25] []  random data RandomGuides.jsx 13
+[02:17 PM 27-07-25] []  random data RandomGuides.jsx 13
+[02:18 PM 27-07-25] [
   {
     "_id": "6885af7938458644e7af0c66",
     "status": "accepted",
@@ -19,6 +11,16 @@
       "_id": "6885aeac38458644e7af0c45",
       "name": "Abdullah Fahad",
       "email": "abdullahfahad@gmail.com"
+    }
+  },
+  {
+    "_id": "68852b14c78ef640a3f93929",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:23:00.489Z",
+    "user": {
+      "_id": "68852ad7c78ef640a3f9391d",
+      "name": "Education Education",
+      "email": "eeducation954@gmail.com"
     }
   },
   {
@@ -32,28 +34,6 @@
     }
   },
   {
-    "_id": "688527d2c78ef640a3f9389c",
-    "status": "accepted",
-    "createdAt": "2025-07-26T19:09:06.889Z",
-    "user": {
-      "_id": "68852645c78ef640a3f93875",
-      "name": "Learning English",
-      "email": "mdshahjalal512@gmail.com"
-    }
-  },
-  {
-    "_id": "68852b14c78ef640a3f93929",
-    "status": "accepted",
-    "createdAt": "2025-07-26T19:23:00.489Z",
-    "user": {
-      "_id": "68852ad7c78ef640a3f9391d",
-      "name": "Education Education",
-      "email": "eeducation954@gmail.com"
-    }
-  }
-]  random data RandomGuides.jsx 13
-[01:42 PM 27-07-25] [
-  {
     "_id": "68851f1a48e669e21a93e85b",
     "status": "accepted",
     "createdAt": "2025-07-26T18:31:54.566Z",
@@ -64,6 +44,18 @@
     }
   },
   {
+    "_id": "688527d2c78ef640a3f9389c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:09:06.889Z",
+    "user": {
+      "_id": "68852645c78ef640a3f93875",
+      "name": "Learning English",
+      "email": "mdshahjalal512@gmail.com"
+    }
+  }
+]  random data RandomGuides.jsx 13
+[02:18 PM 27-07-25] [
+  {
     "_id": "6885af7938458644e7af0c66",
     "status": "accepted",
     "createdAt": "2025-07-27T04:47:53.437Z",
@@ -71,6 +63,16 @@
       "_id": "6885aeac38458644e7af0c45",
       "name": "Abdullah Fahad",
       "email": "abdullahfahad@gmail.com"
+    }
+  },
+  {
+    "_id": "68852b14c78ef640a3f93929",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:23:00.489Z",
+    "user": {
+      "_id": "68852ad7c78ef640a3f9391d",
+      "name": "Education Education",
+      "email": "eeducation954@gmail.com"
     }
   },
   {
@@ -84,28 +86,6 @@
     }
   },
   {
-    "_id": "688527d2c78ef640a3f9389c",
-    "status": "accepted",
-    "createdAt": "2025-07-26T19:09:06.889Z",
-    "user": {
-      "_id": "68852645c78ef640a3f93875",
-      "name": "Learning English",
-      "email": "mdshahjalal512@gmail.com"
-    }
-  },
-  {
-    "_id": "68852b14c78ef640a3f93929",
-    "status": "accepted",
-    "createdAt": "2025-07-26T19:23:00.489Z",
-    "user": {
-      "_id": "68852ad7c78ef640a3f9391d",
-      "name": "Education Education",
-      "email": "eeducation954@gmail.com"
-    }
-  }
-]  random data RandomGuides.jsx 13
-[01:43 PM 27-07-25] [
-  {
     "_id": "68851f1a48e669e21a93e85b",
     "status": "accepted",
     "createdAt": "2025-07-26T18:31:54.566Z",
@@ -116,6 +96,18 @@
     }
   },
   {
+    "_id": "688527d2c78ef640a3f9389c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:09:06.889Z",
+    "user": {
+      "_id": "68852645c78ef640a3f93875",
+      "name": "Learning English",
+      "email": "mdshahjalal512@gmail.com"
+    }
+  }
+]  random data RandomGuides.jsx 13
+[02:19 PM 27-07-25] [
+  {
     "_id": "6885af7938458644e7af0c66",
     "status": "accepted",
     "createdAt": "2025-07-27T04:47:53.437Z",
@@ -123,6 +115,16 @@
       "_id": "6885aeac38458644e7af0c45",
       "name": "Abdullah Fahad",
       "email": "abdullahfahad@gmail.com"
+    }
+  },
+  {
+    "_id": "68852b14c78ef640a3f93929",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:23:00.489Z",
+    "user": {
+      "_id": "68852ad7c78ef640a3f9391d",
+      "name": "Education Education",
+      "email": "eeducation954@gmail.com"
     }
   },
   {
@@ -136,28 +138,6 @@
     }
   },
   {
-    "_id": "688527d2c78ef640a3f9389c",
-    "status": "accepted",
-    "createdAt": "2025-07-26T19:09:06.889Z",
-    "user": {
-      "_id": "68852645c78ef640a3f93875",
-      "name": "Learning English",
-      "email": "mdshahjalal512@gmail.com"
-    }
-  },
-  {
-    "_id": "68852b14c78ef640a3f93929",
-    "status": "accepted",
-    "createdAt": "2025-07-26T19:23:00.489Z",
-    "user": {
-      "_id": "68852ad7c78ef640a3f9391d",
-      "name": "Education Education",
-      "email": "eeducation954@gmail.com"
-    }
-  }
-]  random data RandomGuides.jsx 13
-[01:43 PM 27-07-25] [
-  {
     "_id": "68851f1a48e669e21a93e85b",
     "status": "accepted",
     "createdAt": "2025-07-26T18:31:54.566Z",
@@ -168,6 +148,18 @@
     }
   },
   {
+    "_id": "688527d2c78ef640a3f9389c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:09:06.889Z",
+    "user": {
+      "_id": "68852645c78ef640a3f93875",
+      "name": "Learning English",
+      "email": "mdshahjalal512@gmail.com"
+    }
+  }
+]  random data RandomGuides.jsx 13
+[02:19 PM 27-07-25] [
+  {
     "_id": "6885af7938458644e7af0c66",
     "status": "accepted",
     "createdAt": "2025-07-27T04:47:53.437Z",
@@ -175,6 +167,16 @@
       "_id": "6885aeac38458644e7af0c45",
       "name": "Abdullah Fahad",
       "email": "abdullahfahad@gmail.com"
+    }
+  },
+  {
+    "_id": "68852b14c78ef640a3f93929",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:23:00.489Z",
+    "user": {
+      "_id": "68852ad7c78ef640a3f9391d",
+      "name": "Education Education",
+      "email": "eeducation954@gmail.com"
     }
   },
   {
@@ -188,38 +190,6 @@
     }
   },
   {
-    "_id": "688527d2c78ef640a3f9389c",
-    "status": "accepted",
-    "createdAt": "2025-07-26T19:09:06.889Z",
-    "user": {
-      "_id": "68852645c78ef640a3f93875",
-      "name": "Learning English",
-      "email": "mdshahjalal512@gmail.com"
-    }
-  },
-  {
-    "_id": "68852b14c78ef640a3f93929",
-    "status": "accepted",
-    "createdAt": "2025-07-26T19:23:00.489Z",
-    "user": {
-      "_id": "68852ad7c78ef640a3f9391d",
-      "name": "Education Education",
-      "email": "eeducation954@gmail.com"
-    }
-  }
-]  random data RandomGuides.jsx 13
-[01:43 PM 27-07-25] [
-  {
-    "_id": "68852b14c78ef640a3f93929",
-    "status": "accepted",
-    "createdAt": "2025-07-26T19:23:00.489Z",
-    "user": {
-      "_id": "68852ad7c78ef640a3f9391d",
-      "name": "Education Education",
-      "email": "eeducation954@gmail.com"
-    }
-  },
-  {
     "_id": "68851f1a48e669e21a93e85b",
     "status": "accepted",
     "createdAt": "2025-07-26T18:31:54.566Z",
@@ -230,26 +200,6 @@
     }
   },
   {
-    "_id": "6885af7938458644e7af0c66",
-    "status": "accepted",
-    "createdAt": "2025-07-27T04:47:53.437Z",
-    "user": {
-      "_id": "6885aeac38458644e7af0c45",
-      "name": "Abdullah Fahad",
-      "email": "abdullahfahad@gmail.com"
-    }
-  },
-  {
-    "_id": "68852bc3c78ef640a3f9394c",
-    "status": "accepted",
-    "createdAt": "2025-07-26T19:25:55.283Z",
-    "user": {
-      "_id": "68852b90c78ef640a3f93940",
-      "name": "গণিত ভালোবাসি",
-      "email": "gonitvalobasi@gmail.com"
-    }
-  },
-  {
     "_id": "688527d2c78ef640a3f9389c",
     "status": "accepted",
     "createdAt": "2025-07-26T19:09:06.889Z",
@@ -260,15 +210,15 @@
     }
   }
 ]  random data RandomGuides.jsx 13
-[01:43 PM 27-07-25] [
+[02:19 PM 27-07-25] [
   {
-    "_id": "68852b14c78ef640a3f93929",
+    "_id": "688527d2c78ef640a3f9389c",
     "status": "accepted",
-    "createdAt": "2025-07-26T19:23:00.489Z",
+    "createdAt": "2025-07-26T19:09:06.889Z",
     "user": {
-      "_id": "68852ad7c78ef640a3f9391d",
-      "name": "Education Education",
-      "email": "eeducation954@gmail.com"
+      "_id": "68852645c78ef640a3f93875",
+      "name": "Learning English",
+      "email": "mdshahjalal512@gmail.com"
     }
   },
   {
@@ -302,6 +252,18 @@
     }
   },
   {
+    "_id": "68852b14c78ef640a3f93929",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:23:00.489Z",
+    "user": {
+      "_id": "68852ad7c78ef640a3f9391d",
+      "name": "Education Education",
+      "email": "eeducation954@gmail.com"
+    }
+  }
+]  random data RandomGuides.jsx 13
+[02:19 PM 27-07-25] [
+  {
     "_id": "688527d2c78ef640a3f9389c",
     "status": "accepted",
     "createdAt": "2025-07-26T19:09:06.889Z",
@@ -310,850 +272,27 @@
       "name": "Learning English",
       "email": "mdshahjalal512@gmail.com"
     }
-  }
-]  random data RandomGuides.jsx 13
-[01:44 PM 27-07-25] [] ManageStories.jsx 21
-[01:44 PM 27-07-25] [] ManageStories.jsx 21
-[01:44 PM 27-07-25] [] ManageStories.jsx 21
-[01:44 PM 27-07-25] [] ManageStories.jsx 21
-[01:44 PM 27-07-25] [] ManageStories.jsx 33
-[01:44 PM 27-07-25] [] ManageStories.jsx 33
-[01:44 PM 27-07-25] [] ManageStories.jsx 33
-[01:44 PM 27-07-25] [] ManageStories.jsx 33
-[01:44 PM 27-07-25] [] stories ManageStories.jsx 33
-[01:44 PM 27-07-25] [] stories ManageStories.jsx 33
-[01:44 PM 27-07-25] [] stories ManageStories.jsx 33
-[01:44 PM 27-07-25] [] stories ManageStories.jsx 33
-[01:44 PM 27-07-25] [] stories ManageStories.jsx 33
-[01:44 PM 27-07-25] [] stories ManageStories.jsx 33
-[01:44 PM 27-07-25] [] stories ManageStories.jsx 33
-[01:44 PM 27-07-25] [] stories ManageStories.jsx 33
-[01:44 PM 27-07-25] [] stories ManageStories.jsx 33
-[01:44 PM 27-07-25] [] stories ManageStories.jsx 33
-[01:44 PM 27-07-25] [] stories ManageStories.jsx 33
-[01:44 PM 27-07-25] [] stories ManageStories.jsx 33
-[01:44 PM 27-07-25] [] stories ManageStories.jsx 33
-[01:44 PM 27-07-25] [] stories ManageStories.jsx 33
-[01:45 PM 27-07-25] [] stories ManageStories.jsx 33
-[01:45 PM 27-07-25] [] stories ManageStories.jsx 33
-[01:45 PM 27-07-25] [] stories ManageStories.jsx 33
-[01:45 PM 27-07-25] [] stories ManageStories.jsx 33
-[01:45 PM 27-07-25] [] stories ManageStories.jsx 33
-[01:45 PM 27-07-25] [] stories ManageStories.jsx 33
-[01:45 PM 27-07-25] [] stories ManageStories.jsx 33
-[01:45 PM 27-07-25] [] stories ManageStories.jsx 33
-[01:45 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} ManageStories.jsx 28
-[01:45 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} ManageStories.jsx 28
-[01:45 PM 27-07-25] [] stories ManageStories.jsx 33
-[01:45 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} ManageStories.jsx 28
-[01:45 PM 27-07-25] [] stories ManageStories.jsx 33
-[01:45 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} ManageStories.jsx 28
-[01:45 PM 27-07-25] [] stories ManageStories.jsx 33
-[01:45 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} ManageStories.jsx 28
-[01:45 PM 27-07-25] [] stories ManageStories.jsx 33
-[01:45 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} ManageStories.jsx 28
-[01:45 PM 27-07-25] [] stories ManageStories.jsx 34
-[01:45 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} ManageStories.jsx 28
-[01:45 PM 27-07-25] [] stories ManageStories.jsx 34
-[01:45 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} ManageStories.jsx 28
-[01:45 PM 27-07-25] [] stories ManageStories.jsx 34
-[01:45 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} ManageStories.jsx 28
-[01:45 PM 27-07-25] [] stories ManageStories.jsx 34
-[01:45 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} ManageStories.jsx 33
-[01:45 PM 27-07-25] [] stories ManageStories.jsx 34
-[01:45 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} ManageStories.jsx 33
-[01:45 PM 27-07-25] [] stories ManageStories.jsx 34
-[01:45 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} ManageStories.jsx 33
-[01:45 PM 27-07-25] [] stories ManageStories.jsx 34
-[01:45 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} ManageStories.jsx 33
-[01:45 PM 27-07-25] [] stories ManageStories.jsx 34
-[01:45 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[01:45 PM 27-07-25] [] stories ManageStories.jsx 34
-[01:45 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[01:45 PM 27-07-25] [] stories ManageStories.jsx 34
-[01:45 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[01:45 PM 27-07-25] [] stories ManageStories.jsx 34
-[01:45 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[01:45 PM 27-07-25] [] stories ManageStories.jsx 34
-[01:45 PM 27-07-25] null userdata ManageStories.jsx 33
-[01:45 PM 27-07-25] [] stories ManageStories.jsx 34
-[01:45 PM 27-07-25] null userdata ManageStories.jsx 33
-[01:45 PM 27-07-25] [] stories ManageStories.jsx 34
-[01:45 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[01:45 PM 27-07-25] [] stories ManageStories.jsx 34
-[01:45 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[01:45 PM 27-07-25] [] stories ManageStories.jsx 34
-[01:45 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[01:45 PM 27-07-25] [] stories ManageStories.jsx 34
-[01:45 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[01:45 PM 27-07-25] [] stories ManageStories.jsx 34
-[02:04 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:04 PM 27-07-25] [] stories ManageStories.jsx 34
-[02:04 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:04 PM 27-07-25] [] stories ManageStories.jsx 34
-[02:04 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:04 PM 27-07-25] [
+  },
   {
-    "_id": "6885dd7cc2b73ee98dc037dc",
-    "title": "Whispers of History in Mahasthangarh",
-    "description": "Walking through Mahasthangarh was like turning the pages of a forgotten chapter in Bengal’s history. The ruins spoke of empires, kings, and time. It made us wonder about the stories left behind in these stone walls.",
-    "images": [
-      "https://images.deepai.org/art-image/18013ccde158403e97b2804d68101e57/traditional-launch-boat-in-sundarbans-mangrove-river-.jpg",
-      "https://images.deepai.org/art-image/0271952765ce412b878981dbdb957347/royal-bengal-tiger-mid-step-among-trees-in-sundarbans.jpg",
-      "https://images.deepai.org/art-image/edb1fdbc627d46b692194673642c8cd8/fishing-village-huts-on-stilts-beside-muddy-river-in-.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-    "createdAt": "2025-07-27T08:04:12.981Z",
-    "updatedAt": "2025-07-27T08:04:12.981Z",
-    "__v": 0
-  }
-] stories ManageStories.jsx 34
-[02:04 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:04 PM 27-07-25] [
+    "_id": "68851f1a48e669e21a93e85b",
+    "status": "accepted",
+    "createdAt": "2025-07-26T18:31:54.566Z",
+    "user": {
+      "_id": "68851af3606080f1804fcc36",
+      "name": "Md. Shahjalal",
+      "email": "dev.shahjalal@gmail.com"
+    }
+  },
   {
-    "_id": "6885dd7cc2b73ee98dc037dc",
-    "title": "Whispers of History in Mahasthangarh",
-    "description": "Walking through Mahasthangarh was like turning the pages of a forgotten chapter in Bengal’s history. The ruins spoke of empires, kings, and time. It made us wonder about the stories left behind in these stone walls.",
-    "images": [
-      "https://images.deepai.org/art-image/18013ccde158403e97b2804d68101e57/traditional-launch-boat-in-sundarbans-mangrove-river-.jpg",
-      "https://images.deepai.org/art-image/0271952765ce412b878981dbdb957347/royal-bengal-tiger-mid-step-among-trees-in-sundarbans.jpg",
-      "https://images.deepai.org/art-image/edb1fdbc627d46b692194673642c8cd8/fishing-village-huts-on-stilts-beside-muddy-river-in-.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-    "createdAt": "2025-07-27T08:04:12.981Z",
-    "updatedAt": "2025-07-27T08:04:12.981Z",
-    "__v": 0
-  }
-] stories ManageStories.jsx 34
-[02:05 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:05 PM 27-07-25] [
-  {
-    "_id": "6885dd7cc2b73ee98dc037dc",
-    "title": "Whispers of History in Mahasthangarh",
-    "description": "Walking through Mahasthangarh was like turning the pages of a forgotten chapter in Bengal’s history. The ruins spoke of empires, kings, and time. It made us wonder about the stories left behind in these stone walls.",
-    "images": [
-      "https://images.deepai.org/art-image/18013ccde158403e97b2804d68101e57/traditional-launch-boat-in-sundarbans-mangrove-river-.jpg",
-      "https://images.deepai.org/art-image/0271952765ce412b878981dbdb957347/royal-bengal-tiger-mid-step-among-trees-in-sundarbans.jpg",
-      "https://images.deepai.org/art-image/edb1fdbc627d46b692194673642c8cd8/fishing-village-huts-on-stilts-beside-muddy-river-in-.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-    "createdAt": "2025-07-27T08:04:12.981Z",
-    "updatedAt": "2025-07-27T08:04:12.981Z",
-    "__v": 0
-  }
-] stories ManageStories.jsx 34
-[02:05 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:05 PM 27-07-25] [
-  {
-    "_id": "6885dd7cc2b73ee98dc037dc",
-    "title": "Whispers of History in Mahasthangarh",
-    "description": "Walking through Mahasthangarh was like turning the pages of a forgotten chapter in Bengal’s history. The ruins spoke of empires, kings, and time. It made us wonder about the stories left behind in these stone walls.",
-    "images": [
-      "https://images.deepai.org/art-image/18013ccde158403e97b2804d68101e57/traditional-launch-boat-in-sundarbans-mangrove-river-.jpg",
-      "https://images.deepai.org/art-image/0271952765ce412b878981dbdb957347/royal-bengal-tiger-mid-step-among-trees-in-sundarbans.jpg",
-      "https://images.deepai.org/art-image/edb1fdbc627d46b692194673642c8cd8/fishing-village-huts-on-stilts-beside-muddy-river-in-.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-    "createdAt": "2025-07-27T08:04:12.981Z",
-    "updatedAt": "2025-07-27T08:04:12.981Z",
-    "__v": 0
-  }
-] stories ManageStories.jsx 34
-[02:05 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:05 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:05 PM 27-07-25] [
-  {
-    "_id": "6885dd7cc2b73ee98dc037dc",
-    "title": "Whispers of History in Mahasthangarh",
-    "description": "Walking through Mahasthangarh was like turning the pages of a forgotten chapter in Bengal’s history. The ruins spoke of empires, kings, and time. It made us wonder about the stories left behind in these stone walls.",
-    "images": [
-      "https://images.deepai.org/art-image/18013ccde158403e97b2804d68101e57/traditional-launch-boat-in-sundarbans-mangrove-river-.jpg",
-      "https://images.deepai.org/art-image/0271952765ce412b878981dbdb957347/royal-bengal-tiger-mid-step-among-trees-in-sundarbans.jpg",
-      "https://images.deepai.org/art-image/edb1fdbc627d46b692194673642c8cd8/fishing-village-huts-on-stilts-beside-muddy-river-in-.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-    "createdAt": "2025-07-27T08:04:12.981Z",
-    "updatedAt": "2025-07-27T08:04:12.981Z",
-    "__v": 0
-  }
-] stories ManageStories.jsx 34
-[02:05 PM 27-07-25] [
-  {
-    "_id": "6885dd7cc2b73ee98dc037dc",
-    "title": "Whispers of History in Mahasthangarh",
-    "description": "Walking through Mahasthangarh was like turning the pages of a forgotten chapter in Bengal’s history. The ruins spoke of empires, kings, and time. It made us wonder about the stories left behind in these stone walls.",
-    "images": [
-      "https://images.deepai.org/art-image/18013ccde158403e97b2804d68101e57/traditional-launch-boat-in-sundarbans-mangrove-river-.jpg",
-      "https://images.deepai.org/art-image/0271952765ce412b878981dbdb957347/royal-bengal-tiger-mid-step-among-trees-in-sundarbans.jpg",
-      "https://images.deepai.org/art-image/edb1fdbc627d46b692194673642c8cd8/fishing-village-huts-on-stilts-beside-muddy-river-in-.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-    "createdAt": "2025-07-27T08:04:12.981Z",
-    "updatedAt": "2025-07-27T08:04:12.981Z",
-    "__v": 0
-  }
-] stories ManageStories.jsx 34
-[02:05 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:05 PM 27-07-25] [
-  {
-    "_id": "6885dd7cc2b73ee98dc037dc",
-    "title": "Whispers of History in Mahasthangarh updated",
-    "description": "Updated Walking through Mahasthangarh was like turning the pages of a forgotten chapter in Bengal’s history. The ruins spoke of empires, kings, and time. It made us wonder about the stories left behind in these stone walls.",
-    "images": [
-      "https://images.deepai.org/art-image/18013ccde158403e97b2804d68101e57/traditional-launch-boat-in-sundarbans-mangrove-river-.jpg",
-      "https://images.deepai.org/art-image/0271952765ce412b878981dbdb957347/royal-bengal-tiger-mid-step-among-trees-in-sundarbans.jpg",
-      "https://images.deepai.org/art-image/edb1fdbc627d46b692194673642c8cd8/fishing-village-huts-on-stilts-beside-muddy-river-in-.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-    "createdAt": "2025-07-27T08:04:12.981Z",
-    "updatedAt": "2025-07-27T08:05:31.230Z",
-    "__v": 0
-  }
-] stories ManageStories.jsx 34
-[02:05 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:05 PM 27-07-25] [
-  {
-    "_id": "6885dd7cc2b73ee98dc037dc",
-    "title": "Whispers of History in Mahasthangarh updated",
-    "description": "Updated Walking through Mahasthangarh was like turning the pages of a forgotten chapter in Bengal’s history. The ruins spoke of empires, kings, and time. It made us wonder about the stories left behind in these stone walls.",
-    "images": [
-      "https://images.deepai.org/art-image/18013ccde158403e97b2804d68101e57/traditional-launch-boat-in-sundarbans-mangrove-river-.jpg",
-      "https://images.deepai.org/art-image/0271952765ce412b878981dbdb957347/royal-bengal-tiger-mid-step-among-trees-in-sundarbans.jpg",
-      "https://images.deepai.org/art-image/edb1fdbc627d46b692194673642c8cd8/fishing-village-huts-on-stilts-beside-muddy-river-in-.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-    "createdAt": "2025-07-27T08:04:12.981Z",
-    "updatedAt": "2025-07-27T08:05:31.230Z",
-    "__v": 0
-  }
-] stories ManageStories.jsx 34
-[02:05 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:05 PM 27-07-25] [
-  {
-    "_id": "6885dd7cc2b73ee98dc037dc",
-    "title": "Whispers of History in Mahasthangarh updated",
-    "description": "Updated Walking through Mahasthangarh was like turning the pages of a forgotten chapter in Bengal’s history. The ruins spoke of empires, kings, and time. It made us wonder about the stories left behind in these stone walls.",
-    "images": [
-      "https://images.deepai.org/art-image/18013ccde158403e97b2804d68101e57/traditional-launch-boat-in-sundarbans-mangrove-river-.jpg",
-      "https://images.deepai.org/art-image/0271952765ce412b878981dbdb957347/royal-bengal-tiger-mid-step-among-trees-in-sundarbans.jpg",
-      "https://images.deepai.org/art-image/edb1fdbc627d46b692194673642c8cd8/fishing-village-huts-on-stilts-beside-muddy-river-in-.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-    "createdAt": "2025-07-27T08:04:12.981Z",
-    "updatedAt": "2025-07-27T08:05:31.230Z",
-    "__v": 0
-  }
-] stories ManageStories.jsx 34
-[02:05 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:05 PM 27-07-25] [
-  {
-    "_id": "6885dd7cc2b73ee98dc037dc",
-    "title": "Whispers of History in Mahasthangarh updated",
-    "description": "Updated Walking through Mahasthangarh was like turning the pages of a forgotten chapter in Bengal’s history. The ruins spoke of empires, kings, and time. It made us wonder about the stories left behind in these stone walls.",
-    "images": [
-      "https://images.deepai.org/art-image/18013ccde158403e97b2804d68101e57/traditional-launch-boat-in-sundarbans-mangrove-river-.jpg",
-      "https://images.deepai.org/art-image/0271952765ce412b878981dbdb957347/royal-bengal-tiger-mid-step-among-trees-in-sundarbans.jpg",
-      "https://images.deepai.org/art-image/edb1fdbc627d46b692194673642c8cd8/fishing-village-huts-on-stilts-beside-muddy-river-in-.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-    "createdAt": "2025-07-27T08:04:12.981Z",
-    "updatedAt": "2025-07-27T08:05:31.230Z",
-    "__v": 0
-  }
-] stories ManageStories.jsx 34
-[02:06 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:06 PM 27-07-25] [
-  {
-    "_id": "6885dd7cc2b73ee98dc037dc",
-    "title": "Whispers of History in Mahasthangarh updated",
-    "description": "Updated Walking through Mahasthangarh was like turning the pages of a forgotten chapter in Bengal’s history. The ruins spoke of empires, kings, and time. It made us wonder about the stories left behind in these stone walls.",
-    "images": [
-      "https://images.deepai.org/art-image/18013ccde158403e97b2804d68101e57/traditional-launch-boat-in-sundarbans-mangrove-river-.jpg",
-      "https://images.deepai.org/art-image/0271952765ce412b878981dbdb957347/royal-bengal-tiger-mid-step-among-trees-in-sundarbans.jpg",
-      "https://images.deepai.org/art-image/edb1fdbc627d46b692194673642c8cd8/fishing-village-huts-on-stilts-beside-muddy-river-in-.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-    "createdAt": "2025-07-27T08:04:12.981Z",
-    "updatedAt": "2025-07-27T08:05:31.230Z",
-    "__v": 0
-  }
-] stories ManageStories.jsx 34
-[02:06 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:06 PM 27-07-25] [
-  {
-    "_id": "6885dd7cc2b73ee98dc037dc",
-    "title": "Whispers of History in Mahasthangarh updated",
-    "description": "Updated Walking through Mahasthangarh was like turning the pages of a forgotten chapter in Bengal’s history. The ruins spoke of empires, kings, and time. It made us wonder about the stories left behind in these stone walls.",
-    "images": [
-      "https://images.deepai.org/art-image/18013ccde158403e97b2804d68101e57/traditional-launch-boat-in-sundarbans-mangrove-river-.jpg",
-      "https://images.deepai.org/art-image/0271952765ce412b878981dbdb957347/royal-bengal-tiger-mid-step-among-trees-in-sundarbans.jpg",
-      "https://images.deepai.org/art-image/edb1fdbc627d46b692194673642c8cd8/fishing-village-huts-on-stilts-beside-muddy-river-in-.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-    "createdAt": "2025-07-27T08:04:12.981Z",
-    "updatedAt": "2025-07-27T08:05:31.230Z",
-    "__v": 0
-  }
-] stories ManageStories.jsx 34
-[02:06 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:06 PM 27-07-25] [
-  {
-    "_id": "6885dd7cc2b73ee98dc037dc",
-    "title": "Whispers of History in Mahasthangarh",
-    "description": "\n Walking through Mahasthangarh was like turning the pages of a forgotten chapter in Bengal’s history. The ruins spoke of empires, kings, and time. It made us wonder about the stories left behind in these stone walls.",
-    "images": [
-      "https://images.deepai.org/art-image/18013ccde158403e97b2804d68101e57/traditional-launch-boat-in-sundarbans-mangrove-river-.jpg",
-      "https://images.deepai.org/art-image/0271952765ce412b878981dbdb957347/royal-bengal-tiger-mid-step-among-trees-in-sundarbans.jpg",
-      "https://images.deepai.org/art-image/edb1fdbc627d46b692194673642c8cd8/fishing-village-huts-on-stilts-beside-muddy-river-in-.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-    "createdAt": "2025-07-27T08:04:12.981Z",
-    "updatedAt": "2025-07-27T08:06:05.359Z",
-    "__v": 0
-  }
-] stories ManageStories.jsx 34
-[02:06 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:06 PM 27-07-25] [
-  {
-    "_id": "6885dd7cc2b73ee98dc037dc",
-    "title": "Whispers of History in Mahasthangarh",
-    "description": "\n Walking through Mahasthangarh was like turning the pages of a forgotten chapter in Bengal’s history. The ruins spoke of empires, kings, and time. It made us wonder about the stories left behind in these stone walls.",
-    "images": [
-      "https://images.deepai.org/art-image/18013ccde158403e97b2804d68101e57/traditional-launch-boat-in-sundarbans-mangrove-river-.jpg",
-      "https://images.deepai.org/art-image/0271952765ce412b878981dbdb957347/royal-bengal-tiger-mid-step-among-trees-in-sundarbans.jpg",
-      "https://images.deepai.org/art-image/edb1fdbc627d46b692194673642c8cd8/fishing-village-huts-on-stilts-beside-muddy-river-in-.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-    "createdAt": "2025-07-27T08:04:12.981Z",
-    "updatedAt": "2025-07-27T08:06:05.359Z",
-    "__v": 0
-  }
-] stories ManageStories.jsx 34
-[02:06 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:06 PM 27-07-25] [] stories ManageStories.jsx 34
-[02:06 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:06 PM 27-07-25] [] stories ManageStories.jsx 34
-[02:10 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:10 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:10 PM 27-07-25] [] stories ManageStories.jsx 34
-[02:10 PM 27-07-25] [] stories ManageStories.jsx 34
-[02:10 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:10 PM 27-07-25] [
-  {
-    "_id": "6885dee0af7ad818b7e5d27d",
-    "title": "Whispers of History in Mahasthangarh",
-    "description": "Walking through Mahasthangarh was like turning the pages of a forgotten chapter in Bengal’s history. The ruins spoke of empires, kings, and time. It made us wonder about the stories left behind in these stone walls.",
-    "images": [
-      "https://images.deepai.org/art-image/18013ccde158403e97b2804d68101e57/traditional-launch-boat-in-sundarbans-mangrove-river-.jpg",
-      "https://images.deepai.org/art-image/0271952765ce412b878981dbdb957347/royal-bengal-tiger-mid-step-among-trees-in-sundarbans.jpg",
-      "https://images.deepai.org/art-image/edb1fdbc627d46b692194673642c8cd8/fishing-village-huts-on-stilts-beside-muddy-river-in-.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  }
-] stories ManageStories.jsx 34
-[02:10 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:10 PM 27-07-25] [
-  {
-    "_id": "6885dee0af7ad818b7e5d27d",
-    "title": "Whispers of History in Mahasthangarh",
-    "description": "Walking through Mahasthangarh was like turning the pages of a forgotten chapter in Bengal’s history. The ruins spoke of empires, kings, and time. It made us wonder about the stories left behind in these stone walls.",
-    "images": [
-      "https://images.deepai.org/art-image/18013ccde158403e97b2804d68101e57/traditional-launch-boat-in-sundarbans-mangrove-river-.jpg",
-      "https://images.deepai.org/art-image/0271952765ce412b878981dbdb957347/royal-bengal-tiger-mid-step-among-trees-in-sundarbans.jpg",
-      "https://images.deepai.org/art-image/edb1fdbc627d46b692194673642c8cd8/fishing-village-huts-on-stilts-beside-muddy-river-in-.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  }
-] stories ManageStories.jsx 34
-[02:10 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:10 PM 27-07-25] [] stories ManageStories.jsx 34
-[02:10 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:10 PM 27-07-25] [] stories ManageStories.jsx 34
-[02:11 PM 27-07-25] []  random data RandomGuides.jsx 13
-[02:11 PM 27-07-25] []  random data RandomGuides.jsx 13
-[02:11 PM 27-07-25] [
+    "_id": "6885af7938458644e7af0c66",
+    "status": "accepted",
+    "createdAt": "2025-07-27T04:47:53.437Z",
+    "user": {
+      "_id": "6885aeac38458644e7af0c45",
+      "name": "Abdullah Fahad",
+      "email": "abdullahfahad@gmail.com"
+    }
+  },
   {
     "_id": "68852bc3c78ef640a3f9394c",
     "status": "accepted",
@@ -1165,6 +304,22 @@
     }
   },
   {
+    "_id": "68852b14c78ef640a3f93929",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:23:00.489Z",
+    "user": {
+      "_id": "68852ad7c78ef640a3f9391d",
+      "name": "Education Education",
+      "email": "eeducation954@gmail.com"
+    }
+  }
+]  random data RandomGuides.jsx 13
+[02:20 PM 27-07-25] 68858db7948da1038545d5ae bookingId BookingDetails.jsx 14
+[02:20 PM 27-07-25] 68858db7948da1038545d5ae bookingId BookingDetails.jsx 14
+[02:20 PM 27-07-25] []  random data RandomGuides.jsx 13
+[02:20 PM 27-07-25] []  random data RandomGuides.jsx 13
+[02:20 PM 27-07-25] [
+  {
     "_id": "6885af7938458644e7af0c66",
     "status": "accepted",
     "createdAt": "2025-07-27T04:47:53.437Z",
@@ -1172,6 +327,26 @@
       "_id": "6885aeac38458644e7af0c45",
       "name": "Abdullah Fahad",
       "email": "abdullahfahad@gmail.com"
+    }
+  },
+  {
+    "_id": "68852b14c78ef640a3f93929",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:23:00.489Z",
+    "user": {
+      "_id": "68852ad7c78ef640a3f9391d",
+      "name": "Education Education",
+      "email": "eeducation954@gmail.com"
+    }
+  },
+  {
+    "_id": "68852bc3c78ef640a3f9394c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:25:55.283Z",
+    "user": {
+      "_id": "68852b90c78ef640a3f93940",
+      "name": "গণিত ভালোবাসি",
+      "email": "gonitvalobasi@gmail.com"
     }
   },
   {
@@ -1193,6 +368,18 @@
       "name": "Learning English",
       "email": "mdshahjalal512@gmail.com"
     }
+  }
+]  random data RandomGuides.jsx 13
+[02:20 PM 27-07-25] [
+  {
+    "_id": "6885af7938458644e7af0c66",
+    "status": "accepted",
+    "createdAt": "2025-07-27T04:47:53.437Z",
+    "user": {
+      "_id": "6885aeac38458644e7af0c45",
+      "name": "Abdullah Fahad",
+      "email": "abdullahfahad@gmail.com"
+    }
   },
   {
     "_id": "68852b14c78ef640a3f93929",
@@ -1203,9 +390,7 @@
       "name": "Education Education",
       "email": "eeducation954@gmail.com"
     }
-  }
-]  random data RandomGuides.jsx 13
-[02:11 PM 27-07-25] [
+  },
   {
     "_id": "68852bc3c78ef640a3f9394c",
     "status": "accepted",
@@ -1214,16 +399,6 @@
       "_id": "68852b90c78ef640a3f93940",
       "name": "গণিত ভালোবাসি",
       "email": "gonitvalobasi@gmail.com"
-    }
-  },
-  {
-    "_id": "6885af7938458644e7af0c66",
-    "status": "accepted",
-    "createdAt": "2025-07-27T04:47:53.437Z",
-    "user": {
-      "_id": "6885aeac38458644e7af0c45",
-      "name": "Abdullah Fahad",
-      "email": "abdullahfahad@gmail.com"
     }
   },
   {
@@ -1245,6 +420,189 @@
       "name": "Learning English",
       "email": "mdshahjalal512@gmail.com"
     }
+  }
+]  random data RandomGuides.jsx 13
+[02:21 PM 27-07-25] {
+  "user": {
+    "uid": "18OCtBTlwFVMxyeCVsarOy0kzsM2",
+    "email": "tourguide@example.com",
+    "emailVerified": false,
+    "isAnonymous": false,
+    "providerData": [
+      {
+        "providerId": "password",
+        "uid": "tourguide@example.com",
+        "displayName": null,
+        "email": "tourguide@example.com",
+        "phoneNumber": null,
+        "photoURL": null
+      }
+    ],
+    "stsTokenManager": {
+      "refreshToken": "AMf-vBwWq1M6Um3BRg8BwaWNE13BmABLG9xk2Tx2GapErRa1-Jv-yswPYgOurGbPozVeC1GA2CZ8pId9WRKZDpnPX8r8YA3LhNKlPr1xa2bEbuxLrdzG1wsHI-HuYqddsWjAPj59I58fuVBNzY_dQ9xSG0ZACzc0VDc2iqi0QBRLCVoK9RoQTWB8IimPJoGYQ12kfq7Zh2C-",
+      "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjZkZTQwZjA0ODgxYzZhMDE2MTFlYjI4NGE0Yzk1YTI1MWU5MTEyNTAiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vZGVzaGd1aWRlIiwiYXVkIjoiZGVzaGd1aWRlIiwiYXV0aF90aW1lIjoxNzUzNjA0NDg5LCJ1c2VyX2lkIjoiMThPQ3RCVGx3RlZNeHllQ1ZzYXJPeTBrenNNMiIsInN1YiI6IjE4T0N0QlRsd0ZWTXh5ZUNWc2FyT3kwa3pzTTIiLCJpYXQiOjE3NTM2MDQ0ODksImV4cCI6MTc1MzYwODA4OSwiZW1haWwiOiJ0b3VyZ3VpZGVAZXhhbXBsZS5jb20iLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZW1haWwiOlsidG91cmd1aWRlQGV4YW1wbGUuY29tIl19LCJzaWduX2luX3Byb3ZpZGVyIjoicGFzc3dvcmQifX0.KEe5U9l3OO-E84AJjkSAUml4bUk96TT7vO15TleeQwiglC8hKpuByRyL-JJ9WNMZ_lSJT6tNfkzhzr7EdM9HBhgxQqtanVw-88d4MTxgUZy1f7x4wTrGkUH9pLhPwvquNDtvBKkYA8b0Is5u3ajMMNrTzWyHbridbcPxJojJ6hxGYKWhSbiXbUyzlsqbr1TV4_S5prPlK_mcbNWdJD5DgNBof4uY1s1a_AwXZOXRtgxl_5ZN_YMGru8xlFIdJu5xTOmidUJvrTYUPqCHjJwh8IAYl5L9tvt599mDhyEENFlcTuKYZQKKDBxvfSidJ8NE65N0cMT5lVL9NpTorJmUNw",
+      "expirationTime": 1753608089220
+    },
+    "createdAt": "1753604488803",
+    "lastLoginAt": "1753604488803",
+    "apiKey": "AIzaSyB-ldVpHa1554RClJBfUCKC3K7hXMEZ9e8",
+    "appName": "[DEFAULT]"
+  },
+  "providerId": null,
+  "_tokenResponse": {
+    "kind": "identitytoolkit#SignupNewUserResponse",
+    "idToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjZkZTQwZjA0ODgxYzZhMDE2MTFlYjI4NGE0Yzk1YTI1MWU5MTEyNTAiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vZGVzaGd1aWRlIiwiYXVkIjoiZGVzaGd1aWRlIiwiYXV0aF90aW1lIjoxNzUzNjA0NDg5LCJ1c2VyX2lkIjoiMThPQ3RCVGx3RlZNeHllQ1ZzYXJPeTBrenNNMiIsInN1YiI6IjE4T0N0QlRsd0ZWTXh5ZUNWc2FyT3kwa3pzTTIiLCJpYXQiOjE3NTM2MDQ0ODksImV4cCI6MTc1MzYwODA4OSwiZW1haWwiOiJ0b3VyZ3VpZGVAZXhhbXBsZS5jb20iLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZW1haWwiOlsidG91cmd1aWRlQGV4YW1wbGUuY29tIl19LCJzaWduX2luX3Byb3ZpZGVyIjoicGFzc3dvcmQifX0.KEe5U9l3OO-E84AJjkSAUml4bUk96TT7vO15TleeQwiglC8hKpuByRyL-JJ9WNMZ_lSJT6tNfkzhzr7EdM9HBhgxQqtanVw-88d4MTxgUZy1f7x4wTrGkUH9pLhPwvquNDtvBKkYA8b0Is5u3ajMMNrTzWyHbridbcPxJojJ6hxGYKWhSbiXbUyzlsqbr1TV4_S5prPlK_mcbNWdJD5DgNBof4uY1s1a_AwXZOXRtgxl_5ZN_YMGru8xlFIdJu5xTOmidUJvrTYUPqCHjJwh8IAYl5L9tvt599mDhyEENFlcTuKYZQKKDBxvfSidJ8NE65N0cMT5lVL9NpTorJmUNw",
+    "email": "tourguide@example.com",
+    "refreshToken": "AMf-vBwWq1M6Um3BRg8BwaWNE13BmABLG9xk2Tx2GapErRa1-Jv-yswPYgOurGbPozVeC1GA2CZ8pId9WRKZDpnPX8r8YA3LhNKlPr1xa2bEbuxLrdzG1wsHI-HuYqddsWjAPj59I58fuVBNzY_dQ9xSG0ZACzc0VDc2iqi0QBRLCVoK9RoQTWB8IimPJoGYQ12kfq7Zh2C-",
+    "expiresIn": "3600",
+    "localId": "18OCtBTlwFVMxyeCVsarOy0kzsM2"
+  },
+  "operationType": "signIn"
+} SignUpForm.jsx 35
+[02:21 PM 27-07-25] [
+  {
+    "_id": "6885af7938458644e7af0c66",
+    "status": "accepted",
+    "createdAt": "2025-07-27T04:47:53.437Z",
+    "user": {
+      "_id": "6885aeac38458644e7af0c45",
+      "name": "Abdullah Fahad",
+      "email": "abdullahfahad@gmail.com"
+    }
+  },
+  {
+    "_id": "68852b14c78ef640a3f93929",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:23:00.489Z",
+    "user": {
+      "_id": "68852ad7c78ef640a3f9391d",
+      "name": "Education Education",
+      "email": "eeducation954@gmail.com"
+    }
+  },
+  {
+    "_id": "68852bc3c78ef640a3f9394c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:25:55.283Z",
+    "user": {
+      "_id": "68852b90c78ef640a3f93940",
+      "name": "গণিত ভালোবাসি",
+      "email": "gonitvalobasi@gmail.com"
+    }
+  },
+  {
+    "_id": "68851f1a48e669e21a93e85b",
+    "status": "accepted",
+    "createdAt": "2025-07-26T18:31:54.566Z",
+    "user": {
+      "_id": "68851af3606080f1804fcc36",
+      "name": "Md. Shahjalal",
+      "email": "dev.shahjalal@gmail.com"
+    }
+  },
+  {
+    "_id": "688527d2c78ef640a3f9389c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:09:06.889Z",
+    "user": {
+      "_id": "68852645c78ef640a3f93875",
+      "name": "Learning English",
+      "email": "mdshahjalal512@gmail.com"
+    }
+  }
+]  random data RandomGuides.jsx 13
+[02:21 PM 27-07-25] [
+  {
+    "_id": "6885af7938458644e7af0c66",
+    "status": "accepted",
+    "createdAt": "2025-07-27T04:47:53.437Z",
+    "user": {
+      "_id": "6885aeac38458644e7af0c45",
+      "name": "Abdullah Fahad",
+      "email": "abdullahfahad@gmail.com"
+    }
+  },
+  {
+    "_id": "68852b14c78ef640a3f93929",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:23:00.489Z",
+    "user": {
+      "_id": "68852ad7c78ef640a3f9391d",
+      "name": "Education Education",
+      "email": "eeducation954@gmail.com"
+    }
+  },
+  {
+    "_id": "68852bc3c78ef640a3f9394c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:25:55.283Z",
+    "user": {
+      "_id": "68852b90c78ef640a3f93940",
+      "name": "গণিত ভালোবাসি",
+      "email": "gonitvalobasi@gmail.com"
+    }
+  },
+  {
+    "_id": "68851f1a48e669e21a93e85b",
+    "status": "accepted",
+    "createdAt": "2025-07-26T18:31:54.566Z",
+    "user": {
+      "_id": "68851af3606080f1804fcc36",
+      "name": "Md. Shahjalal",
+      "email": "dev.shahjalal@gmail.com"
+    }
+  },
+  {
+    "_id": "688527d2c78ef640a3f9389c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:09:06.889Z",
+    "user": {
+      "_id": "68852645c78ef640a3f93875",
+      "name": "Learning English",
+      "email": "mdshahjalal512@gmail.com"
+    }
+  }
+]  random data RandomGuides.jsx 13
+[02:21 PM 27-07-25] [
+  {
+    "_id": "68851f1a48e669e21a93e85b",
+    "status": "accepted",
+    "createdAt": "2025-07-26T18:31:54.566Z",
+    "user": {
+      "_id": "68851af3606080f1804fcc36",
+      "name": "Md. Shahjalal",
+      "email": "dev.shahjalal@gmail.com"
+    }
+  },
+  {
+    "_id": "68852bc3c78ef640a3f9394c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:25:55.283Z",
+    "user": {
+      "_id": "68852b90c78ef640a3f93940",
+      "name": "গণিত ভালোবাসি",
+      "email": "gonitvalobasi@gmail.com"
+    }
+  },
+  {
+    "_id": "688527d2c78ef640a3f9389c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:09:06.889Z",
+    "user": {
+      "_id": "68852645c78ef640a3f93875",
+      "name": "Learning English",
+      "email": "mdshahjalal512@gmail.com"
+    }
+  },
+  {
+    "_id": "6885af7938458644e7af0c66",
+    "status": "accepted",
+    "createdAt": "2025-07-27T04:47:53.437Z",
+    "user": {
+      "_id": "6885aeac38458644e7af0c45",
+      "name": "Abdullah Fahad",
+      "email": "abdullahfahad@gmail.com"
+    }
   },
   {
     "_id": "68852b14c78ef640a3f93929",
@@ -1257,1019 +615,59 @@
     }
   }
 ]  random data RandomGuides.jsx 13
-[02:11 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:11 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:11 PM 27-07-25] [] stories ManageStories.jsx 34
-[02:11 PM 27-07-25] [] stories ManageStories.jsx 34
-[02:11 PM 27-07-25] null userdata ManageStories.jsx 33
-[02:11 PM 27-07-25] [] stories ManageStories.jsx 34
-[02:11 PM 27-07-25] null userdata ManageStories.jsx 33
-[02:11 PM 27-07-25] [] stories ManageStories.jsx 34
-[02:11 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:11 PM 27-07-25] [] stories ManageStories.jsx 34
-[02:11 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:11 PM 27-07-25] [] stories ManageStories.jsx 34
-[02:11 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:11 PM 27-07-25] [] stories ManageStories.jsx 34
-[02:11 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:11 PM 27-07-25] [] stories ManageStories.jsx 34
-[02:13 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:13 PM 27-07-25] [
+[02:21 PM 27-07-25] [
   {
-    "_id": "6885df9faf7ad818b7e5d287",
-    "title": "Whispers of History in Mahasthangarh",
-    "description": "Walking through Mahasthangarh was like turning the pages of a forgotten chapter in Bengal’s history. The ruins spoke of empires, kings, and time. It made us wonder about the stories left behind in these stone walls.",
-    "images": [
-      "https://images.deepai.org/art-image/18013ccde158403e97b2804d68101e57/traditional-launch-boat-in-sundarbans-mangrove-river-.jpg",
-      "https://images.deepai.org/art-image/0271952765ce412b878981dbdb957347/royal-bengal-tiger-mid-step-among-trees-in-sundarbans.jpg",
-      "https://images.deepai.org/art-image/edb1fdbc627d46b692194673642c8cd8/fishing-village-huts-on-stilts-beside-muddy-river-in-.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
+    "_id": "68851f1a48e669e21a93e85b",
+    "status": "accepted",
+    "createdAt": "2025-07-26T18:31:54.566Z",
+    "user": {
+      "_id": "68851af3606080f1804fcc36",
+      "name": "Md. Shahjalal",
+      "email": "dev.shahjalal@gmail.com"
+    }
   },
   {
-    "_id": "6885df9faf7ad818b7e5d288",
-    "title": "Tea Gardens and Tranquility in Srimangal",
-    "description": "We explored rolling hills of green in Srimangal, sipping 7-layer tea and riding bicycles through tea trails. The air smelled of leaves and rain. It was the kind of calm that recharges your soul quietly.",
-    "images": [
-      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
-      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
-      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
+    "_id": "68852bc3c78ef640a3f9394c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:25:55.283Z",
+    "user": {
+      "_id": "68852b90c78ef640a3f93940",
+      "name": "গণিত ভালোবাসি",
+      "email": "gonitvalobasi@gmail.com"
+    }
   },
   {
-    "_id": "6885df9faf7ad818b7e5d289",
-    "title": "Echoes of Royalty: Ahsan Manzil",
-    "description": "As a history enthusiast, visiting Ahsan Manzil was a dream come true. Every chandelier, hallway, and stairwell told tales of grandeur. The Pink Palace stands as a reminder of Dhaka’s regal past.",
-    "images": [
-      "https://images.deepai.org/art-image/83ea73b1eb8f4247bf48c7705aeb4887/hilltop-view-from-nilgiri-in-early-morning-fog-with-g.jpg",
-      "https://images.deepai.org/art-image/0a059bc079e049899859428e7be0688a/tourists-hiking-to-nafakhum-waterfall-through-forest-.jpg",
-      "https://images.deepai.org/art-image/d8364193a6364316965549baada5b85e/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
+    "_id": "688527d2c78ef640a3f9389c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:09:06.889Z",
+    "user": {
+      "_id": "68852645c78ef640a3f93875",
+      "name": "Learning English",
+      "email": "mdshahjalal512@gmail.com"
+    }
   },
   {
-    "_id": "6885df9faf7ad818b7e5d28a",
-    "title": "A Spiritual Pause at Lalbagh Fort",
-    "description": "We wandered through the courtyards of Lalbagh Fort during golden hour. The ancient walls and gardens offer a space for reflection amidst a chaotic city. Peaceful yet powerful.",
-    "images": [
-      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg",
-      "https://images.deepai.org/art-image/1d9c99fa1f3c43458eb037c1c62491f4/wooden-boat-floating-through-ratargul-swamp-forest-wi.jpg",
-      "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
+    "_id": "6885af7938458644e7af0c66",
+    "status": "accepted",
+    "createdAt": "2025-07-27T04:47:53.437Z",
+    "user": {
+      "_id": "6885aeac38458644e7af0c45",
+      "name": "Abdullah Fahad",
+      "email": "abdullahfahad@gmail.com"
+    }
+  },
+  {
+    "_id": "68852b14c78ef640a3f93929",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:23:00.489Z",
+    "user": {
+      "_id": "68852ad7c78ef640a3f9391d",
+      "name": "Education Education",
+      "email": "eeducation954@gmail.com"
+    }
   }
-] stories ManageStories.jsx 34
-[02:13 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:13 PM 27-07-25] [
-  {
-    "_id": "6885df9faf7ad818b7e5d287",
-    "title": "Whispers of History in Mahasthangarh",
-    "description": "Walking through Mahasthangarh was like turning the pages of a forgotten chapter in Bengal’s history. The ruins spoke of empires, kings, and time. It made us wonder about the stories left behind in these stone walls.",
-    "images": [
-      "https://images.deepai.org/art-image/18013ccde158403e97b2804d68101e57/traditional-launch-boat-in-sundarbans-mangrove-river-.jpg",
-      "https://images.deepai.org/art-image/0271952765ce412b878981dbdb957347/royal-bengal-tiger-mid-step-among-trees-in-sundarbans.jpg",
-      "https://images.deepai.org/art-image/edb1fdbc627d46b692194673642c8cd8/fishing-village-huts-on-stilts-beside-muddy-river-in-.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  },
-  {
-    "_id": "6885df9faf7ad818b7e5d288",
-    "title": "Tea Gardens and Tranquility in Srimangal",
-    "description": "We explored rolling hills of green in Srimangal, sipping 7-layer tea and riding bicycles through tea trails. The air smelled of leaves and rain. It was the kind of calm that recharges your soul quietly.",
-    "images": [
-      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
-      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
-      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  },
-  {
-    "_id": "6885df9faf7ad818b7e5d289",
-    "title": "Echoes of Royalty: Ahsan Manzil",
-    "description": "As a history enthusiast, visiting Ahsan Manzil was a dream come true. Every chandelier, hallway, and stairwell told tales of grandeur. The Pink Palace stands as a reminder of Dhaka’s regal past.",
-    "images": [
-      "https://images.deepai.org/art-image/83ea73b1eb8f4247bf48c7705aeb4887/hilltop-view-from-nilgiri-in-early-morning-fog-with-g.jpg",
-      "https://images.deepai.org/art-image/0a059bc079e049899859428e7be0688a/tourists-hiking-to-nafakhum-waterfall-through-forest-.jpg",
-      "https://images.deepai.org/art-image/d8364193a6364316965549baada5b85e/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  },
-  {
-    "_id": "6885df9faf7ad818b7e5d28a",
-    "title": "A Spiritual Pause at Lalbagh Fort",
-    "description": "We wandered through the courtyards of Lalbagh Fort during golden hour. The ancient walls and gardens offer a space for reflection amidst a chaotic city. Peaceful yet powerful.",
-    "images": [
-      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg",
-      "https://images.deepai.org/art-image/1d9c99fa1f3c43458eb037c1c62491f4/wooden-boat-floating-through-ratargul-swamp-forest-wi.jpg",
-      "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  }
-] stories ManageStories.jsx 34
-[02:13 PM 27-07-25] null userdata ManageStories.jsx 33
-[02:13 PM 27-07-25] [] stories ManageStories.jsx 34
-[02:13 PM 27-07-25] null userdata ManageStories.jsx 33
-[02:13 PM 27-07-25] [] stories ManageStories.jsx 34
-[02:13 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:13 PM 27-07-25] [] stories ManageStories.jsx 34
-[02:13 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:13 PM 27-07-25] [] stories ManageStories.jsx 34
-[02:13 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:13 PM 27-07-25] [
-  {
-    "_id": "6885df9faf7ad818b7e5d287",
-    "title": "Whispers of History in Mahasthangarh",
-    "description": "Walking through Mahasthangarh was like turning the pages of a forgotten chapter in Bengal’s history. The ruins spoke of empires, kings, and time. It made us wonder about the stories left behind in these stone walls.",
-    "images": [
-      "https://images.deepai.org/art-image/18013ccde158403e97b2804d68101e57/traditional-launch-boat-in-sundarbans-mangrove-river-.jpg",
-      "https://images.deepai.org/art-image/0271952765ce412b878981dbdb957347/royal-bengal-tiger-mid-step-among-trees-in-sundarbans.jpg",
-      "https://images.deepai.org/art-image/edb1fdbc627d46b692194673642c8cd8/fishing-village-huts-on-stilts-beside-muddy-river-in-.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  },
-  {
-    "_id": "6885df9faf7ad818b7e5d288",
-    "title": "Tea Gardens and Tranquility in Srimangal",
-    "description": "We explored rolling hills of green in Srimangal, sipping 7-layer tea and riding bicycles through tea trails. The air smelled of leaves and rain. It was the kind of calm that recharges your soul quietly.",
-    "images": [
-      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
-      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
-      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  },
-  {
-    "_id": "6885df9faf7ad818b7e5d289",
-    "title": "Echoes of Royalty: Ahsan Manzil",
-    "description": "As a history enthusiast, visiting Ahsan Manzil was a dream come true. Every chandelier, hallway, and stairwell told tales of grandeur. The Pink Palace stands as a reminder of Dhaka’s regal past.",
-    "images": [
-      "https://images.deepai.org/art-image/83ea73b1eb8f4247bf48c7705aeb4887/hilltop-view-from-nilgiri-in-early-morning-fog-with-g.jpg",
-      "https://images.deepai.org/art-image/0a059bc079e049899859428e7be0688a/tourists-hiking-to-nafakhum-waterfall-through-forest-.jpg",
-      "https://images.deepai.org/art-image/d8364193a6364316965549baada5b85e/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  },
-  {
-    "_id": "6885df9faf7ad818b7e5d28a",
-    "title": "A Spiritual Pause at Lalbagh Fort",
-    "description": "We wandered through the courtyards of Lalbagh Fort during golden hour. The ancient walls and gardens offer a space for reflection amidst a chaotic city. Peaceful yet powerful.",
-    "images": [
-      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg",
-      "https://images.deepai.org/art-image/1d9c99fa1f3c43458eb037c1c62491f4/wooden-boat-floating-through-ratargul-swamp-forest-wi.jpg",
-      "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  }
-] stories ManageStories.jsx 34
-[02:13 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:13 PM 27-07-25] [
-  {
-    "_id": "6885df9faf7ad818b7e5d287",
-    "title": "Whispers of History in Mahasthangarh",
-    "description": "Walking through Mahasthangarh was like turning the pages of a forgotten chapter in Bengal’s history. The ruins spoke of empires, kings, and time. It made us wonder about the stories left behind in these stone walls.",
-    "images": [
-      "https://images.deepai.org/art-image/18013ccde158403e97b2804d68101e57/traditional-launch-boat-in-sundarbans-mangrove-river-.jpg",
-      "https://images.deepai.org/art-image/0271952765ce412b878981dbdb957347/royal-bengal-tiger-mid-step-among-trees-in-sundarbans.jpg",
-      "https://images.deepai.org/art-image/edb1fdbc627d46b692194673642c8cd8/fishing-village-huts-on-stilts-beside-muddy-river-in-.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  },
-  {
-    "_id": "6885df9faf7ad818b7e5d288",
-    "title": "Tea Gardens and Tranquility in Srimangal",
-    "description": "We explored rolling hills of green in Srimangal, sipping 7-layer tea and riding bicycles through tea trails. The air smelled of leaves and rain. It was the kind of calm that recharges your soul quietly.",
-    "images": [
-      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
-      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
-      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  },
-  {
-    "_id": "6885df9faf7ad818b7e5d289",
-    "title": "Echoes of Royalty: Ahsan Manzil",
-    "description": "As a history enthusiast, visiting Ahsan Manzil was a dream come true. Every chandelier, hallway, and stairwell told tales of grandeur. The Pink Palace stands as a reminder of Dhaka’s regal past.",
-    "images": [
-      "https://images.deepai.org/art-image/83ea73b1eb8f4247bf48c7705aeb4887/hilltop-view-from-nilgiri-in-early-morning-fog-with-g.jpg",
-      "https://images.deepai.org/art-image/0a059bc079e049899859428e7be0688a/tourists-hiking-to-nafakhum-waterfall-through-forest-.jpg",
-      "https://images.deepai.org/art-image/d8364193a6364316965549baada5b85e/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  },
-  {
-    "_id": "6885df9faf7ad818b7e5d28a",
-    "title": "A Spiritual Pause at Lalbagh Fort",
-    "description": "We wandered through the courtyards of Lalbagh Fort during golden hour. The ancient walls and gardens offer a space for reflection amidst a chaotic city. Peaceful yet powerful.",
-    "images": [
-      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg",
-      "https://images.deepai.org/art-image/1d9c99fa1f3c43458eb037c1c62491f4/wooden-boat-floating-through-ratargul-swamp-forest-wi.jpg",
-      "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  }
-] stories ManageStories.jsx 34
-[02:13 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:13 PM 27-07-25] [
-  {
-    "_id": "6885df9faf7ad818b7e5d287",
-    "title": "Whispers of History in Mahasthangarh",
-    "description": "Walking through Mahasthangarh was like turning the pages of a forgotten chapter in Bengal’s history. The ruins spoke of empires, kings, and time. It made us wonder about the stories left behind in these stone walls.",
-    "images": [
-      "https://images.deepai.org/art-image/18013ccde158403e97b2804d68101e57/traditional-launch-boat-in-sundarbans-mangrove-river-.jpg",
-      "https://images.deepai.org/art-image/0271952765ce412b878981dbdb957347/royal-bengal-tiger-mid-step-among-trees-in-sundarbans.jpg",
-      "https://images.deepai.org/art-image/edb1fdbc627d46b692194673642c8cd8/fishing-village-huts-on-stilts-beside-muddy-river-in-.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  },
-  {
-    "_id": "6885df9faf7ad818b7e5d288",
-    "title": "Tea Gardens and Tranquility in Srimangal",
-    "description": "We explored rolling hills of green in Srimangal, sipping 7-layer tea and riding bicycles through tea trails. The air smelled of leaves and rain. It was the kind of calm that recharges your soul quietly.",
-    "images": [
-      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
-      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
-      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  },
-  {
-    "_id": "6885df9faf7ad818b7e5d289",
-    "title": "Echoes of Royalty: Ahsan Manzil",
-    "description": "As a history enthusiast, visiting Ahsan Manzil was a dream come true. Every chandelier, hallway, and stairwell told tales of grandeur. The Pink Palace stands as a reminder of Dhaka’s regal past.",
-    "images": [
-      "https://images.deepai.org/art-image/83ea73b1eb8f4247bf48c7705aeb4887/hilltop-view-from-nilgiri-in-early-morning-fog-with-g.jpg",
-      "https://images.deepai.org/art-image/0a059bc079e049899859428e7be0688a/tourists-hiking-to-nafakhum-waterfall-through-forest-.jpg",
-      "https://images.deepai.org/art-image/d8364193a6364316965549baada5b85e/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  },
-  {
-    "_id": "6885df9faf7ad818b7e5d28a",
-    "title": "A Spiritual Pause at Lalbagh Fort",
-    "description": "We wandered through the courtyards of Lalbagh Fort during golden hour. The ancient walls and gardens offer a space for reflection amidst a chaotic city. Peaceful yet powerful.",
-    "images": [
-      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg",
-      "https://images.deepai.org/art-image/1d9c99fa1f3c43458eb037c1c62491f4/wooden-boat-floating-through-ratargul-swamp-forest-wi.jpg",
-      "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  }
-] stories ManageStories.jsx 34
-[02:13 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:13 PM 27-07-25] [
-  {
-    "_id": "6885df9faf7ad818b7e5d287",
-    "title": "Whispers of History in Mahasthangarh",
-    "description": "Walking through Mahasthangarh was like turning the pages of a forgotten chapter in Bengal’s history. The ruins spoke of empires, kings, and time. It made us wonder about the stories left behind in these stone walls.",
-    "images": [
-      "https://images.deepai.org/art-image/18013ccde158403e97b2804d68101e57/traditional-launch-boat-in-sundarbans-mangrove-river-.jpg",
-      "https://images.deepai.org/art-image/0271952765ce412b878981dbdb957347/royal-bengal-tiger-mid-step-among-trees-in-sundarbans.jpg",
-      "https://images.deepai.org/art-image/edb1fdbc627d46b692194673642c8cd8/fishing-village-huts-on-stilts-beside-muddy-river-in-.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  },
-  {
-    "_id": "6885df9faf7ad818b7e5d288",
-    "title": "Tea Gardens and Tranquility in Srimangal",
-    "description": "We explored rolling hills of green in Srimangal, sipping 7-layer tea and riding bicycles through tea trails. The air smelled of leaves and rain. It was the kind of calm that recharges your soul quietly.",
-    "images": [
-      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
-      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
-      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  },
-  {
-    "_id": "6885df9faf7ad818b7e5d289",
-    "title": "Echoes of Royalty: Ahsan Manzil",
-    "description": "As a history enthusiast, visiting Ahsan Manzil was a dream come true. Every chandelier, hallway, and stairwell told tales of grandeur. The Pink Palace stands as a reminder of Dhaka’s regal past.",
-    "images": [
-      "https://images.deepai.org/art-image/83ea73b1eb8f4247bf48c7705aeb4887/hilltop-view-from-nilgiri-in-early-morning-fog-with-g.jpg",
-      "https://images.deepai.org/art-image/0a059bc079e049899859428e7be0688a/tourists-hiking-to-nafakhum-waterfall-through-forest-.jpg",
-      "https://images.deepai.org/art-image/d8364193a6364316965549baada5b85e/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  },
-  {
-    "_id": "6885df9faf7ad818b7e5d28a",
-    "title": "A Spiritual Pause at Lalbagh Fort",
-    "description": "We wandered through the courtyards of Lalbagh Fort during golden hour. The ancient walls and gardens offer a space for reflection amidst a chaotic city. Peaceful yet powerful.",
-    "images": [
-      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg",
-      "https://images.deepai.org/art-image/1d9c99fa1f3c43458eb037c1c62491f4/wooden-boat-floating-through-ratargul-swamp-forest-wi.jpg",
-      "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  }
-] stories ManageStories.jsx 34
-[02:14 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:14 PM 27-07-25] [
-  {
-    "_id": "6885df9faf7ad818b7e5d287",
-    "title": "Whispers of History in Mahasthangarh",
-    "description": "Walking through Mahasthangarh was like turning the pages of a forgotten chapter in Bengal’s history. The ruins spoke of empires, kings, and time. It made us wonder about the stories left behind in these stone walls.",
-    "images": [
-      "https://images.deepai.org/art-image/18013ccde158403e97b2804d68101e57/traditional-launch-boat-in-sundarbans-mangrove-river-.jpg",
-      "https://images.deepai.org/art-image/0271952765ce412b878981dbdb957347/royal-bengal-tiger-mid-step-among-trees-in-sundarbans.jpg",
-      "https://images.deepai.org/art-image/edb1fdbc627d46b692194673642c8cd8/fishing-village-huts-on-stilts-beside-muddy-river-in-.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  },
-  {
-    "_id": "6885df9faf7ad818b7e5d288",
-    "title": "Tea Gardens and Tranquility in Srimangal",
-    "description": "We explored rolling hills of green in Srimangal, sipping 7-layer tea and riding bicycles through tea trails. The air smelled of leaves and rain. It was the kind of calm that recharges your soul quietly.",
-    "images": [
-      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
-      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
-      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  },
-  {
-    "_id": "6885df9faf7ad818b7e5d289",
-    "title": "Echoes of Royalty: Ahsan Manzil",
-    "description": "As a history enthusiast, visiting Ahsan Manzil was a dream come true. Every chandelier, hallway, and stairwell told tales of grandeur. The Pink Palace stands as a reminder of Dhaka’s regal past.",
-    "images": [
-      "https://images.deepai.org/art-image/83ea73b1eb8f4247bf48c7705aeb4887/hilltop-view-from-nilgiri-in-early-morning-fog-with-g.jpg",
-      "https://images.deepai.org/art-image/0a059bc079e049899859428e7be0688a/tourists-hiking-to-nafakhum-waterfall-through-forest-.jpg",
-      "https://images.deepai.org/art-image/d8364193a6364316965549baada5b85e/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  },
-  {
-    "_id": "6885df9faf7ad818b7e5d28a",
-    "title": "A Spiritual Pause at Lalbagh Fort",
-    "description": "We wandered through the courtyards of Lalbagh Fort during golden hour. The ancient walls and gardens offer a space for reflection amidst a chaotic city. Peaceful yet powerful.",
-    "images": [
-      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg",
-      "https://images.deepai.org/art-image/1d9c99fa1f3c43458eb037c1c62491f4/wooden-boat-floating-through-ratargul-swamp-forest-wi.jpg",
-      "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  }
-] stories ManageStories.jsx 34
-[02:14 PM 27-07-25] [
-  {
-    "_id": "6885df9faf7ad818b7e5d287",
-    "title": "Whispers of History in Mahasthangarh",
-    "description": "Walking through Mahasthangarh was like turning the pages of a forgotten chapter in Bengal’s history. The ruins spoke of empires, kings, and time. It made us wonder about the stories left behind in these stone walls.",
-    "images": [
-      "https://images.deepai.org/art-image/18013ccde158403e97b2804d68101e57/traditional-launch-boat-in-sundarbans-mangrove-river-.jpg",
-      "https://images.deepai.org/art-image/0271952765ce412b878981dbdb957347/royal-bengal-tiger-mid-step-among-trees-in-sundarbans.jpg",
-      "https://images.deepai.org/art-image/edb1fdbc627d46b692194673642c8cd8/fishing-village-huts-on-stilts-beside-muddy-river-in-.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  },
-  {
-    "_id": "6885df9faf7ad818b7e5d288",
-    "title": "Tea Gardens and Tranquility in Srimangal",
-    "description": "We explored rolling hills of green in Srimangal, sipping 7-layer tea and riding bicycles through tea trails. The air smelled of leaves and rain. It was the kind of calm that recharges your soul quietly.",
-    "images": [
-      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
-      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
-      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  },
-  {
-    "_id": "6885df9faf7ad818b7e5d289",
-    "title": "Echoes of Royalty: Ahsan Manzil",
-    "description": "As a history enthusiast, visiting Ahsan Manzil was a dream come true. Every chandelier, hallway, and stairwell told tales of grandeur. The Pink Palace stands as a reminder of Dhaka’s regal past.",
-    "images": [
-      "https://images.deepai.org/art-image/83ea73b1eb8f4247bf48c7705aeb4887/hilltop-view-from-nilgiri-in-early-morning-fog-with-g.jpg",
-      "https://images.deepai.org/art-image/0a059bc079e049899859428e7be0688a/tourists-hiking-to-nafakhum-waterfall-through-forest-.jpg",
-      "https://images.deepai.org/art-image/d8364193a6364316965549baada5b85e/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  },
-  {
-    "_id": "6885df9faf7ad818b7e5d28a",
-    "title": "A Spiritual Pause at Lalbagh Fort",
-    "description": "We wandered through the courtyards of Lalbagh Fort during golden hour. The ancient walls and gardens offer a space for reflection amidst a chaotic city. Peaceful yet powerful.",
-    "images": [
-      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg",
-      "https://images.deepai.org/art-image/1d9c99fa1f3c43458eb037c1c62491f4/wooden-boat-floating-through-ratargul-swamp-forest-wi.jpg",
-      "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  }
-] stories ManageStories.jsx 34
-[02:14 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:14 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:14 PM 27-07-25] [
-  {
-    "_id": "6885df9faf7ad818b7e5d287",
-    "title": "Whispers of History in Mahasthangarh updated",
-    "description": "moha updated Walking through Mahasthangarh was like turning the pages of a forgotten chapter in Bengal’s history. The ruins spoke of empires, kings, and time. It made us wonder about the stories  left behind in these stone walls.",
-    "images": [
-      "https://images.deepai.org/art-image/18013ccde158403e97b2804d68101e57/traditional-launch-boat-in-sundarbans-mangrove-river-.jpg",
-      "https://images.deepai.org/art-image/0271952765ce412b878981dbdb957347/royal-bengal-tiger-mid-step-among-trees-in-sundarbans.jpg",
-      "https://images.deepai.org/art-image/edb1fdbc627d46b692194673642c8cd8/fishing-village-huts-on-stilts-beside-muddy-river-in-.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c",
-    "updatedAt": "2025-07-27T08:14:01.558Z"
-  },
-  {
-    "_id": "6885df9faf7ad818b7e5d288",
-    "title": "Tea Gardens and Tranquility in Srimangal",
-    "description": "We explored rolling hills of green in Srimangal, sipping 7-layer tea and riding bicycles through tea trails. The air smelled of leaves and rain. It was the kind of calm that recharges your soul quietly.",
-    "images": [
-      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
-      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
-      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  },
-  {
-    "_id": "6885df9faf7ad818b7e5d289",
-    "title": "Echoes of Royalty: Ahsan Manzil",
-    "description": "As a history enthusiast, visiting Ahsan Manzil was a dream come true. Every chandelier, hallway, and stairwell told tales of grandeur. The Pink Palace stands as a reminder of Dhaka’s regal past.",
-    "images": [
-      "https://images.deepai.org/art-image/83ea73b1eb8f4247bf48c7705aeb4887/hilltop-view-from-nilgiri-in-early-morning-fog-with-g.jpg",
-      "https://images.deepai.org/art-image/0a059bc079e049899859428e7be0688a/tourists-hiking-to-nafakhum-waterfall-through-forest-.jpg",
-      "https://images.deepai.org/art-image/d8364193a6364316965549baada5b85e/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  },
-  {
-    "_id": "6885df9faf7ad818b7e5d28a",
-    "title": "A Spiritual Pause at Lalbagh Fort",
-    "description": "We wandered through the courtyards of Lalbagh Fort during golden hour. The ancient walls and gardens offer a space for reflection amidst a chaotic city. Peaceful yet powerful.",
-    "images": [
-      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg",
-      "https://images.deepai.org/art-image/1d9c99fa1f3c43458eb037c1c62491f4/wooden-boat-floating-through-ratargul-swamp-forest-wi.jpg",
-      "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  }
-] stories ManageStories.jsx 34
-[02:14 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:14 PM 27-07-25] [
-  {
-    "_id": "6885df9faf7ad818b7e5d287",
-    "title": "Whispers of History in Mahasthangarh updated",
-    "description": "moha updated Walking through Mahasthangarh was like turning the pages of a forgotten chapter in Bengal’s history. The ruins spoke of empires, kings, and time. It made us wonder about the stories  left behind in these stone walls.",
-    "images": [
-      "https://images.deepai.org/art-image/18013ccde158403e97b2804d68101e57/traditional-launch-boat-in-sundarbans-mangrove-river-.jpg",
-      "https://images.deepai.org/art-image/0271952765ce412b878981dbdb957347/royal-bengal-tiger-mid-step-among-trees-in-sundarbans.jpg",
-      "https://images.deepai.org/art-image/edb1fdbc627d46b692194673642c8cd8/fishing-village-huts-on-stilts-beside-muddy-river-in-.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c",
-    "updatedAt": "2025-07-27T08:14:01.558Z"
-  },
-  {
-    "_id": "6885df9faf7ad818b7e5d288",
-    "title": "Tea Gardens and Tranquility in Srimangal",
-    "description": "We explored rolling hills of green in Srimangal, sipping 7-layer tea and riding bicycles through tea trails. The air smelled of leaves and rain. It was the kind of calm that recharges your soul quietly.",
-    "images": [
-      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
-      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
-      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  },
-  {
-    "_id": "6885df9faf7ad818b7e5d289",
-    "title": "Echoes of Royalty: Ahsan Manzil",
-    "description": "As a history enthusiast, visiting Ahsan Manzil was a dream come true. Every chandelier, hallway, and stairwell told tales of grandeur. The Pink Palace stands as a reminder of Dhaka’s regal past.",
-    "images": [
-      "https://images.deepai.org/art-image/83ea73b1eb8f4247bf48c7705aeb4887/hilltop-view-from-nilgiri-in-early-morning-fog-with-g.jpg",
-      "https://images.deepai.org/art-image/0a059bc079e049899859428e7be0688a/tourists-hiking-to-nafakhum-waterfall-through-forest-.jpg",
-      "https://images.deepai.org/art-image/d8364193a6364316965549baada5b85e/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  },
-  {
-    "_id": "6885df9faf7ad818b7e5d28a",
-    "title": "A Spiritual Pause at Lalbagh Fort",
-    "description": "We wandered through the courtyards of Lalbagh Fort during golden hour. The ancient walls and gardens offer a space for reflection amidst a chaotic city. Peaceful yet powerful.",
-    "images": [
-      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg",
-      "https://images.deepai.org/art-image/1d9c99fa1f3c43458eb037c1c62491f4/wooden-boat-floating-through-ratargul-swamp-forest-wi.jpg",
-      "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  }
-] stories ManageStories.jsx 34
-[02:14 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:14 PM 27-07-25] [
-  {
-    "_id": "6885df9faf7ad818b7e5d288",
-    "title": "Tea Gardens and Tranquility in Srimangal",
-    "description": "We explored rolling hills of green in Srimangal, sipping 7-layer tea and riding bicycles through tea trails. The air smelled of leaves and rain. It was the kind of calm that recharges your soul quietly.",
-    "images": [
-      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
-      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
-      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  },
-  {
-    "_id": "6885df9faf7ad818b7e5d289",
-    "title": "Echoes of Royalty: Ahsan Manzil",
-    "description": "As a history enthusiast, visiting Ahsan Manzil was a dream come true. Every chandelier, hallway, and stairwell told tales of grandeur. The Pink Palace stands as a reminder of Dhaka’s regal past.",
-    "images": [
-      "https://images.deepai.org/art-image/83ea73b1eb8f4247bf48c7705aeb4887/hilltop-view-from-nilgiri-in-early-morning-fog-with-g.jpg",
-      "https://images.deepai.org/art-image/0a059bc079e049899859428e7be0688a/tourists-hiking-to-nafakhum-waterfall-through-forest-.jpg",
-      "https://images.deepai.org/art-image/d8364193a6364316965549baada5b85e/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  },
-  {
-    "_id": "6885df9faf7ad818b7e5d28a",
-    "title": "A Spiritual Pause at Lalbagh Fort",
-    "description": "We wandered through the courtyards of Lalbagh Fort during golden hour. The ancient walls and gardens offer a space for reflection amidst a chaotic city. Peaceful yet powerful.",
-    "images": [
-      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg",
-      "https://images.deepai.org/art-image/1d9c99fa1f3c43458eb037c1c62491f4/wooden-boat-floating-through-ratargul-swamp-forest-wi.jpg",
-      "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  }
-] stories ManageStories.jsx 34
-[02:14 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:14 PM 27-07-25] [
-  {
-    "_id": "6885df9faf7ad818b7e5d288",
-    "title": "Tea Gardens and Tranquility in Srimangal",
-    "description": "We explored rolling hills of green in Srimangal, sipping 7-layer tea and riding bicycles through tea trails. The air smelled of leaves and rain. It was the kind of calm that recharges your soul quietly.",
-    "images": [
-      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
-      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
-      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  },
-  {
-    "_id": "6885df9faf7ad818b7e5d289",
-    "title": "Echoes of Royalty: Ahsan Manzil",
-    "description": "As a history enthusiast, visiting Ahsan Manzil was a dream come true. Every chandelier, hallway, and stairwell told tales of grandeur. The Pink Palace stands as a reminder of Dhaka’s regal past.",
-    "images": [
-      "https://images.deepai.org/art-image/83ea73b1eb8f4247bf48c7705aeb4887/hilltop-view-from-nilgiri-in-early-morning-fog-with-g.jpg",
-      "https://images.deepai.org/art-image/0a059bc079e049899859428e7be0688a/tourists-hiking-to-nafakhum-waterfall-through-forest-.jpg",
-      "https://images.deepai.org/art-image/d8364193a6364316965549baada5b85e/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  },
-  {
-    "_id": "6885df9faf7ad818b7e5d28a",
-    "title": "A Spiritual Pause at Lalbagh Fort",
-    "description": "We wandered through the courtyards of Lalbagh Fort during golden hour. The ancient walls and gardens offer a space for reflection amidst a chaotic city. Peaceful yet powerful.",
-    "images": [
-      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg",
-      "https://images.deepai.org/art-image/1d9c99fa1f3c43458eb037c1c62491f4/wooden-boat-floating-through-ratargul-swamp-forest-wi.jpg",
-      "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  }
-] stories ManageStories.jsx 34
-[02:14 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:14 PM 27-07-25] [
-  {
-    "_id": "6885df9faf7ad818b7e5d288",
-    "title": "Tea Gardens and Tranquility in Srimangal",
-    "description": "We explored rolling hills of green in Srimangal, sipping 7-layer tea and riding bicycles through tea trails. The air smelled of leaves and rain. It was the kind of calm that recharges your soul quietly.",
-    "images": [
-      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
-      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
-      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  },
-  {
-    "_id": "6885df9faf7ad818b7e5d28a",
-    "title": "A Spiritual Pause at Lalbagh Fort",
-    "description": "We wandered through the courtyards of Lalbagh Fort during golden hour. The ancient walls and gardens offer a space for reflection amidst a chaotic city. Peaceful yet powerful.",
-    "images": [
-      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg",
-      "https://images.deepai.org/art-image/1d9c99fa1f3c43458eb037c1c62491f4/wooden-boat-floating-through-ratargul-swamp-forest-wi.jpg",
-      "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  }
-] stories ManageStories.jsx 34
-[02:14 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:14 PM 27-07-25] [
-  {
-    "_id": "6885df9faf7ad818b7e5d288",
-    "title": "Tea Gardens and Tranquility in Srimangal",
-    "description": "We explored rolling hills of green in Srimangal, sipping 7-layer tea and riding bicycles through tea trails. The air smelled of leaves and rain. It was the kind of calm that recharges your soul quietly.",
-    "images": [
-      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
-      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
-      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  },
-  {
-    "_id": "6885df9faf7ad818b7e5d28a",
-    "title": "A Spiritual Pause at Lalbagh Fort",
-    "description": "We wandered through the courtyards of Lalbagh Fort during golden hour. The ancient walls and gardens offer a space for reflection amidst a chaotic city. Peaceful yet powerful.",
-    "images": [
-      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg",
-      "https://images.deepai.org/art-image/1d9c99fa1f3c43458eb037c1c62491f4/wooden-boat-floating-through-ratargul-swamp-forest-wi.jpg",
-      "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  }
-] stories ManageStories.jsx 34
-[02:14 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:14 PM 27-07-25] {
-  "_id": "68852ad7c78ef640a3f9391d",
-  "name": "Education Education",
-  "email": "eeducation954@gmail.com",
-  "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
-  "role": "tour-guide",
-  "last_loggedIn": "2025-07-27T07:43:13.551Z",
-  "createdAt": "2025-07-26T19:21:59.091Z",
-  "updatedAt": "2025-07-27T07:43:13.552Z",
-  "__v": 0
-} userdata ManageStories.jsx 33
-[02:14 PM 27-07-25] [
-  {
-    "_id": "6885df9faf7ad818b7e5d288",
-    "title": "Tea Gardens and Tranquility in Srimangal",
-    "description": "We explored rolling hills of green in Srimangal, sipping 7-layer tea and riding bicycles through tea trails. The air smelled of leaves and rain. It was the kind of calm that recharges your soul quietly.",
-    "images": [
-      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
-      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
-      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  },
-  {
-    "_id": "6885df9faf7ad818b7e5d28a",
-    "title": "A Spiritual Pause at Lalbagh Fort",
-    "description": "We wandered through the courtyards of Lalbagh Fort during golden hour. The ancient walls and gardens offer a space for reflection amidst a chaotic city. Peaceful yet powerful.",
-    "images": [
-      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg",
-      "https://images.deepai.org/art-image/1d9c99fa1f3c43458eb037c1c62491f4/wooden-boat-floating-through-ratargul-swamp-forest-wi.jpg",
-      "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  }
-] stories ManageStories.jsx 34
-[02:14 PM 27-07-25] [
-  {
-    "_id": "6885df9faf7ad818b7e5d288",
-    "title": "Tea Gardens and Tranquility in Srimangal",
-    "description": "We explored rolling hills of green in Srimangal, sipping 7-layer tea and riding bicycles through tea trails. The air smelled of leaves and rain. It was the kind of calm that recharges your soul quietly.",
-    "images": [
-      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
-      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
-      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  },
-  {
-    "_id": "6885df9faf7ad818b7e5d28a",
-    "title": "A Spiritual Pause at Lalbagh Fort",
-    "description": "We wandered through the courtyards of Lalbagh Fort during golden hour. The ancient walls and gardens offer a space for reflection amidst a chaotic city. Peaceful yet powerful.",
-    "images": [
-      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg",
-      "https://images.deepai.org/art-image/1d9c99fa1f3c43458eb037c1c62491f4/wooden-boat-floating-through-ratargul-swamp-forest-wi.jpg",
-      "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg"
-    ],
-    "userId": "68852ad7c78ef640a3f9391d",
-    "userName": "Education Education",
-    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIHcFxiMKjbiLLw0cXzz3YwmzykgLMPQg3D1-1rU3to=s96-c"
-  }
-] stories ManageStories.jsx 34
+]  random data RandomGuides.jsx 13
+[02:21 PM 27-07-25] userData?._id 6885e18be5bd6ac36ce24fa0
+[02:21 PM 27-07-25] userData?._id 6885e18be5bd6ac36ce24fa0
+[02:21 PM 27-07-25] userData?._id 6885e18be5bd6ac36ce24fa0
+[02:21 PM 27-07-25] userData?._id 6885e18be5bd6ac36ce24fa0
