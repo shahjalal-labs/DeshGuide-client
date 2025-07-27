@@ -4,7 +4,7 @@ const PackageCard = ({ pkg }) => {
   return (
     <div
       key={pkg._id}
-      className="card bg-gradient-to-br from-[#0f0c29] via-[#302b63] to-[#24243e] text-white border border-primary shadow-2xl transform transition-all duration-300 hover:scale-103 hover:shadow-[0_0_25px_rgba(59,130,246,0.5)] pulse-glow"
+      className="card bg-gradient-to-br from-[#0f0c29] via-[#302b63] to-[#24243e] text-white border border-primary shadow-2xl transform transition-all duration-300 hover:scale-101 hover:shadow-[0_0_25px_rgba(59,130,246,0.5)] pulse-glow"
       data-aos="fade-up-left"
     >
       <figure>
