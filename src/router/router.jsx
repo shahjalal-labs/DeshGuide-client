@@ -12,7 +12,7 @@ import dashbourdRoutes from "../modules/Dashbaord/dashbourdRoutes";
 import ProtectedRoute from "./ProtectedRoute";
 import Packages from "../modules/Packages/Packages/Packages";
 import Stories from "../modules/landing/home/Overview/Stories/Stories";
-import AboutUs from "../pages/AboutUs/AboutUs";
+import AboutUs from "../pages/AboutUs";
 
 const router = createBrowserRouter([
   {
