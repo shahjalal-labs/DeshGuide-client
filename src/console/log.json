@@ -2099,3 +2099,702 @@
 [08:34 AM 27-07-25] error null
 [08:34 AM 27-07-25] null data GuideProfile.jsx 15
 [08:34 AM 27-07-25] error null
+[08:38 AM 27-07-25] 68852b90c78ef640a3f93940 id GuideProfile.jsx 6
+[08:38 AM 27-07-25] 68852b90c78ef640a3f93940 id GuideProfile.jsx 6
+[08:38 AM 27-07-25] 68851af3606080f1804fcc36 id GuideProfile.jsx 6
+[08:44 AM 27-07-25] null data GuideProfile.jsx 15
+[08:44 AM 27-07-25] error null
+[08:44 AM 27-07-25] null data GuideProfile.jsx 15
+[08:44 AM 27-07-25] error null
+[08:44 AM 27-07-25] null data GuideProfile.jsx 15
+[08:44 AM 27-07-25] error null
+[08:44 AM 27-07-25] 68851af3606080f1804fcc36 id GuideProfile.jsx 6
+[08:44 AM 27-07-25] null data GuideProfile.jsx 15
+[08:44 AM 27-07-25] null data GuideProfile.jsx 15
+[08:44 AM 27-07-25] error null
+[08:44 AM 27-07-25] null data GuideProfile.jsx 15
+[08:44 AM 27-07-25] error null
+[08:44 AM 27-07-25] error null
+[08:44 AM 27-07-25] 68852b90c78ef640a3f93940 id GuideProfile.jsx 6
+[08:44 AM 27-07-25] null data GuideProfile.jsx 15
+[08:44 AM 27-07-25] error null
+[08:44 AM 27-07-25] null data GuideProfile.jsx 15
+[08:44 AM 27-07-25] error null
+[08:44 AM 27-07-25] 68851af3606080f1804fcc36 id GuideProfile.jsx 6
+[08:44 AM 27-07-25] 68851af3606080f1804fcc36 id GuideProfile.jsx 6
+[08:44 AM 27-07-25] 68851af3606080f1804fcc36 id GuideProfile.jsx 6
+[08:44 AM 27-07-25] 68851af3606080f1804fcc36 id GuideProfile.jsx 6
+[08:44 AM 27-07-25] 68851af3606080f1804fcc36 id GuideProfile.jsx 6
+[08:44 AM 27-07-25] 68851af3606080f1804fcc36 id GuideProfile.jsx 6
+[08:44 AM 27-07-25] null data GuideProfile.jsx 15
+[08:44 AM 27-07-25] error {
+  "message": "Request failed with status code 500",
+  "name": "AxiosError",
+  "stack": "settle@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:1229:12\nonloadend@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:1561:13\n",
+  "config": {
+    "transitional": {
+      "silentJSONParsing": true,
+      "forcedJSONParsing": true,
+      "clarifyTimeoutError": false
+    },
+    "adapter": [
+      "xhr",
+      "http",
+      "fetch"
+    ],
+    "transformRequest": [
+      null
+    ],
+    "transformResponse": [
+      null
+    ],
+    "timeout": 0,
+    "xsrfCookieName": "XSRF-TOKEN",
+    "xsrfHeaderName": "X-XSRF-TOKEN",
+    "maxContentLength": -1,
+    "maxBodyLength": -1,
+    "env": {},
+    "headers": {
+      "Accept": "application/json, text/plain, */*"
+    },
+    "baseURL": "http://localhost:5000/api/v1/",
+    "method": "get",
+    "url": "tour-guide-requests/user68851af3606080f1804fcc36",
+    "allowAbsoluteUrls": true
+  },
+  "code": "ERR_BAD_RESPONSE",
+  "status": 500
+}
+[08:44 AM 27-07-25] null data GuideProfile.jsx 15
+[08:44 AM 27-07-25] error {
+  "message": "Request failed with status code 500",
+  "name": "AxiosError",
+  "stack": "settle@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:1229:12\nonloadend@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:1561:13\n",
+  "config": {
+    "transitional": {
+      "silentJSONParsing": true,
+      "forcedJSONParsing": true,
+      "clarifyTimeoutError": false
+    },
+    "adapter": [
+      "xhr",
+      "http",
+      "fetch"
+    ],
+    "transformRequest": [
+      null
+    ],
+    "transformResponse": [
+      null
+    ],
+    "timeout": 0,
+    "xsrfCookieName": "XSRF-TOKEN",
+    "xsrfHeaderName": "X-XSRF-TOKEN",
+    "maxContentLength": -1,
+    "maxBodyLength": -1,
+    "env": {},
+    "headers": {
+      "Accept": "application/json, text/plain, */*"
+    },
+    "baseURL": "http://localhost:5000/api/v1/",
+    "method": "get",
+    "url": "tour-guide-requests/user68851af3606080f1804fcc36",
+    "allowAbsoluteUrls": true
+  },
+  "code": "ERR_BAD_RESPONSE",
+  "status": 500
+}
+[08:44 AM 27-07-25] 68851af3606080f1804fcc36 id GuideProfile.jsx 6
+[08:44 AM 27-07-25] 68851af3606080f1804fcc36 id GuideProfile.jsx 6
+[08:44 AM 27-07-25] 68851af3606080f1804fcc36 id GuideProfile.jsx 6
+[08:44 AM 27-07-25] 68851af3606080f1804fcc36 id GuideProfile.jsx 6
+[08:44 AM 27-07-25] null data GuideProfile.jsx 15
+[08:44 AM 27-07-25] error {
+  "message": "Request failed with status code 500",
+  "name": "AxiosError",
+  "stack": "settle@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:1229:12\nonloadend@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:1561:13\nEventHandlerNonNull*dispatchXhrRequest@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:1571:7\nxhr_default<@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:1528:10\ndispatchRequest@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:2003:10\n_request@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:2224:33\nrequest@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:2115:25\nforEachMethodNoData/Axios.prototype[method]@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:2243:17\nwrap@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:8:15\nfetchGuideDetails@http://localhost:5173/src/modules/Dashbaord/TourGuides/GuideProfile/GuideProfile.jsx?t=1753584245781:23:35\nqueryFn@http://localhost:5173/src/modules/Dashbaord/TourGuides/GuideProfile/GuideProfile.jsx?t=1753584245781:31:37\nfetchFn@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:881:14\nrun@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:513:49\ncreateRetryer/run/</<@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:538:11\npromise callback*createRetryer/run/<@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:534:10\npromise callback*run@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:517:51\ncreateRetryer/run/</<@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:538:11\npromise callback*createRetryer/run/<@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:534:10\npromise callback*run@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:517:51\ncreateRetryer/run/</<@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:538:11\npromise callback*createRetryer/run/<@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:534:10\npromise callback*run@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:517:51\nstart@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:555:9\nfetch@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:969:41\nexecuteFetch_fn@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:2278:51\nonSubscribe@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:1982:74\nsubscribe@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:24:10\nuseBaseQuery/<@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:3145:56\nsubscribeToStore@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:4638:16\nreact-stack-bottom-frame@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:17478:20\nrunWithFiberInDEV@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:1487:15\ncommitHookEffectListMount@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:8460:122\ncommitHookPassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:8518:60\ncommitPassiveMountOnFiber@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9887:29\nrecursivelyTraversePassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9868:38\ncommitPassiveMountOnFiber@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9984:51\nrecursivelyTraversePassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9868:38\ncommitPassiveMountOnFiber@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9881:51\nrecursivelyTraversePassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9868:38\ncommitPassiveMountOnFiber@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9984:51\nrecursivelyTraversePassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9868:38\ncommitPassiveMountOnFiber@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9881:51\nrecursivelyTraversePassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9868:38\ncommitPassiveMountOnFiber@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9984:51\nrecursivelyTraversePassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9868:38\ncommitPassiveMountOnFiber@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9984:51\nrecursivelyTraversePassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9868:38\ncommitPassiveMountOnFiber@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9881:51\nrecursivelyTraversePassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9868:38\ncommitPassiveMountOnFiber@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9984:51\nrecursivelyTraversePassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9868:38\n",
+  "config": {
+    "transitional": {
+      "silentJSONParsing": true,
+      "forcedJSONParsing": true,
+      "clarifyTimeoutError": false
+    },
+    "adapter": [
+      "xhr",
+      "http",
+      "fetch"
+    ],
+    "transformRequest": [
+      null
+    ],
+    "transformResponse": [
+      null
+    ],
+    "timeout": 0,
+    "xsrfCookieName": "XSRF-TOKEN",
+    "xsrfHeaderName": "X-XSRF-TOKEN",
+    "maxContentLength": -1,
+    "maxBodyLength": -1,
+    "env": {},
+    "headers": {
+      "Accept": "application/json, text/plain, */*"
+    },
+    "baseURL": "http://localhost:5000/api/v1/",
+    "method": "get",
+    "url": "tour-guide-requests/user68851af3606080f1804fcc36",
+    "allowAbsoluteUrls": true
+  },
+  "code": "ERR_BAD_RESPONSE",
+  "status": 500
+}
+[08:44 AM 27-07-25] null data GuideProfile.jsx 15
+[08:44 AM 27-07-25] error {
+  "message": "Request failed with status code 500",
+  "name": "AxiosError",
+  "stack": "settle@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:1229:12\nonloadend@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:1561:13\nEventHandlerNonNull*dispatchXhrRequest@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:1571:7\nxhr_default<@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:1528:10\ndispatchRequest@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:2003:10\n_request@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:2224:33\nrequest@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:2115:25\nforEachMethodNoData/Axios.prototype[method]@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:2243:17\nwrap@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:8:15\nfetchGuideDetails@http://localhost:5173/src/modules/Dashbaord/TourGuides/GuideProfile/GuideProfile.jsx?t=1753584245781:23:35\nqueryFn@http://localhost:5173/src/modules/Dashbaord/TourGuides/GuideProfile/GuideProfile.jsx?t=1753584245781:31:37\nfetchFn@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:881:14\nrun@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:513:49\ncreateRetryer/run/</<@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:538:11\npromise callback*createRetryer/run/<@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:534:10\npromise callback*run@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:517:51\ncreateRetryer/run/</<@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:538:11\npromise callback*createRetryer/run/<@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:534:10\npromise callback*run@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:517:51\ncreateRetryer/run/</<@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:538:11\npromise callback*createRetryer/run/<@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:534:10\npromise callback*run@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:517:51\nstart@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:555:9\nfetch@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:969:41\nexecuteFetch_fn@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:2278:51\nonSubscribe@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:1982:74\nsubscribe@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:24:10\nuseBaseQuery/<@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:3145:56\nsubscribeToStore@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:4638:16\nreact-stack-bottom-frame@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:17478:20\nrunWithFiberInDEV@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:1487:15\ncommitHookEffectListMount@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:8460:122\ncommitHookPassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:8518:60\ncommitPassiveMountOnFiber@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9887:29\nrecursivelyTraversePassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9868:38\ncommitPassiveMountOnFiber@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9984:51\nrecursivelyTraversePassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9868:38\ncommitPassiveMountOnFiber@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9881:51\nrecursivelyTraversePassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9868:38\ncommitPassiveMountOnFiber@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9984:51\nrecursivelyTraversePassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9868:38\ncommitPassiveMountOnFiber@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9881:51\nrecursivelyTraversePassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9868:38\ncommitPassiveMountOnFiber@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9984:51\nrecursivelyTraversePassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9868:38\ncommitPassiveMountOnFiber@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9984:51\nrecursivelyTraversePassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9868:38\ncommitPassiveMountOnFiber@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9881:51\nrecursivelyTraversePassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9868:38\ncommitPassiveMountOnFiber@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9984:51\nrecursivelyTraversePassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9868:38\n",
+  "config": {
+    "transitional": {
+      "silentJSONParsing": true,
+      "forcedJSONParsing": true,
+      "clarifyTimeoutError": false
+    },
+    "adapter": [
+      "xhr",
+      "http",
+      "fetch"
+    ],
+    "transformRequest": [
+      null
+    ],
+    "transformResponse": [
+      null
+    ],
+    "timeout": 0,
+    "xsrfCookieName": "XSRF-TOKEN",
+    "xsrfHeaderName": "X-XSRF-TOKEN",
+    "maxContentLength": -1,
+    "maxBodyLength": -1,
+    "env": {},
+    "headers": {
+      "Accept": "application/json, text/plain, */*"
+    },
+    "baseURL": "http://localhost:5000/api/v1/",
+    "method": "get",
+    "url": "tour-guide-requests/user68851af3606080f1804fcc36",
+    "allowAbsoluteUrls": true
+  },
+  "code": "ERR_BAD_RESPONSE",
+  "status": 500
+}
+[08:44 AM 27-07-25] null data GuideProfile.jsx 15
+[08:44 AM 27-07-25] 68851af3606080f1804fcc36 id GuideProfile.jsx 6
+[08:44 AM 27-07-25] error {
+  "message": "Request failed with status code 500",
+  "name": "AxiosError",
+  "stack": "settle@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:1229:12\nonloadend@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:1561:13\nEventHandlerNonNull*dispatchXhrRequest@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:1571:7\nxhr_default<@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:1528:10\ndispatchRequest@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:2003:10\n_request@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:2224:33\nrequest@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:2115:25\nforEachMethodNoData/Axios.prototype[method]@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:2243:17\nwrap@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:8:15\nfetchGuideDetails@http://localhost:5173/src/modules/Dashbaord/TourGuides/GuideProfile/GuideProfile.jsx?t=1753584245781:23:35\nqueryFn@http://localhost:5173/src/modules/Dashbaord/TourGuides/GuideProfile/GuideProfile.jsx?t=1753584245781:31:37\nfetchFn@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:881:14\nrun@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:513:49\ncreateRetryer/run/</<@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:538:11\npromise callback*createRetryer/run/<@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:534:10\npromise callback*run@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:517:51\ncreateRetryer/run/</<@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:538:11\npromise callback*createRetryer/run/<@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:534:10\npromise callback*run@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:517:51\ncreateRetryer/run/</<@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:538:11\npromise callback*createRetryer/run/<@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:534:10\npromise callback*run@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:517:51\nstart@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:555:9\nfetch@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:969:41\nexecuteFetch_fn@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:2278:51\nonSubscribe@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:1982:74\nsubscribe@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:24:10\nuseBaseQuery/<@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:3145:56\nsubscribeToStore@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:4638:16\nreact-stack-bottom-frame@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:17478:20\nrunWithFiberInDEV@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:1487:15\ncommitHookEffectListMount@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:8460:122\ncommitHookPassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:8518:60\ncommitPassiveMountOnFiber@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9887:29\nrecursivelyTraversePassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9868:38\ncommitPassiveMountOnFiber@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9984:51\nrecursivelyTraversePassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9868:38\ncommitPassiveMountOnFiber@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9881:51\nrecursivelyTraversePassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9868:38\ncommitPassiveMountOnFiber@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9984:51\nrecursivelyTraversePassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9868:38\ncommitPassiveMountOnFiber@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9881:51\nrecursivelyTraversePassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9868:38\ncommitPassiveMountOnFiber@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9984:51\nrecursivelyTraversePassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9868:38\ncommitPassiveMountOnFiber@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9984:51\nrecursivelyTraversePassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9868:38\ncommitPassiveMountOnFiber@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9881:51\nrecursivelyTraversePassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9868:38\ncommitPassiveMountOnFiber@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9984:51\nrecursivelyTraversePassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9868:38\n",
+  "config": {
+    "transitional": {
+      "silentJSONParsing": true,
+      "forcedJSONParsing": true,
+      "clarifyTimeoutError": false
+    },
+    "adapter": [
+      "xhr",
+      "http",
+      "fetch"
+    ],
+    "transformRequest": [
+      null
+    ],
+    "transformResponse": [
+      null
+    ],
+    "timeout": 0,
+    "xsrfCookieName": "XSRF-TOKEN",
+    "xsrfHeaderName": "X-XSRF-TOKEN",
+    "maxContentLength": -1,
+    "maxBodyLength": -1,
+    "env": {},
+    "headers": {
+      "Accept": "application/json, text/plain, */*"
+    },
+    "baseURL": "http://localhost:5000/api/v1/",
+    "method": "get",
+    "url": "tour-guide-requests/user68851af3606080f1804fcc36",
+    "allowAbsoluteUrls": true
+  },
+  "code": "ERR_BAD_RESPONSE",
+  "status": 500
+}
+[08:44 AM 27-07-25] null data GuideProfile.jsx 15
+[08:44 AM 27-07-25] error {
+  "message": "Request failed with status code 500",
+  "name": "AxiosError",
+  "stack": "settle@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:1229:12\nonloadend@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:1561:13\nEventHandlerNonNull*dispatchXhrRequest@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:1571:7\nxhr_default<@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:1528:10\ndispatchRequest@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:2003:10\n_request@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:2224:33\nrequest@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:2115:25\nforEachMethodNoData/Axios.prototype[method]@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:2243:17\nwrap@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:8:15\nfetchGuideDetails@http://localhost:5173/src/modules/Dashbaord/TourGuides/GuideProfile/GuideProfile.jsx?t=1753584245781:23:35\nqueryFn@http://localhost:5173/src/modules/Dashbaord/TourGuides/GuideProfile/GuideProfile.jsx?t=1753584245781:31:37\nfetchFn@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:881:14\nrun@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:513:49\ncreateRetryer/run/</<@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:538:11\npromise callback*createRetryer/run/<@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:534:10\npromise callback*run@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:517:51\ncreateRetryer/run/</<@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:538:11\npromise callback*createRetryer/run/<@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:534:10\npromise callback*run@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:517:51\ncreateRetryer/run/</<@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:538:11\npromise callback*createRetryer/run/<@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:534:10\npromise callback*run@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:517:51\nstart@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:555:9\nfetch@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:969:41\nexecuteFetch_fn@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:2278:51\nonSubscribe@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:1982:74\nsubscribe@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:24:10\nuseBaseQuery/<@http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=904aa0e5:3145:56\nsubscribeToStore@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:4638:16\nreact-stack-bottom-frame@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:17478:20\nrunWithFiberInDEV@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:1487:15\ncommitHookEffectListMount@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:8460:122\ncommitHookPassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:8518:60\ncommitPassiveMountOnFiber@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9887:29\nrecursivelyTraversePassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9868:38\ncommitPassiveMountOnFiber@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9984:51\nrecursivelyTraversePassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9868:38\ncommitPassiveMountOnFiber@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9881:51\nrecursivelyTraversePassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9868:38\ncommitPassiveMountOnFiber@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9984:51\nrecursivelyTraversePassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9868:38\ncommitPassiveMountOnFiber@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9881:51\nrecursivelyTraversePassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9868:38\ncommitPassiveMountOnFiber@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9984:51\nrecursivelyTraversePassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9868:38\ncommitPassiveMountOnFiber@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9984:51\nrecursivelyTraversePassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9868:38\ncommitPassiveMountOnFiber@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9881:51\nrecursivelyTraversePassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9868:38\ncommitPassiveMountOnFiber@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9984:51\nrecursivelyTraversePassiveMountEffects@http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=904aa0e5:9868:38\n",
+  "config": {
+    "transitional": {
+      "silentJSONParsing": true,
+      "forcedJSONParsing": true,
+      "clarifyTimeoutError": false
+    },
+    "adapter": [
+      "xhr",
+      "http",
+      "fetch"
+    ],
+    "transformRequest": [
+      null
+    ],
+    "transformResponse": [
+      null
+    ],
+    "timeout": 0,
+    "xsrfCookieName": "XSRF-TOKEN",
+    "xsrfHeaderName": "X-XSRF-TOKEN",
+    "maxContentLength": -1,
+    "maxBodyLength": -1,
+    "env": {},
+    "headers": {
+      "Accept": "application/json, text/plain, */*"
+    },
+    "baseURL": "http://localhost:5000/api/v1/",
+    "method": "get",
+    "url": "tour-guide-requests/user68851af3606080f1804fcc36",
+    "allowAbsoluteUrls": true
+  },
+  "code": "ERR_BAD_RESPONSE",
+  "status": 500
+}
+[08:44 AM 27-07-25] 68851af3606080f1804fcc36 id GuideProfile.jsx 6
+[08:44 AM 27-07-25] {
+  "_id": "68851f1a48e669e21a93e85b",
+  "userId": {
+    "_id": "68851af3606080f1804fcc36",
+    "name": "Md. Shahjalal",
+    "email": "dev.shahjalal@gmail.com",
+    "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKlTr-wKrSgC8FZU2ivzZO0ong8x9gZQJHsrQIyFARiB37-cw=s96-c",
+    "role": "tour-guide",
+    "last_loggedIn": "2025-07-26T18:31:06.063Z",
+    "createdAt": "2025-07-26T18:14:11.724Z",
+    "updatedAt": "2025-07-26T19:01:23.118Z",
+    "__v": 0
+  },
+  "title": "Dhaka Heritage Enthusiast",
+  "reason": "I'm passionate about the rich history of Old Dhaka and love walking tourists through Mughal-era architecture and food streets.",
+  "cvLink": "https://drive.google.com/file/d/1HAkBOSth-W68Df8O0uZM7KfZx-9CQGd7/view?usp=sharing",
+  "status": "accepted",
+  "createdAt": "2025-07-26T18:31:54.566Z",
+  "__v": 0
+} data GuideProfile.jsx 15
+[08:44 AM 27-07-25] {
+  "_id": "68851f1a48e669e21a93e85b",
+  "userId": {
+    "_id": "68851af3606080f1804fcc36",
+    "name": "Md. Shahjalal",
+    "email": "dev.shahjalal@gmail.com",
+    "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKlTr-wKrSgC8FZU2ivzZO0ong8x9gZQJHsrQIyFARiB37-cw=s96-c",
+    "role": "tour-guide",
+    "last_loggedIn": "2025-07-26T18:31:06.063Z",
+    "createdAt": "2025-07-26T18:14:11.724Z",
+    "updatedAt": "2025-07-26T19:01:23.118Z",
+    "__v": 0
+  },
+  "title": "Dhaka Heritage Enthusiast",
+  "reason": "I'm passionate about the rich history of Old Dhaka and love walking tourists through Mughal-era architecture and food streets.",
+  "cvLink": "https://drive.google.com/file/d/1HAkBOSth-W68Df8O0uZM7KfZx-9CQGd7/view?usp=sharing",
+  "status": "accepted",
+  "createdAt": "2025-07-26T18:31:54.566Z",
+  "__v": 0
+} data GuideProfile.jsx 15
+[08:44 AM 27-07-25] null data GuideProfile.jsx 15
+[08:44 AM 27-07-25] error null
+[08:44 AM 27-07-25] null data GuideProfile.jsx 15
+[08:44 AM 27-07-25] null data GuideProfile.jsx 15
+[08:44 AM 27-07-25] error null
+[08:44 AM 27-07-25] 68852b90c78ef640a3f93940 id GuideProfile.jsx 6
+[08:44 AM 27-07-25] error null
+[08:44 AM 27-07-25] null data GuideProfile.jsx 15
+[08:44 AM 27-07-25] error null
+[08:45 AM 27-07-25] [] TourismAndGuides.jsx 7
+[08:45 AM 27-07-25] [] TourismAndGuides.jsx 7
+[08:45 AM 27-07-25] [] TourismAndGuides.jsx 7
+[08:45 AM 27-07-25] [] TourismAndGuides.jsx 7
+[08:45 AM 27-07-25] [
+  {
+    "_id": "68858b3698f52bacf98f9fec",
+    "title": "Paharpur & Mahasthangarh Archaeology Tour",
+    "description": "Step back into history with guided tours to Paharpur Buddhist Monastery and Mahasthangarh ruins in North Bengal.",
+    "price": 6300,
+    "tripType": "Historical",
+    "days": 3,
+    "location": "Naogaon & Bogura",
+    "gallery": [
+      "https://images.deepai.org/art-image/56647f7ad23e4a21801c30422b3d6d30/panoramic-view-of-somapura-mahavihara-ruins-with-bric.jpg",
+      "https://images.deepai.org/art-image/6681118a3c4d4532a0602d5b5366d8b4/ancient-stone-wall-with-inscriptions-at-mahasthangarh.jpg",
+      "https://images.deepai.org/art-image/fd411f45710b413d9c2b65e3f99a1c44/local-guide-explaining-history-at-small-rural-museum-.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Train to Bogura, visit Mahasthangarh ancient city ruins"
+      },
+      {
+        "day": 2,
+        "activities": "Travel to Paharpur, explore UNESCO heritage site"
+      },
+      {
+        "day": 3,
+        "activities": "Visit local museum, return by train"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fe7",
+    "title": "Saint Martin's Coral Island Adventure",
+    "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+    "price": 7200,
+    "tripType": "Adventure",
+    "days": 3,
+    "location": "Saint Martin's Island",
+    "gallery": [
+      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+      },
+      {
+        "day": 2,
+        "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+      },
+      {
+        "day": 3,
+        "activities": "Sunrise walk, seafood breakfast, return to mainland"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fed",
+    "title": "Kuakata Sunrise to Sunset Tour",
+    "description": "Witness both sunrise and sunset over the sea at Kuakata beach, a rare gem in southern Bangladesh.",
+    "price": 5800,
+    "tripType": "Relaxation",
+    "days": 3,
+    "location": "Kuakata",
+    "gallery": [
+      "https://images.deepai.org/art-image/a153c611d6904ca092d86e33c25c8391/sunrise-over-kuakata-sea-beach-with-fishermen-walking.jpg",
+      "https://images.deepai.org/art-image/c61023c3eaf344e18481cfca661f2563/tourists-sitting-on-kuakata-beach-watching-golden-sun.jpg",
+      "https://images.deepai.org/art-image/b5576a868a6f4fb5b6364f5e6d5ea5d5/buddhist-temple-structure-with-red-roof-and-prayer-fl.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Bus ride to Kuakata, beach hotel check-in"
+      },
+      {
+        "day": 2,
+        "activities": "See sunrise in early morning and explore dry fish market"
+      },
+      {
+        "day": 3,
+        "activities": "Watch sunset, visit Buddhist temple, depart"
+      }
+    ]
+  }
+] TourismAndGuides.jsx 7
+[08:45 AM 27-07-25] [
+  {
+    "_id": "68858b3698f52bacf98f9fec",
+    "title": "Paharpur & Mahasthangarh Archaeology Tour",
+    "description": "Step back into history with guided tours to Paharpur Buddhist Monastery and Mahasthangarh ruins in North Bengal.",
+    "price": 6300,
+    "tripType": "Historical",
+    "days": 3,
+    "location": "Naogaon & Bogura",
+    "gallery": [
+      "https://images.deepai.org/art-image/56647f7ad23e4a21801c30422b3d6d30/panoramic-view-of-somapura-mahavihara-ruins-with-bric.jpg",
+      "https://images.deepai.org/art-image/6681118a3c4d4532a0602d5b5366d8b4/ancient-stone-wall-with-inscriptions-at-mahasthangarh.jpg",
+      "https://images.deepai.org/art-image/fd411f45710b413d9c2b65e3f99a1c44/local-guide-explaining-history-at-small-rural-museum-.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Train to Bogura, visit Mahasthangarh ancient city ruins"
+      },
+      {
+        "day": 2,
+        "activities": "Travel to Paharpur, explore UNESCO heritage site"
+      },
+      {
+        "day": 3,
+        "activities": "Visit local museum, return by train"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fe7",
+    "title": "Saint Martin's Coral Island Adventure",
+    "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+    "price": 7200,
+    "tripType": "Adventure",
+    "days": 3,
+    "location": "Saint Martin's Island",
+    "gallery": [
+      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+      },
+      {
+        "day": 2,
+        "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+      },
+      {
+        "day": 3,
+        "activities": "Sunrise walk, seafood breakfast, return to mainland"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fed",
+    "title": "Kuakata Sunrise to Sunset Tour",
+    "description": "Witness both sunrise and sunset over the sea at Kuakata beach, a rare gem in southern Bangladesh.",
+    "price": 5800,
+    "tripType": "Relaxation",
+    "days": 3,
+    "location": "Kuakata",
+    "gallery": [
+      "https://images.deepai.org/art-image/a153c611d6904ca092d86e33c25c8391/sunrise-over-kuakata-sea-beach-with-fishermen-walking.jpg",
+      "https://images.deepai.org/art-image/c61023c3eaf344e18481cfca661f2563/tourists-sitting-on-kuakata-beach-watching-golden-sun.jpg",
+      "https://images.deepai.org/art-image/b5576a868a6f4fb5b6364f5e6d5ea5d5/buddhist-temple-structure-with-red-roof-and-prayer-fl.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Bus ride to Kuakata, beach hotel check-in"
+      },
+      {
+        "day": 2,
+        "activities": "See sunrise in early morning and explore dry fish market"
+      },
+      {
+        "day": 3,
+        "activities": "Watch sunset, visit Buddhist temple, depart"
+      }
+    ]
+  }
+] TourismAndGuides.jsx 7
+[08:45 AM 27-07-25] 68852b90c78ef640a3f93940 id GuideProfile.jsx 6
+[08:45 AM 27-07-25] {
+  "_id": "68852bc3c78ef640a3f9394c",
+  "userId": {
+    "_id": "68852b90c78ef640a3f93940",
+    "name": "গণিত ভালোবাসি",
+    "email": "gonitvalobasi@gmail.com",
+    "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocIv7_kErI1pX4G3Zu-M1fgytLhP7pMEiNjQp2dSybnJ3whLZW4=s96-c",
+    "role": "tour-guide",
+    "last_loggedIn": "2025-07-26T19:25:04.478Z",
+    "createdAt": "2025-07-26T19:25:04.478Z",
+    "updatedAt": "2025-07-26T19:30:43.600Z",
+    "__v": 0
+  },
+  "title": "Experienced Mountain Guide",
+  "reason": "I love guiding tourists and know every trail in the hills, especially the remote spots in Bandarban and Sajek.",
+  "cvLink": "https://drive.google.com/file/d/1HAkBOSth-W68Df8O0uZM7KfZx-9CQGd7/view?usp=sharing",
+  "status": "accepted",
+  "createdAt": "2025-07-26T19:25:55.283Z",
+  "__v": 0
+} data GuideProfile.jsx 15
+[08:45 AM 27-07-25] {
+  "_id": "68852bc3c78ef640a3f9394c",
+  "userId": {
+    "_id": "68852b90c78ef640a3f93940",
+    "name": "গণিত ভালোবাসি",
+    "email": "gonitvalobasi@gmail.com",
+    "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocIv7_kErI1pX4G3Zu-M1fgytLhP7pMEiNjQp2dSybnJ3whLZW4=s96-c",
+    "role": "tour-guide",
+    "last_loggedIn": "2025-07-26T19:25:04.478Z",
+    "createdAt": "2025-07-26T19:25:04.478Z",
+    "updatedAt": "2025-07-26T19:30:43.600Z",
+    "__v": 0
+  },
+  "title": "Experienced Mountain Guide",
+  "reason": "I love guiding tourists and know every trail in the hills, especially the remote spots in Bandarban and Sajek.",
+  "cvLink": "https://drive.google.com/file/d/1HAkBOSth-W68Df8O0uZM7KfZx-9CQGd7/view?usp=sharing",
+  "status": "accepted",
+  "createdAt": "2025-07-26T19:25:55.283Z",
+  "__v": 0
+} data GuideProfile.jsx 15
+[08:45 AM 27-07-25] 68852ad7c78ef640a3f9391d id GuideProfile.jsx 6
+[08:45 AM 27-07-25] {
+  "_id": "68852b14c78ef640a3f93929",
+  "userId": {
+    "_id": "68852ad7c78ef640a3f9391d",
+    "name": "Education Education",
+    "email": "eeducation954@gmail.com",
+    "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
+    "role": "tour-guide",
+    "last_loggedIn": "2025-07-26T19:21:59.087Z",
+    "createdAt": "2025-07-26T19:21:59.091Z",
+    "updatedAt": "2025-07-26T19:23:43.532Z",
+    "__v": 0
+  },
+  "title": "Coastal Adventure Expert",
+  "reason": "I love guiding tourists and know every trail in the hills, especially the remote spots in Bandarban and Sajek.",
+  "cvLink": "https://drive.google.com/file/d/1HAkBOSth-W68Df8O0uZM7KfZx-9CQGd7/view?usp=sharing",
+  "status": "accepted",
+  "createdAt": "2025-07-26T19:23:00.489Z",
+  "__v": 0
+} data GuideProfile.jsx 15
+[08:45 AM 27-07-25] {
+  "_id": "68852b14c78ef640a3f93929",
+  "userId": {
+    "_id": "68852ad7c78ef640a3f9391d",
+    "name": "Education Education",
+    "email": "eeducation954@gmail.com",
+    "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
+    "role": "tour-guide",
+    "last_loggedIn": "2025-07-26T19:21:59.087Z",
+    "createdAt": "2025-07-26T19:21:59.091Z",
+    "updatedAt": "2025-07-26T19:23:43.532Z",
+    "__v": 0
+  },
+  "title": "Coastal Adventure Expert",
+  "reason": "I love guiding tourists and know every trail in the hills, especially the remote spots in Bandarban and Sajek.",
+  "cvLink": "https://drive.google.com/file/d/1HAkBOSth-W68Df8O0uZM7KfZx-9CQGd7/view?usp=sharing",
+  "status": "accepted",
+  "createdAt": "2025-07-26T19:23:00.489Z",
+  "__v": 0
+} data GuideProfile.jsx 15
+[08:45 AM 27-07-25] {
+  "_id": "68852bc3c78ef640a3f9394c",
+  "userId": {
+    "_id": "68852b90c78ef640a3f93940",
+    "name": "গণিত ভালোবাসি",
+    "email": "gonitvalobasi@gmail.com",
+    "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocIv7_kErI1pX4G3Zu-M1fgytLhP7pMEiNjQp2dSybnJ3whLZW4=s96-c",
+    "role": "tour-guide",
+    "last_loggedIn": "2025-07-26T19:25:04.478Z",
+    "createdAt": "2025-07-26T19:25:04.478Z",
+    "updatedAt": "2025-07-26T19:30:43.600Z",
+    "__v": 0
+  },
+  "title": "Experienced Mountain Guide",
+  "reason": "I love guiding tourists and know every trail in the hills, especially the remote spots in Bandarban and Sajek.",
+  "cvLink": "https://drive.google.com/file/d/1HAkBOSth-W68Df8O0uZM7KfZx-9CQGd7/view?usp=sharing",
+  "status": "accepted",
+  "createdAt": "2025-07-26T19:25:55.283Z",
+  "__v": 0
+} data GuideProfile.jsx 15
+[08:45 AM 27-07-25] {
+  "_id": "68852bc3c78ef640a3f9394c",
+  "userId": {
+    "_id": "68852b90c78ef640a3f93940",
+    "name": "গণিত ভালোবাসি",
+    "email": "gonitvalobasi@gmail.com",
+    "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocIv7_kErI1pX4G3Zu-M1fgytLhP7pMEiNjQp2dSybnJ3whLZW4=s96-c",
+    "role": "tour-guide",
+    "last_loggedIn": "2025-07-26T19:25:04.478Z",
+    "createdAt": "2025-07-26T19:25:04.478Z",
+    "updatedAt": "2025-07-26T19:30:43.600Z",
+    "__v": 0
+  },
+  "title": "Experienced Mountain Guide",
+  "reason": "I love guiding tourists and know every trail in the hills, especially the remote spots in Bandarban and Sajek.",
+  "cvLink": "https://drive.google.com/file/d/1HAkBOSth-W68Df8O0uZM7KfZx-9CQGd7/view?usp=sharing",
+  "status": "accepted",
+  "createdAt": "2025-07-26T19:25:55.283Z",
+  "__v": 0
+} data GuideProfile.jsx 15
+[08:45 AM 27-07-25] 68852b90c78ef640a3f93940 id GuideProfile.jsx 6
+[08:45 AM 27-07-25] 68852645c78ef640a3f93875 id GuideProfile.jsx 6
+[08:45 AM 27-07-25] {
+  "_id": "688527d2c78ef640a3f9389c",
+  "userId": {
+    "_id": "68852645c78ef640a3f93875",
+    "name": "Learning English",
+    "email": "mdshahjalal512@gmail.com",
+    "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKqSiPMbIhsHkK6FzUQUUGYe9e8a6Nlhbhh_5SQIbcHU30KuVqG=s96-c",
+    "role": "tour-guide",
+    "last_loggedIn": "2025-07-26T19:02:29.559Z",
+    "createdAt": "2025-07-26T19:02:29.569Z",
+    "updatedAt": "2025-07-26T19:09:42.444Z",
+    "__v": 0
+  },
+  "title": "Wildlife & Eco-tourism Specialist\"Wildlife & Eco-tourism Specialist",
+  "reason": "From Sundarbans mangrove safaris to Lawachara forest treks, I focus on eco-friendly tours that preserve nature and educate visitors.",
+  "cvLink": "https://drive.google.com/file/d/1HAkBOSth-W68Df8O0uZM7KfZx-9CQGd7/view?usp=sharing",
+  "status": "accepted",
+  "createdAt": "2025-07-26T19:09:06.889Z",
+  "__v": 0
+} data GuideProfile.jsx 15
+[08:45 AM 27-07-25] {
+  "_id": "688527d2c78ef640a3f9389c",
+  "userId": {
+    "_id": "68852645c78ef640a3f93875",
+    "name": "Learning English",
+    "email": "mdshahjalal512@gmail.com",
+    "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKqSiPMbIhsHkK6FzUQUUGYe9e8a6Nlhbhh_5SQIbcHU30KuVqG=s96-c",
+    "role": "tour-guide",
+    "last_loggedIn": "2025-07-26T19:02:29.559Z",
+    "createdAt": "2025-07-26T19:02:29.569Z",
+    "updatedAt": "2025-07-26T19:09:42.444Z",
+    "__v": 0
+  },
+  "title": "Wildlife & Eco-tourism Specialist\"Wildlife & Eco-tourism Specialist",
+  "reason": "From Sundarbans mangrove safaris to Lawachara forest treks, I focus on eco-friendly tours that preserve nature and educate visitors.",
+  "cvLink": "https://drive.google.com/file/d/1HAkBOSth-W68Df8O0uZM7KfZx-9CQGd7/view?usp=sharing",
+  "status": "accepted",
+  "createdAt": "2025-07-26T19:09:06.889Z",
+  "__v": 0
+} data GuideProfile.jsx 15
+[08:46 AM 27-07-25] 68852645c78ef640a3f93875 id GuideProfile.jsx 6
+[08:46 AM 27-07-25] 68852b90c78ef640a3f93940 id GuideProfile.jsx 6
+[08:46 AM 27-07-25] {
+  "_id": "68852bc3c78ef640a3f9394c",
+  "userId": {
+    "_id": "68852b90c78ef640a3f93940",
+    "name": "গণিত ভালোবাসি",
+    "email": "gonitvalobasi@gmail.com",
+    "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocIv7_kErI1pX4G3Zu-M1fgytLhP7pMEiNjQp2dSybnJ3whLZW4=s96-c",
+    "role": "tour-guide",
+    "last_loggedIn": "2025-07-26T19:25:04.478Z",
+    "createdAt": "2025-07-26T19:25:04.478Z",
+    "updatedAt": "2025-07-26T19:30:43.600Z",
+    "__v": 0
+  },
+  "title": "Experienced Mountain Guide",
+  "reason": "I love guiding tourists and know every trail in the hills, especially the remote spots in Bandarban and Sajek.",
+  "cvLink": "https://drive.google.com/file/d/1HAkBOSth-W68Df8O0uZM7KfZx-9CQGd7/view?usp=sharing",
+  "status": "accepted",
+  "createdAt": "2025-07-26T19:25:55.283Z",
+  "__v": 0
+} data GuideProfile.jsx 15
+[08:46 AM 27-07-25] {
+  "_id": "68852bc3c78ef640a3f9394c",
+  "userId": {
+    "_id": "68852b90c78ef640a3f93940",
+    "name": "গণিত ভালোবাসি",
+    "email": "gonitvalobasi@gmail.com",
+    "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocIv7_kErI1pX4G3Zu-M1fgytLhP7pMEiNjQp2dSybnJ3whLZW4=s96-c",
+    "role": "tour-guide",
+    "last_loggedIn": "2025-07-26T19:25:04.478Z",
+    "createdAt": "2025-07-26T19:25:04.478Z",
+    "updatedAt": "2025-07-26T19:30:43.600Z",
+    "__v": 0
+  },
+  "title": "Experienced Mountain Guide",
+  "reason": "I love guiding tourists and know every trail in the hills, especially the remote spots in Bandarban and Sajek.",
+  "cvLink": "https://drive.google.com/file/d/1HAkBOSth-W68Df8O0uZM7KfZx-9CQGd7/view?usp=sharing",
+  "status": "accepted",
+  "createdAt": "2025-07-26T19:25:55.283Z",
+  "__v": 0
+} data GuideProfile.jsx 15
+[08:46 AM 27-07-25] 68852645c78ef640a3f93875 id GuideProfile.jsx 6

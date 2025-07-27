@@ -4,7 +4,7 @@ import { axiosInstance } from "../../../../hooks/useAxiosSecure";
 
 const fetchGuideDetails = async (id) => {
   console.log(id, "id GuideProfile.jsx", 6);
-  const res = await axiosInstance.get(`/tour-guide-requests/${id}`);
+  const res = await axiosInstance.get(`tour-guide-requests/user/${id}`);
   return res.data?.data;
 };
 
