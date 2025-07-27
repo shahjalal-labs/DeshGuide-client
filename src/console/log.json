@@ -900,3 +900,388 @@
     ]
   }
 ] TourismAndGuides.jsx 7
+[08:16 AM 27-07-25] 68852bc3c78ef640a3f9394c GuideProfile.jsx 6
+[08:16 AM 27-07-25] [] TourismAndGuides.jsx 7
+[08:16 AM 27-07-25] [] TourismAndGuides.jsx 7
+[08:16 AM 27-07-25] [] TourismAndGuides.jsx 7
+[08:16 AM 27-07-25] [] TourismAndGuides.jsx 7
+[08:16 AM 27-07-25] [
+  {
+    "_id": "68858b3698f52bacf98f9fe5",
+    "title": "Cox's Bazar Beach Escape",
+    "description": "Enjoy the world’s longest sea beach, local seafood, and calm sunsets at Cox’s Bazar. Ideal for couples, families, or solo travelers.",
+    "price": 5500,
+    "tripType": "Relaxation",
+    "days": 3,
+    "location": "Cox's Bazar",
+    "gallery": [
+      "https://images.deepai.org/art-image/72bca9114b0941e89cdb0ea0a22f5553/cox-s-bazar-sea-beach-during-sunset-with-silhouettes-.jpg",
+      "https://api.deepai.org/job-view-file/d46572d0-47a7-41cc-8eae-d7bac1a7e0a6/outputs/output.jpg",
+      "https://api.deepai.org/job-view-file/21cbe50a-3fd5-40b2-b412-de7076ace8c9/outputs/output.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Departure from Dhaka, check-in at sea view hotel, evening walk by the beach"
+      },
+      {
+        "day": 2,
+        "activities": "Visit Himchari, Inani Beach, and enjoy local seafood lunch"
+      },
+      {
+        "day": 3,
+        "activities": "Shopping from Burmese market and return journey"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fe8",
+    "title": "Bandarban Tribal Hills Trek",
+    "description": "Experience the serene hills of Bandarban, visit tribal villages, and hike trails like Nilgiri and Nafakhum surrounded by clouds and waterfalls.",
+    "price": 6900,
+    "tripType": "Adventure",
+    "days": 5,
+    "location": "Bandarban",
+    "gallery": [
+      "https://images.deepai.org/art-image/83ea73b1eb8f4247bf48c7705aeb4887/hilltop-view-from-nilgiri-in-early-morning-fog-with-g.jpg",
+      "https://images.deepai.org/art-image/0a059bc079e049899859428e7be0688a/tourists-hiking-to-nafakhum-waterfall-through-forest-.jpg",
+      "https://images.deepai.org/art-image/d8364193a6364316965549baada5b85e/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Depart from Dhaka, check-in at resort near Meghla"
+      },
+      {
+        "day": 2,
+        "activities": "Visit Nilachal, explore tribal markets and local culture"
+      },
+      {
+        "day": 3,
+        "activities": "Hike to Nafakhum waterfall, river trekking"
+      },
+      {
+        "day": 4,
+        "activities": "Visit Nilgiri and Chimbuk Hill, scenic photography"
+      },
+      {
+        "day": 5,
+        "activities": "Morning rest and departure"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fed",
+    "title": "Kuakata Sunrise to Sunset Tour",
+    "description": "Witness both sunrise and sunset over the sea at Kuakata beach, a rare gem in southern Bangladesh.",
+    "price": 5800,
+    "tripType": "Relaxation",
+    "days": 3,
+    "location": "Kuakata",
+    "gallery": [
+      "https://images.deepai.org/art-image/a153c611d6904ca092d86e33c25c8391/sunrise-over-kuakata-sea-beach-with-fishermen-walking.jpg",
+      "https://images.deepai.org/art-image/c61023c3eaf344e18481cfca661f2563/tourists-sitting-on-kuakata-beach-watching-golden-sun.jpg",
+      "https://images.deepai.org/art-image/b5576a868a6f4fb5b6364f5e6d5ea5d5/buddhist-temple-structure-with-red-roof-and-prayer-fl.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Bus ride to Kuakata, beach hotel check-in"
+      },
+      {
+        "day": 2,
+        "activities": "See sunrise in early morning and explore dry fish market"
+      },
+      {
+        "day": 3,
+        "activities": "Watch sunset, visit Buddhist temple, depart"
+      }
+    ]
+  }
+] TourismAndGuides.jsx 7
+[08:16 AM 27-07-25] [
+  {
+    "_id": "68858b3698f52bacf98f9fe5",
+    "title": "Cox's Bazar Beach Escape",
+    "description": "Enjoy the world’s longest sea beach, local seafood, and calm sunsets at Cox’s Bazar. Ideal for couples, families, or solo travelers.",
+    "price": 5500,
+    "tripType": "Relaxation",
+    "days": 3,
+    "location": "Cox's Bazar",
+    "gallery": [
+      "https://images.deepai.org/art-image/72bca9114b0941e89cdb0ea0a22f5553/cox-s-bazar-sea-beach-during-sunset-with-silhouettes-.jpg",
+      "https://api.deepai.org/job-view-file/d46572d0-47a7-41cc-8eae-d7bac1a7e0a6/outputs/output.jpg",
+      "https://api.deepai.org/job-view-file/21cbe50a-3fd5-40b2-b412-de7076ace8c9/outputs/output.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Departure from Dhaka, check-in at sea view hotel, evening walk by the beach"
+      },
+      {
+        "day": 2,
+        "activities": "Visit Himchari, Inani Beach, and enjoy local seafood lunch"
+      },
+      {
+        "day": 3,
+        "activities": "Shopping from Burmese market and return journey"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fe8",
+    "title": "Bandarban Tribal Hills Trek",
+    "description": "Experience the serene hills of Bandarban, visit tribal villages, and hike trails like Nilgiri and Nafakhum surrounded by clouds and waterfalls.",
+    "price": 6900,
+    "tripType": "Adventure",
+    "days": 5,
+    "location": "Bandarban",
+    "gallery": [
+      "https://images.deepai.org/art-image/83ea73b1eb8f4247bf48c7705aeb4887/hilltop-view-from-nilgiri-in-early-morning-fog-with-g.jpg",
+      "https://images.deepai.org/art-image/0a059bc079e049899859428e7be0688a/tourists-hiking-to-nafakhum-waterfall-through-forest-.jpg",
+      "https://images.deepai.org/art-image/d8364193a6364316965549baada5b85e/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Depart from Dhaka, check-in at resort near Meghla"
+      },
+      {
+        "day": 2,
+        "activities": "Visit Nilachal, explore tribal markets and local culture"
+      },
+      {
+        "day": 3,
+        "activities": "Hike to Nafakhum waterfall, river trekking"
+      },
+      {
+        "day": 4,
+        "activities": "Visit Nilgiri and Chimbuk Hill, scenic photography"
+      },
+      {
+        "day": 5,
+        "activities": "Morning rest and departure"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fed",
+    "title": "Kuakata Sunrise to Sunset Tour",
+    "description": "Witness both sunrise and sunset over the sea at Kuakata beach, a rare gem in southern Bangladesh.",
+    "price": 5800,
+    "tripType": "Relaxation",
+    "days": 3,
+    "location": "Kuakata",
+    "gallery": [
+      "https://images.deepai.org/art-image/a153c611d6904ca092d86e33c25c8391/sunrise-over-kuakata-sea-beach-with-fishermen-walking.jpg",
+      "https://images.deepai.org/art-image/c61023c3eaf344e18481cfca661f2563/tourists-sitting-on-kuakata-beach-watching-golden-sun.jpg",
+      "https://images.deepai.org/art-image/b5576a868a6f4fb5b6364f5e6d5ea5d5/buddhist-temple-structure-with-red-roof-and-prayer-fl.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Bus ride to Kuakata, beach hotel check-in"
+      },
+      {
+        "day": 2,
+        "activities": "See sunrise in early morning and explore dry fish market"
+      },
+      {
+        "day": 3,
+        "activities": "Watch sunset, visit Buddhist temple, depart"
+      }
+    ]
+  }
+] TourismAndGuides.jsx 7
+[08:22 AM 27-07-25] [] TourismAndGuides.jsx 7
+[08:22 AM 27-07-25] [] TourismAndGuides.jsx 7
+[08:22 AM 27-07-25] [] TourismAndGuides.jsx 7
+[08:22 AM 27-07-25] [] TourismAndGuides.jsx 7
+[08:22 AM 27-07-25] [
+  {
+    "_id": "68858b3698f52bacf98f9fe6",
+    "title": "Sundarbans Wildlife Expedition",
+    "description": "Explore the world’s largest mangrove forest and spot rare wildlife like Royal Bengal Tigers, spotted deer, and exotic birds on a tranquil boat journey.",
+    "price": 8200,
+    "tripType": "Nature",
+    "days": 4,
+    "location": "Sundarbans",
+    "gallery": [
+      "https://images.deepai.org/art-image/18013ccde158403e97b2804d68101e57/traditional-launch-boat-in-sundarbans-mangrove-river-.jpg",
+      "https://images.deepai.org/art-image/0271952765ce412b878981dbdb957347/royal-bengal-tiger-mid-step-among-trees-in-sundarbans.jpg",
+      "https://images.deepai.org/art-image/edb1fdbc627d46b692194673642c8cd8/fishing-village-huts-on-stilts-beside-muddy-river-in-.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Depart from Khulna, board the launch, and begin forest river cruise"
+      },
+      {
+        "day": 2,
+        "activities": "Jungle walk in Kotka, birdwatching at dawn, tiger sighting spots"
+      },
+      {
+        "day": 3,
+        "activities": "Canoe ride near narrow mangrove creeks, visit local fishing village"
+      },
+      {
+        "day": 4,
+        "activities": "Return from cruise and transfer to Khulna city"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9feb",
+    "title": "Srimangal Tea & Rainforest Retreat",
+    "description": "Known as the tea capital of Bangladesh, Srimangal offers a calm retreat with Lawachara rainforest, tribal communities, and 7-layer tea.",
+    "price": 4600,
+    "tripType": "Nature",
+    "days": 2,
+    "location": "Srimangal",
+    "gallery": [
+      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg",
+      "https://images.deepai.org/art-image/83ea73b1eb8f4247bf48c7705aeb4887/hilltop-view-from-nilgiri-in-early-morning-fog-with-g.jpg",
+      "https://deepai.org/static/images/new_heart.png"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Arrival, visit Lawachara rainforest and tribal villages"
+      },
+      {
+        "day": 2,
+        "activities": "Taste 7-layer tea, explore tea estates, return home"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fe8",
+    "title": "Bandarban Tribal Hills Trek",
+    "description": "Experience the serene hills of Bandarban, visit tribal villages, and hike trails like Nilgiri and Nafakhum surrounded by clouds and waterfalls.",
+    "price": 6900,
+    "tripType": "Adventure",
+    "days": 5,
+    "location": "Bandarban",
+    "gallery": [
+      "https://images.deepai.org/art-image/83ea73b1eb8f4247bf48c7705aeb4887/hilltop-view-from-nilgiri-in-early-morning-fog-with-g.jpg",
+      "https://images.deepai.org/art-image/0a059bc079e049899859428e7be0688a/tourists-hiking-to-nafakhum-waterfall-through-forest-.jpg",
+      "https://images.deepai.org/art-image/d8364193a6364316965549baada5b85e/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Depart from Dhaka, check-in at resort near Meghla"
+      },
+      {
+        "day": 2,
+        "activities": "Visit Nilachal, explore tribal markets and local culture"
+      },
+      {
+        "day": 3,
+        "activities": "Hike to Nafakhum waterfall, river trekking"
+      },
+      {
+        "day": 4,
+        "activities": "Visit Nilgiri and Chimbuk Hill, scenic photography"
+      },
+      {
+        "day": 5,
+        "activities": "Morning rest and departure"
+      }
+    ]
+  }
+] TourismAndGuides.jsx 7
+[08:22 AM 27-07-25] [
+  {
+    "_id": "68858b3698f52bacf98f9fe6",
+    "title": "Sundarbans Wildlife Expedition",
+    "description": "Explore the world’s largest mangrove forest and spot rare wildlife like Royal Bengal Tigers, spotted deer, and exotic birds on a tranquil boat journey.",
+    "price": 8200,
+    "tripType": "Nature",
+    "days": 4,
+    "location": "Sundarbans",
+    "gallery": [
+      "https://images.deepai.org/art-image/18013ccde158403e97b2804d68101e57/traditional-launch-boat-in-sundarbans-mangrove-river-.jpg",
+      "https://images.deepai.org/art-image/0271952765ce412b878981dbdb957347/royal-bengal-tiger-mid-step-among-trees-in-sundarbans.jpg",
+      "https://images.deepai.org/art-image/edb1fdbc627d46b692194673642c8cd8/fishing-village-huts-on-stilts-beside-muddy-river-in-.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Depart from Khulna, board the launch, and begin forest river cruise"
+      },
+      {
+        "day": 2,
+        "activities": "Jungle walk in Kotka, birdwatching at dawn, tiger sighting spots"
+      },
+      {
+        "day": 3,
+        "activities": "Canoe ride near narrow mangrove creeks, visit local fishing village"
+      },
+      {
+        "day": 4,
+        "activities": "Return from cruise and transfer to Khulna city"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9feb",
+    "title": "Srimangal Tea & Rainforest Retreat",
+    "description": "Known as the tea capital of Bangladesh, Srimangal offers a calm retreat with Lawachara rainforest, tribal communities, and 7-layer tea.",
+    "price": 4600,
+    "tripType": "Nature",
+    "days": 2,
+    "location": "Srimangal",
+    "gallery": [
+      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg",
+      "https://images.deepai.org/art-image/83ea73b1eb8f4247bf48c7705aeb4887/hilltop-view-from-nilgiri-in-early-morning-fog-with-g.jpg",
+      "https://deepai.org/static/images/new_heart.png"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Arrival, visit Lawachara rainforest and tribal villages"
+      },
+      {
+        "day": 2,
+        "activities": "Taste 7-layer tea, explore tea estates, return home"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fe8",
+    "title": "Bandarban Tribal Hills Trek",
+    "description": "Experience the serene hills of Bandarban, visit tribal villages, and hike trails like Nilgiri and Nafakhum surrounded by clouds and waterfalls.",
+    "price": 6900,
+    "tripType": "Adventure",
+    "days": 5,
+    "location": "Bandarban",
+    "gallery": [
+      "https://images.deepai.org/art-image/83ea73b1eb8f4247bf48c7705aeb4887/hilltop-view-from-nilgiri-in-early-morning-fog-with-g.jpg",
+      "https://images.deepai.org/art-image/0a059bc079e049899859428e7be0688a/tourists-hiking-to-nafakhum-waterfall-through-forest-.jpg",
+      "https://images.deepai.org/art-image/d8364193a6364316965549baada5b85e/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Depart from Dhaka, check-in at resort near Meghla"
+      },
+      {
+        "day": 2,
+        "activities": "Visit Nilachal, explore tribal markets and local culture"
+      },
+      {
+        "day": 3,
+        "activities": "Hike to Nafakhum waterfall, river trekking"
+      },
+      {
+        "day": 4,
+        "activities": "Visit Nilgiri and Chimbuk Hill, scenic photography"
+      },
+      {
+        "day": 5,
+        "activities": "Morning rest and departure"
+      }
+    ]
+  }
+] TourismAndGuides.jsx 7
