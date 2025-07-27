@@ -5354,3 +5354,1635 @@
     ]
   }
 ] TourismAndGuides.jsx 7
+[09:14 AM 27-07-25] [] TourismAndGuides.jsx 7
+[09:14 AM 27-07-25] [] TourismAndGuides.jsx 7
+[09:14 AM 27-07-25] [] TourismAndGuides.jsx 7
+[09:14 AM 27-07-25] [] TourismAndGuides.jsx 7
+[09:14 AM 27-07-25] [
+  {
+    "_id": "68858b3698f52bacf98f9fe6",
+    "title": "Sundarbans Wildlife Expedition",
+    "description": "Explore the world’s largest mangrove forest and spot rare wildlife like Royal Bengal Tigers, spotted deer, and exotic birds on a tranquil boat journey.",
+    "price": 8200,
+    "tripType": "Nature",
+    "days": 4,
+    "location": "Sundarbans",
+    "gallery": [
+      "https://images.deepai.org/art-image/18013ccde158403e97b2804d68101e57/traditional-launch-boat-in-sundarbans-mangrove-river-.jpg",
+      "https://images.deepai.org/art-image/0271952765ce412b878981dbdb957347/royal-bengal-tiger-mid-step-among-trees-in-sundarbans.jpg",
+      "https://images.deepai.org/art-image/edb1fdbc627d46b692194673642c8cd8/fishing-village-huts-on-stilts-beside-muddy-river-in-.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Depart from Khulna, board the launch, and begin forest river cruise"
+      },
+      {
+        "day": 2,
+        "activities": "Jungle walk in Kotka, birdwatching at dawn, tiger sighting spots"
+      },
+      {
+        "day": 3,
+        "activities": "Canoe ride near narrow mangrove creeks, visit local fishing village"
+      },
+      {
+        "day": 4,
+        "activities": "Return from cruise and transfer to Khulna city"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9feb",
+    "title": "Srimangal Tea & Rainforest Retreat",
+    "description": "Known as the tea capital of Bangladesh, Srimangal offers a calm retreat with Lawachara rainforest, tribal communities, and 7-layer tea.",
+    "price": 4600,
+    "tripType": "Nature",
+    "days": 2,
+    "location": "Srimangal",
+    "gallery": [
+      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg",
+      "https://images.deepai.org/art-image/83ea73b1eb8f4247bf48c7705aeb4887/hilltop-view-from-nilgiri-in-early-morning-fog-with-g.jpg",
+      "https://deepai.org/static/images/new_heart.png"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Arrival, visit Lawachara rainforest and tribal villages"
+      },
+      {
+        "day": 2,
+        "activities": "Taste 7-layer tea, explore tea estates, return home"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fea",
+    "title": "Rangamati Lake & Tribal Culture Tour",
+    "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+    "price": 5200,
+    "tripType": "Cultural",
+    "days": 3,
+    "location": "Rangamati",
+    "gallery": [
+      "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+      "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+      "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Bus ride from Chittagong, lake view resort check-in"
+      },
+      {
+        "day": 2,
+        "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+      },
+      {
+        "day": 3,
+        "activities": "Explore local markets and return trip"
+      }
+    ],
+    "imagePrompts": [
+      "Sunset view over Kaptai Lake with orange reflections on calm water"
+    ]
+  }
+] TourismAndGuides.jsx 7
+[09:14 AM 27-07-25] [
+  {
+    "_id": "68858b3698f52bacf98f9fe6",
+    "title": "Sundarbans Wildlife Expedition",
+    "description": "Explore the world’s largest mangrove forest and spot rare wildlife like Royal Bengal Tigers, spotted deer, and exotic birds on a tranquil boat journey.",
+    "price": 8200,
+    "tripType": "Nature",
+    "days": 4,
+    "location": "Sundarbans",
+    "gallery": [
+      "https://images.deepai.org/art-image/18013ccde158403e97b2804d68101e57/traditional-launch-boat-in-sundarbans-mangrove-river-.jpg",
+      "https://images.deepai.org/art-image/0271952765ce412b878981dbdb957347/royal-bengal-tiger-mid-step-among-trees-in-sundarbans.jpg",
+      "https://images.deepai.org/art-image/edb1fdbc627d46b692194673642c8cd8/fishing-village-huts-on-stilts-beside-muddy-river-in-.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Depart from Khulna, board the launch, and begin forest river cruise"
+      },
+      {
+        "day": 2,
+        "activities": "Jungle walk in Kotka, birdwatching at dawn, tiger sighting spots"
+      },
+      {
+        "day": 3,
+        "activities": "Canoe ride near narrow mangrove creeks, visit local fishing village"
+      },
+      {
+        "day": 4,
+        "activities": "Return from cruise and transfer to Khulna city"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9feb",
+    "title": "Srimangal Tea & Rainforest Retreat",
+    "description": "Known as the tea capital of Bangladesh, Srimangal offers a calm retreat with Lawachara rainforest, tribal communities, and 7-layer tea.",
+    "price": 4600,
+    "tripType": "Nature",
+    "days": 2,
+    "location": "Srimangal",
+    "gallery": [
+      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg",
+      "https://images.deepai.org/art-image/83ea73b1eb8f4247bf48c7705aeb4887/hilltop-view-from-nilgiri-in-early-morning-fog-with-g.jpg",
+      "https://deepai.org/static/images/new_heart.png"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Arrival, visit Lawachara rainforest and tribal villages"
+      },
+      {
+        "day": 2,
+        "activities": "Taste 7-layer tea, explore tea estates, return home"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fea",
+    "title": "Rangamati Lake & Tribal Culture Tour",
+    "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+    "price": 5200,
+    "tripType": "Cultural",
+    "days": 3,
+    "location": "Rangamati",
+    "gallery": [
+      "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+      "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+      "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Bus ride from Chittagong, lake view resort check-in"
+      },
+      {
+        "day": 2,
+        "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+      },
+      {
+        "day": 3,
+        "activities": "Explore local markets and return trip"
+      }
+    ],
+    "imagePrompts": [
+      "Sunset view over Kaptai Lake with orange reflections on calm water"
+    ]
+  }
+] TourismAndGuides.jsx 7
+[09:14 AM 27-07-25] [] TourismAndGuides.jsx 7
+[09:14 AM 27-07-25] [] TourismAndGuides.jsx 7
+[09:14 AM 27-07-25] [] TourismAndGuides.jsx 7
+[09:14 AM 27-07-25] [] TourismAndGuides.jsx 7
+[09:14 AM 27-07-25] [
+  {
+    "_id": "68858b3698f52bacf98f9fe6",
+    "title": "Sundarbans Wildlife Expedition",
+    "description": "Explore the world’s largest mangrove forest and spot rare wildlife like Royal Bengal Tigers, spotted deer, and exotic birds on a tranquil boat journey.",
+    "price": 8200,
+    "tripType": "Nature",
+    "days": 4,
+    "location": "Sundarbans",
+    "gallery": [
+      "https://images.deepai.org/art-image/18013ccde158403e97b2804d68101e57/traditional-launch-boat-in-sundarbans-mangrove-river-.jpg",
+      "https://images.deepai.org/art-image/0271952765ce412b878981dbdb957347/royal-bengal-tiger-mid-step-among-trees-in-sundarbans.jpg",
+      "https://images.deepai.org/art-image/edb1fdbc627d46b692194673642c8cd8/fishing-village-huts-on-stilts-beside-muddy-river-in-.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Depart from Khulna, board the launch, and begin forest river cruise"
+      },
+      {
+        "day": 2,
+        "activities": "Jungle walk in Kotka, birdwatching at dawn, tiger sighting spots"
+      },
+      {
+        "day": 3,
+        "activities": "Canoe ride near narrow mangrove creeks, visit local fishing village"
+      },
+      {
+        "day": 4,
+        "activities": "Return from cruise and transfer to Khulna city"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fe7",
+    "title": "Saint Martin's Coral Island Adventure",
+    "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+    "price": 7200,
+    "tripType": "Adventure",
+    "days": 3,
+    "location": "Saint Martin's Island",
+    "gallery": [
+      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+      },
+      {
+        "day": 2,
+        "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+      },
+      {
+        "day": 3,
+        "activities": "Sunrise walk, seafood breakfast, return to mainland"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fe8",
+    "title": "Bandarban Tribal Hills Trek",
+    "description": "Experience the serene hills of Bandarban, visit tribal villages, and hike trails like Nilgiri and Nafakhum surrounded by clouds and waterfalls.",
+    "price": 6900,
+    "tripType": "Adventure",
+    "days": 5,
+    "location": "Bandarban",
+    "gallery": [
+      "https://images.deepai.org/art-image/83ea73b1eb8f4247bf48c7705aeb4887/hilltop-view-from-nilgiri-in-early-morning-fog-with-g.jpg",
+      "https://images.deepai.org/art-image/0a059bc079e049899859428e7be0688a/tourists-hiking-to-nafakhum-waterfall-through-forest-.jpg",
+      "https://images.deepai.org/art-image/d8364193a6364316965549baada5b85e/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Depart from Dhaka, check-in at resort near Meghla"
+      },
+      {
+        "day": 2,
+        "activities": "Visit Nilachal, explore tribal markets and local culture"
+      },
+      {
+        "day": 3,
+        "activities": "Hike to Nafakhum waterfall, river trekking"
+      },
+      {
+        "day": 4,
+        "activities": "Visit Nilgiri and Chimbuk Hill, scenic photography"
+      },
+      {
+        "day": 5,
+        "activities": "Morning rest and departure"
+      }
+    ]
+  }
+] TourismAndGuides.jsx 7
+[09:14 AM 27-07-25] [
+  {
+    "_id": "68858b3698f52bacf98f9fe6",
+    "title": "Sundarbans Wildlife Expedition",
+    "description": "Explore the world’s largest mangrove forest and spot rare wildlife like Royal Bengal Tigers, spotted deer, and exotic birds on a tranquil boat journey.",
+    "price": 8200,
+    "tripType": "Nature",
+    "days": 4,
+    "location": "Sundarbans",
+    "gallery": [
+      "https://images.deepai.org/art-image/18013ccde158403e97b2804d68101e57/traditional-launch-boat-in-sundarbans-mangrove-river-.jpg",
+      "https://images.deepai.org/art-image/0271952765ce412b878981dbdb957347/royal-bengal-tiger-mid-step-among-trees-in-sundarbans.jpg",
+      "https://images.deepai.org/art-image/edb1fdbc627d46b692194673642c8cd8/fishing-village-huts-on-stilts-beside-muddy-river-in-.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Depart from Khulna, board the launch, and begin forest river cruise"
+      },
+      {
+        "day": 2,
+        "activities": "Jungle walk in Kotka, birdwatching at dawn, tiger sighting spots"
+      },
+      {
+        "day": 3,
+        "activities": "Canoe ride near narrow mangrove creeks, visit local fishing village"
+      },
+      {
+        "day": 4,
+        "activities": "Return from cruise and transfer to Khulna city"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fe7",
+    "title": "Saint Martin's Coral Island Adventure",
+    "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+    "price": 7200,
+    "tripType": "Adventure",
+    "days": 3,
+    "location": "Saint Martin's Island",
+    "gallery": [
+      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+      },
+      {
+        "day": 2,
+        "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+      },
+      {
+        "day": 3,
+        "activities": "Sunrise walk, seafood breakfast, return to mainland"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fe8",
+    "title": "Bandarban Tribal Hills Trek",
+    "description": "Experience the serene hills of Bandarban, visit tribal villages, and hike trails like Nilgiri and Nafakhum surrounded by clouds and waterfalls.",
+    "price": 6900,
+    "tripType": "Adventure",
+    "days": 5,
+    "location": "Bandarban",
+    "gallery": [
+      "https://images.deepai.org/art-image/83ea73b1eb8f4247bf48c7705aeb4887/hilltop-view-from-nilgiri-in-early-morning-fog-with-g.jpg",
+      "https://images.deepai.org/art-image/0a059bc079e049899859428e7be0688a/tourists-hiking-to-nafakhum-waterfall-through-forest-.jpg",
+      "https://images.deepai.org/art-image/d8364193a6364316965549baada5b85e/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Depart from Dhaka, check-in at resort near Meghla"
+      },
+      {
+        "day": 2,
+        "activities": "Visit Nilachal, explore tribal markets and local culture"
+      },
+      {
+        "day": 3,
+        "activities": "Hike to Nafakhum waterfall, river trekking"
+      },
+      {
+        "day": 4,
+        "activities": "Visit Nilgiri and Chimbuk Hill, scenic photography"
+      },
+      {
+        "day": 5,
+        "activities": "Morning rest and departure"
+      }
+    ]
+  }
+] TourismAndGuides.jsx 7
+[09:14 AM 27-07-25] 688527d2c78ef640a3f9389c id GuideProfile.jsx 6
+[09:14 AM 27-07-25] null data GuideProfile.jsx 15
+[09:14 AM 27-07-25] error null
+[09:14 AM 27-07-25] null data GuideProfile.jsx 15
+[09:14 AM 27-07-25] error null
+[09:15 AM 27-07-25] 688527d2c78ef640a3f9389c id GuideProfile.jsx 6
+[09:15 AM 27-07-25] [] TourismAndGuides.jsx 7
+[09:15 AM 27-07-25] [] TourismAndGuides.jsx 7
+[09:15 AM 27-07-25] [] TourismAndGuides.jsx 7
+[09:15 AM 27-07-25] [] TourismAndGuides.jsx 7
+[09:15 AM 27-07-25] [
+  {
+    "_id": "68858b3698f52bacf98f9fe5",
+    "title": "Cox's Bazar Beach Escape",
+    "description": "Enjoy the world’s longest sea beach, local seafood, and calm sunsets at Cox’s Bazar. Ideal for couples, families, or solo travelers.",
+    "price": 5500,
+    "tripType": "Relaxation",
+    "days": 3,
+    "location": "Cox's Bazar",
+    "gallery": [
+      "https://images.deepai.org/art-image/72bca9114b0941e89cdb0ea0a22f5553/cox-s-bazar-sea-beach-during-sunset-with-silhouettes-.jpg",
+      "https://api.deepai.org/job-view-file/d46572d0-47a7-41cc-8eae-d7bac1a7e0a6/outputs/output.jpg",
+      "https://api.deepai.org/job-view-file/21cbe50a-3fd5-40b2-b412-de7076ace8c9/outputs/output.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Departure from Dhaka, check-in at sea view hotel, evening walk by the beach"
+      },
+      {
+        "day": 2,
+        "activities": "Visit Himchari, Inani Beach, and enjoy local seafood lunch"
+      },
+      {
+        "day": 3,
+        "activities": "Shopping from Burmese market and return journey"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fe7",
+    "title": "Saint Martin's Coral Island Adventure",
+    "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+    "price": 7200,
+    "tripType": "Adventure",
+    "days": 3,
+    "location": "Saint Martin's Island",
+    "gallery": [
+      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+      },
+      {
+        "day": 2,
+        "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+      },
+      {
+        "day": 3,
+        "activities": "Sunrise walk, seafood breakfast, return to mainland"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fed",
+    "title": "Kuakata Sunrise to Sunset Tour",
+    "description": "Witness both sunrise and sunset over the sea at Kuakata beach, a rare gem in southern Bangladesh.",
+    "price": 5800,
+    "tripType": "Relaxation",
+    "days": 3,
+    "location": "Kuakata",
+    "gallery": [
+      "https://images.deepai.org/art-image/a153c611d6904ca092d86e33c25c8391/sunrise-over-kuakata-sea-beach-with-fishermen-walking.jpg",
+      "https://images.deepai.org/art-image/c61023c3eaf344e18481cfca661f2563/tourists-sitting-on-kuakata-beach-watching-golden-sun.jpg",
+      "https://images.deepai.org/art-image/b5576a868a6f4fb5b6364f5e6d5ea5d5/buddhist-temple-structure-with-red-roof-and-prayer-fl.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Bus ride to Kuakata, beach hotel check-in"
+      },
+      {
+        "day": 2,
+        "activities": "See sunrise in early morning and explore dry fish market"
+      },
+      {
+        "day": 3,
+        "activities": "Watch sunset, visit Buddhist temple, depart"
+      }
+    ]
+  }
+] TourismAndGuides.jsx 7
+[09:15 AM 27-07-25] [
+  {
+    "_id": "68858b3698f52bacf98f9fe5",
+    "title": "Cox's Bazar Beach Escape",
+    "description": "Enjoy the world’s longest sea beach, local seafood, and calm sunsets at Cox’s Bazar. Ideal for couples, families, or solo travelers.",
+    "price": 5500,
+    "tripType": "Relaxation",
+    "days": 3,
+    "location": "Cox's Bazar",
+    "gallery": [
+      "https://images.deepai.org/art-image/72bca9114b0941e89cdb0ea0a22f5553/cox-s-bazar-sea-beach-during-sunset-with-silhouettes-.jpg",
+      "https://api.deepai.org/job-view-file/d46572d0-47a7-41cc-8eae-d7bac1a7e0a6/outputs/output.jpg",
+      "https://api.deepai.org/job-view-file/21cbe50a-3fd5-40b2-b412-de7076ace8c9/outputs/output.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Departure from Dhaka, check-in at sea view hotel, evening walk by the beach"
+      },
+      {
+        "day": 2,
+        "activities": "Visit Himchari, Inani Beach, and enjoy local seafood lunch"
+      },
+      {
+        "day": 3,
+        "activities": "Shopping from Burmese market and return journey"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fe7",
+    "title": "Saint Martin's Coral Island Adventure",
+    "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+    "price": 7200,
+    "tripType": "Adventure",
+    "days": 3,
+    "location": "Saint Martin's Island",
+    "gallery": [
+      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+      },
+      {
+        "day": 2,
+        "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+      },
+      {
+        "day": 3,
+        "activities": "Sunrise walk, seafood breakfast, return to mainland"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fed",
+    "title": "Kuakata Sunrise to Sunset Tour",
+    "description": "Witness both sunrise and sunset over the sea at Kuakata beach, a rare gem in southern Bangladesh.",
+    "price": 5800,
+    "tripType": "Relaxation",
+    "days": 3,
+    "location": "Kuakata",
+    "gallery": [
+      "https://images.deepai.org/art-image/a153c611d6904ca092d86e33c25c8391/sunrise-over-kuakata-sea-beach-with-fishermen-walking.jpg",
+      "https://images.deepai.org/art-image/c61023c3eaf344e18481cfca661f2563/tourists-sitting-on-kuakata-beach-watching-golden-sun.jpg",
+      "https://images.deepai.org/art-image/b5576a868a6f4fb5b6364f5e6d5ea5d5/buddhist-temple-structure-with-red-roof-and-prayer-fl.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Bus ride to Kuakata, beach hotel check-in"
+      },
+      {
+        "day": 2,
+        "activities": "See sunrise in early morning and explore dry fish market"
+      },
+      {
+        "day": 3,
+        "activities": "Watch sunset, visit Buddhist temple, depart"
+      }
+    ]
+  }
+] TourismAndGuides.jsx 7
+[09:17 AM 27-07-25] 68852b14c78ef640a3f93929 id GuideProfile.jsx 6
+[09:17 AM 27-07-25] null data GuideProfile.jsx 15
+[09:17 AM 27-07-25] error null
+[09:17 AM 27-07-25] null data GuideProfile.jsx 15
+[09:17 AM 27-07-25] error null
+[09:17 AM 27-07-25] 68852b14c78ef640a3f93929 id GuideProfile.jsx 6
+[09:17 AM 27-07-25] null data GuideProfile.jsx 15
+[09:17 AM 27-07-25] error null
+[09:17 AM 27-07-25] error null
+[09:17 AM 27-07-25] null data GuideProfile.jsx 15
+[09:17 AM 27-07-25] [] TourismAndGuides.jsx 7
+[09:17 AM 27-07-25] [] TourismAndGuides.jsx 7
+[09:17 AM 27-07-25] [] TourismAndGuides.jsx 7
+[09:17 AM 27-07-25] [] TourismAndGuides.jsx 7
+[09:17 AM 27-07-25] [
+  {
+    "_id": "68858b3698f52bacf98f9fee",
+    "title": "Bhawal National Park Forest Daytrip",
+    "description": "A short forest escape from Dhaka with wildlife, greenery, and a refreshing picnic vibe for families or groups.",
+    "price": 2000,
+    "tripType": "Nature",
+    "days": 1,
+    "location": "Gazipur",
+    "gallery": [
+      "https://images.deepai.org/art-image/fa7df2d2a6c248bba2a096e31e17c306/path-through-bhawal-forest-with-tall-sal-trees-and-li.jpg",
+      "https://images.deepai.org/art-image/6d1242776af24b29989fcb1f05e2a9f7/colorful-paddle-boat-floating-on-small-forest-lake-in.jpg",
+      "https://images.deepai.org/art-image/b34dc26354ae436595ba69b3a982f9c5/a-river-and-forest-scenic-beauty-with-the-sunset-thum.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Morning drive from Dhaka, jungle walk, boating, picnic, return"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fe8",
+    "title": "Bandarban Tribal Hills Trek",
+    "description": "Experience the serene hills of Bandarban, visit tribal villages, and hike trails like Nilgiri and Nafakhum surrounded by clouds and waterfalls.",
+    "price": 6900,
+    "tripType": "Adventure",
+    "days": 5,
+    "location": "Bandarban",
+    "gallery": [
+      "https://images.deepai.org/art-image/83ea73b1eb8f4247bf48c7705aeb4887/hilltop-view-from-nilgiri-in-early-morning-fog-with-g.jpg",
+      "https://images.deepai.org/art-image/0a059bc079e049899859428e7be0688a/tourists-hiking-to-nafakhum-waterfall-through-forest-.jpg",
+      "https://images.deepai.org/art-image/d8364193a6364316965549baada5b85e/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Depart from Dhaka, check-in at resort near Meghla"
+      },
+      {
+        "day": 2,
+        "activities": "Visit Nilachal, explore tribal markets and local culture"
+      },
+      {
+        "day": 3,
+        "activities": "Hike to Nafakhum waterfall, river trekking"
+      },
+      {
+        "day": 4,
+        "activities": "Visit Nilgiri and Chimbuk Hill, scenic photography"
+      },
+      {
+        "day": 5,
+        "activities": "Morning rest and departure"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fed",
+    "title": "Kuakata Sunrise to Sunset Tour",
+    "description": "Witness both sunrise and sunset over the sea at Kuakata beach, a rare gem in southern Bangladesh.",
+    "price": 5800,
+    "tripType": "Relaxation",
+    "days": 3,
+    "location": "Kuakata",
+    "gallery": [
+      "https://images.deepai.org/art-image/a153c611d6904ca092d86e33c25c8391/sunrise-over-kuakata-sea-beach-with-fishermen-walking.jpg",
+      "https://images.deepai.org/art-image/c61023c3eaf344e18481cfca661f2563/tourists-sitting-on-kuakata-beach-watching-golden-sun.jpg",
+      "https://images.deepai.org/art-image/b5576a868a6f4fb5b6364f5e6d5ea5d5/buddhist-temple-structure-with-red-roof-and-prayer-fl.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Bus ride to Kuakata, beach hotel check-in"
+      },
+      {
+        "day": 2,
+        "activities": "See sunrise in early morning and explore dry fish market"
+      },
+      {
+        "day": 3,
+        "activities": "Watch sunset, visit Buddhist temple, depart"
+      }
+    ]
+  }
+] TourismAndGuides.jsx 7
+[09:17 AM 27-07-25] [
+  {
+    "_id": "68858b3698f52bacf98f9fee",
+    "title": "Bhawal National Park Forest Daytrip",
+    "description": "A short forest escape from Dhaka with wildlife, greenery, and a refreshing picnic vibe for families or groups.",
+    "price": 2000,
+    "tripType": "Nature",
+    "days": 1,
+    "location": "Gazipur",
+    "gallery": [
+      "https://images.deepai.org/art-image/fa7df2d2a6c248bba2a096e31e17c306/path-through-bhawal-forest-with-tall-sal-trees-and-li.jpg",
+      "https://images.deepai.org/art-image/6d1242776af24b29989fcb1f05e2a9f7/colorful-paddle-boat-floating-on-small-forest-lake-in.jpg",
+      "https://images.deepai.org/art-image/b34dc26354ae436595ba69b3a982f9c5/a-river-and-forest-scenic-beauty-with-the-sunset-thum.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Morning drive from Dhaka, jungle walk, boating, picnic, return"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fe8",
+    "title": "Bandarban Tribal Hills Trek",
+    "description": "Experience the serene hills of Bandarban, visit tribal villages, and hike trails like Nilgiri and Nafakhum surrounded by clouds and waterfalls.",
+    "price": 6900,
+    "tripType": "Adventure",
+    "days": 5,
+    "location": "Bandarban",
+    "gallery": [
+      "https://images.deepai.org/art-image/83ea73b1eb8f4247bf48c7705aeb4887/hilltop-view-from-nilgiri-in-early-morning-fog-with-g.jpg",
+      "https://images.deepai.org/art-image/0a059bc079e049899859428e7be0688a/tourists-hiking-to-nafakhum-waterfall-through-forest-.jpg",
+      "https://images.deepai.org/art-image/d8364193a6364316965549baada5b85e/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Depart from Dhaka, check-in at resort near Meghla"
+      },
+      {
+        "day": 2,
+        "activities": "Visit Nilachal, explore tribal markets and local culture"
+      },
+      {
+        "day": 3,
+        "activities": "Hike to Nafakhum waterfall, river trekking"
+      },
+      {
+        "day": 4,
+        "activities": "Visit Nilgiri and Chimbuk Hill, scenic photography"
+      },
+      {
+        "day": 5,
+        "activities": "Morning rest and departure"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fed",
+    "title": "Kuakata Sunrise to Sunset Tour",
+    "description": "Witness both sunrise and sunset over the sea at Kuakata beach, a rare gem in southern Bangladesh.",
+    "price": 5800,
+    "tripType": "Relaxation",
+    "days": 3,
+    "location": "Kuakata",
+    "gallery": [
+      "https://images.deepai.org/art-image/a153c611d6904ca092d86e33c25c8391/sunrise-over-kuakata-sea-beach-with-fishermen-walking.jpg",
+      "https://images.deepai.org/art-image/c61023c3eaf344e18481cfca661f2563/tourists-sitting-on-kuakata-beach-watching-golden-sun.jpg",
+      "https://images.deepai.org/art-image/b5576a868a6f4fb5b6364f5e6d5ea5d5/buddhist-temple-structure-with-red-roof-and-prayer-fl.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Bus ride to Kuakata, beach hotel check-in"
+      },
+      {
+        "day": 2,
+        "activities": "See sunrise in early morning and explore dry fish market"
+      },
+      {
+        "day": 3,
+        "activities": "Watch sunset, visit Buddhist temple, depart"
+      }
+    ]
+  }
+] TourismAndGuides.jsx 7
+[09:17 AM 27-07-25] 68852b90c78ef640a3f93940 id GuideProfile.jsx 6
+[09:17 AM 27-07-25] {
+  "_id": "68852bc3c78ef640a3f9394c",
+  "userId": {
+    "_id": "68852b90c78ef640a3f93940",
+    "name": "গণিত ভালোবাসি",
+    "email": "gonitvalobasi@gmail.com",
+    "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocIv7_kErI1pX4G3Zu-M1fgytLhP7pMEiNjQp2dSybnJ3whLZW4=s96-c",
+    "role": "tour-guide",
+    "last_loggedIn": "2025-07-26T19:25:04.478Z",
+    "createdAt": "2025-07-26T19:25:04.478Z",
+    "updatedAt": "2025-07-26T19:30:43.600Z",
+    "__v": 0
+  },
+  "title": "Experienced Mountain Guide",
+  "reason": "I love guiding tourists and know every trail in the hills, especially the remote spots in Bandarban and Sajek.",
+  "cvLink": "https://drive.google.com/file/d/1HAkBOSth-W68Df8O0uZM7KfZx-9CQGd7/view?usp=sharing",
+  "status": "accepted",
+  "createdAt": "2025-07-26T19:25:55.283Z",
+  "__v": 0
+} data GuideProfile.jsx 15
+[09:17 AM 27-07-25] {
+  "_id": "68852bc3c78ef640a3f9394c",
+  "userId": {
+    "_id": "68852b90c78ef640a3f93940",
+    "name": "গণিত ভালোবাসি",
+    "email": "gonitvalobasi@gmail.com",
+    "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocIv7_kErI1pX4G3Zu-M1fgytLhP7pMEiNjQp2dSybnJ3whLZW4=s96-c",
+    "role": "tour-guide",
+    "last_loggedIn": "2025-07-26T19:25:04.478Z",
+    "createdAt": "2025-07-26T19:25:04.478Z",
+    "updatedAt": "2025-07-26T19:30:43.600Z",
+    "__v": 0
+  },
+  "title": "Experienced Mountain Guide",
+  "reason": "I love guiding tourists and know every trail in the hills, especially the remote spots in Bandarban and Sajek.",
+  "cvLink": "https://drive.google.com/file/d/1HAkBOSth-W68Df8O0uZM7KfZx-9CQGd7/view?usp=sharing",
+  "status": "accepted",
+  "createdAt": "2025-07-26T19:25:55.283Z",
+  "__v": 0
+} data GuideProfile.jsx 15
+[09:17 AM 27-07-25] 68852b14c78ef640a3f93929 id GuideProfile.jsx 6
+[09:17 AM 27-07-25] 68852b90c78ef640a3f93940 id GuideProfile.jsx 6
+[09:17 AM 27-07-25] 68852b14c78ef640a3f93929 id GuideProfile.jsx 6
+[09:17 AM 27-07-25] [] TourismAndGuides.jsx 7
+[09:17 AM 27-07-25] [] TourismAndGuides.jsx 7
+[09:17 AM 27-07-25] [] TourismAndGuides.jsx 7
+[09:17 AM 27-07-25] [] TourismAndGuides.jsx 7
+[09:17 AM 27-07-25] [
+  {
+    "_id": "68858b3698f52bacf98f9fe8",
+    "title": "Bandarban Tribal Hills Trek",
+    "description": "Experience the serene hills of Bandarban, visit tribal villages, and hike trails like Nilgiri and Nafakhum surrounded by clouds and waterfalls.",
+    "price": 6900,
+    "tripType": "Adventure",
+    "days": 5,
+    "location": "Bandarban",
+    "gallery": [
+      "https://images.deepai.org/art-image/83ea73b1eb8f4247bf48c7705aeb4887/hilltop-view-from-nilgiri-in-early-morning-fog-with-g.jpg",
+      "https://images.deepai.org/art-image/0a059bc079e049899859428e7be0688a/tourists-hiking-to-nafakhum-waterfall-through-forest-.jpg",
+      "https://images.deepai.org/art-image/d8364193a6364316965549baada5b85e/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Depart from Dhaka, check-in at resort near Meghla"
+      },
+      {
+        "day": 2,
+        "activities": "Visit Nilachal, explore tribal markets and local culture"
+      },
+      {
+        "day": 3,
+        "activities": "Hike to Nafakhum waterfall, river trekking"
+      },
+      {
+        "day": 4,
+        "activities": "Visit Nilgiri and Chimbuk Hill, scenic photography"
+      },
+      {
+        "day": 5,
+        "activities": "Morning rest and departure"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fe6",
+    "title": "Sundarbans Wildlife Expedition",
+    "description": "Explore the world’s largest mangrove forest and spot rare wildlife like Royal Bengal Tigers, spotted deer, and exotic birds on a tranquil boat journey.",
+    "price": 8200,
+    "tripType": "Nature",
+    "days": 4,
+    "location": "Sundarbans",
+    "gallery": [
+      "https://images.deepai.org/art-image/18013ccde158403e97b2804d68101e57/traditional-launch-boat-in-sundarbans-mangrove-river-.jpg",
+      "https://images.deepai.org/art-image/0271952765ce412b878981dbdb957347/royal-bengal-tiger-mid-step-among-trees-in-sundarbans.jpg",
+      "https://images.deepai.org/art-image/edb1fdbc627d46b692194673642c8cd8/fishing-village-huts-on-stilts-beside-muddy-river-in-.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Depart from Khulna, board the launch, and begin forest river cruise"
+      },
+      {
+        "day": 2,
+        "activities": "Jungle walk in Kotka, birdwatching at dawn, tiger sighting spots"
+      },
+      {
+        "day": 3,
+        "activities": "Canoe ride near narrow mangrove creeks, visit local fishing village"
+      },
+      {
+        "day": 4,
+        "activities": "Return from cruise and transfer to Khulna city"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fe5",
+    "title": "Cox's Bazar Beach Escape",
+    "description": "Enjoy the world’s longest sea beach, local seafood, and calm sunsets at Cox’s Bazar. Ideal for couples, families, or solo travelers.",
+    "price": 5500,
+    "tripType": "Relaxation",
+    "days": 3,
+    "location": "Cox's Bazar",
+    "gallery": [
+      "https://images.deepai.org/art-image/72bca9114b0941e89cdb0ea0a22f5553/cox-s-bazar-sea-beach-during-sunset-with-silhouettes-.jpg",
+      "https://api.deepai.org/job-view-file/d46572d0-47a7-41cc-8eae-d7bac1a7e0a6/outputs/output.jpg",
+      "https://api.deepai.org/job-view-file/21cbe50a-3fd5-40b2-b412-de7076ace8c9/outputs/output.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Departure from Dhaka, check-in at sea view hotel, evening walk by the beach"
+      },
+      {
+        "day": 2,
+        "activities": "Visit Himchari, Inani Beach, and enjoy local seafood lunch"
+      },
+      {
+        "day": 3,
+        "activities": "Shopping from Burmese market and return journey"
+      }
+    ]
+  }
+] TourismAndGuides.jsx 7
+[09:17 AM 27-07-25] [
+  {
+    "_id": "68858b3698f52bacf98f9fe8",
+    "title": "Bandarban Tribal Hills Trek",
+    "description": "Experience the serene hills of Bandarban, visit tribal villages, and hike trails like Nilgiri and Nafakhum surrounded by clouds and waterfalls.",
+    "price": 6900,
+    "tripType": "Adventure",
+    "days": 5,
+    "location": "Bandarban",
+    "gallery": [
+      "https://images.deepai.org/art-image/83ea73b1eb8f4247bf48c7705aeb4887/hilltop-view-from-nilgiri-in-early-morning-fog-with-g.jpg",
+      "https://images.deepai.org/art-image/0a059bc079e049899859428e7be0688a/tourists-hiking-to-nafakhum-waterfall-through-forest-.jpg",
+      "https://images.deepai.org/art-image/d8364193a6364316965549baada5b85e/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Depart from Dhaka, check-in at resort near Meghla"
+      },
+      {
+        "day": 2,
+        "activities": "Visit Nilachal, explore tribal markets and local culture"
+      },
+      {
+        "day": 3,
+        "activities": "Hike to Nafakhum waterfall, river trekking"
+      },
+      {
+        "day": 4,
+        "activities": "Visit Nilgiri and Chimbuk Hill, scenic photography"
+      },
+      {
+        "day": 5,
+        "activities": "Morning rest and departure"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fe6",
+    "title": "Sundarbans Wildlife Expedition",
+    "description": "Explore the world’s largest mangrove forest and spot rare wildlife like Royal Bengal Tigers, spotted deer, and exotic birds on a tranquil boat journey.",
+    "price": 8200,
+    "tripType": "Nature",
+    "days": 4,
+    "location": "Sundarbans",
+    "gallery": [
+      "https://images.deepai.org/art-image/18013ccde158403e97b2804d68101e57/traditional-launch-boat-in-sundarbans-mangrove-river-.jpg",
+      "https://images.deepai.org/art-image/0271952765ce412b878981dbdb957347/royal-bengal-tiger-mid-step-among-trees-in-sundarbans.jpg",
+      "https://images.deepai.org/art-image/edb1fdbc627d46b692194673642c8cd8/fishing-village-huts-on-stilts-beside-muddy-river-in-.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Depart from Khulna, board the launch, and begin forest river cruise"
+      },
+      {
+        "day": 2,
+        "activities": "Jungle walk in Kotka, birdwatching at dawn, tiger sighting spots"
+      },
+      {
+        "day": 3,
+        "activities": "Canoe ride near narrow mangrove creeks, visit local fishing village"
+      },
+      {
+        "day": 4,
+        "activities": "Return from cruise and transfer to Khulna city"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fe5",
+    "title": "Cox's Bazar Beach Escape",
+    "description": "Enjoy the world’s longest sea beach, local seafood, and calm sunsets at Cox’s Bazar. Ideal for couples, families, or solo travelers.",
+    "price": 5500,
+    "tripType": "Relaxation",
+    "days": 3,
+    "location": "Cox's Bazar",
+    "gallery": [
+      "https://images.deepai.org/art-image/72bca9114b0941e89cdb0ea0a22f5553/cox-s-bazar-sea-beach-during-sunset-with-silhouettes-.jpg",
+      "https://api.deepai.org/job-view-file/d46572d0-47a7-41cc-8eae-d7bac1a7e0a6/outputs/output.jpg",
+      "https://api.deepai.org/job-view-file/21cbe50a-3fd5-40b2-b412-de7076ace8c9/outputs/output.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Departure from Dhaka, check-in at sea view hotel, evening walk by the beach"
+      },
+      {
+        "day": 2,
+        "activities": "Visit Himchari, Inani Beach, and enjoy local seafood lunch"
+      },
+      {
+        "day": 3,
+        "activities": "Shopping from Burmese market and return journey"
+      }
+    ]
+  }
+] TourismAndGuides.jsx 7
+[09:17 AM 27-07-25] 68852bc3c78ef640a3f9394c id GuideProfile.jsx 6
+[09:17 AM 27-07-25] null data GuideProfile.jsx 15
+[09:17 AM 27-07-25] null data GuideProfile.jsx 15
+[09:17 AM 27-07-25] error null
+[09:17 AM 27-07-25] error null
+[09:17 AM 27-07-25] 68852b90c78ef640a3f93940 id GuideProfile.jsx 6
+[09:18 AM 27-07-25] 68852bc3c78ef640a3f9394c id GuideProfile.jsx 6
+[09:18 AM 27-07-25] 68852b90c78ef640a3f93940 id GuideProfile.jsx 6
+[09:18 AM 27-07-25] 68852bc3c78ef640a3f9394c id GuideProfile.jsx 6
+[09:18 AM 27-07-25] 68852b90c78ef640a3f93940 id GuideProfile.jsx 6
+[09:18 AM 27-07-25] 68852bc3c78ef640a3f9394c id GuideProfile.jsx 6
+[09:18 AM 27-07-25] 68852b90c78ef640a3f93940 id GuideProfile.jsx 6
+[09:18 AM 27-07-25] 68852bc3c78ef640a3f9394c id GuideProfile.jsx 6
+[09:18 AM 27-07-25] 68852b90c78ef640a3f93940 id GuideProfile.jsx 6
+[09:18 AM 27-07-25] 68852bc3c78ef640a3f9394c id GuideProfile.jsx 6
+[09:18 AM 27-07-25] 68852b90c78ef640a3f93940 id GuideProfile.jsx 6
+[09:18 AM 27-07-25] 68852bc3c78ef640a3f9394c id GuideProfile.jsx 6
+[09:18 AM 27-07-25] 68852b90c78ef640a3f93940 id GuideProfile.jsx 6
+[09:18 AM 27-07-25] 68852bc3c78ef640a3f9394c id GuideProfile.jsx 6
+[09:19 AM 27-07-25] 68852bc3c78ef640a3f9394c id GuideProfile.jsx 6
+[09:19 AM 27-07-25] [] TourismAndGuides.jsx 7
+[09:19 AM 27-07-25] [] TourismAndGuides.jsx 7
+[09:19 AM 27-07-25] [] TourismAndGuides.jsx 7
+[09:19 AM 27-07-25] [] TourismAndGuides.jsx 7
+[09:19 AM 27-07-25] [
+  {
+    "_id": "68858b3698f52bacf98f9fec",
+    "title": "Paharpur & Mahasthangarh Archaeology Tour",
+    "description": "Step back into history with guided tours to Paharpur Buddhist Monastery and Mahasthangarh ruins in North Bengal.",
+    "price": 6300,
+    "tripType": "Historical",
+    "days": 3,
+    "location": "Naogaon & Bogura",
+    "gallery": [
+      "https://images.deepai.org/art-image/56647f7ad23e4a21801c30422b3d6d30/panoramic-view-of-somapura-mahavihara-ruins-with-bric.jpg",
+      "https://images.deepai.org/art-image/6681118a3c4d4532a0602d5b5366d8b4/ancient-stone-wall-with-inscriptions-at-mahasthangarh.jpg",
+      "https://images.deepai.org/art-image/fd411f45710b413d9c2b65e3f99a1c44/local-guide-explaining-history-at-small-rural-museum-.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Train to Bogura, visit Mahasthangarh ancient city ruins"
+      },
+      {
+        "day": 2,
+        "activities": "Travel to Paharpur, explore UNESCO heritage site"
+      },
+      {
+        "day": 3,
+        "activities": "Visit local museum, return by train"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fe9",
+    "title": "Sylhet Tea Garden & Waterfall Tour",
+    "description": "Visit Sylhet’s lush tea gardens, serene waterfalls, and natural landmarks like Ratargul swamp forest for a peaceful escape.",
+    "price": 4800,
+    "tripType": "Nature",
+    "days": 3,
+    "location": "Sylhet",
+    "gallery": [
+      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg",
+      "https://images.deepai.org/art-image/1d9c99fa1f3c43458eb037c1c62491f4/wooden-boat-floating-through-ratargul-swamp-forest-wi.jpg",
+      "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Arrival, explore Lakkatura tea estate and local restaurants"
+      },
+      {
+        "day": 2,
+        "activities": "Boat trip to Ratargul swamp forest and visit Jaflong"
+      },
+      {
+        "day": 3,
+        "activities": "Visit Madhabkunda waterfall, return journey"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fe5",
+    "title": "Cox's Bazar Beach Escape",
+    "description": "Enjoy the world’s longest sea beach, local seafood, and calm sunsets at Cox’s Bazar. Ideal for couples, families, or solo travelers.",
+    "price": 5500,
+    "tripType": "Relaxation",
+    "days": 3,
+    "location": "Cox's Bazar",
+    "gallery": [
+      "https://images.deepai.org/art-image/72bca9114b0941e89cdb0ea0a22f5553/cox-s-bazar-sea-beach-during-sunset-with-silhouettes-.jpg",
+      "https://api.deepai.org/job-view-file/d46572d0-47a7-41cc-8eae-d7bac1a7e0a6/outputs/output.jpg",
+      "https://api.deepai.org/job-view-file/21cbe50a-3fd5-40b2-b412-de7076ace8c9/outputs/output.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Departure from Dhaka, check-in at sea view hotel, evening walk by the beach"
+      },
+      {
+        "day": 2,
+        "activities": "Visit Himchari, Inani Beach, and enjoy local seafood lunch"
+      },
+      {
+        "day": 3,
+        "activities": "Shopping from Burmese market and return journey"
+      }
+    ]
+  }
+] TourismAndGuides.jsx 7
+[09:19 AM 27-07-25] [
+  {
+    "_id": "68858b3698f52bacf98f9fec",
+    "title": "Paharpur & Mahasthangarh Archaeology Tour",
+    "description": "Step back into history with guided tours to Paharpur Buddhist Monastery and Mahasthangarh ruins in North Bengal.",
+    "price": 6300,
+    "tripType": "Historical",
+    "days": 3,
+    "location": "Naogaon & Bogura",
+    "gallery": [
+      "https://images.deepai.org/art-image/56647f7ad23e4a21801c30422b3d6d30/panoramic-view-of-somapura-mahavihara-ruins-with-bric.jpg",
+      "https://images.deepai.org/art-image/6681118a3c4d4532a0602d5b5366d8b4/ancient-stone-wall-with-inscriptions-at-mahasthangarh.jpg",
+      "https://images.deepai.org/art-image/fd411f45710b413d9c2b65e3f99a1c44/local-guide-explaining-history-at-small-rural-museum-.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Train to Bogura, visit Mahasthangarh ancient city ruins"
+      },
+      {
+        "day": 2,
+        "activities": "Travel to Paharpur, explore UNESCO heritage site"
+      },
+      {
+        "day": 3,
+        "activities": "Visit local museum, return by train"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fe9",
+    "title": "Sylhet Tea Garden & Waterfall Tour",
+    "description": "Visit Sylhet’s lush tea gardens, serene waterfalls, and natural landmarks like Ratargul swamp forest for a peaceful escape.",
+    "price": 4800,
+    "tripType": "Nature",
+    "days": 3,
+    "location": "Sylhet",
+    "gallery": [
+      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg",
+      "https://images.deepai.org/art-image/1d9c99fa1f3c43458eb037c1c62491f4/wooden-boat-floating-through-ratargul-swamp-forest-wi.jpg",
+      "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Arrival, explore Lakkatura tea estate and local restaurants"
+      },
+      {
+        "day": 2,
+        "activities": "Boat trip to Ratargul swamp forest and visit Jaflong"
+      },
+      {
+        "day": 3,
+        "activities": "Visit Madhabkunda waterfall, return journey"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fe5",
+    "title": "Cox's Bazar Beach Escape",
+    "description": "Enjoy the world’s longest sea beach, local seafood, and calm sunsets at Cox’s Bazar. Ideal for couples, families, or solo travelers.",
+    "price": 5500,
+    "tripType": "Relaxation",
+    "days": 3,
+    "location": "Cox's Bazar",
+    "gallery": [
+      "https://images.deepai.org/art-image/72bca9114b0941e89cdb0ea0a22f5553/cox-s-bazar-sea-beach-during-sunset-with-silhouettes-.jpg",
+      "https://api.deepai.org/job-view-file/d46572d0-47a7-41cc-8eae-d7bac1a7e0a6/outputs/output.jpg",
+      "https://api.deepai.org/job-view-file/21cbe50a-3fd5-40b2-b412-de7076ace8c9/outputs/output.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Departure from Dhaka, check-in at sea view hotel, evening walk by the beach"
+      },
+      {
+        "day": 2,
+        "activities": "Visit Himchari, Inani Beach, and enjoy local seafood lunch"
+      },
+      {
+        "day": 3,
+        "activities": "Shopping from Burmese market and return journey"
+      }
+    ]
+  }
+] TourismAndGuides.jsx 7
+[09:19 AM 27-07-25] 68852b90c78ef640a3f93940 id GuideProfile.jsx 6
+[09:19 AM 27-07-25] undefined id GuideProfile.jsx 6
+[09:19 AM 27-07-25] undefined id GuideProfile.jsx 6
+[09:19 AM 27-07-25] undefined id GuideProfile.jsx 6
+[09:19 AM 27-07-25] undefined id GuideProfile.jsx 6
+[09:19 AM 27-07-25] null data GuideProfile.jsx 15
+[09:19 AM 27-07-25] error {
+  "message": "Request failed with status code 500",
+  "name": "AxiosError",
+  "stack": "settle@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:1229:12\nonloadend@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:1561:13\n",
+  "config": {
+    "transitional": {
+      "silentJSONParsing": true,
+      "forcedJSONParsing": true,
+      "clarifyTimeoutError": false
+    },
+    "adapter": [
+      "xhr",
+      "http",
+      "fetch"
+    ],
+    "transformRequest": [
+      null
+    ],
+    "transformResponse": [
+      null
+    ],
+    "timeout": 0,
+    "xsrfCookieName": "XSRF-TOKEN",
+    "xsrfHeaderName": "X-XSRF-TOKEN",
+    "maxContentLength": -1,
+    "maxBodyLength": -1,
+    "env": {},
+    "headers": {
+      "Accept": "application/json, text/plain, */*",
+      "Authorization": "Bearer eyJhbGciOiJSUzI1NiIsImtpZCI6IjZkZTQwZjA0ODgxYzZhMDE2MTFlYjI4NGE0Yzk1YTI1MWU5MTEyNTAiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiTWQgU2oiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSm16SXpyTlR4cTJkemVXVURYS2xObzJnbElKRm8zcFFhODUxMGpvanZNRGtOT2lnPXM5Ni1jIiwiaXNzIjoiaHR0cHM6Ly9zZWN1cmV0b2tlbi5nb29nbGUuY29tL2Rlc2hndWlkZSIsImF1ZCI6ImRlc2hndWlkZSIsImF1dGhfdGltZSI6MTc1MzU1ODQ5MiwidXNlcl9pZCI6Ik1YMUFNWllnSzRWWE56M0ZwemtvSmF1WDZieTIiLCJzdWIiOiJNWDFBTVpZZ0s0VlhOejNGcHprb0phdVg2YnkyIiwiaWF0IjoxNzUzNTg1NzExLCJleHAiOjE3NTM1ODkzMTEsImVtYWlsIjoibWRzajA0MjVAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZ29vZ2xlLmNvbSI6WyIxMDMzNTkyMDExNzQzMzM3NTk2OTgiXSwiZW1haWwiOlsibWRzajA0MjVAZ21haWwuY29tIl19LCJzaWduX2luX3Byb3ZpZGVyIjoiZ29vZ2xlLmNvbSJ9fQ.nnTgcOL5ZYMEfy9dgKgiN1l6EPvSYN7FmXqihMO0FqGCxHjvBrdPJYoWSAeQCde6Nb-gQyH00O-0ivExp5CaCcCNQWlkMAEJU5WrYwHqorrYhsGimgXs3kpbNpNRBAsbtHY9psR7sym-mZd_YYL4BYUPqYkqFzYH-41esKWXUs2hl_N2IFq0H-nKLHhfjq-seymUdSYgL2R68AjCAWazG624t5uvLKIibvWgHNLAtKjMyErczKDGB51u_MsOw0yUhVT-IiSPgnMv6iaPRCBAV8jADieRt-U8Bjm8e-KQfZ9ZmuSR13mkf-DLWcy_WyXDqL3SqlW6lkCFzxChq6oQ3g"
+    },
+    "baseURL": "http://localhost:5000/api/v1/",
+    "method": "get",
+    "url": "tour-guide-requests/user/undefined",
+    "allowAbsoluteUrls": true
+  },
+  "code": "ERR_BAD_RESPONSE",
+  "status": 500
+}
+[09:19 AM 27-07-25] null data GuideProfile.jsx 15
+[09:19 AM 27-07-25] error {
+  "message": "Request failed with status code 500",
+  "name": "AxiosError",
+  "stack": "settle@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:1229:12\nonloadend@http://localhost:5173/node_modules/.vite/deps/axios.js?v=904aa0e5:1561:13\n",
+  "config": {
+    "transitional": {
+      "silentJSONParsing": true,
+      "forcedJSONParsing": true,
+      "clarifyTimeoutError": false
+    },
+    "adapter": [
+      "xhr",
+      "http",
+      "fetch"
+    ],
+    "transformRequest": [
+      null
+    ],
+    "transformResponse": [
+      null
+    ],
+    "timeout": 0,
+    "xsrfCookieName": "XSRF-TOKEN",
+    "xsrfHeaderName": "X-XSRF-TOKEN",
+    "maxContentLength": -1,
+    "maxBodyLength": -1,
+    "env": {},
+    "headers": {
+      "Accept": "application/json, text/plain, */*",
+      "Authorization": "Bearer eyJhbGciOiJSUzI1NiIsImtpZCI6IjZkZTQwZjA0ODgxYzZhMDE2MTFlYjI4NGE0Yzk1YTI1MWU5MTEyNTAiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiTWQgU2oiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSm16SXpyTlR4cTJkemVXVURYS2xObzJnbElKRm8zcFFhODUxMGpvanZNRGtOT2lnPXM5Ni1jIiwiaXNzIjoiaHR0cHM6Ly9zZWN1cmV0b2tlbi5nb29nbGUuY29tL2Rlc2hndWlkZSIsImF1ZCI6ImRlc2hndWlkZSIsImF1dGhfdGltZSI6MTc1MzU1ODQ5MiwidXNlcl9pZCI6Ik1YMUFNWllnSzRWWE56M0ZwemtvSmF1WDZieTIiLCJzdWIiOiJNWDFBTVpZZ0s0VlhOejNGcHprb0phdVg2YnkyIiwiaWF0IjoxNzUzNTg1NzExLCJleHAiOjE3NTM1ODkzMTEsImVtYWlsIjoibWRzajA0MjVAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZ29vZ2xlLmNvbSI6WyIxMDMzNTkyMDExNzQzMzM3NTk2OTgiXSwiZW1haWwiOlsibWRzajA0MjVAZ21haWwuY29tIl19LCJzaWduX2luX3Byb3ZpZGVyIjoiZ29vZ2xlLmNvbSJ9fQ.nnTgcOL5ZYMEfy9dgKgiN1l6EPvSYN7FmXqihMO0FqGCxHjvBrdPJYoWSAeQCde6Nb-gQyH00O-0ivExp5CaCcCNQWlkMAEJU5WrYwHqorrYhsGimgXs3kpbNpNRBAsbtHY9psR7sym-mZd_YYL4BYUPqYkqFzYH-41esKWXUs2hl_N2IFq0H-nKLHhfjq-seymUdSYgL2R68AjCAWazG624t5uvLKIibvWgHNLAtKjMyErczKDGB51u_MsOw0yUhVT-IiSPgnMv6iaPRCBAV8jADieRt-U8Bjm8e-KQfZ9ZmuSR13mkf-DLWcy_WyXDqL3SqlW6lkCFzxChq6oQ3g"
+    },
+    "baseURL": "http://localhost:5000/api/v1/",
+    "method": "get",
+    "url": "tour-guide-requests/user/undefined",
+    "allowAbsoluteUrls": true
+  },
+  "code": "ERR_BAD_RESPONSE",
+  "status": 500
+}
+[09:19 AM 27-07-25] 68852b90c78ef640a3f93940 id GuideProfile.jsx 6
+[09:20 AM 27-07-25] 68852b90c78ef640a3f93940 id GuideProfile.jsx 6
+[09:20 AM 27-07-25] undefined id GuideProfile.jsx 6
+[09:20 AM 27-07-25] undefined id GuideProfile.jsx 6
+[09:20 AM 27-07-25] [] TourismAndGuides.jsx 7
+[09:20 AM 27-07-25] [] TourismAndGuides.jsx 7
+[09:20 AM 27-07-25] [] TourismAndGuides.jsx 7
+[09:20 AM 27-07-25] [] TourismAndGuides.jsx 7
+[09:20 AM 27-07-25] [
+  {
+    "_id": "68858b3698f52bacf98f9fee",
+    "title": "Bhawal National Park Forest Daytrip",
+    "description": "A short forest escape from Dhaka with wildlife, greenery, and a refreshing picnic vibe for families or groups.",
+    "price": 2000,
+    "tripType": "Nature",
+    "days": 1,
+    "location": "Gazipur",
+    "gallery": [
+      "https://images.deepai.org/art-image/fa7df2d2a6c248bba2a096e31e17c306/path-through-bhawal-forest-with-tall-sal-trees-and-li.jpg",
+      "https://images.deepai.org/art-image/6d1242776af24b29989fcb1f05e2a9f7/colorful-paddle-boat-floating-on-small-forest-lake-in.jpg",
+      "https://images.deepai.org/art-image/b34dc26354ae436595ba69b3a982f9c5/a-river-and-forest-scenic-beauty-with-the-sunset-thum.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Morning drive from Dhaka, jungle walk, boating, picnic, return"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fea",
+    "title": "Rangamati Lake & Tribal Culture Tour",
+    "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+    "price": 5200,
+    "tripType": "Cultural",
+    "days": 3,
+    "location": "Rangamati",
+    "gallery": [
+      "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+      "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+      "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Bus ride from Chittagong, lake view resort check-in"
+      },
+      {
+        "day": 2,
+        "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+      },
+      {
+        "day": 3,
+        "activities": "Explore local markets and return trip"
+      }
+    ],
+    "imagePrompts": [
+      "Sunset view over Kaptai Lake with orange reflections on calm water"
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fe5",
+    "title": "Cox's Bazar Beach Escape",
+    "description": "Enjoy the world’s longest sea beach, local seafood, and calm sunsets at Cox’s Bazar. Ideal for couples, families, or solo travelers.",
+    "price": 5500,
+    "tripType": "Relaxation",
+    "days": 3,
+    "location": "Cox's Bazar",
+    "gallery": [
+      "https://images.deepai.org/art-image/72bca9114b0941e89cdb0ea0a22f5553/cox-s-bazar-sea-beach-during-sunset-with-silhouettes-.jpg",
+      "https://api.deepai.org/job-view-file/d46572d0-47a7-41cc-8eae-d7bac1a7e0a6/outputs/output.jpg",
+      "https://api.deepai.org/job-view-file/21cbe50a-3fd5-40b2-b412-de7076ace8c9/outputs/output.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Departure from Dhaka, check-in at sea view hotel, evening walk by the beach"
+      },
+      {
+        "day": 2,
+        "activities": "Visit Himchari, Inani Beach, and enjoy local seafood lunch"
+      },
+      {
+        "day": 3,
+        "activities": "Shopping from Burmese market and return journey"
+      }
+    ]
+  }
+] TourismAndGuides.jsx 7
+[09:20 AM 27-07-25] [
+  {
+    "_id": "68858b3698f52bacf98f9fee",
+    "title": "Bhawal National Park Forest Daytrip",
+    "description": "A short forest escape from Dhaka with wildlife, greenery, and a refreshing picnic vibe for families or groups.",
+    "price": 2000,
+    "tripType": "Nature",
+    "days": 1,
+    "location": "Gazipur",
+    "gallery": [
+      "https://images.deepai.org/art-image/fa7df2d2a6c248bba2a096e31e17c306/path-through-bhawal-forest-with-tall-sal-trees-and-li.jpg",
+      "https://images.deepai.org/art-image/6d1242776af24b29989fcb1f05e2a9f7/colorful-paddle-boat-floating-on-small-forest-lake-in.jpg",
+      "https://images.deepai.org/art-image/b34dc26354ae436595ba69b3a982f9c5/a-river-and-forest-scenic-beauty-with-the-sunset-thum.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Morning drive from Dhaka, jungle walk, boating, picnic, return"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fea",
+    "title": "Rangamati Lake & Tribal Culture Tour",
+    "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+    "price": 5200,
+    "tripType": "Cultural",
+    "days": 3,
+    "location": "Rangamati",
+    "gallery": [
+      "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+      "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+      "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Bus ride from Chittagong, lake view resort check-in"
+      },
+      {
+        "day": 2,
+        "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+      },
+      {
+        "day": 3,
+        "activities": "Explore local markets and return trip"
+      }
+    ],
+    "imagePrompts": [
+      "Sunset view over Kaptai Lake with orange reflections on calm water"
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fe5",
+    "title": "Cox's Bazar Beach Escape",
+    "description": "Enjoy the world’s longest sea beach, local seafood, and calm sunsets at Cox’s Bazar. Ideal for couples, families, or solo travelers.",
+    "price": 5500,
+    "tripType": "Relaxation",
+    "days": 3,
+    "location": "Cox's Bazar",
+    "gallery": [
+      "https://images.deepai.org/art-image/72bca9114b0941e89cdb0ea0a22f5553/cox-s-bazar-sea-beach-during-sunset-with-silhouettes-.jpg",
+      "https://api.deepai.org/job-view-file/d46572d0-47a7-41cc-8eae-d7bac1a7e0a6/outputs/output.jpg",
+      "https://api.deepai.org/job-view-file/21cbe50a-3fd5-40b2-b412-de7076ace8c9/outputs/output.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Departure from Dhaka, check-in at sea view hotel, evening walk by the beach"
+      },
+      {
+        "day": 2,
+        "activities": "Visit Himchari, Inani Beach, and enjoy local seafood lunch"
+      },
+      {
+        "day": 3,
+        "activities": "Shopping from Burmese market and return journey"
+      }
+    ]
+  }
+] TourismAndGuides.jsx 7
+[09:20 AM 27-07-25] undefined id GuideProfile.jsx 6
+[09:20 AM 27-07-25] undefined id GuideProfile.jsx 6
+[09:20 AM 27-07-25] undefined id GuideProfile.jsx 6
+[09:20 AM 27-07-25] [] TourismAndGuides.jsx 7
+[09:20 AM 27-07-25] [] TourismAndGuides.jsx 7
+[09:20 AM 27-07-25] [] TourismAndGuides.jsx 7
+[09:20 AM 27-07-25] [] TourismAndGuides.jsx 7
+[09:20 AM 27-07-25] [
+  {
+    "_id": "68858b3698f52bacf98f9fe9",
+    "title": "Sylhet Tea Garden & Waterfall Tour",
+    "description": "Visit Sylhet’s lush tea gardens, serene waterfalls, and natural landmarks like Ratargul swamp forest for a peaceful escape.",
+    "price": 4800,
+    "tripType": "Nature",
+    "days": 3,
+    "location": "Sylhet",
+    "gallery": [
+      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg",
+      "https://images.deepai.org/art-image/1d9c99fa1f3c43458eb037c1c62491f4/wooden-boat-floating-through-ratargul-swamp-forest-wi.jpg",
+      "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Arrival, explore Lakkatura tea estate and local restaurants"
+      },
+      {
+        "day": 2,
+        "activities": "Boat trip to Ratargul swamp forest and visit Jaflong"
+      },
+      {
+        "day": 3,
+        "activities": "Visit Madhabkunda waterfall, return journey"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fe6",
+    "title": "Sundarbans Wildlife Expedition",
+    "description": "Explore the world’s largest mangrove forest and spot rare wildlife like Royal Bengal Tigers, spotted deer, and exotic birds on a tranquil boat journey.",
+    "price": 8200,
+    "tripType": "Nature",
+    "days": 4,
+    "location": "Sundarbans",
+    "gallery": [
+      "https://images.deepai.org/art-image/18013ccde158403e97b2804d68101e57/traditional-launch-boat-in-sundarbans-mangrove-river-.jpg",
+      "https://images.deepai.org/art-image/0271952765ce412b878981dbdb957347/royal-bengal-tiger-mid-step-among-trees-in-sundarbans.jpg",
+      "https://images.deepai.org/art-image/edb1fdbc627d46b692194673642c8cd8/fishing-village-huts-on-stilts-beside-muddy-river-in-.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Depart from Khulna, board the launch, and begin forest river cruise"
+      },
+      {
+        "day": 2,
+        "activities": "Jungle walk in Kotka, birdwatching at dawn, tiger sighting spots"
+      },
+      {
+        "day": 3,
+        "activities": "Canoe ride near narrow mangrove creeks, visit local fishing village"
+      },
+      {
+        "day": 4,
+        "activities": "Return from cruise and transfer to Khulna city"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fe7",
+    "title": "Saint Martin's Coral Island Adventure",
+    "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+    "price": 7200,
+    "tripType": "Adventure",
+    "days": 3,
+    "location": "Saint Martin's Island",
+    "gallery": [
+      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+      },
+      {
+        "day": 2,
+        "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+      },
+      {
+        "day": 3,
+        "activities": "Sunrise walk, seafood breakfast, return to mainland"
+      }
+    ]
+  }
+] TourismAndGuides.jsx 7
+[09:20 AM 27-07-25] [
+  {
+    "_id": "68858b3698f52bacf98f9fe9",
+    "title": "Sylhet Tea Garden & Waterfall Tour",
+    "description": "Visit Sylhet’s lush tea gardens, serene waterfalls, and natural landmarks like Ratargul swamp forest for a peaceful escape.",
+    "price": 4800,
+    "tripType": "Nature",
+    "days": 3,
+    "location": "Sylhet",
+    "gallery": [
+      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg",
+      "https://images.deepai.org/art-image/1d9c99fa1f3c43458eb037c1c62491f4/wooden-boat-floating-through-ratargul-swamp-forest-wi.jpg",
+      "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Arrival, explore Lakkatura tea estate and local restaurants"
+      },
+      {
+        "day": 2,
+        "activities": "Boat trip to Ratargul swamp forest and visit Jaflong"
+      },
+      {
+        "day": 3,
+        "activities": "Visit Madhabkunda waterfall, return journey"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fe6",
+    "title": "Sundarbans Wildlife Expedition",
+    "description": "Explore the world’s largest mangrove forest and spot rare wildlife like Royal Bengal Tigers, spotted deer, and exotic birds on a tranquil boat journey.",
+    "price": 8200,
+    "tripType": "Nature",
+    "days": 4,
+    "location": "Sundarbans",
+    "gallery": [
+      "https://images.deepai.org/art-image/18013ccde158403e97b2804d68101e57/traditional-launch-boat-in-sundarbans-mangrove-river-.jpg",
+      "https://images.deepai.org/art-image/0271952765ce412b878981dbdb957347/royal-bengal-tiger-mid-step-among-trees-in-sundarbans.jpg",
+      "https://images.deepai.org/art-image/edb1fdbc627d46b692194673642c8cd8/fishing-village-huts-on-stilts-beside-muddy-river-in-.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Depart from Khulna, board the launch, and begin forest river cruise"
+      },
+      {
+        "day": 2,
+        "activities": "Jungle walk in Kotka, birdwatching at dawn, tiger sighting spots"
+      },
+      {
+        "day": 3,
+        "activities": "Canoe ride near narrow mangrove creeks, visit local fishing village"
+      },
+      {
+        "day": 4,
+        "activities": "Return from cruise and transfer to Khulna city"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fe7",
+    "title": "Saint Martin's Coral Island Adventure",
+    "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+    "price": 7200,
+    "tripType": "Adventure",
+    "days": 3,
+    "location": "Saint Martin's Island",
+    "gallery": [
+      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+      },
+      {
+        "day": 2,
+        "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+      },
+      {
+        "day": 3,
+        "activities": "Sunrise walk, seafood breakfast, return to mainland"
+      }
+    ]
+  }
+] TourismAndGuides.jsx 7

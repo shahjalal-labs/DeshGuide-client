@@ -64,7 +64,7 @@ export default function RandomGuides() {
 
                 <div className="mt-4">
                   <Link
-                    to={`/guides/${guide._id}`}
+                    to={`/guides/${guide?.userId?._id}`}
                     className="btn btn-sm btn-outline text-white border-white hover:bg-white hover:text-black transition duration-200"
                   >
                     View Details
