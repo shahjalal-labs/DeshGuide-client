@@ -5,7 +5,8 @@ import React from "react";
 
 // Create a single axios instance
 export const axiosInstance = axios.create({
-  baseURL: `http://localhost:5000/api/v1/`,
+  // baseURL: `http://localhost:5000/api/v1/`,
+  baseURL: "https://deshguide-server.vercel.app/api/v1/",
 });
 
 // Request interceptor: dynamically set Authorization header
