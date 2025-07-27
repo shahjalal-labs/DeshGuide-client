@@ -44,6 +44,7 @@ const StoryCard = ({ story }) => {
               </p>
             </div>
           </div>
+          <Link>Details</Link>
         </div>
       </motion.div>
     </div>
