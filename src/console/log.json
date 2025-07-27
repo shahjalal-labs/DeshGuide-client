@@ -1285,3 +1285,729 @@
     ]
   }
 ] TourismAndGuides.jsx 7
+[08:23 AM 27-07-25] [] TourismAndGuides.jsx 7
+[08:23 AM 27-07-25] [] TourismAndGuides.jsx 7
+[08:23 AM 27-07-25] [] TourismAndGuides.jsx 7
+[08:23 AM 27-07-25] [] TourismAndGuides.jsx 7
+[08:23 AM 27-07-25] [
+  {
+    "_id": "68858b3698f52bacf98f9fee",
+    "title": "Bhawal National Park Forest Daytrip",
+    "description": "A short forest escape from Dhaka with wildlife, greenery, and a refreshing picnic vibe for families or groups.",
+    "price": 2000,
+    "tripType": "Nature",
+    "days": 1,
+    "location": "Gazipur",
+    "gallery": [
+      "https://images.deepai.org/art-image/fa7df2d2a6c248bba2a096e31e17c306/path-through-bhawal-forest-with-tall-sal-trees-and-li.jpg",
+      "https://images.deepai.org/art-image/6d1242776af24b29989fcb1f05e2a9f7/colorful-paddle-boat-floating-on-small-forest-lake-in.jpg",
+      "https://images.deepai.org/art-image/b34dc26354ae436595ba69b3a982f9c5/a-river-and-forest-scenic-beauty-with-the-sunset-thum.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Morning drive from Dhaka, jungle walk, boating, picnic, return"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fe8",
+    "title": "Bandarban Tribal Hills Trek",
+    "description": "Experience the serene hills of Bandarban, visit tribal villages, and hike trails like Nilgiri and Nafakhum surrounded by clouds and waterfalls.",
+    "price": 6900,
+    "tripType": "Adventure",
+    "days": 5,
+    "location": "Bandarban",
+    "gallery": [
+      "https://images.deepai.org/art-image/83ea73b1eb8f4247bf48c7705aeb4887/hilltop-view-from-nilgiri-in-early-morning-fog-with-g.jpg",
+      "https://images.deepai.org/art-image/0a059bc079e049899859428e7be0688a/tourists-hiking-to-nafakhum-waterfall-through-forest-.jpg",
+      "https://images.deepai.org/art-image/d8364193a6364316965549baada5b85e/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Depart from Dhaka, check-in at resort near Meghla"
+      },
+      {
+        "day": 2,
+        "activities": "Visit Nilachal, explore tribal markets and local culture"
+      },
+      {
+        "day": 3,
+        "activities": "Hike to Nafakhum waterfall, river trekking"
+      },
+      {
+        "day": 4,
+        "activities": "Visit Nilgiri and Chimbuk Hill, scenic photography"
+      },
+      {
+        "day": 5,
+        "activities": "Morning rest and departure"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9feb",
+    "title": "Srimangal Tea & Rainforest Retreat",
+    "description": "Known as the tea capital of Bangladesh, Srimangal offers a calm retreat with Lawachara rainforest, tribal communities, and 7-layer tea.",
+    "price": 4600,
+    "tripType": "Nature",
+    "days": 2,
+    "location": "Srimangal",
+    "gallery": [
+      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg",
+      "https://images.deepai.org/art-image/83ea73b1eb8f4247bf48c7705aeb4887/hilltop-view-from-nilgiri-in-early-morning-fog-with-g.jpg",
+      "https://deepai.org/static/images/new_heart.png"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Arrival, visit Lawachara rainforest and tribal villages"
+      },
+      {
+        "day": 2,
+        "activities": "Taste 7-layer tea, explore tea estates, return home"
+      }
+    ]
+  }
+] TourismAndGuides.jsx 7
+[08:23 AM 27-07-25] [
+  {
+    "_id": "68858b3698f52bacf98f9fee",
+    "title": "Bhawal National Park Forest Daytrip",
+    "description": "A short forest escape from Dhaka with wildlife, greenery, and a refreshing picnic vibe for families or groups.",
+    "price": 2000,
+    "tripType": "Nature",
+    "days": 1,
+    "location": "Gazipur",
+    "gallery": [
+      "https://images.deepai.org/art-image/fa7df2d2a6c248bba2a096e31e17c306/path-through-bhawal-forest-with-tall-sal-trees-and-li.jpg",
+      "https://images.deepai.org/art-image/6d1242776af24b29989fcb1f05e2a9f7/colorful-paddle-boat-floating-on-small-forest-lake-in.jpg",
+      "https://images.deepai.org/art-image/b34dc26354ae436595ba69b3a982f9c5/a-river-and-forest-scenic-beauty-with-the-sunset-thum.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Morning drive from Dhaka, jungle walk, boating, picnic, return"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fe8",
+    "title": "Bandarban Tribal Hills Trek",
+    "description": "Experience the serene hills of Bandarban, visit tribal villages, and hike trails like Nilgiri and Nafakhum surrounded by clouds and waterfalls.",
+    "price": 6900,
+    "tripType": "Adventure",
+    "days": 5,
+    "location": "Bandarban",
+    "gallery": [
+      "https://images.deepai.org/art-image/83ea73b1eb8f4247bf48c7705aeb4887/hilltop-view-from-nilgiri-in-early-morning-fog-with-g.jpg",
+      "https://images.deepai.org/art-image/0a059bc079e049899859428e7be0688a/tourists-hiking-to-nafakhum-waterfall-through-forest-.jpg",
+      "https://images.deepai.org/art-image/d8364193a6364316965549baada5b85e/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Depart from Dhaka, check-in at resort near Meghla"
+      },
+      {
+        "day": 2,
+        "activities": "Visit Nilachal, explore tribal markets and local culture"
+      },
+      {
+        "day": 3,
+        "activities": "Hike to Nafakhum waterfall, river trekking"
+      },
+      {
+        "day": 4,
+        "activities": "Visit Nilgiri and Chimbuk Hill, scenic photography"
+      },
+      {
+        "day": 5,
+        "activities": "Morning rest and departure"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9feb",
+    "title": "Srimangal Tea & Rainforest Retreat",
+    "description": "Known as the tea capital of Bangladesh, Srimangal offers a calm retreat with Lawachara rainforest, tribal communities, and 7-layer tea.",
+    "price": 4600,
+    "tripType": "Nature",
+    "days": 2,
+    "location": "Srimangal",
+    "gallery": [
+      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg",
+      "https://images.deepai.org/art-image/83ea73b1eb8f4247bf48c7705aeb4887/hilltop-view-from-nilgiri-in-early-morning-fog-with-g.jpg",
+      "https://deepai.org/static/images/new_heart.png"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Arrival, visit Lawachara rainforest and tribal villages"
+      },
+      {
+        "day": 2,
+        "activities": "Taste 7-layer tea, explore tea estates, return home"
+      }
+    ]
+  }
+] TourismAndGuides.jsx 7
+[08:23 AM 27-07-25] {
+  "success": true,
+  "message": "Booking created successfully!",
+  "data": {
+    "packageId": "68858b3698f52bacf98f9fee",
+    "packageName": "Bhawal National Park Forest Daytrip",
+    "touristId": "68851c73606080f1804fcc55",
+    "touristName": "Md Sj",
+    "touristEmail": "mdsj0425@gmail.com",
+    "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+    "guideId": "68852ad7c78ef640a3f9391d",
+    "guideName": "Education Education",
+    "price": 2000,
+    "tourDate": "2025-09-24T00:00:00.000Z",
+    "status": "pending",
+    "paymentStatus": "unpaid",
+    "transactionId": "",
+    "_id": "68858db7948da1038545d5ae",
+    "createdAt": "2025-07-27T02:23:51.922Z",
+    "updatedAt": "2025-07-27T02:23:51.922Z"
+  }
+} booking PackageDetails.jsx 81
+[08:24 AM 27-07-25] [] TourismAndGuides.jsx 7
+[08:24 AM 27-07-25] [] TourismAndGuides.jsx 7
+[08:24 AM 27-07-25] [] TourismAndGuides.jsx 7
+[08:24 AM 27-07-25] [] TourismAndGuides.jsx 7
+[08:24 AM 27-07-25] [
+  {
+    "_id": "68858b3698f52bacf98f9fe9",
+    "title": "Sylhet Tea Garden & Waterfall Tour",
+    "description": "Visit Sylhet’s lush tea gardens, serene waterfalls, and natural landmarks like Ratargul swamp forest for a peaceful escape.",
+    "price": 4800,
+    "tripType": "Nature",
+    "days": 3,
+    "location": "Sylhet",
+    "gallery": [
+      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg",
+      "https://images.deepai.org/art-image/1d9c99fa1f3c43458eb037c1c62491f4/wooden-boat-floating-through-ratargul-swamp-forest-wi.jpg",
+      "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Arrival, explore Lakkatura tea estate and local restaurants"
+      },
+      {
+        "day": 2,
+        "activities": "Boat trip to Ratargul swamp forest and visit Jaflong"
+      },
+      {
+        "day": 3,
+        "activities": "Visit Madhabkunda waterfall, return journey"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fe5",
+    "title": "Cox's Bazar Beach Escape",
+    "description": "Enjoy the world’s longest sea beach, local seafood, and calm sunsets at Cox’s Bazar. Ideal for couples, families, or solo travelers.",
+    "price": 5500,
+    "tripType": "Relaxation",
+    "days": 3,
+    "location": "Cox's Bazar",
+    "gallery": [
+      "https://images.deepai.org/art-image/72bca9114b0941e89cdb0ea0a22f5553/cox-s-bazar-sea-beach-during-sunset-with-silhouettes-.jpg",
+      "https://api.deepai.org/job-view-file/d46572d0-47a7-41cc-8eae-d7bac1a7e0a6/outputs/output.jpg",
+      "https://api.deepai.org/job-view-file/21cbe50a-3fd5-40b2-b412-de7076ace8c9/outputs/output.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Departure from Dhaka, check-in at sea view hotel, evening walk by the beach"
+      },
+      {
+        "day": 2,
+        "activities": "Visit Himchari, Inani Beach, and enjoy local seafood lunch"
+      },
+      {
+        "day": 3,
+        "activities": "Shopping from Burmese market and return journey"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9feb",
+    "title": "Srimangal Tea & Rainforest Retreat",
+    "description": "Known as the tea capital of Bangladesh, Srimangal offers a calm retreat with Lawachara rainforest, tribal communities, and 7-layer tea.",
+    "price": 4600,
+    "tripType": "Nature",
+    "days": 2,
+    "location": "Srimangal",
+    "gallery": [
+      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg",
+      "https://images.deepai.org/art-image/83ea73b1eb8f4247bf48c7705aeb4887/hilltop-view-from-nilgiri-in-early-morning-fog-with-g.jpg",
+      "https://deepai.org/static/images/new_heart.png"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Arrival, visit Lawachara rainforest and tribal villages"
+      },
+      {
+        "day": 2,
+        "activities": "Taste 7-layer tea, explore tea estates, return home"
+      }
+    ]
+  }
+] TourismAndGuides.jsx 7
+[08:24 AM 27-07-25] [
+  {
+    "_id": "68858b3698f52bacf98f9fe9",
+    "title": "Sylhet Tea Garden & Waterfall Tour",
+    "description": "Visit Sylhet’s lush tea gardens, serene waterfalls, and natural landmarks like Ratargul swamp forest for a peaceful escape.",
+    "price": 4800,
+    "tripType": "Nature",
+    "days": 3,
+    "location": "Sylhet",
+    "gallery": [
+      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg",
+      "https://images.deepai.org/art-image/1d9c99fa1f3c43458eb037c1c62491f4/wooden-boat-floating-through-ratargul-swamp-forest-wi.jpg",
+      "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Arrival, explore Lakkatura tea estate and local restaurants"
+      },
+      {
+        "day": 2,
+        "activities": "Boat trip to Ratargul swamp forest and visit Jaflong"
+      },
+      {
+        "day": 3,
+        "activities": "Visit Madhabkunda waterfall, return journey"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fe5",
+    "title": "Cox's Bazar Beach Escape",
+    "description": "Enjoy the world’s longest sea beach, local seafood, and calm sunsets at Cox’s Bazar. Ideal for couples, families, or solo travelers.",
+    "price": 5500,
+    "tripType": "Relaxation",
+    "days": 3,
+    "location": "Cox's Bazar",
+    "gallery": [
+      "https://images.deepai.org/art-image/72bca9114b0941e89cdb0ea0a22f5553/cox-s-bazar-sea-beach-during-sunset-with-silhouettes-.jpg",
+      "https://api.deepai.org/job-view-file/d46572d0-47a7-41cc-8eae-d7bac1a7e0a6/outputs/output.jpg",
+      "https://api.deepai.org/job-view-file/21cbe50a-3fd5-40b2-b412-de7076ace8c9/outputs/output.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Departure from Dhaka, check-in at sea view hotel, evening walk by the beach"
+      },
+      {
+        "day": 2,
+        "activities": "Visit Himchari, Inani Beach, and enjoy local seafood lunch"
+      },
+      {
+        "day": 3,
+        "activities": "Shopping from Burmese market and return journey"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9feb",
+    "title": "Srimangal Tea & Rainforest Retreat",
+    "description": "Known as the tea capital of Bangladesh, Srimangal offers a calm retreat with Lawachara rainforest, tribal communities, and 7-layer tea.",
+    "price": 4600,
+    "tripType": "Nature",
+    "days": 2,
+    "location": "Srimangal",
+    "gallery": [
+      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg",
+      "https://images.deepai.org/art-image/83ea73b1eb8f4247bf48c7705aeb4887/hilltop-view-from-nilgiri-in-early-morning-fog-with-g.jpg",
+      "https://deepai.org/static/images/new_heart.png"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Arrival, visit Lawachara rainforest and tribal villages"
+      },
+      {
+        "day": 2,
+        "activities": "Taste 7-layer tea, explore tea estates, return home"
+      }
+    ]
+  }
+] TourismAndGuides.jsx 7
+[08:25 AM 27-07-25] 68851af3606080f1804fcc36 GuideProfile.jsx 6
+[08:25 AM 27-07-25] 68851af3606080f1804fcc36 GuideProfile.jsx 6
+[08:25 AM 27-07-25] 68851af3606080f1804fcc36 GuideProfile.jsx 6
+[08:26 AM 27-07-25] 68851af3606080f1804fcc36 GuideProfile.jsx 6
+[08:26 AM 27-07-25] [] TourismAndGuides.jsx 7
+[08:26 AM 27-07-25] [] TourismAndGuides.jsx 7
+[08:26 AM 27-07-25] [] TourismAndGuides.jsx 7
+[08:26 AM 27-07-25] [] TourismAndGuides.jsx 7
+[08:26 AM 27-07-25] [
+  {
+    "_id": "68858b3698f52bacf98f9fe7",
+    "title": "Saint Martin's Coral Island Adventure",
+    "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+    "price": 7200,
+    "tripType": "Adventure",
+    "days": 3,
+    "location": "Saint Martin's Island",
+    "gallery": [
+      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+      },
+      {
+        "day": 2,
+        "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+      },
+      {
+        "day": 3,
+        "activities": "Sunrise walk, seafood breakfast, return to mainland"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fec",
+    "title": "Paharpur & Mahasthangarh Archaeology Tour",
+    "description": "Step back into history with guided tours to Paharpur Buddhist Monastery and Mahasthangarh ruins in North Bengal.",
+    "price": 6300,
+    "tripType": "Historical",
+    "days": 3,
+    "location": "Naogaon & Bogura",
+    "gallery": [
+      "https://images.deepai.org/art-image/56647f7ad23e4a21801c30422b3d6d30/panoramic-view-of-somapura-mahavihara-ruins-with-bric.jpg",
+      "https://images.deepai.org/art-image/6681118a3c4d4532a0602d5b5366d8b4/ancient-stone-wall-with-inscriptions-at-mahasthangarh.jpg",
+      "https://images.deepai.org/art-image/fd411f45710b413d9c2b65e3f99a1c44/local-guide-explaining-history-at-small-rural-museum-.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Train to Bogura, visit Mahasthangarh ancient city ruins"
+      },
+      {
+        "day": 2,
+        "activities": "Travel to Paharpur, explore UNESCO heritage site"
+      },
+      {
+        "day": 3,
+        "activities": "Visit local museum, return by train"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fed",
+    "title": "Kuakata Sunrise to Sunset Tour",
+    "description": "Witness both sunrise and sunset over the sea at Kuakata beach, a rare gem in southern Bangladesh.",
+    "price": 5800,
+    "tripType": "Relaxation",
+    "days": 3,
+    "location": "Kuakata",
+    "gallery": [
+      "https://images.deepai.org/art-image/a153c611d6904ca092d86e33c25c8391/sunrise-over-kuakata-sea-beach-with-fishermen-walking.jpg",
+      "https://images.deepai.org/art-image/c61023c3eaf344e18481cfca661f2563/tourists-sitting-on-kuakata-beach-watching-golden-sun.jpg",
+      "https://images.deepai.org/art-image/b5576a868a6f4fb5b6364f5e6d5ea5d5/buddhist-temple-structure-with-red-roof-and-prayer-fl.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Bus ride to Kuakata, beach hotel check-in"
+      },
+      {
+        "day": 2,
+        "activities": "See sunrise in early morning and explore dry fish market"
+      },
+      {
+        "day": 3,
+        "activities": "Watch sunset, visit Buddhist temple, depart"
+      }
+    ]
+  }
+] TourismAndGuides.jsx 7
+[08:26 AM 27-07-25] [
+  {
+    "_id": "68858b3698f52bacf98f9fe7",
+    "title": "Saint Martin's Coral Island Adventure",
+    "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+    "price": 7200,
+    "tripType": "Adventure",
+    "days": 3,
+    "location": "Saint Martin's Island",
+    "gallery": [
+      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+      },
+      {
+        "day": 2,
+        "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+      },
+      {
+        "day": 3,
+        "activities": "Sunrise walk, seafood breakfast, return to mainland"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fec",
+    "title": "Paharpur & Mahasthangarh Archaeology Tour",
+    "description": "Step back into history with guided tours to Paharpur Buddhist Monastery and Mahasthangarh ruins in North Bengal.",
+    "price": 6300,
+    "tripType": "Historical",
+    "days": 3,
+    "location": "Naogaon & Bogura",
+    "gallery": [
+      "https://images.deepai.org/art-image/56647f7ad23e4a21801c30422b3d6d30/panoramic-view-of-somapura-mahavihara-ruins-with-bric.jpg",
+      "https://images.deepai.org/art-image/6681118a3c4d4532a0602d5b5366d8b4/ancient-stone-wall-with-inscriptions-at-mahasthangarh.jpg",
+      "https://images.deepai.org/art-image/fd411f45710b413d9c2b65e3f99a1c44/local-guide-explaining-history-at-small-rural-museum-.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Train to Bogura, visit Mahasthangarh ancient city ruins"
+      },
+      {
+        "day": 2,
+        "activities": "Travel to Paharpur, explore UNESCO heritage site"
+      },
+      {
+        "day": 3,
+        "activities": "Visit local museum, return by train"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fed",
+    "title": "Kuakata Sunrise to Sunset Tour",
+    "description": "Witness both sunrise and sunset over the sea at Kuakata beach, a rare gem in southern Bangladesh.",
+    "price": 5800,
+    "tripType": "Relaxation",
+    "days": 3,
+    "location": "Kuakata",
+    "gallery": [
+      "https://images.deepai.org/art-image/a153c611d6904ca092d86e33c25c8391/sunrise-over-kuakata-sea-beach-with-fishermen-walking.jpg",
+      "https://images.deepai.org/art-image/c61023c3eaf344e18481cfca661f2563/tourists-sitting-on-kuakata-beach-watching-golden-sun.jpg",
+      "https://images.deepai.org/art-image/b5576a868a6f4fb5b6364f5e6d5ea5d5/buddhist-temple-structure-with-red-roof-and-prayer-fl.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Bus ride to Kuakata, beach hotel check-in"
+      },
+      {
+        "day": 2,
+        "activities": "See sunrise in early morning and explore dry fish market"
+      },
+      {
+        "day": 3,
+        "activities": "Watch sunset, visit Buddhist temple, depart"
+      }
+    ]
+  }
+] TourismAndGuides.jsx 7
+[08:26 AM 27-07-25] 68851f1a48e669e21a93e85b GuideProfile.jsx 6
+[08:26 AM 27-07-25] [] TourismAndGuides.jsx 7
+[08:26 AM 27-07-25] [] TourismAndGuides.jsx 7
+[08:26 AM 27-07-25] [] TourismAndGuides.jsx 7
+[08:26 AM 27-07-25] [] TourismAndGuides.jsx 7
+[08:26 AM 27-07-25] [
+  {
+    "_id": "68858b3698f52bacf98f9fe8",
+    "title": "Bandarban Tribal Hills Trek",
+    "description": "Experience the serene hills of Bandarban, visit tribal villages, and hike trails like Nilgiri and Nafakhum surrounded by clouds and waterfalls.",
+    "price": 6900,
+    "tripType": "Adventure",
+    "days": 5,
+    "location": "Bandarban",
+    "gallery": [
+      "https://images.deepai.org/art-image/83ea73b1eb8f4247bf48c7705aeb4887/hilltop-view-from-nilgiri-in-early-morning-fog-with-g.jpg",
+      "https://images.deepai.org/art-image/0a059bc079e049899859428e7be0688a/tourists-hiking-to-nafakhum-waterfall-through-forest-.jpg",
+      "https://images.deepai.org/art-image/d8364193a6364316965549baada5b85e/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Depart from Dhaka, check-in at resort near Meghla"
+      },
+      {
+        "day": 2,
+        "activities": "Visit Nilachal, explore tribal markets and local culture"
+      },
+      {
+        "day": 3,
+        "activities": "Hike to Nafakhum waterfall, river trekking"
+      },
+      {
+        "day": 4,
+        "activities": "Visit Nilgiri and Chimbuk Hill, scenic photography"
+      },
+      {
+        "day": 5,
+        "activities": "Morning rest and departure"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9feb",
+    "title": "Srimangal Tea & Rainforest Retreat",
+    "description": "Known as the tea capital of Bangladesh, Srimangal offers a calm retreat with Lawachara rainforest, tribal communities, and 7-layer tea.",
+    "price": 4600,
+    "tripType": "Nature",
+    "days": 2,
+    "location": "Srimangal",
+    "gallery": [
+      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg",
+      "https://images.deepai.org/art-image/83ea73b1eb8f4247bf48c7705aeb4887/hilltop-view-from-nilgiri-in-early-morning-fog-with-g.jpg",
+      "https://deepai.org/static/images/new_heart.png"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Arrival, visit Lawachara rainforest and tribal villages"
+      },
+      {
+        "day": 2,
+        "activities": "Taste 7-layer tea, explore tea estates, return home"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fec",
+    "title": "Paharpur & Mahasthangarh Archaeology Tour",
+    "description": "Step back into history with guided tours to Paharpur Buddhist Monastery and Mahasthangarh ruins in North Bengal.",
+    "price": 6300,
+    "tripType": "Historical",
+    "days": 3,
+    "location": "Naogaon & Bogura",
+    "gallery": [
+      "https://images.deepai.org/art-image/56647f7ad23e4a21801c30422b3d6d30/panoramic-view-of-somapura-mahavihara-ruins-with-bric.jpg",
+      "https://images.deepai.org/art-image/6681118a3c4d4532a0602d5b5366d8b4/ancient-stone-wall-with-inscriptions-at-mahasthangarh.jpg",
+      "https://images.deepai.org/art-image/fd411f45710b413d9c2b65e3f99a1c44/local-guide-explaining-history-at-small-rural-museum-.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Train to Bogura, visit Mahasthangarh ancient city ruins"
+      },
+      {
+        "day": 2,
+        "activities": "Travel to Paharpur, explore UNESCO heritage site"
+      },
+      {
+        "day": 3,
+        "activities": "Visit local museum, return by train"
+      }
+    ]
+  }
+] TourismAndGuides.jsx 7
+[08:26 AM 27-07-25] [
+  {
+    "_id": "68858b3698f52bacf98f9fe8",
+    "title": "Bandarban Tribal Hills Trek",
+    "description": "Experience the serene hills of Bandarban, visit tribal villages, and hike trails like Nilgiri and Nafakhum surrounded by clouds and waterfalls.",
+    "price": 6900,
+    "tripType": "Adventure",
+    "days": 5,
+    "location": "Bandarban",
+    "gallery": [
+      "https://images.deepai.org/art-image/83ea73b1eb8f4247bf48c7705aeb4887/hilltop-view-from-nilgiri-in-early-morning-fog-with-g.jpg",
+      "https://images.deepai.org/art-image/0a059bc079e049899859428e7be0688a/tourists-hiking-to-nafakhum-waterfall-through-forest-.jpg",
+      "https://images.deepai.org/art-image/d8364193a6364316965549baada5b85e/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Depart from Dhaka, check-in at resort near Meghla"
+      },
+      {
+        "day": 2,
+        "activities": "Visit Nilachal, explore tribal markets and local culture"
+      },
+      {
+        "day": 3,
+        "activities": "Hike to Nafakhum waterfall, river trekking"
+      },
+      {
+        "day": 4,
+        "activities": "Visit Nilgiri and Chimbuk Hill, scenic photography"
+      },
+      {
+        "day": 5,
+        "activities": "Morning rest and departure"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9feb",
+    "title": "Srimangal Tea & Rainforest Retreat",
+    "description": "Known as the tea capital of Bangladesh, Srimangal offers a calm retreat with Lawachara rainforest, tribal communities, and 7-layer tea.",
+    "price": 4600,
+    "tripType": "Nature",
+    "days": 2,
+    "location": "Srimangal",
+    "gallery": [
+      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg",
+      "https://images.deepai.org/art-image/83ea73b1eb8f4247bf48c7705aeb4887/hilltop-view-from-nilgiri-in-early-morning-fog-with-g.jpg",
+      "https://deepai.org/static/images/new_heart.png"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Arrival, visit Lawachara rainforest and tribal villages"
+      },
+      {
+        "day": 2,
+        "activities": "Taste 7-layer tea, explore tea estates, return home"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fec",
+    "title": "Paharpur & Mahasthangarh Archaeology Tour",
+    "description": "Step back into history with guided tours to Paharpur Buddhist Monastery and Mahasthangarh ruins in North Bengal.",
+    "price": 6300,
+    "tripType": "Historical",
+    "days": 3,
+    "location": "Naogaon & Bogura",
+    "gallery": [
+      "https://images.deepai.org/art-image/56647f7ad23e4a21801c30422b3d6d30/panoramic-view-of-somapura-mahavihara-ruins-with-bric.jpg",
+      "https://images.deepai.org/art-image/6681118a3c4d4532a0602d5b5366d8b4/ancient-stone-wall-with-inscriptions-at-mahasthangarh.jpg",
+      "https://images.deepai.org/art-image/fd411f45710b413d9c2b65e3f99a1c44/local-guide-explaining-history-at-small-rural-museum-.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Train to Bogura, visit Mahasthangarh ancient city ruins"
+      },
+      {
+        "day": 2,
+        "activities": "Travel to Paharpur, explore UNESCO heritage site"
+      },
+      {
+        "day": 3,
+        "activities": "Visit local museum, return by train"
+      }
+    ]
+  }
+] TourismAndGuides.jsx 7
+[08:26 AM 27-07-25] 68851af3606080f1804fcc36 GuideProfile.jsx 6
+[08:28 AM 27-07-25] 68851af3606080f1804fcc36 GuideProfile.jsx 6
+[08:28 AM 27-07-25] 68851af3606080f1804fcc36 GuideProfile.jsx 6
