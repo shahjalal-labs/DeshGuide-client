@@ -22,19 +22,19 @@ const Home = () => {
 
       <Banner />
       <Overview />
-      <TourismAndGuides />
-      <RandomGuides />
+      {/* <TourismAndGuides /> */}
       <Packages apiEndpoint="packages/random" />
+      <RandomGuides />
       <TrendingDestinations />
       <Stories />
       <LiveStats />
       <Testimonials />
-      <PartnerWithUs />
       <HowItWorks />
       <WhyChooseUs />
-      <NewsletterSignup />
       <Faqs />
       <CallToActionFull />
+      <PartnerWithUs />
+      <NewsletterSignup />
     </div>
   );
 };

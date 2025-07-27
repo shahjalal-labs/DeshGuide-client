@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Swal from "sweetalert2";
+import { darkSwal } from "../../../../hooks/usePostData";
 
 const NewsletterSignup = () => {
   const [email, setEmail] = useState("");
@@ -8,7 +8,7 @@ const NewsletterSignup = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     if (!email) {
-      Swal.fire({
+      darkSwal.fire({
         icon: "warning",
         title: "Please enter your email",
       });
@@ -17,14 +17,14 @@ const NewsletterSignup = () => {
     setLoading(true);
     try {
       await new Promise((res) => setTimeout(res, 1500));
-      Swal.fire({
+      darkSwal.fire({
         icon: "success",
         title: "Subscribed!",
         text: "You will get insider deals and travel hacks in your inbox.",
       });
       setEmail("");
     } catch {
-      Swal.fire({
+      darkSwal.fire({
         icon: "error",
         title: "Subscription failed",
         text: "Please try again later.",
