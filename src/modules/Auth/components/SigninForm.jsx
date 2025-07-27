@@ -1,4 +1,4 @@
-import { Link, useNavigate } from "react-router";
+import { Link, useLocation, useNavigate } from "react-router";
 import { useState } from "react";
 import SocialLogin from "./SocialLogin";
 import useAuth from "../../../hooks/useAuth";
@@ -7,6 +7,8 @@ const SigninForm = () => {
   const { signinUser } = useAuth();
   const navigate = useNavigate();
 
+  const location = useLocation();
+  const from = location?.state?.from?.pathname || "/";
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [loading, setLoading] = useState(false);
