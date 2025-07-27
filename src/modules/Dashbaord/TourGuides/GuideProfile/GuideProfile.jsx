@@ -3,7 +3,7 @@ import { useQuery } from "@tanstack/react-query";
 import { axiosInstance } from "../../../../hooks/useAxiosSecure";
 
 const fetchGuideDetails = async (id) => {
-  console.log(id, "GuideProfile.jsx", 6);
+  console.log(id, "id GuideProfile.jsx", 6);
   const res = await axiosInstance.get(`/tour-guide-requests/${id}`);
   return res.data?.data;
 };
@@ -11,7 +11,7 @@ const fetchGuideDetails = async (id) => {
 export default function GuideProfile() {
   const { id } = useParams();
 
-  const { data, isLoading, isError } = useQuery({
+  const { data, isLoading, isError, error } = useQuery({
     queryKey: ["guideDetails", id],
     queryFn: () => fetchGuideDetails(id),
   });
@@ -24,7 +24,9 @@ export default function GuideProfile() {
     );
   }
 
+  console.log(data, "data GuideProfile.jsx", 15);
   if (isError || !data) {
+    console.log(`error`, error);
     return (
       <div className="text-center mt-20 text-error text-xl">
         Failed to load guide profile.
