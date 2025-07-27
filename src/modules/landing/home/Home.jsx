@@ -26,7 +26,7 @@ const Home = () => {
       <Packages apiEndpoint="packages/random" />
       <RandomGuides />
       <TrendingDestinations />
-      <Stories />
+      <Stories apiEndpoint="stories" />
       <LiveStats />
       <Testimonials />
       <HowItWorks />

@@ -11,6 +11,7 @@ import CommunityPage from "../pages/Community/CommunityPage";
 import dashbourdRoutes from "../modules/Dashbaord/dashbourdRoutes";
 import ProtectedRoute from "./ProtectedRoute";
 import Packages from "../modules/Packages/Packages/Packages";
+import Stories from "../modules/landing/home/Overview/Stories/Stories";
 
 const router = createBrowserRouter([
   {
@@ -53,6 +54,10 @@ const router = createBrowserRouter([
       {
         path: "community",
         element: <CommunityPage />,
+      },
+      {
+        path: "all-stories",
+        element: <Stories apiEndpoint="stories?limit=0" />,
       },
     ],
   },
