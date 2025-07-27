@@ -6,6 +6,7 @@ import { useState } from "react";
 import { axiosInstance } from "../../../hooks/useAxiosSecure";
 import useUserRole from "../../../hooks/useUserRole";
 import usePostData from "../../../hooks/usePostData";
+import Spinner from "../../shared/Layout/Spinner";
 
 const PackageDetails = () => {
   const { postData, isPending } = usePostData();
@@ -125,6 +126,7 @@ const PackageDetails = () => {
 
   return (
     <div className="text-white px-4 md:px-10 py-10 space-y-12 animate-fade-in">
+      {isPending && <Spinner />}
       {/* Gallery Section */}
       <div className="grid grid-cols-3 border p-1 border-[#5f5f9f] rounded-2xl shadow-xl glow-border pulse-glow">
         {gallery.map((img, idx) => (
@@ -137,7 +139,7 @@ const PackageDetails = () => {
         ))}
       </div>
 
-      <div className="glow-border pulse-glow">
+      <div className="glow-border pulse-glow p-4">
         {/* About Section */}
         <div className="space-y-2">
           <h2 className="text-4xl max-sm:text-2xl font-bold glow-pulse text-purple-400">
