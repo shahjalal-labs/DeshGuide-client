@@ -32713,3 +32713,148 @@
   "createdAt": "2025-07-26T19:25:55.283Z",
   "__v": 0
 } data GuideProfile.jsx 15
+[10:42 AM 27-07-25] 68852b90c78ef640a3f93940 id GuideProfile.jsx 6
+[10:43 AM 27-07-25] 68852b90c78ef640a3f93940 id GuideProfile.jsx 6
+[10:44 AM 27-07-25] {
+  "user": {
+    "uid": "BTE6hC4qvvW1dvbUAq803U3Qb2D3",
+    "email": "abdullahfahad@gmail.com",
+    "emailVerified": false,
+    "isAnonymous": false,
+    "providerData": [
+      {
+        "providerId": "password",
+        "uid": "abdullahfahad@gmail.com",
+        "displayName": null,
+        "email": "abdullahfahad@gmail.com",
+        "phoneNumber": null,
+        "photoURL": null
+      }
+    ],
+    "stsTokenManager": {
+      "refreshToken": "AMf-vBzMRAMgp_YPVlSmkq-SW5HJrSNe4p9IMcVijjLjROAR-g11S0ZVk9wA1mGbvgz9cGRQGUxvhuT94h2I4K1qy3_dXQvNl7P0kBfM7j6TyUiHW3BHLP-x79blX1ip_rJGTrcHprydpra-uGjvt89aXqtEiWzBC6oAHGmEl9RtqwpRGG1LPLSVOCq8owWEkTS3rM0CQ9_e",
+      "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjZkZTQwZjA0ODgxYzZhMDE2MTFlYjI4NGE0Yzk1YTI1MWU5MTEyNTAiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vZGVzaGd1aWRlIiwiYXVkIjoiZGVzaGd1aWRlIiwiYXV0aF90aW1lIjoxNzUzNTkxNDY3LCJ1c2VyX2lkIjoiQlRFNmhDNHF2dlcxZHZiVUFxODAzVTNRYjJEMyIsInN1YiI6IkJURTZoQzRxdnZXMWR2YlVBcTgwM1UzUWIyRDMiLCJpYXQiOjE3NTM1OTE0NjcsImV4cCI6MTc1MzU5NTA2NywiZW1haWwiOiJhYmR1bGxhaGZhaGFkQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJlbWFpbCI6WyJhYmR1bGxhaGZhaGFkQGdtYWlsLmNvbSJdfSwic2lnbl9pbl9wcm92aWRlciI6InBhc3N3b3JkIn19.Xfqvms3JZ74UoHFZ0xtdzJhutVBT3ap3eXoYav4jg5Xz4eKbIftpxdWf_JNO9b4Q1JpS-a1VPAespxz66tWBhvsvC0q8yVDwjMfhPtNwDpkrVu3vTP8N1FmiPrK4uQX9M5yJgwbRsXdUJO9iDm44vf2Ryd8TQl8Vz7QQ9gOeA7D5g6m6oDPUAKTsMk2bu7C993pqRxiMboI_wpupimqYCe9QXVGqTEwdV9y1vxSgMW--gF0Z4KZb4Fqe1V552O8juXgwmDF-JiTiCTv9n_ZPhLSzJbRN7MTKEdsBA46Dlq9pddS_4c4CBoTTgjsoocglfGyvv6-BcgKKj5PnLRGKlQ",
+      "expirationTime": 1753595066746
+    },
+    "createdAt": "1753591466795",
+    "lastLoginAt": "1753591466795",
+    "apiKey": "AIzaSyB-ldVpHa1554RClJBfUCKC3K7hXMEZ9e8",
+    "appName": "[DEFAULT]"
+  },
+  "providerId": null,
+  "_tokenResponse": {
+    "kind": "identitytoolkit#SignupNewUserResponse",
+    "idToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjZkZTQwZjA0ODgxYzZhMDE2MTFlYjI4NGE0Yzk1YTI1MWU5MTEyNTAiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vZGVzaGd1aWRlIiwiYXVkIjoiZGVzaGd1aWRlIiwiYXV0aF90aW1lIjoxNzUzNTkxNDY3LCJ1c2VyX2lkIjoiQlRFNmhDNHF2dlcxZHZiVUFxODAzVTNRYjJEMyIsInN1YiI6IkJURTZoQzRxdnZXMWR2YlVBcTgwM1UzUWIyRDMiLCJpYXQiOjE3NTM1OTE0NjcsImV4cCI6MTc1MzU5NTA2NywiZW1haWwiOiJhYmR1bGxhaGZhaGFkQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJlbWFpbCI6WyJhYmR1bGxhaGZhaGFkQGdtYWlsLmNvbSJdfSwic2lnbl9pbl9wcm92aWRlciI6InBhc3N3b3JkIn19.Xfqvms3JZ74UoHFZ0xtdzJhutVBT3ap3eXoYav4jg5Xz4eKbIftpxdWf_JNO9b4Q1JpS-a1VPAespxz66tWBhvsvC0q8yVDwjMfhPtNwDpkrVu3vTP8N1FmiPrK4uQX9M5yJgwbRsXdUJO9iDm44vf2Ryd8TQl8Vz7QQ9gOeA7D5g6m6oDPUAKTsMk2bu7C993pqRxiMboI_wpupimqYCe9QXVGqTEwdV9y1vxSgMW--gF0Z4KZb4Fqe1V552O8juXgwmDF-JiTiCTv9n_ZPhLSzJbRN7MTKEdsBA46Dlq9pddS_4c4CBoTTgjsoocglfGyvv6-BcgKKj5PnLRGKlQ",
+    "email": "abdullahfahad@gmail.com",
+    "refreshToken": "AMf-vBzMRAMgp_YPVlSmkq-SW5HJrSNe4p9IMcVijjLjROAR-g11S0ZVk9wA1mGbvgz9cGRQGUxvhuT94h2I4K1qy3_dXQvNl7P0kBfM7j6TyUiHW3BHLP-x79blX1ip_rJGTrcHprydpra-uGjvt89aXqtEiWzBC6oAHGmEl9RtqwpRGG1LPLSVOCq8owWEkTS3rM0CQ9_e",
+    "expiresIn": "3600",
+    "localId": "BTE6hC4qvvW1dvbUAq803U3Qb2D3"
+  },
+  "operationType": "signIn"
+} SignUpForm.jsx 35
+[10:44 AM 27-07-25] []  random data RandomGuides.jsx 13
+[10:44 AM 27-07-25] []  random data RandomGuides.jsx 13
+[10:44 AM 27-07-25] [
+  {
+    "_id": "688527d2c78ef640a3f9389c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:09:06.889Z",
+    "user": {
+      "_id": "68852645c78ef640a3f93875",
+      "name": "Learning English",
+      "email": "mdshahjalal512@gmail.com"
+    }
+  },
+  {
+    "_id": "68852b14c78ef640a3f93929",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:23:00.489Z",
+    "user": {
+      "_id": "68852ad7c78ef640a3f9391d",
+      "name": "Education Education",
+      "email": "eeducation954@gmail.com"
+    }
+  },
+  {
+    "_id": "68851f1a48e669e21a93e85b",
+    "status": "accepted",
+    "createdAt": "2025-07-26T18:31:54.566Z",
+    "user": {
+      "_id": "68851af3606080f1804fcc36",
+      "name": "Md. Shahjalal",
+      "email": "dev.shahjalal@gmail.com"
+    }
+  },
+  {
+    "_id": "68852bc3c78ef640a3f9394c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:25:55.283Z",
+    "user": {
+      "_id": "68852b90c78ef640a3f93940",
+      "name": "গণিত ভালোবাসি",
+      "email": "gonitvalobasi@gmail.com"
+    }
+  }
+]  random data RandomGuides.jsx 13
+[10:44 AM 27-07-25] [
+  {
+    "_id": "688527d2c78ef640a3f9389c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:09:06.889Z",
+    "user": {
+      "_id": "68852645c78ef640a3f93875",
+      "name": "Learning English",
+      "email": "mdshahjalal512@gmail.com"
+    }
+  },
+  {
+    "_id": "68852b14c78ef640a3f93929",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:23:00.489Z",
+    "user": {
+      "_id": "68852ad7c78ef640a3f9391d",
+      "name": "Education Education",
+      "email": "eeducation954@gmail.com"
+    }
+  },
+  {
+    "_id": "68851f1a48e669e21a93e85b",
+    "status": "accepted",
+    "createdAt": "2025-07-26T18:31:54.566Z",
+    "user": {
+      "_id": "68851af3606080f1804fcc36",
+      "name": "Md. Shahjalal",
+      "email": "dev.shahjalal@gmail.com"
+    }
+  },
+  {
+    "_id": "68852bc3c78ef640a3f9394c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:25:55.283Z",
+    "user": {
+      "_id": "68852b90c78ef640a3f93940",
+      "name": "গণিত ভালোবাসি",
+      "email": "gonitvalobasi@gmail.com"
+    }
+  }
+]  random data RandomGuides.jsx 13
+[10:44 AM 27-07-25] userData?._id 6885aeac38458644e7af0c45
+[10:44 AM 27-07-25] userData?._id 6885aeac38458644e7af0c45
+[10:44 AM 27-07-25] userData?._id 6885aeac38458644e7af0c45
+[10:44 AM 27-07-25] userData?._id 6885aeac38458644e7af0c45
+[10:47 AM 27-07-25] userData?._id 6885aeac38458644e7af0c45
+[10:47 AM 27-07-25] userData?._id 6885aeac38458644e7af0c45
+[10:47 AM 27-07-25] userData?._id 6885aeac38458644e7af0c45
+[10:47 AM 27-07-25] userData?._id 6885aeac38458644e7af0c45
+[10:47 AM 27-07-25] userData?._id 6885aeac38458644e7af0c45
+[10:47 AM 27-07-25] userData?._id 6885aeac38458644e7af0c45
+[10:47 AM 27-07-25] userData?._id 6885aeac38458644e7af0c45
+[10:47 AM 27-07-25] userData?._id 6885aeac38458644e7af0c45
+[10:47 AM 27-07-25] userData?._id 6885aeac38458644e7af0c45
+[10:47 AM 27-07-25] userData?._id 6885aeac38458644e7af0c45
+[10:47 AM 27-07-25] userData?._id 6885aeac38458644e7af0c45
+[10:47 AM 27-07-25] userData?._id 6885aeac38458644e7af0c45
+[10:47 AM 27-07-25] userData?._id 6885aeac38458644e7af0c45
+[10:47 AM 27-07-25] userData?._id 6885aeac38458644e7af0c45
+[10:47 AM 27-07-25] userData?._id 6885aeac38458644e7af0c45
+[10:47 AM 27-07-25] userData?._id 6885aeac38458644e7af0c45
