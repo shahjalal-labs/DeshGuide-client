@@ -37797,3 +37797,4400 @@
 [11:30 AM 27-07-25] 6885976e00065ad82a46e2cb bookingId BookingDetails.jsx 14
 [11:30 AM 27-07-25] 6885976e00065ad82a46e2cb bookingId BookingDetails.jsx 14
 [11:30 AM 27-07-25] 6885976e00065ad82a46e2cb bookingId BookingDetails.jsx 14
+[11:32 AM 27-07-25] {
+  "success": true,
+  "message": "Guide bookings retrieved successfully!",
+  "data": [
+    {
+      "_id": "6885976e00065ad82a46e2cb",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fea",
+        "title": "Rangamati Lake & Tribal Culture Tour",
+        "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+        "price": 5200,
+        "tripType": "Cultural",
+        "days": 3,
+        "location": "Rangamati",
+        "gallery": [
+          "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+          "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+          "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Bus ride from Chittagong, lake view resort check-in"
+          },
+          {
+            "day": 2,
+            "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+          },
+          {
+            "day": 3,
+            "activities": "Explore local markets and return trip"
+          }
+        ],
+        "imagePrompts": [
+          "Sunset view over Kaptai Lake with orange reflections on calm water"
+        ],
+        "createdAt": "2025-07-27T05:32:20.817Z"
+      },
+      "packageName": "Rangamati Lake & Tribal Culture Tour",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 5200,
+      "tourDate": "2025-12-28T00:00:00.000Z",
+      "status": "in-review",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpKuaH7Tlju1lhj0JvV0Ngq",
+      "createdAt": "2025-07-27T03:05:18.296Z",
+      "updatedAt": "2025-07-27T03:06:11.598Z"
+    },
+    {
+      "_id": "6885ab3f38458644e7af0ba5",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fe7",
+        "title": "Saint Martin's Coral Island Adventure",
+        "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+        "price": 7200,
+        "tripType": "Adventure",
+        "days": 3,
+        "location": "Saint Martin's Island",
+        "gallery": [
+          "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+          "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+          "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+          },
+          {
+            "day": 2,
+            "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+          },
+          {
+            "day": 3,
+            "activities": "Sunrise walk, seafood breakfast, return to mainland"
+          }
+        ],
+        "createdAt": "2025-07-27T05:32:20.817Z"
+      },
+      "packageName": "Saint Martin's Coral Island Adventure",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 7200,
+      "tourDate": "2025-10-19T00:00:00.000Z",
+      "status": "accepted",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpME9H7Tlju1lhj0ollmczS",
+      "createdAt": "2025-07-27T04:29:51.602Z",
+      "updatedAt": "2025-07-27T05:30:19.575Z"
+    }
+  ]
+} aasigned tour book AssignedTour.jsx 10
+[11:32 AM 27-07-25] {
+  "success": true,
+  "message": "Guide bookings retrieved successfully!",
+  "data": [
+    {
+      "_id": "6885976e00065ad82a46e2cb",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fea",
+        "title": "Rangamati Lake & Tribal Culture Tour",
+        "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+        "price": 5200,
+        "tripType": "Cultural",
+        "days": 3,
+        "location": "Rangamati",
+        "gallery": [
+          "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+          "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+          "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Bus ride from Chittagong, lake view resort check-in"
+          },
+          {
+            "day": 2,
+            "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+          },
+          {
+            "day": 3,
+            "activities": "Explore local markets and return trip"
+          }
+        ],
+        "imagePrompts": [
+          "Sunset view over Kaptai Lake with orange reflections on calm water"
+        ],
+        "createdAt": "2025-07-27T05:32:20.817Z"
+      },
+      "packageName": "Rangamati Lake & Tribal Culture Tour",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 5200,
+      "tourDate": "2025-12-28T00:00:00.000Z",
+      "status": "in-review",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpKuaH7Tlju1lhj0JvV0Ngq",
+      "createdAt": "2025-07-27T03:05:18.296Z",
+      "updatedAt": "2025-07-27T03:06:11.598Z"
+    },
+    {
+      "_id": "6885ab3f38458644e7af0ba5",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fe7",
+        "title": "Saint Martin's Coral Island Adventure",
+        "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+        "price": 7200,
+        "tripType": "Adventure",
+        "days": 3,
+        "location": "Saint Martin's Island",
+        "gallery": [
+          "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+          "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+          "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+          },
+          {
+            "day": 2,
+            "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+          },
+          {
+            "day": 3,
+            "activities": "Sunrise walk, seafood breakfast, return to mainland"
+          }
+        ],
+        "createdAt": "2025-07-27T05:32:20.817Z"
+      },
+      "packageName": "Saint Martin's Coral Island Adventure",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 7200,
+      "tourDate": "2025-10-19T00:00:00.000Z",
+      "status": "accepted",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpME9H7Tlju1lhj0ollmczS",
+      "createdAt": "2025-07-27T04:29:51.602Z",
+      "updatedAt": "2025-07-27T05:30:19.575Z"
+    }
+  ]
+} aasigned tour book AssignedTour.jsx 10
+[11:32 AM 27-07-25] {
+  "success": true,
+  "message": "Guide bookings retrieved successfully!",
+  "data": [
+    {
+      "_id": "6885976e00065ad82a46e2cb",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fea",
+        "title": "Rangamati Lake & Tribal Culture Tour",
+        "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+        "price": 5200,
+        "tripType": "Cultural",
+        "days": 3,
+        "location": "Rangamati",
+        "gallery": [
+          "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+          "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+          "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Bus ride from Chittagong, lake view resort check-in"
+          },
+          {
+            "day": 2,
+            "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+          },
+          {
+            "day": 3,
+            "activities": "Explore local markets and return trip"
+          }
+        ],
+        "imagePrompts": [
+          "Sunset view over Kaptai Lake with orange reflections on calm water"
+        ],
+        "createdAt": "2025-07-27T05:32:20.817Z"
+      },
+      "packageName": "Rangamati Lake & Tribal Culture Tour",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 5200,
+      "tourDate": "2025-12-28T00:00:00.000Z",
+      "status": "in-review",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpKuaH7Tlju1lhj0JvV0Ngq",
+      "createdAt": "2025-07-27T03:05:18.296Z",
+      "updatedAt": "2025-07-27T03:06:11.598Z"
+    },
+    {
+      "_id": "6885ab3f38458644e7af0ba5",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fe7",
+        "title": "Saint Martin's Coral Island Adventure",
+        "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+        "price": 7200,
+        "tripType": "Adventure",
+        "days": 3,
+        "location": "Saint Martin's Island",
+        "gallery": [
+          "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+          "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+          "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+          },
+          {
+            "day": 2,
+            "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+          },
+          {
+            "day": 3,
+            "activities": "Sunrise walk, seafood breakfast, return to mainland"
+          }
+        ],
+        "createdAt": "2025-07-27T05:32:20.817Z"
+      },
+      "packageName": "Saint Martin's Coral Island Adventure",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 7200,
+      "tourDate": "2025-10-19T00:00:00.000Z",
+      "status": "accepted",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpME9H7Tlju1lhj0ollmczS",
+      "createdAt": "2025-07-27T04:29:51.602Z",
+      "updatedAt": "2025-07-27T05:30:19.575Z"
+    }
+  ]
+} aasigned tour book AssignedTour.jsx 10
+[11:32 AM 27-07-25] {
+  "success": true,
+  "message": "Guide bookings retrieved successfully!",
+  "data": [
+    {
+      "_id": "6885976e00065ad82a46e2cb",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fea",
+        "title": "Rangamati Lake & Tribal Culture Tour",
+        "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+        "price": 5200,
+        "tripType": "Cultural",
+        "days": 3,
+        "location": "Rangamati",
+        "gallery": [
+          "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+          "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+          "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Bus ride from Chittagong, lake view resort check-in"
+          },
+          {
+            "day": 2,
+            "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+          },
+          {
+            "day": 3,
+            "activities": "Explore local markets and return trip"
+          }
+        ],
+        "imagePrompts": [
+          "Sunset view over Kaptai Lake with orange reflections on calm water"
+        ],
+        "createdAt": "2025-07-27T05:32:20.817Z"
+      },
+      "packageName": "Rangamati Lake & Tribal Culture Tour",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 5200,
+      "tourDate": "2025-12-28T00:00:00.000Z",
+      "status": "in-review",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpKuaH7Tlju1lhj0JvV0Ngq",
+      "createdAt": "2025-07-27T03:05:18.296Z",
+      "updatedAt": "2025-07-27T03:06:11.598Z"
+    },
+    {
+      "_id": "6885ab3f38458644e7af0ba5",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fe7",
+        "title": "Saint Martin's Coral Island Adventure",
+        "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+        "price": 7200,
+        "tripType": "Adventure",
+        "days": 3,
+        "location": "Saint Martin's Island",
+        "gallery": [
+          "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+          "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+          "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+          },
+          {
+            "day": 2,
+            "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+          },
+          {
+            "day": 3,
+            "activities": "Sunrise walk, seafood breakfast, return to mainland"
+          }
+        ],
+        "createdAt": "2025-07-27T05:32:20.817Z"
+      },
+      "packageName": "Saint Martin's Coral Island Adventure",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 7200,
+      "tourDate": "2025-10-19T00:00:00.000Z",
+      "status": "accepted",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpME9H7Tlju1lhj0ollmczS",
+      "createdAt": "2025-07-27T04:29:51.602Z",
+      "updatedAt": "2025-07-27T05:30:19.575Z"
+    }
+  ]
+} aasigned tour book AssignedTour.jsx 10
+[11:32 AM 27-07-25] {
+  "success": true,
+  "message": "Guide bookings retrieved successfully!",
+  "data": [
+    {
+      "_id": "6885976e00065ad82a46e2cb",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fea",
+        "title": "Rangamati Lake & Tribal Culture Tour",
+        "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+        "price": 5200,
+        "tripType": "Cultural",
+        "days": 3,
+        "location": "Rangamati",
+        "gallery": [
+          "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+          "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+          "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Bus ride from Chittagong, lake view resort check-in"
+          },
+          {
+            "day": 2,
+            "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+          },
+          {
+            "day": 3,
+            "activities": "Explore local markets and return trip"
+          }
+        ],
+        "imagePrompts": [
+          "Sunset view over Kaptai Lake with orange reflections on calm water"
+        ],
+        "createdAt": "2025-07-27T05:32:50.694Z"
+      },
+      "packageName": "Rangamati Lake & Tribal Culture Tour",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 5200,
+      "tourDate": "2025-12-28T00:00:00.000Z",
+      "status": "in-review",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpKuaH7Tlju1lhj0JvV0Ngq",
+      "createdAt": "2025-07-27T03:05:18.296Z",
+      "updatedAt": "2025-07-27T03:06:11.598Z"
+    },
+    {
+      "_id": "6885ab3f38458644e7af0ba5",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fe7",
+        "title": "Saint Martin's Coral Island Adventure",
+        "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+        "price": 7200,
+        "tripType": "Adventure",
+        "days": 3,
+        "location": "Saint Martin's Island",
+        "gallery": [
+          "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+          "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+          "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+          },
+          {
+            "day": 2,
+            "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+          },
+          {
+            "day": 3,
+            "activities": "Sunrise walk, seafood breakfast, return to mainland"
+          }
+        ],
+        "createdAt": "2025-07-27T05:32:50.694Z"
+      },
+      "packageName": "Saint Martin's Coral Island Adventure",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 7200,
+      "tourDate": "2025-10-19T00:00:00.000Z",
+      "status": "accepted",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpME9H7Tlju1lhj0ollmczS",
+      "createdAt": "2025-07-27T04:29:51.602Z",
+      "updatedAt": "2025-07-27T05:30:19.575Z"
+    }
+  ]
+} aasigned tour book AssignedTour.jsx 10
+[11:32 AM 27-07-25] {
+  "success": true,
+  "message": "Guide bookings retrieved successfully!",
+  "data": [
+    {
+      "_id": "6885976e00065ad82a46e2cb",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fea",
+        "title": "Rangamati Lake & Tribal Culture Tour",
+        "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+        "price": 5200,
+        "tripType": "Cultural",
+        "days": 3,
+        "location": "Rangamati",
+        "gallery": [
+          "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+          "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+          "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Bus ride from Chittagong, lake view resort check-in"
+          },
+          {
+            "day": 2,
+            "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+          },
+          {
+            "day": 3,
+            "activities": "Explore local markets and return trip"
+          }
+        ],
+        "imagePrompts": [
+          "Sunset view over Kaptai Lake with orange reflections on calm water"
+        ],
+        "createdAt": "2025-07-27T05:32:50.694Z"
+      },
+      "packageName": "Rangamati Lake & Tribal Culture Tour",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 5200,
+      "tourDate": "2025-12-28T00:00:00.000Z",
+      "status": "in-review",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpKuaH7Tlju1lhj0JvV0Ngq",
+      "createdAt": "2025-07-27T03:05:18.296Z",
+      "updatedAt": "2025-07-27T03:06:11.598Z"
+    },
+    {
+      "_id": "6885ab3f38458644e7af0ba5",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fe7",
+        "title": "Saint Martin's Coral Island Adventure",
+        "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+        "price": 7200,
+        "tripType": "Adventure",
+        "days": 3,
+        "location": "Saint Martin's Island",
+        "gallery": [
+          "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+          "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+          "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+          },
+          {
+            "day": 2,
+            "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+          },
+          {
+            "day": 3,
+            "activities": "Sunrise walk, seafood breakfast, return to mainland"
+          }
+        ],
+        "createdAt": "2025-07-27T05:32:50.694Z"
+      },
+      "packageName": "Saint Martin's Coral Island Adventure",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 7200,
+      "tourDate": "2025-10-19T00:00:00.000Z",
+      "status": "accepted",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpME9H7Tlju1lhj0ollmczS",
+      "createdAt": "2025-07-27T04:29:51.602Z",
+      "updatedAt": "2025-07-27T05:30:19.575Z"
+    }
+  ]
+} aasigned tour book AssignedTour.jsx 10
+[11:32 AM 27-07-25] 6885ab3f38458644e7af0ba5 bookingId BookingDetails.jsx 14
+[11:32 AM 27-07-25] 6885ab3f38458644e7af0ba5 bookingId BookingDetails.jsx 14
+[11:32 AM 27-07-25] 6885ab3f38458644e7af0ba5 bookingId BookingDetails.jsx 14
+[11:32 AM 27-07-25] 6885ab3f38458644e7af0ba5 bookingId BookingDetails.jsx 14
+[11:33 AM 27-07-25] {
+  "success": true,
+  "message": "Guide bookings retrieved successfully!",
+  "data": [
+    {
+      "_id": "6885976e00065ad82a46e2cb",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fea",
+        "title": "Rangamati Lake & Tribal Culture Tour",
+        "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+        "price": 5200,
+        "tripType": "Cultural",
+        "days": 3,
+        "location": "Rangamati",
+        "gallery": [
+          "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+          "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+          "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Bus ride from Chittagong, lake view resort check-in"
+          },
+          {
+            "day": 2,
+            "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+          },
+          {
+            "day": 3,
+            "activities": "Explore local markets and return trip"
+          }
+        ],
+        "imagePrompts": [
+          "Sunset view over Kaptai Lake with orange reflections on calm water"
+        ],
+        "createdAt": "2025-07-27T05:32:50.694Z"
+      },
+      "packageName": "Rangamati Lake & Tribal Culture Tour",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 5200,
+      "tourDate": "2025-12-28T00:00:00.000Z",
+      "status": "in-review",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpKuaH7Tlju1lhj0JvV0Ngq",
+      "createdAt": "2025-07-27T03:05:18.296Z",
+      "updatedAt": "2025-07-27T03:06:11.598Z"
+    },
+    {
+      "_id": "6885ab3f38458644e7af0ba5",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fe7",
+        "title": "Saint Martin's Coral Island Adventure",
+        "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+        "price": 7200,
+        "tripType": "Adventure",
+        "days": 3,
+        "location": "Saint Martin's Island",
+        "gallery": [
+          "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+          "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+          "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+          },
+          {
+            "day": 2,
+            "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+          },
+          {
+            "day": 3,
+            "activities": "Sunrise walk, seafood breakfast, return to mainland"
+          }
+        ],
+        "createdAt": "2025-07-27T05:32:50.694Z"
+      },
+      "packageName": "Saint Martin's Coral Island Adventure",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 7200,
+      "tourDate": "2025-10-19T00:00:00.000Z",
+      "status": "accepted",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpME9H7Tlju1lhj0ollmczS",
+      "createdAt": "2025-07-27T04:29:51.602Z",
+      "updatedAt": "2025-07-27T05:30:19.575Z"
+    }
+  ]
+} aasigned tour book AssignedTour.jsx 10
+[11:33 AM 27-07-25] {
+  "success": true,
+  "message": "Guide bookings retrieved successfully!",
+  "data": [
+    {
+      "_id": "6885976e00065ad82a46e2cb",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fea",
+        "title": "Rangamati Lake & Tribal Culture Tour",
+        "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+        "price": 5200,
+        "tripType": "Cultural",
+        "days": 3,
+        "location": "Rangamati",
+        "gallery": [
+          "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+          "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+          "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Bus ride from Chittagong, lake view resort check-in"
+          },
+          {
+            "day": 2,
+            "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+          },
+          {
+            "day": 3,
+            "activities": "Explore local markets and return trip"
+          }
+        ],
+        "imagePrompts": [
+          "Sunset view over Kaptai Lake with orange reflections on calm water"
+        ],
+        "createdAt": "2025-07-27T05:32:50.694Z"
+      },
+      "packageName": "Rangamati Lake & Tribal Culture Tour",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 5200,
+      "tourDate": "2025-12-28T00:00:00.000Z",
+      "status": "in-review",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpKuaH7Tlju1lhj0JvV0Ngq",
+      "createdAt": "2025-07-27T03:05:18.296Z",
+      "updatedAt": "2025-07-27T03:06:11.598Z"
+    },
+    {
+      "_id": "6885ab3f38458644e7af0ba5",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fe7",
+        "title": "Saint Martin's Coral Island Adventure",
+        "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+        "price": 7200,
+        "tripType": "Adventure",
+        "days": 3,
+        "location": "Saint Martin's Island",
+        "gallery": [
+          "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+          "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+          "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+          },
+          {
+            "day": 2,
+            "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+          },
+          {
+            "day": 3,
+            "activities": "Sunrise walk, seafood breakfast, return to mainland"
+          }
+        ],
+        "createdAt": "2025-07-27T05:32:50.694Z"
+      },
+      "packageName": "Saint Martin's Coral Island Adventure",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 7200,
+      "tourDate": "2025-10-19T00:00:00.000Z",
+      "status": "accepted",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpME9H7Tlju1lhj0ollmczS",
+      "createdAt": "2025-07-27T04:29:51.602Z",
+      "updatedAt": "2025-07-27T05:30:19.575Z"
+    }
+  ]
+} aasigned tour book AssignedTour.jsx 10
+[11:33 AM 27-07-25] {
+  "success": true,
+  "message": "Guide bookings retrieved successfully!",
+  "data": [
+    {
+      "_id": "6885976e00065ad82a46e2cb",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fea",
+        "title": "Rangamati Lake & Tribal Culture Tour",
+        "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+        "price": 5200,
+        "tripType": "Cultural",
+        "days": 3,
+        "location": "Rangamati",
+        "gallery": [
+          "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+          "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+          "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Bus ride from Chittagong, lake view resort check-in"
+          },
+          {
+            "day": 2,
+            "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+          },
+          {
+            "day": 3,
+            "activities": "Explore local markets and return trip"
+          }
+        ],
+        "imagePrompts": [
+          "Sunset view over Kaptai Lake with orange reflections on calm water"
+        ],
+        "createdAt": "2025-07-27T05:33:02.941Z"
+      },
+      "packageName": "Rangamati Lake & Tribal Culture Tour",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 5200,
+      "tourDate": "2025-12-28T00:00:00.000Z",
+      "status": "in-review",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpKuaH7Tlju1lhj0JvV0Ngq",
+      "createdAt": "2025-07-27T03:05:18.296Z",
+      "updatedAt": "2025-07-27T03:06:11.598Z"
+    },
+    {
+      "_id": "6885ab3f38458644e7af0ba5",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fe7",
+        "title": "Saint Martin's Coral Island Adventure",
+        "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+        "price": 7200,
+        "tripType": "Adventure",
+        "days": 3,
+        "location": "Saint Martin's Island",
+        "gallery": [
+          "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+          "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+          "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+          },
+          {
+            "day": 2,
+            "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+          },
+          {
+            "day": 3,
+            "activities": "Sunrise walk, seafood breakfast, return to mainland"
+          }
+        ],
+        "createdAt": "2025-07-27T05:33:02.940Z"
+      },
+      "packageName": "Saint Martin's Coral Island Adventure",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 7200,
+      "tourDate": "2025-10-19T00:00:00.000Z",
+      "status": "accepted",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpME9H7Tlju1lhj0ollmczS",
+      "createdAt": "2025-07-27T04:29:51.602Z",
+      "updatedAt": "2025-07-27T05:30:19.575Z"
+    }
+  ]
+} aasigned tour book AssignedTour.jsx 10
+[11:33 AM 27-07-25] {
+  "success": true,
+  "message": "Guide bookings retrieved successfully!",
+  "data": [
+    {
+      "_id": "6885976e00065ad82a46e2cb",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fea",
+        "title": "Rangamati Lake & Tribal Culture Tour",
+        "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+        "price": 5200,
+        "tripType": "Cultural",
+        "days": 3,
+        "location": "Rangamati",
+        "gallery": [
+          "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+          "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+          "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Bus ride from Chittagong, lake view resort check-in"
+          },
+          {
+            "day": 2,
+            "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+          },
+          {
+            "day": 3,
+            "activities": "Explore local markets and return trip"
+          }
+        ],
+        "imagePrompts": [
+          "Sunset view over Kaptai Lake with orange reflections on calm water"
+        ],
+        "createdAt": "2025-07-27T05:33:02.941Z"
+      },
+      "packageName": "Rangamati Lake & Tribal Culture Tour",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 5200,
+      "tourDate": "2025-12-28T00:00:00.000Z",
+      "status": "in-review",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpKuaH7Tlju1lhj0JvV0Ngq",
+      "createdAt": "2025-07-27T03:05:18.296Z",
+      "updatedAt": "2025-07-27T03:06:11.598Z"
+    },
+    {
+      "_id": "6885ab3f38458644e7af0ba5",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fe7",
+        "title": "Saint Martin's Coral Island Adventure",
+        "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+        "price": 7200,
+        "tripType": "Adventure",
+        "days": 3,
+        "location": "Saint Martin's Island",
+        "gallery": [
+          "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+          "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+          "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+          },
+          {
+            "day": 2,
+            "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+          },
+          {
+            "day": 3,
+            "activities": "Sunrise walk, seafood breakfast, return to mainland"
+          }
+        ],
+        "createdAt": "2025-07-27T05:33:02.940Z"
+      },
+      "packageName": "Saint Martin's Coral Island Adventure",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 7200,
+      "tourDate": "2025-10-19T00:00:00.000Z",
+      "status": "accepted",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpME9H7Tlju1lhj0ollmczS",
+      "createdAt": "2025-07-27T04:29:51.602Z",
+      "updatedAt": "2025-07-27T05:30:19.575Z"
+    }
+  ]
+} aasigned tour book AssignedTour.jsx 10
+[11:34 AM 27-07-25] 6885976e00065ad82a46e2cb bookingId BookingDetails.jsx 14
+[11:34 AM 27-07-25] 6885976e00065ad82a46e2cb bookingId BookingDetails.jsx 14
+[11:34 AM 27-07-25] 6885976e00065ad82a46e2cb bookingId BookingDetails.jsx 14
+[11:34 AM 27-07-25] 6885976e00065ad82a46e2cb bookingId BookingDetails.jsx 14
+[11:34 AM 27-07-25] {
+  "success": true,
+  "message": "Guide bookings retrieved successfully!",
+  "data": [
+    {
+      "_id": "6885976e00065ad82a46e2cb",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fea",
+        "title": "Rangamati Lake & Tribal Culture Tour",
+        "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+        "price": 5200,
+        "tripType": "Cultural",
+        "days": 3,
+        "location": "Rangamati",
+        "gallery": [
+          "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+          "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+          "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Bus ride from Chittagong, lake view resort check-in"
+          },
+          {
+            "day": 2,
+            "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+          },
+          {
+            "day": 3,
+            "activities": "Explore local markets and return trip"
+          }
+        ],
+        "imagePrompts": [
+          "Sunset view over Kaptai Lake with orange reflections on calm water"
+        ],
+        "createdAt": "2025-07-27T05:33:02.941Z"
+      },
+      "packageName": "Rangamati Lake & Tribal Culture Tour",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 5200,
+      "tourDate": "2025-12-28T00:00:00.000Z",
+      "status": "in-review",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpKuaH7Tlju1lhj0JvV0Ngq",
+      "createdAt": "2025-07-27T03:05:18.296Z",
+      "updatedAt": "2025-07-27T03:06:11.598Z"
+    },
+    {
+      "_id": "6885ab3f38458644e7af0ba5",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fe7",
+        "title": "Saint Martin's Coral Island Adventure",
+        "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+        "price": 7200,
+        "tripType": "Adventure",
+        "days": 3,
+        "location": "Saint Martin's Island",
+        "gallery": [
+          "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+          "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+          "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+          },
+          {
+            "day": 2,
+            "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+          },
+          {
+            "day": 3,
+            "activities": "Sunrise walk, seafood breakfast, return to mainland"
+          }
+        ],
+        "createdAt": "2025-07-27T05:33:02.940Z"
+      },
+      "packageName": "Saint Martin's Coral Island Adventure",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 7200,
+      "tourDate": "2025-10-19T00:00:00.000Z",
+      "status": "accepted",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpME9H7Tlju1lhj0ollmczS",
+      "createdAt": "2025-07-27T04:29:51.602Z",
+      "updatedAt": "2025-07-27T05:30:19.575Z"
+    }
+  ]
+} aasigned tour book AssignedTour.jsx 10
+[11:34 AM 27-07-25] {
+  "success": true,
+  "message": "Guide bookings retrieved successfully!",
+  "data": [
+    {
+      "_id": "6885976e00065ad82a46e2cb",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fea",
+        "title": "Rangamati Lake & Tribal Culture Tour",
+        "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+        "price": 5200,
+        "tripType": "Cultural",
+        "days": 3,
+        "location": "Rangamati",
+        "gallery": [
+          "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+          "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+          "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Bus ride from Chittagong, lake view resort check-in"
+          },
+          {
+            "day": 2,
+            "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+          },
+          {
+            "day": 3,
+            "activities": "Explore local markets and return trip"
+          }
+        ],
+        "imagePrompts": [
+          "Sunset view over Kaptai Lake with orange reflections on calm water"
+        ],
+        "createdAt": "2025-07-27T05:33:02.941Z"
+      },
+      "packageName": "Rangamati Lake & Tribal Culture Tour",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 5200,
+      "tourDate": "2025-12-28T00:00:00.000Z",
+      "status": "in-review",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpKuaH7Tlju1lhj0JvV0Ngq",
+      "createdAt": "2025-07-27T03:05:18.296Z",
+      "updatedAt": "2025-07-27T03:06:11.598Z"
+    },
+    {
+      "_id": "6885ab3f38458644e7af0ba5",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fe7",
+        "title": "Saint Martin's Coral Island Adventure",
+        "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+        "price": 7200,
+        "tripType": "Adventure",
+        "days": 3,
+        "location": "Saint Martin's Island",
+        "gallery": [
+          "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+          "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+          "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+          },
+          {
+            "day": 2,
+            "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+          },
+          {
+            "day": 3,
+            "activities": "Sunrise walk, seafood breakfast, return to mainland"
+          }
+        ],
+        "createdAt": "2025-07-27T05:33:02.940Z"
+      },
+      "packageName": "Saint Martin's Coral Island Adventure",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 7200,
+      "tourDate": "2025-10-19T00:00:00.000Z",
+      "status": "accepted",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpME9H7Tlju1lhj0ollmczS",
+      "createdAt": "2025-07-27T04:29:51.602Z",
+      "updatedAt": "2025-07-27T05:30:19.575Z"
+    }
+  ]
+} aasigned tour book AssignedTour.jsx 10
+[11:34 AM 27-07-25] {
+  "success": true,
+  "message": "Guide bookings retrieved successfully!",
+  "data": [
+    {
+      "_id": "6885976e00065ad82a46e2cb",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fea",
+        "title": "Rangamati Lake & Tribal Culture Tour",
+        "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+        "price": 5200,
+        "tripType": "Cultural",
+        "days": 3,
+        "location": "Rangamati",
+        "gallery": [
+          "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+          "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+          "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Bus ride from Chittagong, lake view resort check-in"
+          },
+          {
+            "day": 2,
+            "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+          },
+          {
+            "day": 3,
+            "activities": "Explore local markets and return trip"
+          }
+        ],
+        "imagePrompts": [
+          "Sunset view over Kaptai Lake with orange reflections on calm water"
+        ],
+        "createdAt": "2025-07-27T05:34:09.424Z"
+      },
+      "packageName": "Rangamati Lake & Tribal Culture Tour",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 5200,
+      "tourDate": "2025-12-28T00:00:00.000Z",
+      "status": "in-review",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpKuaH7Tlju1lhj0JvV0Ngq",
+      "createdAt": "2025-07-27T03:05:18.296Z",
+      "updatedAt": "2025-07-27T03:06:11.598Z"
+    },
+    {
+      "_id": "6885ab3f38458644e7af0ba5",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fe7",
+        "title": "Saint Martin's Coral Island Adventure",
+        "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+        "price": 7200,
+        "tripType": "Adventure",
+        "days": 3,
+        "location": "Saint Martin's Island",
+        "gallery": [
+          "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+          "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+          "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+          },
+          {
+            "day": 2,
+            "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+          },
+          {
+            "day": 3,
+            "activities": "Sunrise walk, seafood breakfast, return to mainland"
+          }
+        ],
+        "createdAt": "2025-07-27T05:34:09.424Z"
+      },
+      "packageName": "Saint Martin's Coral Island Adventure",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 7200,
+      "tourDate": "2025-10-19T00:00:00.000Z",
+      "status": "accepted",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpME9H7Tlju1lhj0ollmczS",
+      "createdAt": "2025-07-27T04:29:51.602Z",
+      "updatedAt": "2025-07-27T05:30:19.575Z"
+    }
+  ]
+} aasigned tour book AssignedTour.jsx 10
+[11:34 AM 27-07-25] {
+  "success": true,
+  "message": "Guide bookings retrieved successfully!",
+  "data": [
+    {
+      "_id": "6885976e00065ad82a46e2cb",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fea",
+        "title": "Rangamati Lake & Tribal Culture Tour",
+        "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+        "price": 5200,
+        "tripType": "Cultural",
+        "days": 3,
+        "location": "Rangamati",
+        "gallery": [
+          "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+          "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+          "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Bus ride from Chittagong, lake view resort check-in"
+          },
+          {
+            "day": 2,
+            "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+          },
+          {
+            "day": 3,
+            "activities": "Explore local markets and return trip"
+          }
+        ],
+        "imagePrompts": [
+          "Sunset view over Kaptai Lake with orange reflections on calm water"
+        ],
+        "createdAt": "2025-07-27T05:34:09.424Z"
+      },
+      "packageName": "Rangamati Lake & Tribal Culture Tour",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 5200,
+      "tourDate": "2025-12-28T00:00:00.000Z",
+      "status": "in-review",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpKuaH7Tlju1lhj0JvV0Ngq",
+      "createdAt": "2025-07-27T03:05:18.296Z",
+      "updatedAt": "2025-07-27T03:06:11.598Z"
+    },
+    {
+      "_id": "6885ab3f38458644e7af0ba5",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fe7",
+        "title": "Saint Martin's Coral Island Adventure",
+        "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+        "price": 7200,
+        "tripType": "Adventure",
+        "days": 3,
+        "location": "Saint Martin's Island",
+        "gallery": [
+          "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+          "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+          "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+          },
+          {
+            "day": 2,
+            "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+          },
+          {
+            "day": 3,
+            "activities": "Sunrise walk, seafood breakfast, return to mainland"
+          }
+        ],
+        "createdAt": "2025-07-27T05:34:09.424Z"
+      },
+      "packageName": "Saint Martin's Coral Island Adventure",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 7200,
+      "tourDate": "2025-10-19T00:00:00.000Z",
+      "status": "accepted",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpME9H7Tlju1lhj0ollmczS",
+      "createdAt": "2025-07-27T04:29:51.602Z",
+      "updatedAt": "2025-07-27T05:30:19.575Z"
+    }
+  ]
+} aasigned tour book AssignedTour.jsx 10
+[11:34 AM 27-07-25] 6885ab3f38458644e7af0ba5 bookingId BookingDetails.jsx 14
+[11:34 AM 27-07-25] 6885ab3f38458644e7af0ba5 bookingId BookingDetails.jsx 14
+[11:34 AM 27-07-25] 6885ab3f38458644e7af0ba5 bookingId BookingDetails.jsx 14
+[11:34 AM 27-07-25] 6885ab3f38458644e7af0ba5 bookingId BookingDetails.jsx 14
+[11:34 AM 27-07-25] {
+  "success": true,
+  "message": "Guide bookings retrieved successfully!",
+  "data": [
+    {
+      "_id": "6885976e00065ad82a46e2cb",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fea",
+        "title": "Rangamati Lake & Tribal Culture Tour",
+        "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+        "price": 5200,
+        "tripType": "Cultural",
+        "days": 3,
+        "location": "Rangamati",
+        "gallery": [
+          "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+          "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+          "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Bus ride from Chittagong, lake view resort check-in"
+          },
+          {
+            "day": 2,
+            "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+          },
+          {
+            "day": 3,
+            "activities": "Explore local markets and return trip"
+          }
+        ],
+        "imagePrompts": [
+          "Sunset view over Kaptai Lake with orange reflections on calm water"
+        ],
+        "createdAt": "2025-07-27T05:34:09.424Z"
+      },
+      "packageName": "Rangamati Lake & Tribal Culture Tour",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 5200,
+      "tourDate": "2025-12-28T00:00:00.000Z",
+      "status": "in-review",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpKuaH7Tlju1lhj0JvV0Ngq",
+      "createdAt": "2025-07-27T03:05:18.296Z",
+      "updatedAt": "2025-07-27T03:06:11.598Z"
+    },
+    {
+      "_id": "6885ab3f38458644e7af0ba5",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fe7",
+        "title": "Saint Martin's Coral Island Adventure",
+        "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+        "price": 7200,
+        "tripType": "Adventure",
+        "days": 3,
+        "location": "Saint Martin's Island",
+        "gallery": [
+          "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+          "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+          "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+          },
+          {
+            "day": 2,
+            "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+          },
+          {
+            "day": 3,
+            "activities": "Sunrise walk, seafood breakfast, return to mainland"
+          }
+        ],
+        "createdAt": "2025-07-27T05:34:09.424Z"
+      },
+      "packageName": "Saint Martin's Coral Island Adventure",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 7200,
+      "tourDate": "2025-10-19T00:00:00.000Z",
+      "status": "accepted",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpME9H7Tlju1lhj0ollmczS",
+      "createdAt": "2025-07-27T04:29:51.602Z",
+      "updatedAt": "2025-07-27T05:30:19.575Z"
+    }
+  ]
+} aasigned tour book AssignedTour.jsx 10
+[11:34 AM 27-07-25] {
+  "success": true,
+  "message": "Guide bookings retrieved successfully!",
+  "data": [
+    {
+      "_id": "6885976e00065ad82a46e2cb",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fea",
+        "title": "Rangamati Lake & Tribal Culture Tour",
+        "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+        "price": 5200,
+        "tripType": "Cultural",
+        "days": 3,
+        "location": "Rangamati",
+        "gallery": [
+          "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+          "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+          "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Bus ride from Chittagong, lake view resort check-in"
+          },
+          {
+            "day": 2,
+            "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+          },
+          {
+            "day": 3,
+            "activities": "Explore local markets and return trip"
+          }
+        ],
+        "imagePrompts": [
+          "Sunset view over Kaptai Lake with orange reflections on calm water"
+        ],
+        "createdAt": "2025-07-27T05:34:09.424Z"
+      },
+      "packageName": "Rangamati Lake & Tribal Culture Tour",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 5200,
+      "tourDate": "2025-12-28T00:00:00.000Z",
+      "status": "in-review",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpKuaH7Tlju1lhj0JvV0Ngq",
+      "createdAt": "2025-07-27T03:05:18.296Z",
+      "updatedAt": "2025-07-27T03:06:11.598Z"
+    },
+    {
+      "_id": "6885ab3f38458644e7af0ba5",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fe7",
+        "title": "Saint Martin's Coral Island Adventure",
+        "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+        "price": 7200,
+        "tripType": "Adventure",
+        "days": 3,
+        "location": "Saint Martin's Island",
+        "gallery": [
+          "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+          "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+          "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+          },
+          {
+            "day": 2,
+            "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+          },
+          {
+            "day": 3,
+            "activities": "Sunrise walk, seafood breakfast, return to mainland"
+          }
+        ],
+        "createdAt": "2025-07-27T05:34:09.424Z"
+      },
+      "packageName": "Saint Martin's Coral Island Adventure",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 7200,
+      "tourDate": "2025-10-19T00:00:00.000Z",
+      "status": "accepted",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpME9H7Tlju1lhj0ollmczS",
+      "createdAt": "2025-07-27T04:29:51.602Z",
+      "updatedAt": "2025-07-27T05:30:19.575Z"
+    }
+  ]
+} aasigned tour book AssignedTour.jsx 10
+[11:34 AM 27-07-25] {
+  "success": true,
+  "message": "Guide bookings retrieved successfully!",
+  "data": [
+    {
+      "_id": "6885976e00065ad82a46e2cb",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fea",
+        "title": "Rangamati Lake & Tribal Culture Tour",
+        "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+        "price": 5200,
+        "tripType": "Cultural",
+        "days": 3,
+        "location": "Rangamati",
+        "gallery": [
+          "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+          "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+          "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Bus ride from Chittagong, lake view resort check-in"
+          },
+          {
+            "day": 2,
+            "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+          },
+          {
+            "day": 3,
+            "activities": "Explore local markets and return trip"
+          }
+        ],
+        "imagePrompts": [
+          "Sunset view over Kaptai Lake with orange reflections on calm water"
+        ],
+        "createdAt": "2025-07-27T05:34:16.760Z"
+      },
+      "packageName": "Rangamati Lake & Tribal Culture Tour",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 5200,
+      "tourDate": "2025-12-28T00:00:00.000Z",
+      "status": "in-review",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpKuaH7Tlju1lhj0JvV0Ngq",
+      "createdAt": "2025-07-27T03:05:18.296Z",
+      "updatedAt": "2025-07-27T03:06:11.598Z"
+    },
+    {
+      "_id": "6885ab3f38458644e7af0ba5",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fe7",
+        "title": "Saint Martin's Coral Island Adventure",
+        "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+        "price": 7200,
+        "tripType": "Adventure",
+        "days": 3,
+        "location": "Saint Martin's Island",
+        "gallery": [
+          "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+          "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+          "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+          },
+          {
+            "day": 2,
+            "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+          },
+          {
+            "day": 3,
+            "activities": "Sunrise walk, seafood breakfast, return to mainland"
+          }
+        ],
+        "createdAt": "2025-07-27T05:34:16.760Z"
+      },
+      "packageName": "Saint Martin's Coral Island Adventure",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 7200,
+      "tourDate": "2025-10-19T00:00:00.000Z",
+      "status": "accepted",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpME9H7Tlju1lhj0ollmczS",
+      "createdAt": "2025-07-27T04:29:51.602Z",
+      "updatedAt": "2025-07-27T05:30:19.575Z"
+    }
+  ]
+} aasigned tour book AssignedTour.jsx 10
+[11:34 AM 27-07-25] {
+  "success": true,
+  "message": "Guide bookings retrieved successfully!",
+  "data": [
+    {
+      "_id": "6885976e00065ad82a46e2cb",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fea",
+        "title": "Rangamati Lake & Tribal Culture Tour",
+        "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+        "price": 5200,
+        "tripType": "Cultural",
+        "days": 3,
+        "location": "Rangamati",
+        "gallery": [
+          "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+          "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+          "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Bus ride from Chittagong, lake view resort check-in"
+          },
+          {
+            "day": 2,
+            "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+          },
+          {
+            "day": 3,
+            "activities": "Explore local markets and return trip"
+          }
+        ],
+        "imagePrompts": [
+          "Sunset view over Kaptai Lake with orange reflections on calm water"
+        ],
+        "createdAt": "2025-07-27T05:34:16.760Z"
+      },
+      "packageName": "Rangamati Lake & Tribal Culture Tour",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 5200,
+      "tourDate": "2025-12-28T00:00:00.000Z",
+      "status": "in-review",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpKuaH7Tlju1lhj0JvV0Ngq",
+      "createdAt": "2025-07-27T03:05:18.296Z",
+      "updatedAt": "2025-07-27T03:06:11.598Z"
+    },
+    {
+      "_id": "6885ab3f38458644e7af0ba5",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fe7",
+        "title": "Saint Martin's Coral Island Adventure",
+        "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+        "price": 7200,
+        "tripType": "Adventure",
+        "days": 3,
+        "location": "Saint Martin's Island",
+        "gallery": [
+          "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+          "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+          "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+          },
+          {
+            "day": 2,
+            "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+          },
+          {
+            "day": 3,
+            "activities": "Sunrise walk, seafood breakfast, return to mainland"
+          }
+        ],
+        "createdAt": "2025-07-27T05:34:16.760Z"
+      },
+      "packageName": "Saint Martin's Coral Island Adventure",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 7200,
+      "tourDate": "2025-10-19T00:00:00.000Z",
+      "status": "accepted",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpME9H7Tlju1lhj0ollmczS",
+      "createdAt": "2025-07-27T04:29:51.602Z",
+      "updatedAt": "2025-07-27T05:30:19.575Z"
+    }
+  ]
+} aasigned tour book AssignedTour.jsx 10
+[11:34 AM 27-07-25] 6885976e00065ad82a46e2cb bookingId BookingDetails.jsx 14
+[11:34 AM 27-07-25] 6885976e00065ad82a46e2cb bookingId BookingDetails.jsx 14
+[11:34 AM 27-07-25] 6885976e00065ad82a46e2cb bookingId BookingDetails.jsx 14
+[11:34 AM 27-07-25] 6885976e00065ad82a46e2cb bookingId BookingDetails.jsx 14
+[11:34 AM 27-07-25] {
+  "success": true,
+  "message": "Guide bookings retrieved successfully!",
+  "data": [
+    {
+      "_id": "6885976e00065ad82a46e2cb",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fea",
+        "title": "Rangamati Lake & Tribal Culture Tour",
+        "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+        "price": 5200,
+        "tripType": "Cultural",
+        "days": 3,
+        "location": "Rangamati",
+        "gallery": [
+          "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+          "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+          "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Bus ride from Chittagong, lake view resort check-in"
+          },
+          {
+            "day": 2,
+            "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+          },
+          {
+            "day": 3,
+            "activities": "Explore local markets and return trip"
+          }
+        ],
+        "imagePrompts": [
+          "Sunset view over Kaptai Lake with orange reflections on calm water"
+        ],
+        "createdAt": "2025-07-27T05:34:16.760Z"
+      },
+      "packageName": "Rangamati Lake & Tribal Culture Tour",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 5200,
+      "tourDate": "2025-12-28T00:00:00.000Z",
+      "status": "in-review",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpKuaH7Tlju1lhj0JvV0Ngq",
+      "createdAt": "2025-07-27T03:05:18.296Z",
+      "updatedAt": "2025-07-27T03:06:11.598Z"
+    },
+    {
+      "_id": "6885ab3f38458644e7af0ba5",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fe7",
+        "title": "Saint Martin's Coral Island Adventure",
+        "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+        "price": 7200,
+        "tripType": "Adventure",
+        "days": 3,
+        "location": "Saint Martin's Island",
+        "gallery": [
+          "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+          "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+          "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+          },
+          {
+            "day": 2,
+            "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+          },
+          {
+            "day": 3,
+            "activities": "Sunrise walk, seafood breakfast, return to mainland"
+          }
+        ],
+        "createdAt": "2025-07-27T05:34:16.760Z"
+      },
+      "packageName": "Saint Martin's Coral Island Adventure",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 7200,
+      "tourDate": "2025-10-19T00:00:00.000Z",
+      "status": "accepted",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpME9H7Tlju1lhj0ollmczS",
+      "createdAt": "2025-07-27T04:29:51.602Z",
+      "updatedAt": "2025-07-27T05:30:19.575Z"
+    }
+  ]
+} aasigned tour book AssignedTour.jsx 10
+[11:34 AM 27-07-25] {
+  "success": true,
+  "message": "Guide bookings retrieved successfully!",
+  "data": [
+    {
+      "_id": "6885976e00065ad82a46e2cb",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fea",
+        "title": "Rangamati Lake & Tribal Culture Tour",
+        "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+        "price": 5200,
+        "tripType": "Cultural",
+        "days": 3,
+        "location": "Rangamati",
+        "gallery": [
+          "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+          "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+          "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Bus ride from Chittagong, lake view resort check-in"
+          },
+          {
+            "day": 2,
+            "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+          },
+          {
+            "day": 3,
+            "activities": "Explore local markets and return trip"
+          }
+        ],
+        "imagePrompts": [
+          "Sunset view over Kaptai Lake with orange reflections on calm water"
+        ],
+        "createdAt": "2025-07-27T05:34:16.760Z"
+      },
+      "packageName": "Rangamati Lake & Tribal Culture Tour",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 5200,
+      "tourDate": "2025-12-28T00:00:00.000Z",
+      "status": "in-review",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpKuaH7Tlju1lhj0JvV0Ngq",
+      "createdAt": "2025-07-27T03:05:18.296Z",
+      "updatedAt": "2025-07-27T03:06:11.598Z"
+    },
+    {
+      "_id": "6885ab3f38458644e7af0ba5",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fe7",
+        "title": "Saint Martin's Coral Island Adventure",
+        "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+        "price": 7200,
+        "tripType": "Adventure",
+        "days": 3,
+        "location": "Saint Martin's Island",
+        "gallery": [
+          "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+          "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+          "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+          },
+          {
+            "day": 2,
+            "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+          },
+          {
+            "day": 3,
+            "activities": "Sunrise walk, seafood breakfast, return to mainland"
+          }
+        ],
+        "createdAt": "2025-07-27T05:34:16.760Z"
+      },
+      "packageName": "Saint Martin's Coral Island Adventure",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 7200,
+      "tourDate": "2025-10-19T00:00:00.000Z",
+      "status": "accepted",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpME9H7Tlju1lhj0ollmczS",
+      "createdAt": "2025-07-27T04:29:51.602Z",
+      "updatedAt": "2025-07-27T05:30:19.575Z"
+    }
+  ]
+} aasigned tour book AssignedTour.jsx 10
+[11:34 AM 27-07-25] {
+  "success": true,
+  "message": "Guide bookings retrieved successfully!",
+  "data": [
+    {
+      "_id": "6885976e00065ad82a46e2cb",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fea",
+        "title": "Rangamati Lake & Tribal Culture Tour",
+        "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+        "price": 5200,
+        "tripType": "Cultural",
+        "days": 3,
+        "location": "Rangamati",
+        "gallery": [
+          "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+          "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+          "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Bus ride from Chittagong, lake view resort check-in"
+          },
+          {
+            "day": 2,
+            "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+          },
+          {
+            "day": 3,
+            "activities": "Explore local markets and return trip"
+          }
+        ],
+        "imagePrompts": [
+          "Sunset view over Kaptai Lake with orange reflections on calm water"
+        ],
+        "createdAt": "2025-07-27T05:34:22.035Z"
+      },
+      "packageName": "Rangamati Lake & Tribal Culture Tour",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 5200,
+      "tourDate": "2025-12-28T00:00:00.000Z",
+      "status": "in-review",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpKuaH7Tlju1lhj0JvV0Ngq",
+      "createdAt": "2025-07-27T03:05:18.296Z",
+      "updatedAt": "2025-07-27T03:06:11.598Z"
+    },
+    {
+      "_id": "6885ab3f38458644e7af0ba5",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fe7",
+        "title": "Saint Martin's Coral Island Adventure",
+        "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+        "price": 7200,
+        "tripType": "Adventure",
+        "days": 3,
+        "location": "Saint Martin's Island",
+        "gallery": [
+          "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+          "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+          "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+          },
+          {
+            "day": 2,
+            "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+          },
+          {
+            "day": 3,
+            "activities": "Sunrise walk, seafood breakfast, return to mainland"
+          }
+        ],
+        "createdAt": "2025-07-27T05:34:22.035Z"
+      },
+      "packageName": "Saint Martin's Coral Island Adventure",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 7200,
+      "tourDate": "2025-10-19T00:00:00.000Z",
+      "status": "accepted",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpME9H7Tlju1lhj0ollmczS",
+      "createdAt": "2025-07-27T04:29:51.602Z",
+      "updatedAt": "2025-07-27T05:30:19.575Z"
+    }
+  ]
+} aasigned tour book AssignedTour.jsx 10
+[11:34 AM 27-07-25] {
+  "success": true,
+  "message": "Guide bookings retrieved successfully!",
+  "data": [
+    {
+      "_id": "6885976e00065ad82a46e2cb",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fea",
+        "title": "Rangamati Lake & Tribal Culture Tour",
+        "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+        "price": 5200,
+        "tripType": "Cultural",
+        "days": 3,
+        "location": "Rangamati",
+        "gallery": [
+          "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+          "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+          "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Bus ride from Chittagong, lake view resort check-in"
+          },
+          {
+            "day": 2,
+            "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+          },
+          {
+            "day": 3,
+            "activities": "Explore local markets and return trip"
+          }
+        ],
+        "imagePrompts": [
+          "Sunset view over Kaptai Lake with orange reflections on calm water"
+        ],
+        "createdAt": "2025-07-27T05:34:22.035Z"
+      },
+      "packageName": "Rangamati Lake & Tribal Culture Tour",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 5200,
+      "tourDate": "2025-12-28T00:00:00.000Z",
+      "status": "in-review",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpKuaH7Tlju1lhj0JvV0Ngq",
+      "createdAt": "2025-07-27T03:05:18.296Z",
+      "updatedAt": "2025-07-27T03:06:11.598Z"
+    },
+    {
+      "_id": "6885ab3f38458644e7af0ba5",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fe7",
+        "title": "Saint Martin's Coral Island Adventure",
+        "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+        "price": 7200,
+        "tripType": "Adventure",
+        "days": 3,
+        "location": "Saint Martin's Island",
+        "gallery": [
+          "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+          "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+          "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+          },
+          {
+            "day": 2,
+            "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+          },
+          {
+            "day": 3,
+            "activities": "Sunrise walk, seafood breakfast, return to mainland"
+          }
+        ],
+        "createdAt": "2025-07-27T05:34:22.035Z"
+      },
+      "packageName": "Saint Martin's Coral Island Adventure",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 7200,
+      "tourDate": "2025-10-19T00:00:00.000Z",
+      "status": "accepted",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpME9H7Tlju1lhj0ollmczS",
+      "createdAt": "2025-07-27T04:29:51.602Z",
+      "updatedAt": "2025-07-27T05:30:19.575Z"
+    }
+  ]
+} aasigned tour book AssignedTour.jsx 10
+[11:34 AM 27-07-25] {
+  "success": true,
+  "message": "Guide bookings retrieved successfully!",
+  "data": [
+    {
+      "_id": "6885976e00065ad82a46e2cb",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fea",
+        "title": "Rangamati Lake & Tribal Culture Tour",
+        "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+        "price": 5200,
+        "tripType": "Cultural",
+        "days": 3,
+        "location": "Rangamati",
+        "gallery": [
+          "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+          "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+          "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Bus ride from Chittagong, lake view resort check-in"
+          },
+          {
+            "day": 2,
+            "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+          },
+          {
+            "day": 3,
+            "activities": "Explore local markets and return trip"
+          }
+        ],
+        "imagePrompts": [
+          "Sunset view over Kaptai Lake with orange reflections on calm water"
+        ],
+        "createdAt": "2025-07-27T05:34:22.035Z"
+      },
+      "packageName": "Rangamati Lake & Tribal Culture Tour",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 5200,
+      "tourDate": "2025-12-28T00:00:00.000Z",
+      "status": "in-review",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpKuaH7Tlju1lhj0JvV0Ngq",
+      "createdAt": "2025-07-27T03:05:18.296Z",
+      "updatedAt": "2025-07-27T03:06:11.598Z"
+    },
+    {
+      "_id": "6885ab3f38458644e7af0ba5",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fe7",
+        "title": "Saint Martin's Coral Island Adventure",
+        "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+        "price": 7200,
+        "tripType": "Adventure",
+        "days": 3,
+        "location": "Saint Martin's Island",
+        "gallery": [
+          "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+          "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+          "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+          },
+          {
+            "day": 2,
+            "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+          },
+          {
+            "day": 3,
+            "activities": "Sunrise walk, seafood breakfast, return to mainland"
+          }
+        ],
+        "createdAt": "2025-07-27T05:34:22.035Z"
+      },
+      "packageName": "Saint Martin's Coral Island Adventure",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 7200,
+      "tourDate": "2025-10-19T00:00:00.000Z",
+      "status": "accepted",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpME9H7Tlju1lhj0ollmczS",
+      "createdAt": "2025-07-27T04:29:51.602Z",
+      "updatedAt": "2025-07-27T05:30:19.575Z"
+    }
+  ]
+} aasigned tour book AssignedTour.jsx 10
+[11:34 AM 27-07-25] {
+  "success": true,
+  "message": "Guide bookings retrieved successfully!",
+  "data": [
+    {
+      "_id": "6885976e00065ad82a46e2cb",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fea",
+        "title": "Rangamati Lake & Tribal Culture Tour",
+        "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+        "price": 5200,
+        "tripType": "Cultural",
+        "days": 3,
+        "location": "Rangamati",
+        "gallery": [
+          "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+          "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+          "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Bus ride from Chittagong, lake view resort check-in"
+          },
+          {
+            "day": 2,
+            "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+          },
+          {
+            "day": 3,
+            "activities": "Explore local markets and return trip"
+          }
+        ],
+        "imagePrompts": [
+          "Sunset view over Kaptai Lake with orange reflections on calm water"
+        ],
+        "createdAt": "2025-07-27T05:34:22.035Z"
+      },
+      "packageName": "Rangamati Lake & Tribal Culture Tour",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 5200,
+      "tourDate": "2025-12-28T00:00:00.000Z",
+      "status": "in-review",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpKuaH7Tlju1lhj0JvV0Ngq",
+      "createdAt": "2025-07-27T03:05:18.296Z",
+      "updatedAt": "2025-07-27T03:06:11.598Z"
+    },
+    {
+      "_id": "6885ab3f38458644e7af0ba5",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fe7",
+        "title": "Saint Martin's Coral Island Adventure",
+        "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+        "price": 7200,
+        "tripType": "Adventure",
+        "days": 3,
+        "location": "Saint Martin's Island",
+        "gallery": [
+          "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+          "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+          "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+          },
+          {
+            "day": 2,
+            "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+          },
+          {
+            "day": 3,
+            "activities": "Sunrise walk, seafood breakfast, return to mainland"
+          }
+        ],
+        "createdAt": "2025-07-27T05:34:22.035Z"
+      },
+      "packageName": "Saint Martin's Coral Island Adventure",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 7200,
+      "tourDate": "2025-10-19T00:00:00.000Z",
+      "status": "accepted",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpME9H7Tlju1lhj0ollmczS",
+      "createdAt": "2025-07-27T04:29:51.602Z",
+      "updatedAt": "2025-07-27T05:30:19.575Z"
+    }
+  ]
+} aasigned tour book AssignedTour.jsx 10
+[11:34 AM 27-07-25] {
+  "success": true,
+  "message": "Guide bookings retrieved successfully!",
+  "data": [
+    {
+      "_id": "6885976e00065ad82a46e2cb",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fea",
+        "title": "Rangamati Lake & Tribal Culture Tour",
+        "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+        "price": 5200,
+        "tripType": "Cultural",
+        "days": 3,
+        "location": "Rangamati",
+        "gallery": [
+          "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+          "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+          "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Bus ride from Chittagong, lake view resort check-in"
+          },
+          {
+            "day": 2,
+            "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+          },
+          {
+            "day": 3,
+            "activities": "Explore local markets and return trip"
+          }
+        ],
+        "imagePrompts": [
+          "Sunset view over Kaptai Lake with orange reflections on calm water"
+        ],
+        "createdAt": "2025-07-27T05:34:22.035Z"
+      },
+      "packageName": "Rangamati Lake & Tribal Culture Tour",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 5200,
+      "tourDate": "2025-12-28T00:00:00.000Z",
+      "status": "in-review",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpKuaH7Tlju1lhj0JvV0Ngq",
+      "createdAt": "2025-07-27T03:05:18.296Z",
+      "updatedAt": "2025-07-27T03:06:11.598Z"
+    },
+    {
+      "_id": "6885ab3f38458644e7af0ba5",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fe7",
+        "title": "Saint Martin's Coral Island Adventure",
+        "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+        "price": 7200,
+        "tripType": "Adventure",
+        "days": 3,
+        "location": "Saint Martin's Island",
+        "gallery": [
+          "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+          "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+          "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+          },
+          {
+            "day": 2,
+            "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+          },
+          {
+            "day": 3,
+            "activities": "Sunrise walk, seafood breakfast, return to mainland"
+          }
+        ],
+        "createdAt": "2025-07-27T05:34:22.035Z"
+      },
+      "packageName": "Saint Martin's Coral Island Adventure",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 7200,
+      "tourDate": "2025-10-19T00:00:00.000Z",
+      "status": "accepted",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpME9H7Tlju1lhj0ollmczS",
+      "createdAt": "2025-07-27T04:29:51.602Z",
+      "updatedAt": "2025-07-27T05:30:19.575Z"
+    }
+  ]
+} aasigned tour book AssignedTour.jsx 10
+[11:34 AM 27-07-25] {
+  "success": true,
+  "message": "Guide bookings retrieved successfully!",
+  "data": [
+    {
+      "_id": "6885976e00065ad82a46e2cb",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fea",
+        "title": "Rangamati Lake & Tribal Culture Tour",
+        "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+        "price": 5200,
+        "tripType": "Cultural",
+        "days": 3,
+        "location": "Rangamati",
+        "gallery": [
+          "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+          "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+          "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Bus ride from Chittagong, lake view resort check-in"
+          },
+          {
+            "day": 2,
+            "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+          },
+          {
+            "day": 3,
+            "activities": "Explore local markets and return trip"
+          }
+        ],
+        "imagePrompts": [
+          "Sunset view over Kaptai Lake with orange reflections on calm water"
+        ],
+        "createdAt": "2025-07-27T05:34:22.035Z"
+      },
+      "packageName": "Rangamati Lake & Tribal Culture Tour",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 5200,
+      "tourDate": "2025-12-28T00:00:00.000Z",
+      "status": "in-review",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpKuaH7Tlju1lhj0JvV0Ngq",
+      "createdAt": "2025-07-27T03:05:18.296Z",
+      "updatedAt": "2025-07-27T03:06:11.598Z"
+    },
+    {
+      "_id": "6885ab3f38458644e7af0ba5",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fe7",
+        "title": "Saint Martin's Coral Island Adventure",
+        "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+        "price": 7200,
+        "tripType": "Adventure",
+        "days": 3,
+        "location": "Saint Martin's Island",
+        "gallery": [
+          "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+          "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+          "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+          },
+          {
+            "day": 2,
+            "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+          },
+          {
+            "day": 3,
+            "activities": "Sunrise walk, seafood breakfast, return to mainland"
+          }
+        ],
+        "createdAt": "2025-07-27T05:34:22.035Z"
+      },
+      "packageName": "Saint Martin's Coral Island Adventure",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 7200,
+      "tourDate": "2025-10-19T00:00:00.000Z",
+      "status": "accepted",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpME9H7Tlju1lhj0ollmczS",
+      "createdAt": "2025-07-27T04:29:51.602Z",
+      "updatedAt": "2025-07-27T05:30:19.575Z"
+    }
+  ]
+} aasigned tour book AssignedTour.jsx 10
+[11:34 AM 27-07-25] {
+  "success": true,
+  "message": "Guide bookings retrieved successfully!",
+  "data": [
+    {
+      "_id": "6885976e00065ad82a46e2cb",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fea",
+        "title": "Rangamati Lake & Tribal Culture Tour",
+        "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+        "price": 5200,
+        "tripType": "Cultural",
+        "days": 3,
+        "location": "Rangamati",
+        "gallery": [
+          "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+          "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+          "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Bus ride from Chittagong, lake view resort check-in"
+          },
+          {
+            "day": 2,
+            "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+          },
+          {
+            "day": 3,
+            "activities": "Explore local markets and return trip"
+          }
+        ],
+        "imagePrompts": [
+          "Sunset view over Kaptai Lake with orange reflections on calm water"
+        ],
+        "createdAt": "2025-07-27T05:34:22.035Z"
+      },
+      "packageName": "Rangamati Lake & Tribal Culture Tour",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 5200,
+      "tourDate": "2025-12-28T00:00:00.000Z",
+      "status": "in-review",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpKuaH7Tlju1lhj0JvV0Ngq",
+      "createdAt": "2025-07-27T03:05:18.296Z",
+      "updatedAt": "2025-07-27T03:06:11.598Z"
+    },
+    {
+      "_id": "6885ab3f38458644e7af0ba5",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fe7",
+        "title": "Saint Martin's Coral Island Adventure",
+        "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+        "price": 7200,
+        "tripType": "Adventure",
+        "days": 3,
+        "location": "Saint Martin's Island",
+        "gallery": [
+          "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+          "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+          "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+          },
+          {
+            "day": 2,
+            "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+          },
+          {
+            "day": 3,
+            "activities": "Sunrise walk, seafood breakfast, return to mainland"
+          }
+        ],
+        "createdAt": "2025-07-27T05:34:22.035Z"
+      },
+      "packageName": "Saint Martin's Coral Island Adventure",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 7200,
+      "tourDate": "2025-10-19T00:00:00.000Z",
+      "status": "accepted",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpME9H7Tlju1lhj0ollmczS",
+      "createdAt": "2025-07-27T04:29:51.602Z",
+      "updatedAt": "2025-07-27T05:30:19.575Z"
+    }
+  ]
+} aasigned tour book AssignedTour.jsx 10
+[11:34 AM 27-07-25] {
+  "success": true,
+  "message": "Guide bookings retrieved successfully!",
+  "data": [
+    {
+      "_id": "6885976e00065ad82a46e2cb",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fea",
+        "title": "Rangamati Lake & Tribal Culture Tour",
+        "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+        "price": 5200,
+        "tripType": "Cultural",
+        "days": 3,
+        "location": "Rangamati",
+        "gallery": [
+          "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+          "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+          "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Bus ride from Chittagong, lake view resort check-in"
+          },
+          {
+            "day": 2,
+            "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+          },
+          {
+            "day": 3,
+            "activities": "Explore local markets and return trip"
+          }
+        ],
+        "imagePrompts": [
+          "Sunset view over Kaptai Lake with orange reflections on calm water"
+        ],
+        "createdAt": "2025-07-27T05:34:22.035Z"
+      },
+      "packageName": "Rangamati Lake & Tribal Culture Tour",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 5200,
+      "tourDate": "2025-12-28T00:00:00.000Z",
+      "status": "in-review",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpKuaH7Tlju1lhj0JvV0Ngq",
+      "createdAt": "2025-07-27T03:05:18.296Z",
+      "updatedAt": "2025-07-27T03:06:11.598Z"
+    },
+    {
+      "_id": "6885ab3f38458644e7af0ba5",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fe7",
+        "title": "Saint Martin's Coral Island Adventure",
+        "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+        "price": 7200,
+        "tripType": "Adventure",
+        "days": 3,
+        "location": "Saint Martin's Island",
+        "gallery": [
+          "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+          "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+          "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+          },
+          {
+            "day": 2,
+            "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+          },
+          {
+            "day": 3,
+            "activities": "Sunrise walk, seafood breakfast, return to mainland"
+          }
+        ],
+        "createdAt": "2025-07-27T05:34:22.035Z"
+      },
+      "packageName": "Saint Martin's Coral Island Adventure",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 7200,
+      "tourDate": "2025-10-19T00:00:00.000Z",
+      "status": "accepted",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpME9H7Tlju1lhj0ollmczS",
+      "createdAt": "2025-07-27T04:29:51.602Z",
+      "updatedAt": "2025-07-27T05:30:19.575Z"
+    }
+  ]
+} aasigned tour book AssignedTour.jsx 10
+[11:34 AM 27-07-25] {
+  "success": true,
+  "message": "Guide bookings retrieved successfully!",
+  "data": [
+    {
+      "_id": "6885976e00065ad82a46e2cb",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fea",
+        "title": "Rangamati Lake & Tribal Culture Tour",
+        "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+        "price": 5200,
+        "tripType": "Cultural",
+        "days": 3,
+        "location": "Rangamati",
+        "gallery": [
+          "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+          "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+          "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Bus ride from Chittagong, lake view resort check-in"
+          },
+          {
+            "day": 2,
+            "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+          },
+          {
+            "day": 3,
+            "activities": "Explore local markets and return trip"
+          }
+        ],
+        "imagePrompts": [
+          "Sunset view over Kaptai Lake with orange reflections on calm water"
+        ],
+        "createdAt": "2025-07-27T05:34:24.581Z"
+      },
+      "packageName": "Rangamati Lake & Tribal Culture Tour",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 5200,
+      "tourDate": "2025-12-28T00:00:00.000Z",
+      "status": "rejected",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpKuaH7Tlju1lhj0JvV0Ngq",
+      "createdAt": "2025-07-27T03:05:18.296Z",
+      "updatedAt": "2025-07-27T05:34:24.186Z"
+    },
+    {
+      "_id": "6885ab3f38458644e7af0ba5",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fe7",
+        "title": "Saint Martin's Coral Island Adventure",
+        "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+        "price": 7200,
+        "tripType": "Adventure",
+        "days": 3,
+        "location": "Saint Martin's Island",
+        "gallery": [
+          "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+          "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+          "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+          },
+          {
+            "day": 2,
+            "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+          },
+          {
+            "day": 3,
+            "activities": "Sunrise walk, seafood breakfast, return to mainland"
+          }
+        ],
+        "createdAt": "2025-07-27T05:34:24.580Z"
+      },
+      "packageName": "Saint Martin's Coral Island Adventure",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 7200,
+      "tourDate": "2025-10-19T00:00:00.000Z",
+      "status": "accepted",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpME9H7Tlju1lhj0ollmczS",
+      "createdAt": "2025-07-27T04:29:51.602Z",
+      "updatedAt": "2025-07-27T05:30:19.575Z"
+    }
+  ]
+} aasigned tour book AssignedTour.jsx 10
+[11:34 AM 27-07-25] {
+  "success": true,
+  "message": "Guide bookings retrieved successfully!",
+  "data": [
+    {
+      "_id": "6885976e00065ad82a46e2cb",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fea",
+        "title": "Rangamati Lake & Tribal Culture Tour",
+        "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+        "price": 5200,
+        "tripType": "Cultural",
+        "days": 3,
+        "location": "Rangamati",
+        "gallery": [
+          "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+          "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+          "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Bus ride from Chittagong, lake view resort check-in"
+          },
+          {
+            "day": 2,
+            "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+          },
+          {
+            "day": 3,
+            "activities": "Explore local markets and return trip"
+          }
+        ],
+        "imagePrompts": [
+          "Sunset view over Kaptai Lake with orange reflections on calm water"
+        ],
+        "createdAt": "2025-07-27T05:34:24.581Z"
+      },
+      "packageName": "Rangamati Lake & Tribal Culture Tour",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 5200,
+      "tourDate": "2025-12-28T00:00:00.000Z",
+      "status": "rejected",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpKuaH7Tlju1lhj0JvV0Ngq",
+      "createdAt": "2025-07-27T03:05:18.296Z",
+      "updatedAt": "2025-07-27T05:34:24.186Z"
+    },
+    {
+      "_id": "6885ab3f38458644e7af0ba5",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fe7",
+        "title": "Saint Martin's Coral Island Adventure",
+        "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+        "price": 7200,
+        "tripType": "Adventure",
+        "days": 3,
+        "location": "Saint Martin's Island",
+        "gallery": [
+          "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+          "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+          "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+          },
+          {
+            "day": 2,
+            "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+          },
+          {
+            "day": 3,
+            "activities": "Sunrise walk, seafood breakfast, return to mainland"
+          }
+        ],
+        "createdAt": "2025-07-27T05:34:24.580Z"
+      },
+      "packageName": "Saint Martin's Coral Island Adventure",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 7200,
+      "tourDate": "2025-10-19T00:00:00.000Z",
+      "status": "accepted",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpME9H7Tlju1lhj0ollmczS",
+      "createdAt": "2025-07-27T04:29:51.602Z",
+      "updatedAt": "2025-07-27T05:30:19.575Z"
+    }
+  ]
+} aasigned tour book AssignedTour.jsx 10
+[11:34 AM 27-07-25] 6885976e00065ad82a46e2cb bookingId BookingDetails.jsx 14
+[11:34 AM 27-07-25] 6885976e00065ad82a46e2cb bookingId BookingDetails.jsx 14
+[11:34 AM 27-07-25] 6885976e00065ad82a46e2cb bookingId BookingDetails.jsx 14
+[11:34 AM 27-07-25] 6885976e00065ad82a46e2cb bookingId BookingDetails.jsx 14
+[11:34 AM 27-07-25] 6885976e00065ad82a46e2cb bookingId BookingDetails.jsx 14
+[11:34 AM 27-07-25] 6885976e00065ad82a46e2cb bookingId BookingDetails.jsx 14
+[11:34 AM 27-07-25] 6885976e00065ad82a46e2cb bookingId BookingDetails.jsx 14
+[11:34 AM 27-07-25] 6885976e00065ad82a46e2cb bookingId BookingDetails.jsx 14
+[11:35 AM 27-07-25] 6885976e00065ad82a46e2cb bookingId BookingDetails.jsx 14
+[11:35 AM 27-07-25] 6885976e00065ad82a46e2cb bookingId BookingDetails.jsx 14
+[11:35 AM 27-07-25] 6885976e00065ad82a46e2cb bookingId BookingDetails.jsx 14
+[11:35 AM 27-07-25] 6885976e00065ad82a46e2cb bookingId BookingDetails.jsx 14
+[11:35 AM 27-07-25] []  random data RandomGuides.jsx 13
+[11:35 AM 27-07-25] []  random data RandomGuides.jsx 13
+[11:35 AM 27-07-25] [
+  {
+    "_id": "68852bc3c78ef640a3f9394c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:25:55.283Z",
+    "user": {
+      "_id": "68852b90c78ef640a3f93940",
+      "name": "গণিত ভালোবাসি",
+      "email": "gonitvalobasi@gmail.com"
+    }
+  },
+  {
+    "_id": "68852b14c78ef640a3f93929",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:23:00.489Z",
+    "user": {
+      "_id": "68852ad7c78ef640a3f9391d",
+      "name": "Education Education",
+      "email": "eeducation954@gmail.com"
+    }
+  },
+  {
+    "_id": "68851f1a48e669e21a93e85b",
+    "status": "accepted",
+    "createdAt": "2025-07-26T18:31:54.566Z",
+    "user": {
+      "_id": "68851af3606080f1804fcc36",
+      "name": "Md. Shahjalal",
+      "email": "dev.shahjalal@gmail.com"
+    }
+  },
+  {
+    "_id": "6885af7938458644e7af0c66",
+    "status": "accepted",
+    "createdAt": "2025-07-27T04:47:53.437Z",
+    "user": {
+      "_id": "6885aeac38458644e7af0c45",
+      "name": "Abdullah Fahad",
+      "email": "abdullahfahad@gmail.com"
+    }
+  },
+  {
+    "_id": "688527d2c78ef640a3f9389c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:09:06.889Z",
+    "user": {
+      "_id": "68852645c78ef640a3f93875",
+      "name": "Learning English",
+      "email": "mdshahjalal512@gmail.com"
+    }
+  }
+]  random data RandomGuides.jsx 13
+[11:35 AM 27-07-25] [
+  {
+    "_id": "68852bc3c78ef640a3f9394c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:25:55.283Z",
+    "user": {
+      "_id": "68852b90c78ef640a3f93940",
+      "name": "গণিত ভালোবাসি",
+      "email": "gonitvalobasi@gmail.com"
+    }
+  },
+  {
+    "_id": "68852b14c78ef640a3f93929",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:23:00.489Z",
+    "user": {
+      "_id": "68852ad7c78ef640a3f9391d",
+      "name": "Education Education",
+      "email": "eeducation954@gmail.com"
+    }
+  },
+  {
+    "_id": "68851f1a48e669e21a93e85b",
+    "status": "accepted",
+    "createdAt": "2025-07-26T18:31:54.566Z",
+    "user": {
+      "_id": "68851af3606080f1804fcc36",
+      "name": "Md. Shahjalal",
+      "email": "dev.shahjalal@gmail.com"
+    }
+  },
+  {
+    "_id": "6885af7938458644e7af0c66",
+    "status": "accepted",
+    "createdAt": "2025-07-27T04:47:53.437Z",
+    "user": {
+      "_id": "6885aeac38458644e7af0c45",
+      "name": "Abdullah Fahad",
+      "email": "abdullahfahad@gmail.com"
+    }
+  },
+  {
+    "_id": "688527d2c78ef640a3f9389c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:09:06.889Z",
+    "user": {
+      "_id": "68852645c78ef640a3f93875",
+      "name": "Learning English",
+      "email": "mdshahjalal512@gmail.com"
+    }
+  }
+]  random data RandomGuides.jsx 13
+[11:36 AM 27-07-25] 6885976e00065ad82a46e2cb bookingId BookingDetails.jsx 14
+[11:36 AM 27-07-25] 6885976e00065ad82a46e2cb bookingId BookingDetails.jsx 14
+[11:36 AM 27-07-25] {
+  "success": true,
+  "message": "Guide bookings retrieved successfully!",
+  "data": [
+    {
+      "_id": "6885976e00065ad82a46e2cb",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fea",
+        "title": "Rangamati Lake & Tribal Culture Tour",
+        "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+        "price": 5200,
+        "tripType": "Cultural",
+        "days": 3,
+        "location": "Rangamati",
+        "gallery": [
+          "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+          "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+          "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Bus ride from Chittagong, lake view resort check-in"
+          },
+          {
+            "day": 2,
+            "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+          },
+          {
+            "day": 3,
+            "activities": "Explore local markets and return trip"
+          }
+        ],
+        "imagePrompts": [
+          "Sunset view over Kaptai Lake with orange reflections on calm water"
+        ],
+        "createdAt": "2025-07-27T05:34:24.581Z"
+      },
+      "packageName": "Rangamati Lake & Tribal Culture Tour",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 5200,
+      "tourDate": "2025-12-28T00:00:00.000Z",
+      "status": "rejected",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpKuaH7Tlju1lhj0JvV0Ngq",
+      "createdAt": "2025-07-27T03:05:18.296Z",
+      "updatedAt": "2025-07-27T05:34:24.186Z"
+    },
+    {
+      "_id": "6885ab3f38458644e7af0ba5",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fe7",
+        "title": "Saint Martin's Coral Island Adventure",
+        "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+        "price": 7200,
+        "tripType": "Adventure",
+        "days": 3,
+        "location": "Saint Martin's Island",
+        "gallery": [
+          "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+          "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+          "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+          },
+          {
+            "day": 2,
+            "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+          },
+          {
+            "day": 3,
+            "activities": "Sunrise walk, seafood breakfast, return to mainland"
+          }
+        ],
+        "createdAt": "2025-07-27T05:34:24.580Z"
+      },
+      "packageName": "Saint Martin's Coral Island Adventure",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 7200,
+      "tourDate": "2025-10-19T00:00:00.000Z",
+      "status": "accepted",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpME9H7Tlju1lhj0ollmczS",
+      "createdAt": "2025-07-27T04:29:51.602Z",
+      "updatedAt": "2025-07-27T05:30:19.575Z"
+    }
+  ]
+} aasigned tour book AssignedTour.jsx 10
+[11:36 AM 27-07-25] {
+  "success": true,
+  "message": "Guide bookings retrieved successfully!",
+  "data": [
+    {
+      "_id": "6885976e00065ad82a46e2cb",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fea",
+        "title": "Rangamati Lake & Tribal Culture Tour",
+        "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+        "price": 5200,
+        "tripType": "Cultural",
+        "days": 3,
+        "location": "Rangamati",
+        "gallery": [
+          "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+          "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+          "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Bus ride from Chittagong, lake view resort check-in"
+          },
+          {
+            "day": 2,
+            "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+          },
+          {
+            "day": 3,
+            "activities": "Explore local markets and return trip"
+          }
+        ],
+        "imagePrompts": [
+          "Sunset view over Kaptai Lake with orange reflections on calm water"
+        ],
+        "createdAt": "2025-07-27T05:34:24.581Z"
+      },
+      "packageName": "Rangamati Lake & Tribal Culture Tour",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 5200,
+      "tourDate": "2025-12-28T00:00:00.000Z",
+      "status": "rejected",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpKuaH7Tlju1lhj0JvV0Ngq",
+      "createdAt": "2025-07-27T03:05:18.296Z",
+      "updatedAt": "2025-07-27T05:34:24.186Z"
+    },
+    {
+      "_id": "6885ab3f38458644e7af0ba5",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fe7",
+        "title": "Saint Martin's Coral Island Adventure",
+        "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+        "price": 7200,
+        "tripType": "Adventure",
+        "days": 3,
+        "location": "Saint Martin's Island",
+        "gallery": [
+          "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+          "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+          "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+          },
+          {
+            "day": 2,
+            "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+          },
+          {
+            "day": 3,
+            "activities": "Sunrise walk, seafood breakfast, return to mainland"
+          }
+        ],
+        "createdAt": "2025-07-27T05:34:24.580Z"
+      },
+      "packageName": "Saint Martin's Coral Island Adventure",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 7200,
+      "tourDate": "2025-10-19T00:00:00.000Z",
+      "status": "accepted",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpME9H7Tlju1lhj0ollmczS",
+      "createdAt": "2025-07-27T04:29:51.602Z",
+      "updatedAt": "2025-07-27T05:30:19.575Z"
+    }
+  ]
+} aasigned tour book AssignedTour.jsx 10
+[11:36 AM 27-07-25] {
+  "success": true,
+  "message": "Guide bookings retrieved successfully!",
+  "data": [
+    {
+      "_id": "6885976e00065ad82a46e2cb",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fea",
+        "title": "Rangamati Lake & Tribal Culture Tour",
+        "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+        "price": 5200,
+        "tripType": "Cultural",
+        "days": 3,
+        "location": "Rangamati",
+        "gallery": [
+          "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+          "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+          "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Bus ride from Chittagong, lake view resort check-in"
+          },
+          {
+            "day": 2,
+            "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+          },
+          {
+            "day": 3,
+            "activities": "Explore local markets and return trip"
+          }
+        ],
+        "imagePrompts": [
+          "Sunset view over Kaptai Lake with orange reflections on calm water"
+        ],
+        "createdAt": "2025-07-27T05:36:24.452Z"
+      },
+      "packageName": "Rangamati Lake & Tribal Culture Tour",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 5200,
+      "tourDate": "2025-12-28T00:00:00.000Z",
+      "status": "rejected",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpKuaH7Tlju1lhj0JvV0Ngq",
+      "createdAt": "2025-07-27T03:05:18.296Z",
+      "updatedAt": "2025-07-27T05:34:24.186Z"
+    },
+    {
+      "_id": "6885ab3f38458644e7af0ba5",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fe7",
+        "title": "Saint Martin's Coral Island Adventure",
+        "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+        "price": 7200,
+        "tripType": "Adventure",
+        "days": 3,
+        "location": "Saint Martin's Island",
+        "gallery": [
+          "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+          "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+          "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+          },
+          {
+            "day": 2,
+            "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+          },
+          {
+            "day": 3,
+            "activities": "Sunrise walk, seafood breakfast, return to mainland"
+          }
+        ],
+        "createdAt": "2025-07-27T05:36:24.452Z"
+      },
+      "packageName": "Saint Martin's Coral Island Adventure",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 7200,
+      "tourDate": "2025-10-19T00:00:00.000Z",
+      "status": "accepted",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpME9H7Tlju1lhj0ollmczS",
+      "createdAt": "2025-07-27T04:29:51.602Z",
+      "updatedAt": "2025-07-27T05:30:19.575Z"
+    }
+  ]
+} aasigned tour book AssignedTour.jsx 10
+[11:36 AM 27-07-25] {
+  "success": true,
+  "message": "Guide bookings retrieved successfully!",
+  "data": [
+    {
+      "_id": "6885976e00065ad82a46e2cb",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fea",
+        "title": "Rangamati Lake & Tribal Culture Tour",
+        "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+        "price": 5200,
+        "tripType": "Cultural",
+        "days": 3,
+        "location": "Rangamati",
+        "gallery": [
+          "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+          "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+          "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Bus ride from Chittagong, lake view resort check-in"
+          },
+          {
+            "day": 2,
+            "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+          },
+          {
+            "day": 3,
+            "activities": "Explore local markets and return trip"
+          }
+        ],
+        "imagePrompts": [
+          "Sunset view over Kaptai Lake with orange reflections on calm water"
+        ],
+        "createdAt": "2025-07-27T05:36:24.452Z"
+      },
+      "packageName": "Rangamati Lake & Tribal Culture Tour",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 5200,
+      "tourDate": "2025-12-28T00:00:00.000Z",
+      "status": "rejected",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpKuaH7Tlju1lhj0JvV0Ngq",
+      "createdAt": "2025-07-27T03:05:18.296Z",
+      "updatedAt": "2025-07-27T05:34:24.186Z"
+    },
+    {
+      "_id": "6885ab3f38458644e7af0ba5",
+      "packageId": {
+        "_id": "68858b3698f52bacf98f9fe7",
+        "title": "Saint Martin's Coral Island Adventure",
+        "description": "Crystal blue waters, coral reefs, and beach bonfires await on Bangladesh's only coral island. Ideal for snorkeling and sunset lovers.",
+        "price": 7200,
+        "tripType": "Adventure",
+        "days": 3,
+        "location": "Saint Martin's Island",
+        "gallery": [
+          "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
+          "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+          "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg"
+        ],
+        "tourPlan": [
+          {
+            "day": 1,
+            "activities": "Arrive via Teknaf trawler, check-in, explore West Beach"
+          },
+          {
+            "day": 2,
+            "activities": "Boat ride to Chera Dwip, snorkeling and photography"
+          },
+          {
+            "day": 3,
+            "activities": "Sunrise walk, seafood breakfast, return to mainland"
+          }
+        ],
+        "createdAt": "2025-07-27T05:36:24.452Z"
+      },
+      "packageName": "Saint Martin's Coral Island Adventure",
+      "touristId": {
+        "_id": "68851c73606080f1804fcc55",
+        "name": "Md Sj",
+        "email": "mdsj0425@gmail.com",
+        "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+        "role": "tourist",
+        "last_loggedIn": "2025-07-26T19:34:52.926Z",
+        "createdAt": "2025-07-26T18:20:35.434Z",
+        "updatedAt": "2025-07-26T19:34:52.928Z",
+        "__v": 0
+      },
+      "touristName": "Md Sj",
+      "touristEmail": "mdsj0425@gmail.com",
+      "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+      "guideId": "68851af3606080f1804fcc36",
+      "guideName": "Md. Shahjalal",
+      "price": 7200,
+      "tourDate": "2025-10-19T00:00:00.000Z",
+      "status": "accepted",
+      "paymentStatus": "paid",
+      "transactionId": "pi_3RpME9H7Tlju1lhj0ollmczS",
+      "createdAt": "2025-07-27T04:29:51.602Z",
+      "updatedAt": "2025-07-27T05:30:19.575Z"
+    }
+  ]
+} aasigned tour book AssignedTour.jsx 10
+[11:36 AM 27-07-25] []  random data RandomGuides.jsx 13
+[11:36 AM 27-07-25] []  random data RandomGuides.jsx 13
+[11:36 AM 27-07-25] [
+  {
+    "_id": "68852b14c78ef640a3f93929",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:23:00.489Z",
+    "user": {
+      "_id": "68852ad7c78ef640a3f9391d",
+      "name": "Education Education",
+      "email": "eeducation954@gmail.com"
+    }
+  },
+  {
+    "_id": "688527d2c78ef640a3f9389c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:09:06.889Z",
+    "user": {
+      "_id": "68852645c78ef640a3f93875",
+      "name": "Learning English",
+      "email": "mdshahjalal512@gmail.com"
+    }
+  },
+  {
+    "_id": "6885af7938458644e7af0c66",
+    "status": "accepted",
+    "createdAt": "2025-07-27T04:47:53.437Z",
+    "user": {
+      "_id": "6885aeac38458644e7af0c45",
+      "name": "Abdullah Fahad",
+      "email": "abdullahfahad@gmail.com"
+    }
+  },
+  {
+    "_id": "68852bc3c78ef640a3f9394c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:25:55.283Z",
+    "user": {
+      "_id": "68852b90c78ef640a3f93940",
+      "name": "গণিত ভালোবাসি",
+      "email": "gonitvalobasi@gmail.com"
+    }
+  },
+  {
+    "_id": "68851f1a48e669e21a93e85b",
+    "status": "accepted",
+    "createdAt": "2025-07-26T18:31:54.566Z",
+    "user": {
+      "_id": "68851af3606080f1804fcc36",
+      "name": "Md. Shahjalal",
+      "email": "dev.shahjalal@gmail.com"
+    }
+  }
+]  random data RandomGuides.jsx 13
+[11:36 AM 27-07-25] [
+  {
+    "_id": "68852b14c78ef640a3f93929",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:23:00.489Z",
+    "user": {
+      "_id": "68852ad7c78ef640a3f9391d",
+      "name": "Education Education",
+      "email": "eeducation954@gmail.com"
+    }
+  },
+  {
+    "_id": "688527d2c78ef640a3f9389c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:09:06.889Z",
+    "user": {
+      "_id": "68852645c78ef640a3f93875",
+      "name": "Learning English",
+      "email": "mdshahjalal512@gmail.com"
+    }
+  },
+  {
+    "_id": "6885af7938458644e7af0c66",
+    "status": "accepted",
+    "createdAt": "2025-07-27T04:47:53.437Z",
+    "user": {
+      "_id": "6885aeac38458644e7af0c45",
+      "name": "Abdullah Fahad",
+      "email": "abdullahfahad@gmail.com"
+    }
+  },
+  {
+    "_id": "68852bc3c78ef640a3f9394c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:25:55.283Z",
+    "user": {
+      "_id": "68852b90c78ef640a3f93940",
+      "name": "গণিত ভালোবাসি",
+      "email": "gonitvalobasi@gmail.com"
+    }
+  },
+  {
+    "_id": "68851f1a48e669e21a93e85b",
+    "status": "accepted",
+    "createdAt": "2025-07-26T18:31:54.566Z",
+    "user": {
+      "_id": "68851af3606080f1804fcc36",
+      "name": "Md. Shahjalal",
+      "email": "dev.shahjalal@gmail.com"
+    }
+  }
+]  random data RandomGuides.jsx 13
+[11:36 AM 27-07-25] 68851af3606080f1804fcc36 id GuideProfile.jsx 6
+[11:36 AM 27-07-25] {
+  "_id": "68851f1a48e669e21a93e85b",
+  "userId": {
+    "_id": "68851af3606080f1804fcc36",
+    "name": "Md. Shahjalal",
+    "email": "dev.shahjalal@gmail.com",
+    "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKlTr-wKrSgC8FZU2ivzZO0ong8x9gZQJHsrQIyFARiB37-cw=s96-c",
+    "role": "tour-guide",
+    "last_loggedIn": "2025-07-27T05:18:56.821Z",
+    "createdAt": "2025-07-26T18:14:11.724Z",
+    "updatedAt": "2025-07-27T05:18:56.822Z",
+    "__v": 0
+  },
+  "title": "Dhaka Heritage Enthusiast",
+  "reason": "I'm passionate about the rich history of Old Dhaka and love walking tourists through Mughal-era architecture and food streets.",
+  "cvLink": "https://drive.google.com/file/d/1HAkBOSth-W68Df8O0uZM7KfZx-9CQGd7/view?usp=sharing",
+  "status": "accepted",
+  "createdAt": "2025-07-26T18:31:54.566Z",
+  "__v": 0
+} data GuideProfile.jsx 15
+[11:36 AM 27-07-25] {
+  "_id": "68851f1a48e669e21a93e85b",
+  "userId": {
+    "_id": "68851af3606080f1804fcc36",
+    "name": "Md. Shahjalal",
+    "email": "dev.shahjalal@gmail.com",
+    "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKlTr-wKrSgC8FZU2ivzZO0ong8x9gZQJHsrQIyFARiB37-cw=s96-c",
+    "role": "tour-guide",
+    "last_loggedIn": "2025-07-27T05:18:56.821Z",
+    "createdAt": "2025-07-26T18:14:11.724Z",
+    "updatedAt": "2025-07-27T05:18:56.822Z",
+    "__v": 0
+  },
+  "title": "Dhaka Heritage Enthusiast",
+  "reason": "I'm passionate about the rich history of Old Dhaka and love walking tourists through Mughal-era architecture and food streets.",
+  "cvLink": "https://drive.google.com/file/d/1HAkBOSth-W68Df8O0uZM7KfZx-9CQGd7/view?usp=sharing",
+  "status": "accepted",
+  "createdAt": "2025-07-26T18:31:54.566Z",
+  "__v": 0
+} data GuideProfile.jsx 15
