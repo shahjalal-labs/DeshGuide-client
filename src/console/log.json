@@ -32968,3 +32968,150 @@
     }
   }
 ]  random data RandomGuides.jsx 13
+[11:16 AM 27-07-25] []  random data RandomGuides.jsx 13
+[11:16 AM 27-07-25] []  random data RandomGuides.jsx 13
+[11:16 AM 27-07-25] [
+  {
+    "_id": "68851f1a48e669e21a93e85b",
+    "status": "accepted",
+    "createdAt": "2025-07-26T18:31:54.566Z",
+    "user": {
+      "_id": "68851af3606080f1804fcc36",
+      "name": "Md. Shahjalal",
+      "email": "dev.shahjalal@gmail.com"
+    }
+  },
+  {
+    "_id": "68852b14c78ef640a3f93929",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:23:00.489Z",
+    "user": {
+      "_id": "68852ad7c78ef640a3f9391d",
+      "name": "Education Education",
+      "email": "eeducation954@gmail.com"
+    }
+  },
+  {
+    "_id": "6885af7938458644e7af0c66",
+    "status": "accepted",
+    "createdAt": "2025-07-27T04:47:53.437Z",
+    "user": {
+      "_id": "6885aeac38458644e7af0c45",
+      "name": "Abdullah Fahad",
+      "email": "abdullahfahad@gmail.com"
+    }
+  },
+  {
+    "_id": "688527d2c78ef640a3f9389c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:09:06.889Z",
+    "user": {
+      "_id": "68852645c78ef640a3f93875",
+      "name": "Learning English",
+      "email": "mdshahjalal512@gmail.com"
+    }
+  },
+  {
+    "_id": "68852bc3c78ef640a3f9394c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:25:55.283Z",
+    "user": {
+      "_id": "68852b90c78ef640a3f93940",
+      "name": "গণিত ভালোবাসি",
+      "email": "gonitvalobasi@gmail.com"
+    }
+  }
+]  random data RandomGuides.jsx 13
+[11:16 AM 27-07-25] [
+  {
+    "_id": "68851f1a48e669e21a93e85b",
+    "status": "accepted",
+    "createdAt": "2025-07-26T18:31:54.566Z",
+    "user": {
+      "_id": "68851af3606080f1804fcc36",
+      "name": "Md. Shahjalal",
+      "email": "dev.shahjalal@gmail.com"
+    }
+  },
+  {
+    "_id": "68852b14c78ef640a3f93929",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:23:00.489Z",
+    "user": {
+      "_id": "68852ad7c78ef640a3f9391d",
+      "name": "Education Education",
+      "email": "eeducation954@gmail.com"
+    }
+  },
+  {
+    "_id": "6885af7938458644e7af0c66",
+    "status": "accepted",
+    "createdAt": "2025-07-27T04:47:53.437Z",
+    "user": {
+      "_id": "6885aeac38458644e7af0c45",
+      "name": "Abdullah Fahad",
+      "email": "abdullahfahad@gmail.com"
+    }
+  },
+  {
+    "_id": "688527d2c78ef640a3f9389c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:09:06.889Z",
+    "user": {
+      "_id": "68852645c78ef640a3f93875",
+      "name": "Learning English",
+      "email": "mdshahjalal512@gmail.com"
+    }
+  },
+  {
+    "_id": "68852bc3c78ef640a3f9394c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:25:55.283Z",
+    "user": {
+      "_id": "68852b90c78ef640a3f93940",
+      "name": "গণিত ভালোবাসি",
+      "email": "gonitvalobasi@gmail.com"
+    }
+  }
+]  random data RandomGuides.jsx 13
+[11:17 AM 27-07-25] 68852ad7c78ef640a3f9391d id GuideProfile.jsx 6
+[11:17 AM 27-07-25] {
+  "_id": "68852b14c78ef640a3f93929",
+  "userId": {
+    "_id": "68852ad7c78ef640a3f9391d",
+    "name": "Education Education",
+    "email": "eeducation954@gmail.com",
+    "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
+    "role": "tour-guide",
+    "last_loggedIn": "2025-07-26T19:21:59.087Z",
+    "createdAt": "2025-07-26T19:21:59.091Z",
+    "updatedAt": "2025-07-26T19:23:43.532Z",
+    "__v": 0
+  },
+  "title": "Coastal Adventure Expert",
+  "reason": "I love guiding tourists and know every trail in the hills, especially the remote spots in Bandarban and Sajek.",
+  "cvLink": "https://drive.google.com/file/d/1HAkBOSth-W68Df8O0uZM7KfZx-9CQGd7/view?usp=sharing",
+  "status": "accepted",
+  "createdAt": "2025-07-26T19:23:00.489Z",
+  "__v": 0
+} data GuideProfile.jsx 15
+[11:17 AM 27-07-25] {
+  "_id": "68852b14c78ef640a3f93929",
+  "userId": {
+    "_id": "68852ad7c78ef640a3f9391d",
+    "name": "Education Education",
+    "email": "eeducation954@gmail.com",
+    "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKvQsU-4NiWbFmIQT5VyTz-TpBr0RsK57u3nsWEQ4ktTIBu2A=s96-c",
+    "role": "tour-guide",
+    "last_loggedIn": "2025-07-26T19:21:59.087Z",
+    "createdAt": "2025-07-26T19:21:59.091Z",
+    "updatedAt": "2025-07-26T19:23:43.532Z",
+    "__v": 0
+  },
+  "title": "Coastal Adventure Expert",
+  "reason": "I love guiding tourists and know every trail in the hills, especially the remote spots in Bandarban and Sajek.",
+  "cvLink": "https://drive.google.com/file/d/1HAkBOSth-W68Df8O0uZM7KfZx-9CQGd7/view?usp=sharing",
+  "status": "accepted",
+  "createdAt": "2025-07-26T19:23:00.489Z",
+  "__v": 0
+} data GuideProfile.jsx 15
