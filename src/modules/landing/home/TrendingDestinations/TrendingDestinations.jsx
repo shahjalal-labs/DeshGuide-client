@@ -13,17 +13,18 @@ const trendingSpots = [
     image:
       "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
     description:
-      "A dreamy mountain valley in Rangamati with endless green, cloud-kissed mornings, and wooden cottages.",
+      "A dreamy mountain valley in Rangamati with endless green, cloud-kissed mornings, and cottage.",
   },
   {
     name: "🏖️ Cox’s Bazar",
-    image: "https://i.ibb.co/wCfNZph/cox.jpg",
+    image:
+      "https://images.deepai.org/art-image/72bca9114b0941e89cdb0ea0a22f5553/cox-s-bazar-sea-beach-during-sunset-with-silhouettes-.jpg",
     description:
       "Home to the world’s longest sea beach, perfect for beach lovers, surfers, and seafood enthusiasts.",
   },
   {
     name: "🌲 Bandarban",
-    image: "https://i.ibb.co/vv3ZtPj/bandarban.jpg",
+    image: "",
     description:
       "Adventure-packed hills, waterfalls, tribal villages, and peaceful trekking through nature’s best.",
   },
