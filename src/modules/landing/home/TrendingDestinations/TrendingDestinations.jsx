@@ -24,7 +24,8 @@ const trendingSpots = [
   },
   {
     name: "🌲 Bandarban",
-    image: "",
+    image:
+      "https://images.deepai.org/art-image/b34dc26354ae436595ba69b3a982f9c5/a-river-and-forest-scenic-beauty-with-the-sunset-thum.jpg",
     description:
       "Adventure-packed hills, waterfalls, tribal villages, and peaceful trekking through nature’s best.",
   },

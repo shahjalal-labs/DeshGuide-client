@@ -44,7 +44,7 @@ const CallToActionFull = () => {
           transition={{ delay: 0.2, duration: 0.4 }}
         >
           <Link
-            to="/packages"
+            to="/all-trips"
             className="inline-block bg-gradient-to-r from-indigo-500 via-purple-500 to-sky-500 text-white px-8 py-3 rounded-full font-semibold text-lg shadow-lg hover:scale-105 hover:shadow-[0_0_25px_#7c3aedaa] transition-all duration-300"
           >
             🌍 Start Your Journey
