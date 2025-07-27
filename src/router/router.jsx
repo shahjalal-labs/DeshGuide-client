@@ -25,7 +25,7 @@ const router = createBrowserRouter([
 
       {
         path: "/all-trips",
-        element: <Packages />,
+        element: <Packages apiEndpoint="packages" />,
       },
       // guide profile page
       {
