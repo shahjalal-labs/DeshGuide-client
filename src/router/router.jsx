@@ -57,7 +57,7 @@ const router = createBrowserRouter([
       },
       {
         path: "all-stories",
-        element: <Stories apiEndpoint="stories?limit=0" />,
+        element: <Stories apiEndpoint="stories" />,
       },
     ],
   },

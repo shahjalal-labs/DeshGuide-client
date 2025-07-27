@@ -3,7 +3,7 @@ import { Link } from "react-router";
 
 const StoryCard = ({ story }) => {
   return (
-    <div data-aos="zoom-in-down">
+    <div>
       <motion.div
         key={story._id}
         initial={{ opacity: 0, y: 30 }}
