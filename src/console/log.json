@@ -2798,3 +2798,257 @@
   "__v": 0
 } data GuideProfile.jsx 15
 [08:46 AM 27-07-25] 68852645c78ef640a3f93875 id GuideProfile.jsx 6
+[08:52 AM 27-07-25] [vite] server connection lost. Polling for restart...
+[09:01 AM 27-07-25] 68852645c78ef640a3f93875 id GuideProfile.jsx 6
+[09:01 AM 27-07-25] 68852b90c78ef640a3f93940 id GuideProfile.jsx 6
+[09:03 AM 27-07-25] 68852645c78ef640a3f93875 id GuideProfile.jsx 6
+[09:04 AM 27-07-25] 68852645c78ef640a3f93875 id GuideProfile.jsx 6
+[09:04 AM 27-07-25] [] TourismAndGuides.jsx 7
+[09:04 AM 27-07-25] [] TourismAndGuides.jsx 7
+[09:04 AM 27-07-25] [] TourismAndGuides.jsx 7
+[09:04 AM 27-07-25] [] TourismAndGuides.jsx 7
+[09:04 AM 27-07-25] [
+  {
+    "_id": "68858b3698f52bacf98f9fea",
+    "title": "Rangamati Lake & Tribal Culture Tour",
+    "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+    "price": 5200,
+    "tripType": "Cultural",
+    "days": 3,
+    "location": "Rangamati",
+    "gallery": [
+      "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+      "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+      "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Bus ride from Chittagong, lake view resort check-in"
+      },
+      {
+        "day": 2,
+        "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+      },
+      {
+        "day": 3,
+        "activities": "Explore local markets and return trip"
+      }
+    ],
+    "imagePrompts": [
+      "Sunset view over Kaptai Lake with orange reflections on calm water"
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9feb",
+    "title": "Srimangal Tea & Rainforest Retreat",
+    "description": "Known as the tea capital of Bangladesh, Srimangal offers a calm retreat with Lawachara rainforest, tribal communities, and 7-layer tea.",
+    "price": 4600,
+    "tripType": "Nature",
+    "days": 2,
+    "location": "Srimangal",
+    "gallery": [
+      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg",
+      "https://images.deepai.org/art-image/83ea73b1eb8f4247bf48c7705aeb4887/hilltop-view-from-nilgiri-in-early-morning-fog-with-g.jpg",
+      "https://deepai.org/static/images/new_heart.png"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Arrival, visit Lawachara rainforest and tribal villages"
+      },
+      {
+        "day": 2,
+        "activities": "Taste 7-layer tea, explore tea estates, return home"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fe6",
+    "title": "Sundarbans Wildlife Expedition",
+    "description": "Explore the world’s largest mangrove forest and spot rare wildlife like Royal Bengal Tigers, spotted deer, and exotic birds on a tranquil boat journey.",
+    "price": 8200,
+    "tripType": "Nature",
+    "days": 4,
+    "location": "Sundarbans",
+    "gallery": [
+      "https://images.deepai.org/art-image/18013ccde158403e97b2804d68101e57/traditional-launch-boat-in-sundarbans-mangrove-river-.jpg",
+      "https://images.deepai.org/art-image/0271952765ce412b878981dbdb957347/royal-bengal-tiger-mid-step-among-trees-in-sundarbans.jpg",
+      "https://images.deepai.org/art-image/edb1fdbc627d46b692194673642c8cd8/fishing-village-huts-on-stilts-beside-muddy-river-in-.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Depart from Khulna, board the launch, and begin forest river cruise"
+      },
+      {
+        "day": 2,
+        "activities": "Jungle walk in Kotka, birdwatching at dawn, tiger sighting spots"
+      },
+      {
+        "day": 3,
+        "activities": "Canoe ride near narrow mangrove creeks, visit local fishing village"
+      },
+      {
+        "day": 4,
+        "activities": "Return from cruise and transfer to Khulna city"
+      }
+    ]
+  }
+] TourismAndGuides.jsx 7
+[09:04 AM 27-07-25] [
+  {
+    "_id": "68858b3698f52bacf98f9fea",
+    "title": "Rangamati Lake & Tribal Culture Tour",
+    "description": "Sail on the vast Kaptai Lake and experience the colorful tribal culture, Chakma Rajbari, and natural peace of Rangamati hills.",
+    "price": 5200,
+    "tripType": "Cultural",
+    "days": 3,
+    "location": "Rangamati",
+    "gallery": [
+      "https://images.deepai.org/art-image/df7b829ba073449689ebdba4fbee9a77/wooden-boat-crossing-kaptai-lake-with-green-hills-and.jpg",
+      "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+      "https://images.deepai.org/art-image/668a4269696b40619a05863e3f50ef02/tribal-woman-selling-fruits-in-bandarban-street-marke.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Bus ride from Chittagong, lake view resort check-in"
+      },
+      {
+        "day": 2,
+        "activities": "Boat tour on Kaptai Lake, visit Chakma Rajbari"
+      },
+      {
+        "day": 3,
+        "activities": "Explore local markets and return trip"
+      }
+    ],
+    "imagePrompts": [
+      "Sunset view over Kaptai Lake with orange reflections on calm water"
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9feb",
+    "title": "Srimangal Tea & Rainforest Retreat",
+    "description": "Known as the tea capital of Bangladesh, Srimangal offers a calm retreat with Lawachara rainforest, tribal communities, and 7-layer tea.",
+    "price": 4600,
+    "tripType": "Nature",
+    "days": 2,
+    "location": "Srimangal",
+    "gallery": [
+      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg",
+      "https://images.deepai.org/art-image/83ea73b1eb8f4247bf48c7705aeb4887/hilltop-view-from-nilgiri-in-early-morning-fog-with-g.jpg",
+      "https://deepai.org/static/images/new_heart.png"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Arrival, visit Lawachara rainforest and tribal villages"
+      },
+      {
+        "day": 2,
+        "activities": "Taste 7-layer tea, explore tea estates, return home"
+      }
+    ]
+  },
+  {
+    "_id": "68858b3698f52bacf98f9fe6",
+    "title": "Sundarbans Wildlife Expedition",
+    "description": "Explore the world’s largest mangrove forest and spot rare wildlife like Royal Bengal Tigers, spotted deer, and exotic birds on a tranquil boat journey.",
+    "price": 8200,
+    "tripType": "Nature",
+    "days": 4,
+    "location": "Sundarbans",
+    "gallery": [
+      "https://images.deepai.org/art-image/18013ccde158403e97b2804d68101e57/traditional-launch-boat-in-sundarbans-mangrove-river-.jpg",
+      "https://images.deepai.org/art-image/0271952765ce412b878981dbdb957347/royal-bengal-tiger-mid-step-among-trees-in-sundarbans.jpg",
+      "https://images.deepai.org/art-image/edb1fdbc627d46b692194673642c8cd8/fishing-village-huts-on-stilts-beside-muddy-river-in-.jpg"
+    ],
+    "tourPlan": [
+      {
+        "day": 1,
+        "activities": "Depart from Khulna, board the launch, and begin forest river cruise"
+      },
+      {
+        "day": 2,
+        "activities": "Jungle walk in Kotka, birdwatching at dawn, tiger sighting spots"
+      },
+      {
+        "day": 3,
+        "activities": "Canoe ride near narrow mangrove creeks, visit local fishing village"
+      },
+      {
+        "day": 4,
+        "activities": "Return from cruise and transfer to Khulna city"
+      }
+    ]
+  }
+] TourismAndGuides.jsx 7
+[09:04 AM 27-07-25] 68851af3606080f1804fcc36 id GuideProfile.jsx 6
+[09:04 AM 27-07-25] {
+  "_id": "68851f1a48e669e21a93e85b",
+  "userId": {
+    "_id": "68851af3606080f1804fcc36",
+    "name": "Md. Shahjalal",
+    "email": "dev.shahjalal@gmail.com",
+    "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKlTr-wKrSgC8FZU2ivzZO0ong8x9gZQJHsrQIyFARiB37-cw=s96-c",
+    "role": "tour-guide",
+    "last_loggedIn": "2025-07-26T18:31:06.063Z",
+    "createdAt": "2025-07-26T18:14:11.724Z",
+    "updatedAt": "2025-07-26T19:01:23.118Z",
+    "__v": 0
+  },
+  "title": "Dhaka Heritage Enthusiast",
+  "reason": "I'm passionate about the rich history of Old Dhaka and love walking tourists through Mughal-era architecture and food streets.",
+  "cvLink": "https://drive.google.com/file/d/1HAkBOSth-W68Df8O0uZM7KfZx-9CQGd7/view?usp=sharing",
+  "status": "accepted",
+  "createdAt": "2025-07-26T18:31:54.566Z",
+  "__v": 0
+} data GuideProfile.jsx 15
+[09:04 AM 27-07-25] {
+  "_id": "68851f1a48e669e21a93e85b",
+  "userId": {
+    "_id": "68851af3606080f1804fcc36",
+    "name": "Md. Shahjalal",
+    "email": "dev.shahjalal@gmail.com",
+    "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocKlTr-wKrSgC8FZU2ivzZO0ong8x9gZQJHsrQIyFARiB37-cw=s96-c",
+    "role": "tour-guide",
+    "last_loggedIn": "2025-07-26T18:31:06.063Z",
+    "createdAt": "2025-07-26T18:14:11.724Z",
+    "updatedAt": "2025-07-26T19:01:23.118Z",
+    "__v": 0
+  },
+  "title": "Dhaka Heritage Enthusiast",
+  "reason": "I'm passionate about the rich history of Old Dhaka and love walking tourists through Mughal-era architecture and food streets.",
+  "cvLink": "https://drive.google.com/file/d/1HAkBOSth-W68Df8O0uZM7KfZx-9CQGd7/view?usp=sharing",
+  "status": "accepted",
+  "createdAt": "2025-07-26T18:31:54.566Z",
+  "__v": 0
+} data GuideProfile.jsx 15
+[09:05 AM 27-07-25] {
+  "success": true,
+  "message": "Booking created successfully!",
+  "data": {
+    "packageId": "68858b3698f52bacf98f9fea",
+    "packageName": "Rangamati Lake & Tribal Culture Tour",
+    "touristId": "68851c73606080f1804fcc55",
+    "touristName": "Md Sj",
+    "touristEmail": "mdsj0425@gmail.com",
+    "touristPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJmzIzrNTxq2dzeWUDXKlNo2glIJFo3pQa8510jojvMDkNOig=s96-c",
+    "guideId": "68851af3606080f1804fcc36",
+    "guideName": "Md. Shahjalal",
+    "price": 5200,
+    "tourDate": "2025-12-28T00:00:00.000Z",
+    "status": "pending",
+    "paymentStatus": "unpaid",
+    "transactionId": "",
+    "_id": "6885976e00065ad82a46e2cb",
+    "createdAt": "2025-07-27T03:05:18.296Z",
+    "updatedAt": "2025-07-27T03:05:18.296Z"
+  }
+} booking PackageDetails.jsx 81
+[09:06 AM 27-07-25] 6885976e00065ad82a46e2cb bookingId BookingDetails.jsx 14
+[09:06 AM 27-07-25] 6885976e00065ad82a46e2cb bookingId BookingDetails.jsx 14
+[09:06 AM 27-07-25] 6885976e00065ad82a46e2cb bookingId BookingDetails.jsx 14
+[09:06 AM 27-07-25] 6885976e00065ad82a46e2cb bookingId BookingDetails.jsx 14
