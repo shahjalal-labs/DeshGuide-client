@@ -1,4 +1,4 @@
-import { Link, useNavigate } from "react-router";
+import { Link, useLocation, useNavigate } from "react-router";
 import { useForm } from "react-hook-form";
 import { Button, Input } from "../../shared/ui";
 import SocialLogin from "./SocialLogin";
@@ -7,8 +7,12 @@ import useAxiosSecure from "../../../hooks/useAxiosSecure";
 import { darkSwal } from "../../../hooks/usePostData";
 import { updateProfile } from "firebase/auth";
 import { auth } from "../../../firebase/firebase.init";
+import { swalErrorToast, swalSuccessToast } from "../../shared/ui/swalToast";
 
 const SignUpForm = () => {
+  const location = useLocation();
+  const from = location?.state?.from?.pathname || "/";
+
   const { signupUser } = useAuth();
   const navigate = useNavigate();
   const axiosSecure = useAxiosSecure();
@@ -25,8 +29,7 @@ const SignUpForm = () => {
     const { name, email, password, confirmPassword, photoURL } = data;
 
     if (password !== confirmPassword) {
-      return darkSwal.fire({
-        icon: "error",
+      return swalErrorToast({
         title: "Password Mismatch",
         text: "Passwords do not match!",
       });
@@ -57,6 +60,7 @@ const SignUpForm = () => {
         timer: 2000,
         showConfirmButton: false,
       });
+      swalSuccessToast({ text: "Account created successfully!" });
 
       reset();
       navigate("/");

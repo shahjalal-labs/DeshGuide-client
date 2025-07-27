@@ -2,7 +2,7 @@ import { Link, useLocation, useNavigate } from "react-router";
 import { useState } from "react";
 import SocialLogin from "./SocialLogin";
 import useAuth from "../../../hooks/useAuth";
-import { swalSuccessToast } from "../../shared/ui/swalToast";
+import { swalErrorToast, swalSuccessToast } from "../../shared/ui/swalToast";
 
 const SigninForm = () => {
   const { signinUser } = useAuth();
@@ -28,6 +28,7 @@ const SigninForm = () => {
       }, 2000);
     } catch (err) {
       setErrorMsg(err.message || "Failed to sign in");
+      swalErrorToast({ text: "Invalid email or password!" });
     } finally {
       setLoading(false);
     }

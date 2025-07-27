@@ -5,6 +5,7 @@ import { useState } from "react";
 import useAuth from "../../../hooks/useAuth";
 import { darkSwal } from "../../../hooks/usePostData";
 import useAxiosSecure from "../../../hooks/useAxiosSecure";
+import { swalSuccessToast } from "../../shared/ui/swalToast";
 
 const SocialLogin = () => {
   const { googleSignIn, githubSignIn } = useAuth(); // Make sure githubSignIn is added in useAuth.js
@@ -28,14 +29,7 @@ const SocialLogin = () => {
         photoURL: user?.photoURL || "",
       });
 
-      darkSwal.fire({
-        position: "center",
-        icon: "success",
-        title: `Signed in with ${providerName}`,
-        text: "You have successfully signed in",
-        showConfirmButton: false,
-        timer: 2000,
-      });
+      swalSuccessToast({ text: "You have signed in!" });
 
       setTimeout(() => {
         navigate(from, { replace: true });
