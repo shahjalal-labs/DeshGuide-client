@@ -8,9 +8,10 @@ import Spinner from "../../../shared/Layout/Spinner";
 const AssignedTour = () => {
   const { data, isLoading, error, refetch } = useSecureQuery(
     ["guideBookings", "687cff8d095a1d459861b897"],
-    "/bookings/guide/687cff8d095a1d459861b897",
+    `/bookings/guide/687cff8d095a1d459861b897`,
   );
 
+  console.log(data, "aasigned tour book AssignedTour.jsx", 10);
   // 🧠 Keep track of which booking to update
   const [bookingIdToUpdate, setBookingIdToUpdate] = useState(null);
   const [statusToUpdate, setStatusToUpdate] = useState(null);
