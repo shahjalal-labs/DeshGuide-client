@@ -767,3 +767,1269 @@
     "__v": 0
   }
 ] stories ManageStories.jsx 34
+[02:31 PM 27-07-25] {
+  "_id": "6885e18be5bd6ac36ce24fa0",
+  "name": "Jamal Ahamed",
+  "email": "tourguide@example.com",
+  "photoURL": "",
+  "role": "tour-guide",
+  "last_loggedIn": "2025-07-27T08:21:31.355Z",
+  "createdAt": "2025-07-27T08:21:31.364Z",
+  "updatedAt": "2025-07-27T08:24:29.102Z",
+  "__v": 0
+} userdata ManageStories.jsx 33
+[02:31 PM 27-07-25] [
+  {
+    "_id": "6885e30643f303e931b34332",
+    "title": "Sylhet, Sreemongol, Tea Gardens and Natural Beauty",
+    "description": "We explored rolling hills of green in Srimangal, sipping 7-layer tea and riding bicycles through tea trails. The air smelled of leaves and rain. It was the kind of calm that recharges your soul quietly.",
+    "images": [
+      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg",
+      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg"
+    ],
+    "userId": "6885e18be5bd6ac36ce24fa0",
+    "userName": "Jamal Ahamed",
+    "userPhoto": "https://avatar.iran.liara.run/public",
+    "createdAt": "2025-07-27T08:27:50.938Z",
+    "updatedAt": "2025-07-27T08:27:50.938Z",
+    "__v": 0
+  }
+] stories ManageStories.jsx 34
+[02:31 PM 27-07-25] {
+  "_id": "6885e18be5bd6ac36ce24fa0",
+  "name": "Jamal Ahamed",
+  "email": "tourguide@example.com",
+  "photoURL": "",
+  "role": "tour-guide",
+  "last_loggedIn": "2025-07-27T08:21:31.355Z",
+  "createdAt": "2025-07-27T08:21:31.364Z",
+  "updatedAt": "2025-07-27T08:24:29.102Z",
+  "__v": 0
+} userdata ManageStories.jsx 33
+[02:31 PM 27-07-25] [
+  {
+    "_id": "6885e30643f303e931b34332",
+    "title": "Sylhet, Sreemongol, Tea Gardens and Natural Beauty",
+    "description": "We explored rolling hills of green in Srimangal, sipping 7-layer tea and riding bicycles through tea trails. The air smelled of leaves and rain. It was the kind of calm that recharges your soul quietly.",
+    "images": [
+      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg",
+      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg"
+    ],
+    "userId": "6885e18be5bd6ac36ce24fa0",
+    "userName": "Jamal Ahamed",
+    "userPhoto": "https://avatar.iran.liara.run/public",
+    "createdAt": "2025-07-27T08:27:50.938Z",
+    "updatedAt": "2025-07-27T08:27:50.938Z",
+    "__v": 0
+  }
+] stories ManageStories.jsx 34
+[02:31 PM 27-07-25] {
+  "_id": "6885e18be5bd6ac36ce24fa0",
+  "name": "Jamal Ahamed",
+  "email": "tourguide@example.com",
+  "photoURL": "",
+  "role": "tour-guide",
+  "last_loggedIn": "2025-07-27T08:21:31.355Z",
+  "createdAt": "2025-07-27T08:21:31.364Z",
+  "updatedAt": "2025-07-27T08:24:29.102Z",
+  "__v": 0
+} userdata ManageStories.jsx 33
+[02:31 PM 27-07-25] [
+  {
+    "_id": "6885e3dbe5bd6ac36ce24fc4",
+    "title": "Tranquil Moments at Mahasthangarh",
+    "description": "As the sun dipped behind the ancient ruins of Mahasthangarh, a soft breeze whispered stories of dynasties past. The solitude of the place brought a deep sense of calm and historical wonder",
+    "images": [
+      "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+      "https://images.deepai.org/art-image/1d9c99fa1f3c43458eb037c1c62491f4/wooden-boat-floating-through-ratargul-swamp-forest-wi.jpg",
+      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg"
+    ],
+    "userId": "6885e18be5bd6ac36ce24fa0",
+    "userName": "Jamal Ahamed",
+    "userPhoto": "https://avatar.iran.liara.run/public",
+    "createdAt": "2025-07-27T08:31:23.055Z",
+    "updatedAt": "2025-07-27T08:31:23.055Z",
+    "__v": 0
+  },
+  {
+    "_id": "6885e30643f303e931b34332",
+    "title": "Sylhet, Sreemongol, Tea Gardens and Natural Beauty",
+    "description": "We explored rolling hills of green in Srimangal, sipping 7-layer tea and riding bicycles through tea trails. The air smelled of leaves and rain. It was the kind of calm that recharges your soul quietly.",
+    "images": [
+      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg",
+      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg"
+    ],
+    "userId": "6885e18be5bd6ac36ce24fa0",
+    "userName": "Jamal Ahamed",
+    "userPhoto": "https://avatar.iran.liara.run/public",
+    "createdAt": "2025-07-27T08:27:50.938Z",
+    "updatedAt": "2025-07-27T08:27:50.938Z",
+    "__v": 0
+  }
+] stories ManageStories.jsx 34
+[02:31 PM 27-07-25] {
+  "_id": "6885e18be5bd6ac36ce24fa0",
+  "name": "Jamal Ahamed",
+  "email": "tourguide@example.com",
+  "photoURL": "",
+  "role": "tour-guide",
+  "last_loggedIn": "2025-07-27T08:21:31.355Z",
+  "createdAt": "2025-07-27T08:21:31.364Z",
+  "updatedAt": "2025-07-27T08:24:29.102Z",
+  "__v": 0
+} userdata ManageStories.jsx 33
+[02:31 PM 27-07-25] [
+  {
+    "_id": "6885e3dbe5bd6ac36ce24fc4",
+    "title": "Tranquil Moments at Mahasthangarh",
+    "description": "As the sun dipped behind the ancient ruins of Mahasthangarh, a soft breeze whispered stories of dynasties past. The solitude of the place brought a deep sense of calm and historical wonder",
+    "images": [
+      "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+      "https://images.deepai.org/art-image/1d9c99fa1f3c43458eb037c1c62491f4/wooden-boat-floating-through-ratargul-swamp-forest-wi.jpg",
+      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg"
+    ],
+    "userId": "6885e18be5bd6ac36ce24fa0",
+    "userName": "Jamal Ahamed",
+    "userPhoto": "https://avatar.iran.liara.run/public",
+    "createdAt": "2025-07-27T08:31:23.055Z",
+    "updatedAt": "2025-07-27T08:31:23.055Z",
+    "__v": 0
+  },
+  {
+    "_id": "6885e30643f303e931b34332",
+    "title": "Sylhet, Sreemongol, Tea Gardens and Natural Beauty",
+    "description": "We explored rolling hills of green in Srimangal, sipping 7-layer tea and riding bicycles through tea trails. The air smelled of leaves and rain. It was the kind of calm that recharges your soul quietly.",
+    "images": [
+      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg",
+      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg"
+    ],
+    "userId": "6885e18be5bd6ac36ce24fa0",
+    "userName": "Jamal Ahamed",
+    "userPhoto": "https://avatar.iran.liara.run/public",
+    "createdAt": "2025-07-27T08:27:50.938Z",
+    "updatedAt": "2025-07-27T08:27:50.938Z",
+    "__v": 0
+  }
+] stories ManageStories.jsx 34
+[02:32 PM 27-07-25] {
+  "_id": "6885e18be5bd6ac36ce24fa0",
+  "name": "Jamal Ahamed",
+  "email": "tourguide@example.com",
+  "photoURL": "",
+  "role": "tour-guide",
+  "last_loggedIn": "2025-07-27T08:21:31.355Z",
+  "createdAt": "2025-07-27T08:21:31.364Z",
+  "updatedAt": "2025-07-27T08:24:29.102Z",
+  "__v": 0
+} userdata ManageStories.jsx 33
+[02:32 PM 27-07-25] [
+  {
+    "_id": "6885e3dbe5bd6ac36ce24fc4",
+    "title": "Tranquil Moments at Mahasthangarh",
+    "description": "As the sun dipped behind the ancient ruins of Mahasthangarh, a soft breeze whispered stories of dynasties past. The solitude of the place brought a deep sense of calm and historical wonder",
+    "images": [
+      "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+      "https://images.deepai.org/art-image/1d9c99fa1f3c43458eb037c1c62491f4/wooden-boat-floating-through-ratargul-swamp-forest-wi.jpg",
+      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg"
+    ],
+    "userId": "6885e18be5bd6ac36ce24fa0",
+    "userName": "Jamal Ahamed",
+    "userPhoto": "https://avatar.iran.liara.run/public",
+    "createdAt": "2025-07-27T08:31:23.055Z",
+    "updatedAt": "2025-07-27T08:31:23.055Z",
+    "__v": 0
+  },
+  {
+    "_id": "6885e30643f303e931b34332",
+    "title": "Sylhet, Sreemongol, Tea Gardens and Natural Beauty",
+    "description": "We explored rolling hills of green in Srimangal, sipping 7-layer tea and riding bicycles through tea trails. The air smelled of leaves and rain. It was the kind of calm that recharges your soul quietly.",
+    "images": [
+      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg",
+      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg"
+    ],
+    "userId": "6885e18be5bd6ac36ce24fa0",
+    "userName": "Jamal Ahamed",
+    "userPhoto": "https://avatar.iran.liara.run/public",
+    "createdAt": "2025-07-27T08:27:50.938Z",
+    "updatedAt": "2025-07-27T08:27:50.938Z",
+    "__v": 0
+  }
+] stories ManageStories.jsx 34
+[02:32 PM 27-07-25] {
+  "_id": "6885e18be5bd6ac36ce24fa0",
+  "name": "Jamal Ahamed",
+  "email": "tourguide@example.com",
+  "photoURL": "",
+  "role": "tour-guide",
+  "last_loggedIn": "2025-07-27T08:21:31.355Z",
+  "createdAt": "2025-07-27T08:21:31.364Z",
+  "updatedAt": "2025-07-27T08:24:29.102Z",
+  "__v": 0
+} userdata ManageStories.jsx 33
+[02:32 PM 27-07-25] [
+  {
+    "_id": "6885e3dbe5bd6ac36ce24fc4",
+    "title": "Tranquil Moments at Mahasthangarh",
+    "description": "As the sun dipped behind the ancient ruins of Mahasthangarh, a soft breeze whispered stories of dynasties past. The solitude of the place brought a deep sense of calm and historical wonder",
+    "images": [
+      "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+      "https://images.deepai.org/art-image/1d9c99fa1f3c43458eb037c1c62491f4/wooden-boat-floating-through-ratargul-swamp-forest-wi.jpg",
+      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg"
+    ],
+    "userId": "6885e18be5bd6ac36ce24fa0",
+    "userName": "Jamal Ahamed",
+    "userPhoto": "https://avatar.iran.liara.run/public",
+    "createdAt": "2025-07-27T08:31:23.055Z",
+    "updatedAt": "2025-07-27T08:31:23.055Z",
+    "__v": 0
+  },
+  {
+    "_id": "6885e30643f303e931b34332",
+    "title": "Sylhet, Sreemongol, Tea Gardens and Natural Beauty",
+    "description": "We explored rolling hills of green in Srimangal, sipping 7-layer tea and riding bicycles through tea trails. The air smelled of leaves and rain. It was the kind of calm that recharges your soul quietly.",
+    "images": [
+      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg",
+      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg"
+    ],
+    "userId": "6885e18be5bd6ac36ce24fa0",
+    "userName": "Jamal Ahamed",
+    "userPhoto": "https://avatar.iran.liara.run/public",
+    "createdAt": "2025-07-27T08:27:50.938Z",
+    "updatedAt": "2025-07-27T08:27:50.938Z",
+    "__v": 0
+  }
+] stories ManageStories.jsx 34
+[02:32 PM 27-07-25] {
+  "_id": "6885e18be5bd6ac36ce24fa0",
+  "name": "Jamal Ahamed",
+  "email": "tourguide@example.com",
+  "photoURL": "",
+  "role": "tour-guide",
+  "last_loggedIn": "2025-07-27T08:21:31.355Z",
+  "createdAt": "2025-07-27T08:21:31.364Z",
+  "updatedAt": "2025-07-27T08:24:29.102Z",
+  "__v": 0
+} userdata ManageStories.jsx 33
+[02:32 PM 27-07-25] [
+  {
+    "_id": "6885e3dbe5bd6ac36ce24fc4",
+    "title": "Tranquil Moments at Mahasthangarh",
+    "description": "As the sun dipped behind the ancient ruins of Mahasthangarh, a soft breeze whispered stories of dynasties past. The solitude of the place brought a deep sense of calm and historical wonder",
+    "images": [
+      "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+      "https://images.deepai.org/art-image/1d9c99fa1f3c43458eb037c1c62491f4/wooden-boat-floating-through-ratargul-swamp-forest-wi.jpg",
+      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg"
+    ],
+    "userId": "6885e18be5bd6ac36ce24fa0",
+    "userName": "Jamal Ahamed",
+    "userPhoto": "https://avatar.iran.liara.run/public",
+    "createdAt": "2025-07-27T08:31:23.055Z",
+    "updatedAt": "2025-07-27T08:31:23.055Z",
+    "__v": 0
+  },
+  {
+    "_id": "6885e30643f303e931b34332",
+    "title": "Sylhet, Sreemongol, Tea Gardens and Natural Beauty",
+    "description": "We explored rolling hills of green in Srimangal, sipping 7-layer tea and riding bicycles through tea trails. The air smelled of leaves and rain. It was the kind of calm that recharges your soul quietly.",
+    "images": [
+      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg",
+      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg"
+    ],
+    "userId": "6885e18be5bd6ac36ce24fa0",
+    "userName": "Jamal Ahamed",
+    "userPhoto": "https://avatar.iran.liara.run/public",
+    "createdAt": "2025-07-27T08:27:50.938Z",
+    "updatedAt": "2025-07-27T08:27:50.938Z",
+    "__v": 0
+  }
+] stories ManageStories.jsx 34
+[02:32 PM 27-07-25] {
+  "_id": "6885e18be5bd6ac36ce24fa0",
+  "name": "Jamal Ahamed",
+  "email": "tourguide@example.com",
+  "photoURL": "",
+  "role": "tour-guide",
+  "last_loggedIn": "2025-07-27T08:21:31.355Z",
+  "createdAt": "2025-07-27T08:21:31.364Z",
+  "updatedAt": "2025-07-27T08:24:29.102Z",
+  "__v": 0
+} userdata ManageStories.jsx 33
+[02:32 PM 27-07-25] [
+  {
+    "_id": "6885e3dbe5bd6ac36ce24fc4",
+    "title": "Tranquil Moments at Mahasthangarh",
+    "description": "As the sun dipped behind the ancient ruins of Mahasthangarh, a soft breeze whispered stories of dynasties past. The solitude of the place brought a deep sense of calm and historical wonder",
+    "images": [
+      "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+      "https://images.deepai.org/art-image/1d9c99fa1f3c43458eb037c1c62491f4/wooden-boat-floating-through-ratargul-swamp-forest-wi.jpg",
+      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg"
+    ],
+    "userId": "6885e18be5bd6ac36ce24fa0",
+    "userName": "Jamal Ahamed",
+    "userPhoto": "https://avatar.iran.liara.run/public",
+    "createdAt": "2025-07-27T08:31:23.055Z",
+    "updatedAt": "2025-07-27T08:31:23.055Z",
+    "__v": 0
+  },
+  {
+    "_id": "6885e30643f303e931b34332",
+    "title": "Sylhet, Sreemongol, Tea Gardens and Natural Beauty",
+    "description": "We explored rolling hills of green in Srimangal, sipping 7-layer tea and riding bicycles through tea trails. The air smelled of leaves and rain. It was the kind of calm that recharges your soul quietly.",
+    "images": [
+      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg",
+      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg"
+    ],
+    "userId": "6885e18be5bd6ac36ce24fa0",
+    "userName": "Jamal Ahamed",
+    "userPhoto": "https://avatar.iran.liara.run/public",
+    "createdAt": "2025-07-27T08:27:50.938Z",
+    "updatedAt": "2025-07-27T08:27:50.938Z",
+    "__v": 0
+  }
+] stories ManageStories.jsx 34
+[02:32 PM 27-07-25] {
+  "_id": "6885e18be5bd6ac36ce24fa0",
+  "name": "Jamal Ahamed",
+  "email": "tourguide@example.com",
+  "photoURL": "",
+  "role": "tour-guide",
+  "last_loggedIn": "2025-07-27T08:21:31.355Z",
+  "createdAt": "2025-07-27T08:21:31.364Z",
+  "updatedAt": "2025-07-27T08:24:29.102Z",
+  "__v": 0
+} userdata ManageStories.jsx 33
+[02:32 PM 27-07-25] [
+  {
+    "_id": "6885e3dbe5bd6ac36ce24fc4",
+    "title": "Tranquil Moments at Mahasthangarh",
+    "description": "As the sun dipped behind the ancient ruins of Mahasthangarh, a soft breeze whispered stories of dynasties past. The solitude of the place brought a deep sense of calm and historical wonder",
+    "images": [
+      "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+      "https://images.deepai.org/art-image/1d9c99fa1f3c43458eb037c1c62491f4/wooden-boat-floating-through-ratargul-swamp-forest-wi.jpg",
+      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg"
+    ],
+    "userId": "6885e18be5bd6ac36ce24fa0",
+    "userName": "Jamal Ahamed",
+    "userPhoto": "https://avatar.iran.liara.run/public",
+    "createdAt": "2025-07-27T08:31:23.055Z",
+    "updatedAt": "2025-07-27T08:31:23.055Z",
+    "__v": 0
+  },
+  {
+    "_id": "6885e30643f303e931b34332",
+    "title": "Sylhet Garden Natural Beauty",
+    "description": "We explored rolling hills of green in Srimangal, sipping 7-layer tea and riding bicycles through tea trails. The air smelled of leaves and rain. It was the kind of calm that recharges your soul quietly.",
+    "images": [
+      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg",
+      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg"
+    ],
+    "userId": "6885e18be5bd6ac36ce24fa0",
+    "userName": "Jamal Ahamed",
+    "userPhoto": "https://avatar.iran.liara.run/public",
+    "createdAt": "2025-07-27T08:27:50.938Z",
+    "updatedAt": "2025-07-27T08:32:40.404Z",
+    "__v": 0
+  }
+] stories ManageStories.jsx 34
+[02:32 PM 27-07-25] {
+  "_id": "6885e18be5bd6ac36ce24fa0",
+  "name": "Jamal Ahamed",
+  "email": "tourguide@example.com",
+  "photoURL": "",
+  "role": "tour-guide",
+  "last_loggedIn": "2025-07-27T08:21:31.355Z",
+  "createdAt": "2025-07-27T08:21:31.364Z",
+  "updatedAt": "2025-07-27T08:24:29.102Z",
+  "__v": 0
+} userdata ManageStories.jsx 33
+[02:32 PM 27-07-25] [
+  {
+    "_id": "6885e3dbe5bd6ac36ce24fc4",
+    "title": "Tranquil Moments at Mahasthangarh",
+    "description": "As the sun dipped behind the ancient ruins of Mahasthangarh, a soft breeze whispered stories of dynasties past. The solitude of the place brought a deep sense of calm and historical wonder",
+    "images": [
+      "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+      "https://images.deepai.org/art-image/1d9c99fa1f3c43458eb037c1c62491f4/wooden-boat-floating-through-ratargul-swamp-forest-wi.jpg",
+      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg"
+    ],
+    "userId": "6885e18be5bd6ac36ce24fa0",
+    "userName": "Jamal Ahamed",
+    "userPhoto": "https://avatar.iran.liara.run/public",
+    "createdAt": "2025-07-27T08:31:23.055Z",
+    "updatedAt": "2025-07-27T08:31:23.055Z",
+    "__v": 0
+  },
+  {
+    "_id": "6885e30643f303e931b34332",
+    "title": "Sylhet Garden Natural Beauty",
+    "description": "We explored rolling hills of green in Srimangal, sipping 7-layer tea and riding bicycles through tea trails. The air smelled of leaves and rain. It was the kind of calm that recharges your soul quietly.",
+    "images": [
+      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg",
+      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg"
+    ],
+    "userId": "6885e18be5bd6ac36ce24fa0",
+    "userName": "Jamal Ahamed",
+    "userPhoto": "https://avatar.iran.liara.run/public",
+    "createdAt": "2025-07-27T08:27:50.938Z",
+    "updatedAt": "2025-07-27T08:32:40.404Z",
+    "__v": 0
+  }
+] stories ManageStories.jsx 34
+[02:33 PM 27-07-25] {
+  "_id": "6885e18be5bd6ac36ce24fa0",
+  "name": "Jamal Ahamed",
+  "email": "tourguide@example.com",
+  "photoURL": "",
+  "role": "tour-guide",
+  "last_loggedIn": "2025-07-27T08:21:31.355Z",
+  "createdAt": "2025-07-27T08:21:31.364Z",
+  "updatedAt": "2025-07-27T08:24:29.102Z",
+  "__v": 0
+} userdata ManageStories.jsx 33
+[02:33 PM 27-07-25] {
+  "_id": "6885e18be5bd6ac36ce24fa0",
+  "name": "Jamal Ahamed",
+  "email": "tourguide@example.com",
+  "photoURL": "",
+  "role": "tour-guide",
+  "last_loggedIn": "2025-07-27T08:21:31.355Z",
+  "createdAt": "2025-07-27T08:21:31.364Z",
+  "updatedAt": "2025-07-27T08:24:29.102Z",
+  "__v": 0
+} userdata ManageStories.jsx 33
+[02:33 PM 27-07-25] [
+  {
+    "_id": "6885e3dbe5bd6ac36ce24fc4",
+    "title": "Tranquil Moments at Mahasthangarh",
+    "description": "As the sun dipped behind the ancient ruins of Mahasthangarh, a soft breeze whispered stories of dynasties past. The solitude of the place brought a deep sense of calm and historical wonder",
+    "images": [
+      "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+      "https://images.deepai.org/art-image/1d9c99fa1f3c43458eb037c1c62491f4/wooden-boat-floating-through-ratargul-swamp-forest-wi.jpg",
+      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg"
+    ],
+    "userId": "6885e18be5bd6ac36ce24fa0",
+    "userName": "Jamal Ahamed",
+    "userPhoto": "https://avatar.iran.liara.run/public",
+    "createdAt": "2025-07-27T08:31:23.055Z",
+    "updatedAt": "2025-07-27T08:31:23.055Z",
+    "__v": 0
+  },
+  {
+    "_id": "6885e30643f303e931b34332",
+    "title": "Sylhet Garden Natural Beauty",
+    "description": "We explored rolling hills of green in Srimangal, sipping 7-layer tea and riding bicycles through tea trails. The air smelled of leaves and rain. It was the kind of calm that recharges your soul quietly.",
+    "images": [
+      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg",
+      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg"
+    ],
+    "userId": "6885e18be5bd6ac36ce24fa0",
+    "userName": "Jamal Ahamed",
+    "userPhoto": "https://avatar.iran.liara.run/public",
+    "createdAt": "2025-07-27T08:27:50.938Z",
+    "updatedAt": "2025-07-27T08:32:40.404Z",
+    "__v": 0
+  }
+] stories ManageStories.jsx 34
+[02:33 PM 27-07-25] [
+  {
+    "_id": "6885e3dbe5bd6ac36ce24fc4",
+    "title": "Tranquil Moments at Mahasthangarh",
+    "description": "As the sun dipped behind the ancient ruins of Mahasthangarh, a soft breeze whispered stories of dynasties past. The solitude of the place brought a deep sense of calm and historical wonder",
+    "images": [
+      "https://images.deepai.org/art-image/3f544dbb109e4e438d200e4a03246c3b/madhabkunda-waterfall-falling-over-red-rocks-tourists.jpg",
+      "https://images.deepai.org/art-image/1d9c99fa1f3c43458eb037c1c62491f4/wooden-boat-floating-through-ratargul-swamp-forest-wi.jpg",
+      "https://images.deepai.org/art-image/1ff26b4cc5a44188b52df8d4fd35ee24/old-man-picking-tea-leaves-in-sylhet-tea-garden-with-.jpg"
+    ],
+    "userId": "6885e18be5bd6ac36ce24fa0",
+    "userName": "Jamal Ahamed",
+    "userPhoto": "https://avatar.iran.liara.run/public",
+    "createdAt": "2025-07-27T08:31:23.055Z",
+    "updatedAt": "2025-07-27T08:31:23.055Z",
+    "__v": 0
+  },
+  {
+    "_id": "6885e30643f303e931b34332",
+    "title": "Sylhet Garden Natural Beauty",
+    "description": "We explored rolling hills of green in Srimangal, sipping 7-layer tea and riding bicycles through tea trails. The air smelled of leaves and rain. It was the kind of calm that recharges your soul quietly.",
+    "images": [
+      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg",
+      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg"
+    ],
+    "userId": "6885e18be5bd6ac36ce24fa0",
+    "userName": "Jamal Ahamed",
+    "userPhoto": "https://avatar.iran.liara.run/public",
+    "createdAt": "2025-07-27T08:27:50.938Z",
+    "updatedAt": "2025-07-27T08:32:40.404Z",
+    "__v": 0
+  }
+] stories ManageStories.jsx 34
+[02:33 PM 27-07-25] []  random data RandomGuides.jsx 13
+[02:33 PM 27-07-25] []  random data RandomGuides.jsx 13
+[02:33 PM 27-07-25] [
+  {
+    "_id": "688527d2c78ef640a3f9389c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:09:06.889Z",
+    "user": {
+      "_id": "68852645c78ef640a3f93875",
+      "name": "Learning English",
+      "email": "mdshahjalal512@gmail.com"
+    }
+  },
+  {
+    "_id": "68852bc3c78ef640a3f9394c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:25:55.283Z",
+    "user": {
+      "_id": "68852b90c78ef640a3f93940",
+      "name": "গণিত ভালোবাসি",
+      "email": "gonitvalobasi@gmail.com"
+    }
+  },
+  {
+    "_id": "6885e22ae5bd6ac36ce24fb4",
+    "status": "accepted",
+    "createdAt": "2025-07-27T08:24:10.178Z",
+    "user": {
+      "_id": "6885e18be5bd6ac36ce24fa0",
+      "name": "Jamal Ahamed",
+      "email": "tourguide@example.com"
+    }
+  },
+  {
+    "_id": "6885af7938458644e7af0c66",
+    "status": "accepted",
+    "createdAt": "2025-07-27T04:47:53.437Z",
+    "user": {
+      "_id": "6885aeac38458644e7af0c45",
+      "name": "Abdullah Fahad",
+      "email": "abdullahfahad@gmail.com"
+    }
+  },
+  {
+    "_id": "68851f1a48e669e21a93e85b",
+    "status": "accepted",
+    "createdAt": "2025-07-26T18:31:54.566Z",
+    "user": {
+      "_id": "68851af3606080f1804fcc36",
+      "name": "Md. Shahjalal",
+      "email": "dev.shahjalal@gmail.com"
+    }
+  },
+  {
+    "_id": "68852b14c78ef640a3f93929",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:23:00.489Z",
+    "user": {
+      "_id": "68852ad7c78ef640a3f9391d",
+      "name": "Education Education",
+      "email": "eeducation954@gmail.com"
+    }
+  }
+]  random data RandomGuides.jsx 13
+[02:33 PM 27-07-25] [
+  {
+    "_id": "688527d2c78ef640a3f9389c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:09:06.889Z",
+    "user": {
+      "_id": "68852645c78ef640a3f93875",
+      "name": "Learning English",
+      "email": "mdshahjalal512@gmail.com"
+    }
+  },
+  {
+    "_id": "68852bc3c78ef640a3f9394c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:25:55.283Z",
+    "user": {
+      "_id": "68852b90c78ef640a3f93940",
+      "name": "গণিত ভালোবাসি",
+      "email": "gonitvalobasi@gmail.com"
+    }
+  },
+  {
+    "_id": "6885e22ae5bd6ac36ce24fb4",
+    "status": "accepted",
+    "createdAt": "2025-07-27T08:24:10.178Z",
+    "user": {
+      "_id": "6885e18be5bd6ac36ce24fa0",
+      "name": "Jamal Ahamed",
+      "email": "tourguide@example.com"
+    }
+  },
+  {
+    "_id": "6885af7938458644e7af0c66",
+    "status": "accepted",
+    "createdAt": "2025-07-27T04:47:53.437Z",
+    "user": {
+      "_id": "6885aeac38458644e7af0c45",
+      "name": "Abdullah Fahad",
+      "email": "abdullahfahad@gmail.com"
+    }
+  },
+  {
+    "_id": "68851f1a48e669e21a93e85b",
+    "status": "accepted",
+    "createdAt": "2025-07-26T18:31:54.566Z",
+    "user": {
+      "_id": "68851af3606080f1804fcc36",
+      "name": "Md. Shahjalal",
+      "email": "dev.shahjalal@gmail.com"
+    }
+  },
+  {
+    "_id": "68852b14c78ef640a3f93929",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:23:00.489Z",
+    "user": {
+      "_id": "68852ad7c78ef640a3f9391d",
+      "name": "Education Education",
+      "email": "eeducation954@gmail.com"
+    }
+  }
+]  random data RandomGuides.jsx 13
+[02:33 PM 27-07-25] null aasigned tour book AssignedTour.jsx 10
+[02:33 PM 27-07-25] null aasigned tour book AssignedTour.jsx 10
+[02:33 PM 27-07-25] {
+  "success": true,
+  "message": "Guide bookings retrieved successfully!",
+  "data": []
+} aasigned tour book AssignedTour.jsx 10
+[02:33 PM 27-07-25] {
+  "success": true,
+  "message": "Guide bookings retrieved successfully!",
+  "data": []
+} aasigned tour book AssignedTour.jsx 10
+[02:33 PM 27-07-25] [
+  {
+    "_id": "688527d2c78ef640a3f9389c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:09:06.889Z",
+    "user": {
+      "_id": "68852645c78ef640a3f93875",
+      "name": "Learning English",
+      "email": "mdshahjalal512@gmail.com"
+    }
+  },
+  {
+    "_id": "68852bc3c78ef640a3f9394c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:25:55.283Z",
+    "user": {
+      "_id": "68852b90c78ef640a3f93940",
+      "name": "গণিত ভালোবাসি",
+      "email": "gonitvalobasi@gmail.com"
+    }
+  },
+  {
+    "_id": "6885e22ae5bd6ac36ce24fb4",
+    "status": "accepted",
+    "createdAt": "2025-07-27T08:24:10.178Z",
+    "user": {
+      "_id": "6885e18be5bd6ac36ce24fa0",
+      "name": "Jamal Ahamed",
+      "email": "tourguide@example.com"
+    }
+  },
+  {
+    "_id": "6885af7938458644e7af0c66",
+    "status": "accepted",
+    "createdAt": "2025-07-27T04:47:53.437Z",
+    "user": {
+      "_id": "6885aeac38458644e7af0c45",
+      "name": "Abdullah Fahad",
+      "email": "abdullahfahad@gmail.com"
+    }
+  },
+  {
+    "_id": "68851f1a48e669e21a93e85b",
+    "status": "accepted",
+    "createdAt": "2025-07-26T18:31:54.566Z",
+    "user": {
+      "_id": "68851af3606080f1804fcc36",
+      "name": "Md. Shahjalal",
+      "email": "dev.shahjalal@gmail.com"
+    }
+  },
+  {
+    "_id": "68852b14c78ef640a3f93929",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:23:00.489Z",
+    "user": {
+      "_id": "68852ad7c78ef640a3f9391d",
+      "name": "Education Education",
+      "email": "eeducation954@gmail.com"
+    }
+  }
+]  random data RandomGuides.jsx 13
+[02:33 PM 27-07-25] [
+  {
+    "_id": "688527d2c78ef640a3f9389c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:09:06.889Z",
+    "user": {
+      "_id": "68852645c78ef640a3f93875",
+      "name": "Learning English",
+      "email": "mdshahjalal512@gmail.com"
+    }
+  },
+  {
+    "_id": "68852bc3c78ef640a3f9394c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:25:55.283Z",
+    "user": {
+      "_id": "68852b90c78ef640a3f93940",
+      "name": "গণিত ভালোবাসি",
+      "email": "gonitvalobasi@gmail.com"
+    }
+  },
+  {
+    "_id": "6885e22ae5bd6ac36ce24fb4",
+    "status": "accepted",
+    "createdAt": "2025-07-27T08:24:10.178Z",
+    "user": {
+      "_id": "6885e18be5bd6ac36ce24fa0",
+      "name": "Jamal Ahamed",
+      "email": "tourguide@example.com"
+    }
+  },
+  {
+    "_id": "6885af7938458644e7af0c66",
+    "status": "accepted",
+    "createdAt": "2025-07-27T04:47:53.437Z",
+    "user": {
+      "_id": "6885aeac38458644e7af0c45",
+      "name": "Abdullah Fahad",
+      "email": "abdullahfahad@gmail.com"
+    }
+  },
+  {
+    "_id": "68851f1a48e669e21a93e85b",
+    "status": "accepted",
+    "createdAt": "2025-07-26T18:31:54.566Z",
+    "user": {
+      "_id": "68851af3606080f1804fcc36",
+      "name": "Md. Shahjalal",
+      "email": "dev.shahjalal@gmail.com"
+    }
+  },
+  {
+    "_id": "68852b14c78ef640a3f93929",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:23:00.489Z",
+    "user": {
+      "_id": "68852ad7c78ef640a3f9391d",
+      "name": "Education Education",
+      "email": "eeducation954@gmail.com"
+    }
+  }
+]  random data RandomGuides.jsx 13
+[02:33 PM 27-07-25] [
+  {
+    "_id": "6885af7938458644e7af0c66",
+    "status": "accepted",
+    "createdAt": "2025-07-27T04:47:53.437Z",
+    "user": {
+      "_id": "6885aeac38458644e7af0c45",
+      "name": "Abdullah Fahad",
+      "email": "abdullahfahad@gmail.com"
+    }
+  },
+  {
+    "_id": "688527d2c78ef640a3f9389c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:09:06.889Z",
+    "user": {
+      "_id": "68852645c78ef640a3f93875",
+      "name": "Learning English",
+      "email": "mdshahjalal512@gmail.com"
+    }
+  },
+  {
+    "_id": "68852b14c78ef640a3f93929",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:23:00.489Z",
+    "user": {
+      "_id": "68852ad7c78ef640a3f9391d",
+      "name": "Education Education",
+      "email": "eeducation954@gmail.com"
+    }
+  },
+  {
+    "_id": "68852bc3c78ef640a3f9394c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:25:55.283Z",
+    "user": {
+      "_id": "68852b90c78ef640a3f93940",
+      "name": "গণিত ভালোবাসি",
+      "email": "gonitvalobasi@gmail.com"
+    }
+  },
+  {
+    "_id": "68851f1a48e669e21a93e85b",
+    "status": "accepted",
+    "createdAt": "2025-07-26T18:31:54.566Z",
+    "user": {
+      "_id": "68851af3606080f1804fcc36",
+      "name": "Md. Shahjalal",
+      "email": "dev.shahjalal@gmail.com"
+    }
+  },
+  {
+    "_id": "6885e22ae5bd6ac36ce24fb4",
+    "status": "accepted",
+    "createdAt": "2025-07-27T08:24:10.178Z",
+    "user": {
+      "_id": "6885e18be5bd6ac36ce24fa0",
+      "name": "Jamal Ahamed",
+      "email": "tourguide@example.com"
+    }
+  }
+]  random data RandomGuides.jsx 13
+[02:33 PM 27-07-25] [
+  {
+    "_id": "6885af7938458644e7af0c66",
+    "status": "accepted",
+    "createdAt": "2025-07-27T04:47:53.437Z",
+    "user": {
+      "_id": "6885aeac38458644e7af0c45",
+      "name": "Abdullah Fahad",
+      "email": "abdullahfahad@gmail.com"
+    }
+  },
+  {
+    "_id": "688527d2c78ef640a3f9389c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:09:06.889Z",
+    "user": {
+      "_id": "68852645c78ef640a3f93875",
+      "name": "Learning English",
+      "email": "mdshahjalal512@gmail.com"
+    }
+  },
+  {
+    "_id": "68852b14c78ef640a3f93929",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:23:00.489Z",
+    "user": {
+      "_id": "68852ad7c78ef640a3f9391d",
+      "name": "Education Education",
+      "email": "eeducation954@gmail.com"
+    }
+  },
+  {
+    "_id": "68852bc3c78ef640a3f9394c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:25:55.283Z",
+    "user": {
+      "_id": "68852b90c78ef640a3f93940",
+      "name": "গণিত ভালোবাসি",
+      "email": "gonitvalobasi@gmail.com"
+    }
+  },
+  {
+    "_id": "68851f1a48e669e21a93e85b",
+    "status": "accepted",
+    "createdAt": "2025-07-26T18:31:54.566Z",
+    "user": {
+      "_id": "68851af3606080f1804fcc36",
+      "name": "Md. Shahjalal",
+      "email": "dev.shahjalal@gmail.com"
+    }
+  },
+  {
+    "_id": "6885e22ae5bd6ac36ce24fb4",
+    "status": "accepted",
+    "createdAt": "2025-07-27T08:24:10.178Z",
+    "user": {
+      "_id": "6885e18be5bd6ac36ce24fa0",
+      "name": "Jamal Ahamed",
+      "email": "tourguide@example.com"
+    }
+  }
+]  random data RandomGuides.jsx 13
+[02:34 PM 27-07-25] [
+  {
+    "_id": "6885af7938458644e7af0c66",
+    "status": "accepted",
+    "createdAt": "2025-07-27T04:47:53.437Z",
+    "user": {
+      "_id": "6885aeac38458644e7af0c45",
+      "name": "Abdullah Fahad",
+      "email": "abdullahfahad@gmail.com"
+    }
+  },
+  {
+    "_id": "688527d2c78ef640a3f9389c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:09:06.889Z",
+    "user": {
+      "_id": "68852645c78ef640a3f93875",
+      "name": "Learning English",
+      "email": "mdshahjalal512@gmail.com"
+    }
+  },
+  {
+    "_id": "68852b14c78ef640a3f93929",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:23:00.489Z",
+    "user": {
+      "_id": "68852ad7c78ef640a3f9391d",
+      "name": "Education Education",
+      "email": "eeducation954@gmail.com"
+    }
+  },
+  {
+    "_id": "68852bc3c78ef640a3f9394c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:25:55.283Z",
+    "user": {
+      "_id": "68852b90c78ef640a3f93940",
+      "name": "গণিত ভালোবাসি",
+      "email": "gonitvalobasi@gmail.com"
+    }
+  },
+  {
+    "_id": "68851f1a48e669e21a93e85b",
+    "status": "accepted",
+    "createdAt": "2025-07-26T18:31:54.566Z",
+    "user": {
+      "_id": "68851af3606080f1804fcc36",
+      "name": "Md. Shahjalal",
+      "email": "dev.shahjalal@gmail.com"
+    }
+  },
+  {
+    "_id": "6885e22ae5bd6ac36ce24fb4",
+    "status": "accepted",
+    "createdAt": "2025-07-27T08:24:10.178Z",
+    "user": {
+      "_id": "6885e18be5bd6ac36ce24fa0",
+      "name": "Jamal Ahamed",
+      "email": "tourguide@example.com"
+    }
+  }
+]  random data RandomGuides.jsx 13
+[02:34 PM 27-07-25] [
+  {
+    "_id": "6885af7938458644e7af0c66",
+    "status": "accepted",
+    "createdAt": "2025-07-27T04:47:53.437Z",
+    "user": {
+      "_id": "6885aeac38458644e7af0c45",
+      "name": "Abdullah Fahad",
+      "email": "abdullahfahad@gmail.com"
+    }
+  },
+  {
+    "_id": "688527d2c78ef640a3f9389c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:09:06.889Z",
+    "user": {
+      "_id": "68852645c78ef640a3f93875",
+      "name": "Learning English",
+      "email": "mdshahjalal512@gmail.com"
+    }
+  },
+  {
+    "_id": "68852b14c78ef640a3f93929",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:23:00.489Z",
+    "user": {
+      "_id": "68852ad7c78ef640a3f9391d",
+      "name": "Education Education",
+      "email": "eeducation954@gmail.com"
+    }
+  },
+  {
+    "_id": "68852bc3c78ef640a3f9394c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:25:55.283Z",
+    "user": {
+      "_id": "68852b90c78ef640a3f93940",
+      "name": "গণিত ভালোবাসি",
+      "email": "gonitvalobasi@gmail.com"
+    }
+  },
+  {
+    "_id": "68851f1a48e669e21a93e85b",
+    "status": "accepted",
+    "createdAt": "2025-07-26T18:31:54.566Z",
+    "user": {
+      "_id": "68851af3606080f1804fcc36",
+      "name": "Md. Shahjalal",
+      "email": "dev.shahjalal@gmail.com"
+    }
+  },
+  {
+    "_id": "6885e22ae5bd6ac36ce24fb4",
+    "status": "accepted",
+    "createdAt": "2025-07-27T08:24:10.178Z",
+    "user": {
+      "_id": "6885e18be5bd6ac36ce24fa0",
+      "name": "Jamal Ahamed",
+      "email": "tourguide@example.com"
+    }
+  }
+]  random data RandomGuides.jsx 13
+[02:34 PM 27-07-25] [
+  {
+    "_id": "6885e22ae5bd6ac36ce24fb4",
+    "status": "accepted",
+    "createdAt": "2025-07-27T08:24:10.178Z",
+    "user": {
+      "_id": "6885e18be5bd6ac36ce24fa0",
+      "name": "Jamal Ahamed",
+      "email": "tourguide@example.com"
+    }
+  },
+  {
+    "_id": "68852bc3c78ef640a3f9394c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:25:55.283Z",
+    "user": {
+      "_id": "68852b90c78ef640a3f93940",
+      "name": "গণিত ভালোবাসি",
+      "email": "gonitvalobasi@gmail.com"
+    }
+  },
+  {
+    "_id": "688527d2c78ef640a3f9389c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:09:06.889Z",
+    "user": {
+      "_id": "68852645c78ef640a3f93875",
+      "name": "Learning English",
+      "email": "mdshahjalal512@gmail.com"
+    }
+  },
+  {
+    "_id": "6885af7938458644e7af0c66",
+    "status": "accepted",
+    "createdAt": "2025-07-27T04:47:53.437Z",
+    "user": {
+      "_id": "6885aeac38458644e7af0c45",
+      "name": "Abdullah Fahad",
+      "email": "abdullahfahad@gmail.com"
+    }
+  },
+  {
+    "_id": "68851f1a48e669e21a93e85b",
+    "status": "accepted",
+    "createdAt": "2025-07-26T18:31:54.566Z",
+    "user": {
+      "_id": "68851af3606080f1804fcc36",
+      "name": "Md. Shahjalal",
+      "email": "dev.shahjalal@gmail.com"
+    }
+  },
+  {
+    "_id": "68852b14c78ef640a3f93929",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:23:00.489Z",
+    "user": {
+      "_id": "68852ad7c78ef640a3f9391d",
+      "name": "Education Education",
+      "email": "eeducation954@gmail.com"
+    }
+  }
+]  random data RandomGuides.jsx 13
+[02:34 PM 27-07-25] [
+  {
+    "_id": "6885e22ae5bd6ac36ce24fb4",
+    "status": "accepted",
+    "createdAt": "2025-07-27T08:24:10.178Z",
+    "user": {
+      "_id": "6885e18be5bd6ac36ce24fa0",
+      "name": "Jamal Ahamed",
+      "email": "tourguide@example.com"
+    }
+  },
+  {
+    "_id": "68852bc3c78ef640a3f9394c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:25:55.283Z",
+    "user": {
+      "_id": "68852b90c78ef640a3f93940",
+      "name": "গণিত ভালোবাসি",
+      "email": "gonitvalobasi@gmail.com"
+    }
+  },
+  {
+    "_id": "688527d2c78ef640a3f9389c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:09:06.889Z",
+    "user": {
+      "_id": "68852645c78ef640a3f93875",
+      "name": "Learning English",
+      "email": "mdshahjalal512@gmail.com"
+    }
+  },
+  {
+    "_id": "6885af7938458644e7af0c66",
+    "status": "accepted",
+    "createdAt": "2025-07-27T04:47:53.437Z",
+    "user": {
+      "_id": "6885aeac38458644e7af0c45",
+      "name": "Abdullah Fahad",
+      "email": "abdullahfahad@gmail.com"
+    }
+  },
+  {
+    "_id": "68851f1a48e669e21a93e85b",
+    "status": "accepted",
+    "createdAt": "2025-07-26T18:31:54.566Z",
+    "user": {
+      "_id": "68851af3606080f1804fcc36",
+      "name": "Md. Shahjalal",
+      "email": "dev.shahjalal@gmail.com"
+    }
+  },
+  {
+    "_id": "68852b14c78ef640a3f93929",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:23:00.489Z",
+    "user": {
+      "_id": "68852ad7c78ef640a3f9391d",
+      "name": "Education Education",
+      "email": "eeducation954@gmail.com"
+    }
+  }
+]  random data RandomGuides.jsx 13
+[02:34 PM 27-07-25] [
+  {
+    "_id": "6885e22ae5bd6ac36ce24fb4",
+    "status": "accepted",
+    "createdAt": "2025-07-27T08:24:10.178Z",
+    "user": {
+      "_id": "6885e18be5bd6ac36ce24fa0",
+      "name": "Jamal Ahamed",
+      "email": "tourguide@example.com"
+    }
+  },
+  {
+    "_id": "68851f1a48e669e21a93e85b",
+    "status": "accepted",
+    "createdAt": "2025-07-26T18:31:54.566Z",
+    "user": {
+      "_id": "68851af3606080f1804fcc36",
+      "name": "Md. Shahjalal",
+      "email": "dev.shahjalal@gmail.com"
+    }
+  },
+  {
+    "_id": "6885af7938458644e7af0c66",
+    "status": "accepted",
+    "createdAt": "2025-07-27T04:47:53.437Z",
+    "user": {
+      "_id": "6885aeac38458644e7af0c45",
+      "name": "Abdullah Fahad",
+      "email": "abdullahfahad@gmail.com"
+    }
+  },
+  {
+    "_id": "68852bc3c78ef640a3f9394c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:25:55.283Z",
+    "user": {
+      "_id": "68852b90c78ef640a3f93940",
+      "name": "গণিত ভালোবাসি",
+      "email": "gonitvalobasi@gmail.com"
+    }
+  },
+  {
+    "_id": "688527d2c78ef640a3f9389c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:09:06.889Z",
+    "user": {
+      "_id": "68852645c78ef640a3f93875",
+      "name": "Learning English",
+      "email": "mdshahjalal512@gmail.com"
+    }
+  },
+  {
+    "_id": "68852b14c78ef640a3f93929",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:23:00.489Z",
+    "user": {
+      "_id": "68852ad7c78ef640a3f9391d",
+      "name": "Education Education",
+      "email": "eeducation954@gmail.com"
+    }
+  }
+]  random data RandomGuides.jsx 13
+[02:34 PM 27-07-25] [
+  {
+    "_id": "6885e22ae5bd6ac36ce24fb4",
+    "status": "accepted",
+    "createdAt": "2025-07-27T08:24:10.178Z",
+    "user": {
+      "_id": "6885e18be5bd6ac36ce24fa0",
+      "name": "Jamal Ahamed",
+      "email": "tourguide@example.com"
+    }
+  },
+  {
+    "_id": "68851f1a48e669e21a93e85b",
+    "status": "accepted",
+    "createdAt": "2025-07-26T18:31:54.566Z",
+    "user": {
+      "_id": "68851af3606080f1804fcc36",
+      "name": "Md. Shahjalal",
+      "email": "dev.shahjalal@gmail.com"
+    }
+  },
+  {
+    "_id": "6885af7938458644e7af0c66",
+    "status": "accepted",
+    "createdAt": "2025-07-27T04:47:53.437Z",
+    "user": {
+      "_id": "6885aeac38458644e7af0c45",
+      "name": "Abdullah Fahad",
+      "email": "abdullahfahad@gmail.com"
+    }
+  },
+  {
+    "_id": "68852bc3c78ef640a3f9394c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:25:55.283Z",
+    "user": {
+      "_id": "68852b90c78ef640a3f93940",
+      "name": "গণিত ভালোবাসি",
+      "email": "gonitvalobasi@gmail.com"
+    }
+  },
+  {
+    "_id": "688527d2c78ef640a3f9389c",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:09:06.889Z",
+    "user": {
+      "_id": "68852645c78ef640a3f93875",
+      "name": "Learning English",
+      "email": "mdshahjalal512@gmail.com"
+    }
+  },
+  {
+    "_id": "68852b14c78ef640a3f93929",
+    "status": "accepted",
+    "createdAt": "2025-07-26T19:23:00.489Z",
+    "user": {
+      "_id": "68852ad7c78ef640a3f9391d",
+      "name": "Education Education",
+      "email": "eeducation954@gmail.com"
+    }
+  }
+]  random data RandomGuides.jsx 13
