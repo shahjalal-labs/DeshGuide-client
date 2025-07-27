@@ -47,16 +47,16 @@ const router = createBrowserRouter([
         ),
       },
       {
+        path: "about-us",
+        element: <div>About</div>,
+      },
+      {
         path: "community",
         element: <CommunityPage />,
       },
     ],
   },
 
-  {
-    path: "/about",
-    element: <div>About</div>,
-  },
   dashbourdRoutes,
   AuthRoute,
 ]);
