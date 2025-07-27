@@ -3,13 +3,15 @@ import { motion } from "framer-motion";
 const trendingSpots = [
   {
     name: "🌊 Saint Martin",
-    image: "https://i.ibb.co/ZLqkVZw/saint-martin.jpg",
+    image:
+      "https://images.deepai.org/art-image/6d1242776af24b29989fcb1f05e2a9f7/colorful-paddle-boat-floating-on-small-forest-lake-in.jpg",
     description:
       "A serene island in the Bay of Bengal, famous for crystal clear water, coral reefs, and calm vibes.",
   },
   {
     name: "🏞️ Sajek Valley",
-    image: "https://i.ibb.co/Tw9Zwkd/sajek.jpg",
+    image:
+      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg",
     description:
       "A dreamy mountain valley in Rangamati with endless green, cloud-kissed mornings, and wooden cottages.",
   },
