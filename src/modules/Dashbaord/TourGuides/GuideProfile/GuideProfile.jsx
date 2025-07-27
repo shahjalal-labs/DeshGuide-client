@@ -53,7 +53,6 @@ export default function GuideProfile() {
           <div className="flex flex-col sm:flex-row items-center gap-8">
             <img
               src={photoURL}
-              alt={name}
               className="w-32 h-32 object-cover rounded-full border-4 border-indigo-500 shadow-inner shadow-indigo-600"
             />
             <div>
