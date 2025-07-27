@@ -74,7 +74,7 @@ const ManageCandidate = () => {
       initial={{ opacity: 0, y: 50 }}
       animate={{ opacity: 1, y: 0 }}
     >
-      <h1 className="text-3xl font-bold text-center mb-8 glow-text pulse-glow">
+      <h1 className="sm:text-3xl text-xl font-bold text-center mb-8 glow-text pulse-glow">
         Manage Tour Guide Candidates
       </h1>
 
@@ -94,9 +94,9 @@ const ManageCandidate = () => {
                 className="bg-[#1e293b] rounded-xl p-4 border border-indigo-600 jhilimili-glow"
                 whileHover={{ scale: 1.02 }}
               >
-                <div className="flex justify-between max-sm:items-center mb-2 max-sm:flex-col">
+                <div className="flex justify-between sm:items-center mb-2 max-sm:flex-col">
                   <div>
-                    <h2 className="text-xl font-semibold text-cyan-300">
+                    <h2 className="text-xl max-sm:text-sm font-semibold text-cyan-300 text-wrap">
                       {candidate.userId.name} ({candidate.userId.email})
                     </h2>
                     <p className="text-sm text-indigo-400">{candidate.title}</p>
