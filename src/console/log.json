@@ -671,3 +671,99 @@
 [02:21 PM 27-07-25] userData?._id 6885e18be5bd6ac36ce24fa0
 [02:21 PM 27-07-25] userData?._id 6885e18be5bd6ac36ce24fa0
 [02:21 PM 27-07-25] userData?._id 6885e18be5bd6ac36ce24fa0
+[02:22 PM 27-07-25] userData?._id null
+[02:22 PM 27-07-25] userData?._id null
+[02:22 PM 27-07-25] userData?._id null
+[02:22 PM 27-07-25] userData?._id null
+[02:22 PM 27-07-25] userData?._id 6885e18be5bd6ac36ce24fa0
+[02:22 PM 27-07-25] userData?._id 6885e18be5bd6ac36ce24fa0
+[02:24 PM 27-07-25] userData?._id 6885e18be5bd6ac36ce24fa0
+[02:24 PM 27-07-25] userData?._id 6885e18be5bd6ac36ce24fa0
+[02:24 PM 27-07-25] userData?._id 6885e18be5bd6ac36ce24fa0
+[02:24 PM 27-07-25] userData?._id 6885e18be5bd6ac36ce24fa0
+[02:24 PM 27-07-25] userData?._id 6885e18be5bd6ac36ce24fa0
+[02:24 PM 27-07-25] userData?._id 6885e18be5bd6ac36ce24fa0
+[02:24 PM 27-07-25] userData?._id 6885e18be5bd6ac36ce24fa0
+[02:24 PM 27-07-25] userData?._id 6885e18be5bd6ac36ce24fa0
+[02:27 PM 27-07-25] {
+  "_id": "6885e18be5bd6ac36ce24fa0",
+  "name": "Jamal Ahamed",
+  "email": "tourguide@example.com",
+  "photoURL": "",
+  "role": "tour-guide",
+  "last_loggedIn": "2025-07-27T08:21:31.355Z",
+  "createdAt": "2025-07-27T08:21:31.364Z",
+  "updatedAt": "2025-07-27T08:24:29.102Z",
+  "__v": 0
+} userdata ManageStories.jsx 33
+[02:27 PM 27-07-25] [] stories ManageStories.jsx 34
+[02:27 PM 27-07-25] {
+  "_id": "6885e18be5bd6ac36ce24fa0",
+  "name": "Jamal Ahamed",
+  "email": "tourguide@example.com",
+  "photoURL": "",
+  "role": "tour-guide",
+  "last_loggedIn": "2025-07-27T08:21:31.355Z",
+  "createdAt": "2025-07-27T08:21:31.364Z",
+  "updatedAt": "2025-07-27T08:24:29.102Z",
+  "__v": 0
+} userdata ManageStories.jsx 33
+[02:27 PM 27-07-25] [] stories ManageStories.jsx 34
+[02:27 PM 27-07-25] {
+  "_id": "6885e18be5bd6ac36ce24fa0",
+  "name": "Jamal Ahamed",
+  "email": "tourguide@example.com",
+  "photoURL": "",
+  "role": "tour-guide",
+  "last_loggedIn": "2025-07-27T08:21:31.355Z",
+  "createdAt": "2025-07-27T08:21:31.364Z",
+  "updatedAt": "2025-07-27T08:24:29.102Z",
+  "__v": 0
+} userdata ManageStories.jsx 33
+[02:27 PM 27-07-25] [
+  {
+    "_id": "6885e30643f303e931b34332",
+    "title": "Sylhet, Sreemongol, Tea Gardens and Natural Beauty",
+    "description": "We explored rolling hills of green in Srimangal, sipping 7-layer tea and riding bicycles through tea trails. The air smelled of leaves and rain. It was the kind of calm that recharges your soul quietly.",
+    "images": [
+      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg",
+      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg"
+    ],
+    "userId": "6885e18be5bd6ac36ce24fa0",
+    "userName": "Jamal Ahamed",
+    "userPhoto": "https://avatar.iran.liara.run/public",
+    "createdAt": "2025-07-27T08:27:50.938Z",
+    "updatedAt": "2025-07-27T08:27:50.938Z",
+    "__v": 0
+  }
+] stories ManageStories.jsx 34
+[02:27 PM 27-07-25] {
+  "_id": "6885e18be5bd6ac36ce24fa0",
+  "name": "Jamal Ahamed",
+  "email": "tourguide@example.com",
+  "photoURL": "",
+  "role": "tour-guide",
+  "last_loggedIn": "2025-07-27T08:21:31.355Z",
+  "createdAt": "2025-07-27T08:21:31.364Z",
+  "updatedAt": "2025-07-27T08:24:29.102Z",
+  "__v": 0
+} userdata ManageStories.jsx 33
+[02:27 PM 27-07-25] [
+  {
+    "_id": "6885e30643f303e931b34332",
+    "title": "Sylhet, Sreemongol, Tea Gardens and Natural Beauty",
+    "description": "We explored rolling hills of green in Srimangal, sipping 7-layer tea and riding bicycles through tea trails. The air smelled of leaves and rain. It was the kind of calm that recharges your soul quietly.",
+    "images": [
+      "https://images.deepai.org/art-image/f9d5f96b6548451bbb1721d48464d2f3/bangladeshi-male-night-beach-bonfire-with-tourists-si.jpg",
+      "https://images.deepai.org/art-image/063b33d8fb6f429191d93a7ec99546da/snorkeling-person-near-chera-dwip-with-coral-and-fish.jpg",
+      "https://images.deepai.org/art-image/3be7075b97b143d19ca910a9c7621cac/aerial-view-of-saint-martins-turquoise-coast-with-cor.jpg"
+    ],
+    "userId": "6885e18be5bd6ac36ce24fa0",
+    "userName": "Jamal Ahamed",
+    "userPhoto": "https://avatar.iran.liara.run/public",
+    "createdAt": "2025-07-27T08:27:50.938Z",
+    "updatedAt": "2025-07-27T08:27:50.938Z",
+    "__v": 0
+  }
+] stories ManageStories.jsx 34
