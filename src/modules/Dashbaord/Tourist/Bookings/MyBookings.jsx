@@ -31,7 +31,7 @@ const MyBookings = () => {
     return (
       <div className="text-center py-20 text-gray-400">
         <h2 className="text-2xl font-bold mb-4">No bookings found</h2>
-        <Link to="/" className="btn btn-primary glow-border px-6 py-2">
+        <Link to="/all-trips" className="btn btn-primary glow-border px-6 py-2">
           Browse Packages
         </Link>
       </div>

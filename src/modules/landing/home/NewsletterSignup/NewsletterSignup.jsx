@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { darkSwal } from "../../../../hooks/usePostData";
-import { swalErrorToast } from "../../../shared/ui/swalToast";
+import { swalErrorToast, swalSuccessToast } from "../../../shared/ui/swalToast";
 
 const NewsletterSignup = () => {
   const [email, setEmail] = useState("");
@@ -24,8 +24,12 @@ const NewsletterSignup = () => {
     setLoading(true);
     try {
       await new Promise((res) => setTimeout(res, 1500));
-      darkSwal.fire({
+      /*       darkSwal.fire({
         icon: "success",
+        title: "Subscribed!",
+        text: "You will get insider deals and travel hacks in your inbox.",
+      }); */
+      swalSuccessToast({
         title: "Subscribed!",
         text: "You will get insider deals and travel hacks in your inbox.",
       });
