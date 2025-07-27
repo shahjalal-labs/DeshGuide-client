@@ -10,6 +10,7 @@ import TourGuides from "../modules/Dashbaord/TourGuides/TourGuides";
 import CommunityPage from "../pages/Community/CommunityPage";
 import dashbourdRoutes from "../modules/Dashbaord/dashbourdRoutes";
 import ProtectedRoute from "./ProtectedRoute";
+import Packages from "../modules/Packages/Packages/Packages";
 
 const router = createBrowserRouter([
   {
@@ -24,7 +25,7 @@ const router = createBrowserRouter([
 
       {
         path: "/all-trips",
-        // element: <Forbidden />,
+        element: <Packages />,
       },
       // guide profile page
       {

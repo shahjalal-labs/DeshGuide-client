@@ -3,6 +3,7 @@
 import useFetchData from "../../../hooks/useFetchData";
 import Spinner from "../../shared/Layout/Spinner";
 import PackageCard from "../../Packages/Packages/PackageCard";
+import { Link } from "react-router";
 
 const TourismAndGuides = () => {
   const { data: packages = [], loading } = useFetchData("packages/random");
@@ -21,6 +22,16 @@ const TourismAndGuides = () => {
           packages.map((pkg) => <PackageCard key={pkg._id} pkg={pkg} />)
         )}
       </div>
+      <div className="flex-container mt-8">
+        <Link
+          className="btn btn-soft btn-info rounded-full mt-3 "
+          to="/all-trips"
+        >
+          View All Packages
+        </Link>
+      </div>
+
+      <div className="divider my-6"></div>
     </section>
   );
 };
