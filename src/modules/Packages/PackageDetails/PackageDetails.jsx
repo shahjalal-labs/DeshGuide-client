@@ -137,28 +137,32 @@ const PackageDetails = () => {
         ))}
       </div>
 
-      {/* About Section */}
-      <div className="space-y-2">
-        <h2 className="text-4xl font-bold glow-pulse">{title}</h2>
-        <p className="text-lg text-gray-300">{description}</p>
-        <div className="text-sm text-gray-400">
-          Location: {location} | Days: {days} | Type: {tripType}
+      <div className="glow-border pulse-glow">
+        {/* About Section */}
+        <div className="space-y-2">
+          <h2 className="text-4xl max-sm:text-2xl font-bold glow-pulse text-purple-400">
+            {title}
+          </h2>
+          <p className="text-lg text-gray-300">{description}</p>
+          <div className="text-sm text-gray-400">
+            Location: {location} | Days: {days} | Type: {tripType}
+          </div>
         </div>
-      </div>
 
-      {/* Tour Plan */}
-      <div>
-        <h3 className="text-2xl font-semibold mb-4">🗓️ Tour Plan</h3>
-        <div className="space-y-3">
-          {tourPlan.map((plan, i) => (
-            <div
-              key={i}
-              className="p-4 bg-[#111827] border-l-4 border-purple-500 rounded-md hover:shadow-purple-md transition-all"
-            >
-              <h4 className="font-semibold text-lg">Day {plan.day}</h4>
-              <p className="text-gray-300">{plan.activities}</p>
-            </div>
-          ))}
+        {/* Tour Plan */}
+        <div className="mt-5">
+          <h3 className="text-2xl font-semibold mb-4">🗓️ Tour Plan</h3>
+          <div className="space-y-3">
+            {tourPlan.map((plan, i) => (
+              <div
+                key={i}
+                className="p-4 bg-[#111827] border-l-4 border-purple-500 rounded-md hover:shadow-purple-md transition-all"
+              >
+                <h4 className="font-semibold text-lg">Day {plan.day}</h4>
+                <p className="text-gray-300">{plan.activities}</p>
+              </div>
+            ))}
+          </div>
         </div>
       </div>
 

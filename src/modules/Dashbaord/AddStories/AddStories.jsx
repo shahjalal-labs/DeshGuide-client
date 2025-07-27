@@ -53,7 +53,10 @@ const AddStories = () => {
   };
 
   return (
-    <div className="max-w-4xl mx-auto px-4 py-10" data-aos="fade-up">
+    <div
+      className="max-w-4xl mx-auto px-4 py-10 glow-border"
+      data-aos="fade-up"
+    >
       <h2 className="text-3xl font-bold mb-6 text-white">Share Your Story</h2>
 
       <form onSubmit={handleSubmit(onSubmit)} className="space-y-6">
@@ -109,7 +112,7 @@ const AddStories = () => {
         <button
           type="submit"
           disabled={isPending}
-          className="w-full py-2 bg-cyan-600 hover:bg-cyan-700 text-white font-semibold rounded-full shadow-md transition disabled:opacity-50"
+          className="w-full py-2 bg-cyan-600 hover:bg-cyan-700 text-white font-semibold rounded-full shadow-md transition disabled:opacity-50 jhilimili-glow glow-effect"
         >
           {isPending ? "Posting..." : "Post Story"}
         </button>
