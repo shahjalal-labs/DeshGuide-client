@@ -31,8 +31,7 @@ const StoryCard = ({ story }) => {
 
           <div className="flex items-center gap-3 pt-4 mt-auto">
             <img
-              src={story.userPhoto}
-              alt={story.userName}
+              src={story?.userPhoto || "https://avatar.iran.liara.run/public"}
               className="w-11 h-11 rounded-full border-[2px] border-purple-500 shadow-md"
             />
             <div>
