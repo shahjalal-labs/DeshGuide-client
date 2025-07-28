@@ -17,6 +17,7 @@ import TermsOfUse from "../pages/TermsOfUse/TermsOfUse";
 import PrivacyPolicy from "../pages/PrivacyPolicy/PrivacyPolicy";
 import CookiePolicy from "../pages/CookiePolicy/CookiePolicy";
 import ProjectInfoPage from "../pages/ProjectInfoPage";
+import PartnerSignup from "../pages/PartnerSignup/PartnerSignup";
 
 const router = createBrowserRouter([
   {
@@ -52,10 +53,6 @@ const router = createBrowserRouter([
           </ProtectedRoute>
         ),
       },
-      {
-        path: "about-us",
-        element: <AboutUs />,
-      },
 
       {
         path: "community",
@@ -65,6 +62,16 @@ const router = createBrowserRouter([
       {
         path: "community/:id",
         element: <StoryDetails />,
+      },
+
+      {
+        path: "partner-signup",
+        element: <PartnerSignup />,
+      },
+
+      {
+        path: "about-us",
+        element: <AboutUs />,
       },
       {
         path: "terms-of-use",
