@@ -13,6 +13,7 @@ import ProtectedRoute from "./ProtectedRoute";
 import Packages from "../modules/Packages/Packages/Packages";
 import Stories from "../modules/landing/home/Overview/Stories/Stories";
 import AboutUs from "../pages/AboutUs";
+import StoryDetails from "../modules/Dashbaord/ManageStories/StoryDetails/StoryDetails";
 
 const router = createBrowserRouter([
   {
@@ -56,6 +57,11 @@ const router = createBrowserRouter([
       {
         path: "community",
         element: <Stories apiEndpoint="stories?limit=0" />,
+      },
+
+      {
+        path: "community/:id",
+        element: <StoryDetails />,
       },
     ],
   },
