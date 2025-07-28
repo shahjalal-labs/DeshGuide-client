@@ -1,7 +1,7 @@
 import { Outlet } from "react-router";
 import Navbar from "./Navbar";
-import CommonFooter from "./CommonFooter";
-import NavbarDrawer from "./NavbarDrawer";
+// import NavbarDrawer from "./NavbarDrawer";
+import Footer from "./Footer_refactored/Footer";
 
 const RootLayout = () => {
   return (
@@ -19,7 +19,8 @@ const RootLayout = () => {
         <Outlet />
       </div>
       <div className="bg-gradient-to-b from-[#0e0e0e] to-[#1a1a1a]">
-        <CommonFooter />
+        {/* <CommonFooter /> */}
+        <Footer />
       </div>
     </div>
   );
