@@ -2,6 +2,7 @@
 
 ```bash
 .
+├── 03_37_অপরাহ্ণ_28_07_25.mp4
 ├── bun.lock
 ├── eslint.config.js
 ├── generate_aboutus_refactor.sh
@@ -10,6 +11,7 @@
 ├── public
 │   └── CNAME
 ├── README.md
+├── refactor_project_info.sh
 ├── src
 │   ├── animation
 │   │   ├── auth-lottie.json
@@ -19,6 +21,7 @@
 │   ├── App.jsx
 │   ├── assets
 │   │   └── images
+│   │       ├── favicon.jpg
 │   │       ├── index.js
 │   │       └── notfound3.jpg
 │   ├── console
@@ -154,11 +157,22 @@
 │   │   │       └── Packages.jsx
 │   │   └── shared
 │   │       ├── Layout
-│   │       │   ├── CommonFooter.jsx
+│   │       │   ├── Footer
+│   │       │   │   ├── components
+│   │       │   │   │   ├── FooterColumns.jsx
+│   │       │   │   │   ├── FooterCopyright.jsx
+│   │       │   │   │   └── SocialIcons.jsx
+│   │       │   │   ├── constants
+│   │       │   │   │   ├── footerLinks.js
+│   │       │   │   │   └── socialIcons.js
+│   │       │   │   ├── Footer.jsx
+│   │       │   │   └── hooks
+│   │       │   │       └── useFooterAnimation.js
 │   │       │   ├── index.js
 │   │       │   ├── NavbarDrawer.jsx
 │   │       │   ├── Navbar.jsx
 │   │       │   ├── navbarLinksConstant.jsx
+│   │       │   ├── refactor_footer.sh
 │   │       │   ├── RootLayout.jsx
 │   │       │   ├── SidebarLink.jsx
 │   │       │   ├── sidebarLinks.js
@@ -187,11 +201,30 @@
 │   │   ├── Community
 │   │   │   ├── CommunityPage.jsx
 │   │   │   └── components
+│   │   ├── ContactUs
+│   │   │   └── ContactUs.jsx
+│   │   ├── CookiePolicy
+│   │   │   └── CookiePolicy.jsx
 │   │   ├── faq
 │   │   │   ├── faq.constant.js
 │   │   │   └── FAQ.jsx
+│   │   ├── PartnerSignup
+│   │   │   └── PartnerSignup.jsx
 │   │   ├── PrivacyPolicy
 │   │   │   └── PrivacyPolicy.jsx
+│   │   ├── ProjectInfoPage
+│   │   │   ├── components
+│   │   │   │   ├── ClientInfoSection.jsx
+│   │   │   │   ├── DeveloperInfoSection.jsx
+│   │   │   │   └── ServerInfoSection.jsx
+│   │   │   ├── constants
+│   │   │   │   └── projectInfo.js
+│   │   │   ├── hooks
+│   │   │   ├── index.js
+│   │   │   └── ProjectInfoPage.jsx
+│   │   ├── ProjectInfoPagePrev
+│   │   │   ├── ProjectInfoPage.jsx
+│   │   │   └── refractorProjectInfoPagePrompt.md
 │   │   └── TermsOfUse
 │   │       └── TermsOfUse.jsx
 │   ├── router
@@ -213,6 +246,6 @@
 ├── vite.config.js
 └── vite.logger.plugin.js
 
-66 directories, 145 files
+78 directories, 166 files
 
 ```

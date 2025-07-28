@@ -1,7 +1,8 @@
 import { useNavigate, useRouteError } from "react-router";
 import { notfound3 } from "../assets/images";
-import { CommonFooter, Navbar } from "../modules/shared/Layout";
+import { Navbar } from "../modules/shared/Layout";
 import { motion } from "framer-motion";
+import Footer from "../modules/shared/Layout/Footer/Footer";
 
 const Errorpage = () => {
   const error = useRouteError();
@@ -55,7 +56,7 @@ const Errorpage = () => {
         </motion.div>
       </main>
 
-      <CommonFooter />
+      <Footer />
     </>
   );
 };
