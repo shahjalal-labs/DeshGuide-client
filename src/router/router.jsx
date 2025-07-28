@@ -52,12 +52,9 @@ const router = createBrowserRouter([
         path: "about-us",
         element: <AboutUs />,
       },
+
       {
         path: "community",
-        element: <CommunityPage />,
-      },
-      {
-        path: "all-stories",
         element: <Stories apiEndpoint="stories?limit=0" />,
       },
     ],
