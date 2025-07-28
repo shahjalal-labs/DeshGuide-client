@@ -24,9 +24,9 @@ const CommonFooter = () => {
             <h6 className="footer-title text-cyan-400 mb-2">Company</h6>
             <ul className="space-y-1">
               {[
-                { name: "About Us", path: "about-us" },
-                { name: "Contact Us", path: "contact-us" },
-                { name: "Cookie policy", path: "cookie-policy" },
+                { name: "About Us", path: "/about-us" },
+                { name: "Contact Us", path: "/contact-us" },
+                { name: "Project Info", path: "/project-info" },
               ].map((item) => (
                 <li
                   key={item.name}
