@@ -16,11 +16,16 @@ import AboutUs from "../pages/AboutUs";
 import StoryDetails from "../modules/Dashbaord/ManageStories/StoryDetails/StoryDetails";
 import TermsOfUse from "../pages/TermsOfUse/TermsOfUse";
 import PrivacyPolicy from "../pages/PrivacyPolicy/PrivacyPolicy";
+import ScrollToTopWrapper from "../modules/shared/Layout/ScrollToTopWrapper";
 
 const router = createBrowserRouter([
   {
     path: "/",
-    Component: RootLayout,
+    element: (
+      <ScrollToTopWrapper>
+        <RootLayout />
+      </ScrollToTopWrapper>
+    ),
     errorElement: <Errorpage />,
     children: [
       {

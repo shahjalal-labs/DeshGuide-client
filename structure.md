@@ -43,6 +43,7 @@
 │   │   ├── useFetchData.js
 │   │   ├── useHelmet.jsx
 │   │   ├── usePostData.jsx
+│   │   ├── useScrollToTop.js
 │   │   ├── useSecureQuery.jsx
 │   │   ├── useSecureUpdate.js
 │   │   └── useUserRole.jsx
@@ -186,9 +187,13 @@
 │   │   ├── Community
 │   │   │   ├── CommunityPage.jsx
 │   │   │   └── components
-│   │   └── faq
-│   │       ├── faq.constant.js
-│   │       └── FAQ.jsx
+│   │   ├── faq
+│   │   │   ├── faq.constant.js
+│   │   │   └── FAQ.jsx
+│   │   ├── PrivacyPolicy
+│   │   │   └── PrivacyPolicy.jsx
+│   │   └── TermsOfUse
+│   │       └── TermsOfUse.jsx
 │   ├── router
 │   │   ├── ErrorPage.jsx
 │   │   ├── ProtectedRoute.jsx
@@ -208,6 +213,6 @@
 ├── vite.config.js
 └── vite.logger.plugin.js
 
-64 directories, 142 files
+66 directories, 145 files
 
 ```
