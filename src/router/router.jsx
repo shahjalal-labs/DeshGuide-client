@@ -7,7 +7,6 @@ import PackageDetails from "../modules/Packages/PackageDetails/PackageDetails";
 import Home from "../modules/landing/home/Home";
 import GuideProfile from "../modules/Dashbaord/TourGuides/GuideProfile/GuideProfile";
 import TourGuides from "../modules/Dashbaord/TourGuides/TourGuides";
-import CommunityPage from "../pages/Community/CommunityPage";
 import dashbourdRoutes from "../modules/Dashbaord/dashbourdRoutes";
 import ProtectedRoute from "./ProtectedRoute";
 import Packages from "../modules/Packages/Packages/Packages";
@@ -16,16 +15,11 @@ import AboutUs from "../pages/AboutUs";
 import StoryDetails from "../modules/Dashbaord/ManageStories/StoryDetails/StoryDetails";
 import TermsOfUse from "../pages/TermsOfUse/TermsOfUse";
 import PrivacyPolicy from "../pages/PrivacyPolicy/PrivacyPolicy";
-import ScrollToTopWrapper from "../modules/shared/Layout/ScrollToTopWrapper";
 
 const router = createBrowserRouter([
   {
     path: "/",
-    element: (
-      <ScrollToTopWrapper>
-        <RootLayout />
-      </ScrollToTopWrapper>
-    ),
+    element: <RootLayout />,
     errorElement: <Errorpage />,
     children: [
       {
