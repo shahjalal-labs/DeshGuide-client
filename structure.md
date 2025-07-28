@@ -231,6 +231,8 @@
 │   │   ├── ErrorPage.jsx
 │   │   ├── ProtectedRoute.jsx
 │   │   └── router.jsx
+│   ├── routes
+│   │   └── AdminRoute.jsx
 │   └── utils
 │       ├── axiosInstance.js
 │       ├── customAlert.js
@@ -246,6 +248,6 @@
 ├── vite.config.js
 └── vite.logger.plugin.js
 
-78 directories, 166 files
+79 directories, 167 files
 
 ```

@@ -1,4 +1,5 @@
 import ProtectedRoute from "../../router/ProtectedRoute";
+import AdminRoute from "../../routes/AdminRoute";
 import AddStories from "./AddStories/AddStories";
 import AddPackage from "./Admin/AddPackage/AddPackage";
 import AllBookings from "./Admin/Bookings/AllBookings";
@@ -64,23 +65,44 @@ const dashbourdRoutes = {
     // admin routes
     {
       path: "admin/add-package",
-      element: <AddPackage />,
+      element: (
+        <AdminRoute>
+          <AddPackage />
+        </AdminRoute>
+      ),
     },
     {
       path: "admin/candidates",
-      element: <ManageCandidate />,
+      element: (
+        <AdminRoute>
+          <ManageCandidate />
+        </AdminRoute>
+      ),
     },
     {
       path: "admin/manage-users",
-      element: <ManageUsers />,
+      element: (
+        <AdminRoute>
+          <ManageUsers />
+        </AdminRoute>
+      ),
     },
     {
       path: "admin/bookings",
-      element: <AllBookings />,
+      element: (
+        <AdminRoute>
+          <AllBookings />
+        </AdminRoute>
+      ),
     },
     {
+      // http://localhost:5173/dashboard/admin/candidates
       path: "admin/payments",
-      element: <AllPayments />,
+      element: (
+        <AdminRoute>
+          <AllPayments />
+        </AdminRoute>
+      ),
     },
     {
       path: "bookings/:bookingId",
