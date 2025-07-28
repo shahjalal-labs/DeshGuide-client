@@ -18,6 +18,7 @@ import PrivacyPolicy from "../pages/PrivacyPolicy/PrivacyPolicy";
 import CookiePolicy from "../pages/CookiePolicy/CookiePolicy";
 import ProjectInfoPage from "../pages/ProjectInfoPage";
 import PartnerSignup from "../pages/PartnerSignup/PartnerSignup";
+import ContactUs from "../pages/ContactUs/ContactUs";
 
 const router = createBrowserRouter([
   {
@@ -89,6 +90,10 @@ const router = createBrowserRouter([
       {
         path: "project-info",
         element: <ProjectInfoPage />,
+      },
+      {
+        path: "contact-us",
+        element: <ContactUs />,
       },
     ],
   },
