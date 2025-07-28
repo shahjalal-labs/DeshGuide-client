@@ -6,20 +6,51 @@ const CommonFooter = () => {
       <footer className="bg-gradient-to-b from-[#0e0e0e] to-[#1a1a1a] text-gray-300 px-6 py-10">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
-            <h6 className="footer-title text-cyan-400 mb-2">Services</h6>
+            <h6 className="footer-title text-cyan-400 mb-2">Let's Connect </h6>
             <ul className="space-y-1">
-              {["Branding", "Design", "Marketing", "Advertisement"].map(
-                (item) => (
-                  <li
-                    key={item}
-                    className="transition hover:translate-x-1 hover:text-cyan-400 duration-200 cursor-pointer"
+              {[
+                {
+                  name: "GitHub",
+                  url: "https://github.com/shahjalal-labs/DeshGuide-client",
+                  icon: "👨‍💻",
+                },
+                {
+                  name: "Portfolio",
+                  url: "http://shahjalal-labs.surge.sh",
+                  icon: "🎨",
+                },
+                {
+                  name: "LinkedIn",
+                  url: "https://www.linkedin.com/in/shahjalal-labs/",
+                  icon: "💼",
+                },
+                {
+                  name: "Twitter",
+                  url: "https://twitter.com/shahjalal_labs",
+                  icon: "🐦",
+                },
+                {
+                  name: "Facebook",
+                  url: "https://www.facebook.com/shahjalal.labs",
+                  icon: "📘",
+                },
+              ].map((item) => (
+                <li
+                  key={item.name}
+                  className="transition hover:translate-x-1 hover:text-cyan-400 duration-200"
+                >
+                  <a
+                    href={item.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="flex items-center gap-2 cursor-pointer"
                   >
-                    {item}
-                  </li>
-                ),
-              )}
+                    {item.name}
+                  </a>
+                </li>
+              ))}
             </ul>
-          </div>
+          </div>{" "}
           <div>
             <h6 className="footer-title text-cyan-400 mb-2">Company</h6>
             <ul className="space-y-1">

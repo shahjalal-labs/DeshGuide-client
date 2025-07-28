@@ -206,7 +206,7 @@ const CookiePolicy = () => {
             </h3>
             <div className="flex flex-col sm:flex-row justify-center gap-4">
               <Link
-                to="/contact"
+                to="/contact-us"
                 className="px-6 py-3 bg-indigo-600 hover:bg-indigo-700 text-white rounded-full transition-all duration-300 hover:shadow-[0_0_20px_rgba(99,102,241,0.7)]"
               >
                 Contact Support
