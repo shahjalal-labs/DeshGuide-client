@@ -25,7 +25,7 @@ const CommonFooter = () => {
             <ul className="space-y-1">
               {[
                 { name: "About Us", path: "about-us" },
-                { name: "Privacy policy", path: "privacy-policy" },
+                { name: "Contact Us", path: "contact-us" },
                 { name: "Cookie policy", path: "cookie-policy" },
               ].map((item) => (
                 <li
