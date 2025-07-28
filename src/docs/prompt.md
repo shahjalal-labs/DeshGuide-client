@@ -4,3 +4,9 @@ this will open a daisy ui modal and allow me to update the story data, i will gi
 ---
 
 i need to add new feature for each story it will have details button to navigate to the story details page, and have the option to share by react share,
+
+- Share button via `react-share` (Facebook)
+- Only logged-in users can share
+- `All Stories` ➜ navigates to **Community Page**
+
+if user not logged in, it will swal message
