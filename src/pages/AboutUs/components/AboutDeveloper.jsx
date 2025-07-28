@@ -2,7 +2,7 @@ const AboutDeveloper = () => (
   <div data-aos="fade-up" className="mt-16 space-y-8 max-w-5xl mx-auto">
     <div className="flex flex-col items-center">
       <img
-        src="/assets/Banner.jpg"
+        src=""
         alt="mdshahjalal5"
         className="rounded-2xl shadow-xl border-4 border-blue-500 w-64 mb-4"
       />

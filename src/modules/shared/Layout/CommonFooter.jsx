@@ -24,15 +24,17 @@ const CommonFooter = () => {
             <h6 className="footer-title text-cyan-400 mb-2">Company</h6>
             <ul className="space-y-1">
               {[
-                { name: "Terms of use", path: "terms-of-use" },
+                { name: "About Us", path: "about-us" },
                 { name: "Privacy policy", path: "privacy-policy" },
                 { name: "Cookie policy", path: "cookie-policy" },
               ].map((item) => (
                 <li
-                  key={item}
+                  key={item.name}
                   className="transition hover:translate-x-1 hover:text-cyan-400 duration-200 cursor-pointer"
                 >
-                  {item}
+                  <Link to={item.path} className="block w-full">
+                    {item.name}
+                  </Link>
                 </li>
               ))}
             </ul>

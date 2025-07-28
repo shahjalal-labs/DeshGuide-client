@@ -6,12 +6,13 @@ export const CLIENT_DATA = [
   },
   {
     label: "Live Site",
-    value: "http://shahjalal-mern.surge.sh",
+    value: "https://deshguide.surge.sh",
     type: "url",
   },
   {
     label: "Directory",
-    value: "/run/media/sj/developer/web/L1B11/12mi/ass/DeshGuide/DeshGuide-client",
+    value:
+      "/run/media/sj/developer/web/L1B11/12mi/ass/DeshGuide/DeshGuide-client",
     type: "text",
   },
   { label: "Username", value: "sj", type: "text" },
@@ -36,7 +37,8 @@ export const SERVER_DATA = [
   },
   {
     label: "Directory",
-    value: "/run/media/sj/developer/web/L1B11/12mi/ass/DeshGuide/DeshGuide-server",
+    value:
+      "/run/media/sj/developer/web/L1B11/12mi/ass/DeshGuide/DeshGuide-server",
     type: "text",
   },
   {
