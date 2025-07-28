@@ -19,6 +19,7 @@ import CookiePolicy from "../pages/CookiePolicy/CookiePolicy";
 import ProjectInfoPage from "../pages/ProjectInfoPage";
 import PartnerSignup from "../pages/PartnerSignup/PartnerSignup";
 import ContactUs from "../pages/ContactUs/ContactUs";
+import Forbidden from "../pages/Forbidden/Forbidden";
 
 const router = createBrowserRouter([
   {
@@ -94,6 +95,10 @@ const router = createBrowserRouter([
       {
         path: "contact-us",
         element: <ContactUs />,
+      },
+      {
+        path: "forbidden",
+        element: <Forbidden />,
       },
     ],
   },

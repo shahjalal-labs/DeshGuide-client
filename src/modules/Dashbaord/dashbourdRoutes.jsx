@@ -59,7 +59,11 @@ const dashbourdRoutes = {
     // guide routes
     {
       path: "guide/my-assigned-tours",
-      element: <AssignedTour />,
+      element: (
+        <TourGuideRoute>
+          <AssignedTour />
+        </TourGuideRoute>
+      ),
     },
 
     // admin routes
