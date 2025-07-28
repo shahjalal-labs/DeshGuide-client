@@ -15,6 +15,7 @@ import AboutUs from "../pages/AboutUs";
 import StoryDetails from "../modules/Dashbaord/ManageStories/StoryDetails/StoryDetails";
 import TermsOfUse from "../pages/TermsOfUse/TermsOfUse";
 import PrivacyPolicy from "../pages/PrivacyPolicy/PrivacyPolicy";
+import CookiePolicy from "../pages/CookiePolicy/CookiePolicy";
 
 const router = createBrowserRouter([
   {
@@ -71,6 +72,10 @@ const router = createBrowserRouter([
       {
         path: "privacy-policy",
         element: <PrivacyPolicy />,
+      },
+      {
+        path: "cookie-policy",
+        element: <CookiePolicy />,
       },
     ],
   },
