@@ -1,5 +1,5 @@
 import { useQuery } from "@tanstack/react-query";
-import { useParams } from "react-router";
+import { useNavigate, useParams } from "react-router";
 import { motion } from "framer-motion";
 import { FacebookShareButton, FacebookIcon } from "react-share";
 import Swal from "sweetalert2";
@@ -9,6 +9,7 @@ import useAxiosSecure from "../../../../hooks/useAxiosSecure";
 import Spinner from "../../../shared/Layout/Spinner";
 
 const StoryDetails = () => {
+  const navigate = useNavigate();
   const { id } = useParams();
   const axiosSecure = useAxiosSecure();
   const { user } = useAuth();
@@ -56,13 +57,7 @@ const StoryDetails = () => {
     }
   }, [error]);
 
-  if (isLoading) {
-    return (
-      <div className="min-h-screen flex items-center justify-center bg-[#0f172a]">
-        <Spinner size="lg" />
-      </div>
-    );
-  }
+  if (isLoading) return <Spinner />;
 
   if (!story) {
     return (
