@@ -16,7 +16,7 @@ import StoryDetails from "../modules/Dashbaord/ManageStories/StoryDetails/StoryD
 import TermsOfUse from "../pages/TermsOfUse/TermsOfUse";
 import PrivacyPolicy from "../pages/PrivacyPolicy/PrivacyPolicy";
 import CookiePolicy from "../pages/CookiePolicy/CookiePolicy";
-import ProjectInfoPage from "../pages/ProjectInfoPage/ProjectInfoPage";
+// import ProjectInfoPage from "../pages/ProjectInfoPage/ProjectInfoPage";
 
 const router = createBrowserRouter([
   {
