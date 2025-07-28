@@ -1,3 +1,5 @@
+import { Link } from "react-router";
+
 const CommonFooter = () => {
   return (
     <div className="max-container" data-aos="flip-down">
@@ -21,7 +23,11 @@ const CommonFooter = () => {
           <div>
             <h6 className="footer-title text-cyan-400 mb-2">Company</h6>
             <ul className="space-y-1">
-              {["About us", "Contact", "Jobs", "Press kit"].map((item) => (
+              {[
+                { name: "Terms of use", path: "terms-of-use" },
+                { name: "Privacy policy", path: "privacy-policy" },
+                { name: "Cookie policy", path: "cookie-policy" },
+              ].map((item) => (
                 <li
                   key={item}
                   className="transition hover:translate-x-1 hover:text-cyan-400 duration-200 cursor-pointer"
@@ -34,17 +40,21 @@ const CommonFooter = () => {
           <div>
             <h6 className="footer-title text-cyan-400 mb-2">Legal</h6>
             <ul className="space-y-1">
-              {["Terms of use", "Privacy policy", "Cookie policy"].map(
-                (item) => (
-                  <li
-                    key={item}
-                    className="transition hover:translate-x-1 hover:text-cyan-400 duration-200 cursor-pointer"
-                  >
-                    {item}
-                  </li>
-                ),
-              )}
-            </ul>
+              {[
+                { name: "Terms of use", path: "terms-of-use" },
+                { name: "Privacy policy", path: "privacy-policy" },
+                { name: "Cookie policy", path: "cookie-policy" },
+              ].map((item) => (
+                <li
+                  key={item.path}
+                  className="transition hover:translate-x-1 hover:text-cyan-400 duration-200 cursor-pointer"
+                >
+                  <Link to={item.path} className="block w-full">
+                    {item.name}
+                  </Link>
+                </li>
+              ))}
+            </ul>{" "}
           </div>
         </div>
       </footer>

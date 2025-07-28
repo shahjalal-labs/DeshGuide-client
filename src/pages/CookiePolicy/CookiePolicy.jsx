@@ -128,7 +128,7 @@ const CookiePolicy = () => {
                 </div>
               </div>
               <div className="flex items-start">
-                <span className="text-amber-400 mr-3 mt-1"></span>
+                <span className="text-amber-400 mr-3 mt-1">🔧</span>
                 <div>
                   <h3 className="text-lg text-amber-300">Opt-Out Tools</h3>
                   <p className="text-gray-400">
