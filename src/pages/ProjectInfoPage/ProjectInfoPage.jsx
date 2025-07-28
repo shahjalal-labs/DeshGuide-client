@@ -226,7 +226,7 @@ const ProjectInfoPage = () => {
           transition={{ delay: 0.3 }}
           className="bg-[#1e1b2d]/80 backdrop-blur-sm p-8 rounded-2xl border border-indigo-500/30 glow-border hover:glow-effect transition-all duration-300"
         >
-          <h2 className="text-3xl font-bold mb-6 text-indigo-300 flex items-center justify-center">
+          <h2 className="text-2xl sm:text-3xl font-bold mb-6 text-indigo-300 flex items-center justify-center">
             <span className="inline-block w-3 h-3 bg-indigo-500 rounded-full mr-3 jhilimili-glow"></span>
             👨‍💻 Developer Information
           </h2>
@@ -236,7 +236,7 @@ const ProjectInfoPage = () => {
             <div className="flex-1 flex justify-center">
               <div className="relative overflow-hidden rounded-full w-64 h-64 border-2 border-indigo-500/50 shadow-[0_0_30px_rgba(99,102,241,0.3)] hover:shadow-[0_0_50px_rgba(165,180,252,0.5)] transition-all duration-500">
                 <img
-                  src="https://i.ibb.co/sdkqSVHm/profile.jpg"
+                  src="https://i.ibb.co/27jcpqPV/profile-Rounded.png"
                   alt="Developer Profile"
                   className="w-full h-full object-cover rounded-full transform hover:scale-105 transition-transform duration-500"
                 />
@@ -245,7 +245,7 @@ const ProjectInfoPage = () => {
             </div>
 
             {/* Centered Content */}
-            <div className="flex-1 flex flex-col items-center md:items-start">
+            <div className="flex-1 flex flex-col items-center md:items-start borde min-w-[300px]">
               <h3 className="text-2xl font-semibold mb-4 text-sky-300 text-center md:text-left">
                 Social Links
               </h3>
