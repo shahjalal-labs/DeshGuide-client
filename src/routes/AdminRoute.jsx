@@ -1,13 +1,14 @@
 import { Navigate } from "react-router";
 import useAuth from "../hooks/useAuth";
 import useUserRole from "../hooks/useUserRole";
+import Spinner from "../modules/shared/Layout/Spinner";
 
 const AdminRoute = ({ children }) => {
   const { user, loading } = useAuth();
   const { role, roleLoading } = useUserRole();
 
   if (loading || roleLoading) {
-    return <span className="loading loading-spinner loading-xl"></span>;
+    return <Spinner />;
   }
 
   if (!user || role !== "admin") {
