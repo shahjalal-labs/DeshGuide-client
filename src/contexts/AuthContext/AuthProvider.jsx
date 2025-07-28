@@ -69,7 +69,7 @@ const AuthProvider = ({ children }) => {
 
       setLoading(false);
 
-      /* if (currentUser?.email) {
+      if (currentUser?.email) {
         axios
           .post(
             "http://localhost:5000/api/v1/auth/create-jwt",
@@ -78,7 +78,7 @@ const AuthProvider = ({ children }) => {
           )
           .then((res) => console.log(res.data))
           .catch((error) => console.log(error));
-      } */
+      }
     });
 
     return () => cleanUp();
