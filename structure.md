@@ -4,6 +4,7 @@
 .
 ├── bun.lock
 ├── eslint.config.js
+├── generate_aboutus_refactor.sh
 ├── index.html
 ├── package.json
 ├── public
@@ -28,8 +29,12 @@
 │   │       ├── AuthContext.jsx
 │   │       └── AuthProvider.jsx
 │   ├── docs
+│   │   ├── cli.md
+│   │   ├── DATA_MODEL.md
+│   │   ├── deployment.md
 │   │   ├── note.md
-│   │   └── prompt.md
+│   │   ├── prompt.md
+│   │   └── Requirement.md
 │   ├── firebase
 │   │   └── firebase.init.js
 │   ├── hooks
@@ -68,11 +73,14 @@
 │   │   │   │   ├── AddPackage
 │   │   │   │   │   └── AddPackage.jsx
 │   │   │   │   ├── Bookings
-│   │   │   │   │   └── AllBookings.jsx
+│   │   │   │   │   ├── AllBookings.jsx
+│   │   │   │   │   └── BookingDetails.jsx
 │   │   │   │   ├── ManageCandidate
+│   │   │   │   │   ├── CandidateCard.jsx
 │   │   │   │   │   └── ManageCandidate.jsx
 │   │   │   │   ├── ManageUsers
-│   │   │   │   │   └── ManageUsers.jsx
+│   │   │   │   │   ├── ManageUsers.jsx
+│   │   │   │   │   └── UsersRow.jsx
 │   │   │   │   └── Payments
 │   │   │   │       ├── AllPayments.jsx
 │   │   │   │       └── PaymentCard.jsx
@@ -84,7 +92,9 @@
 │   │   │   │   ├── components
 │   │   │   │   │   ├── EditStoryModal.jsx
 │   │   │   │   │   └── StoryCard.jsx
-│   │   │   │   └── ManageStories.jsx
+│   │   │   │   ├── ManageStories.jsx
+│   │   │   │   └── StoryDetails
+│   │   │   │       └── StoryDetails.jsx
 │   │   │   ├── TourGuides
 │   │   │   │   ├── AssignedTour
 │   │   │   │   │   ├── AssignedTourCard.jsx
@@ -119,6 +129,7 @@
 │   │   │   │   ├── Overview
 │   │   │   │   │   ├── Overview.jsx
 │   │   │   │   │   └── Stories
+│   │   │   │   │       ├── refractorStoriesPrompt.md
 │   │   │   │   │       ├── Stories.jsx
 │   │   │   │   │       └── StoryCard.jsx
 │   │   │   │   ├── PartnerWithUs
@@ -135,8 +146,11 @@
 │   │   │   │       └── WhyChooseUs.jsx
 │   │   │   └── index.js
 │   │   ├── Packages
-│   │   │   └── PackageDetails
-│   │   │       └── PackageDetails.jsx
+│   │   │   ├── PackageDetails
+│   │   │   │   └── PackageDetails.jsx
+│   │   │   └── Packages
+│   │   │       ├── PackageCard.jsx
+│   │   │       └── Packages.jsx
 │   │   └── shared
 │   │       ├── Layout
 │   │       │   ├── CommonFooter.jsx
@@ -154,8 +168,21 @@
 │   │           ├── Button.jsx
 │   │           ├── DropDown.jsx
 │   │           ├── index.js
-│   │           └── Input.jsx
+│   │           ├── Input.jsx
+│   │           └── swalToast.js
 │   ├── pages
+│   │   ├── AboutUs
+│   │   │   ├── AboutUs.jsx
+│   │   │   ├── components
+│   │   │   │   ├── AboutDeveloper.jsx
+│   │   │   │   ├── AboutIntro.jsx
+│   │   │   │   ├── ContactCards.jsx
+│   │   │   │   ├── DesignPhilosophy.jsx
+│   │   │   │   ├── FooterNote.jsx
+│   │   │   │   └── LiveProjects.jsx
+│   │   │   ├── constants
+│   │   │   │   └── about.constants.js
+│   │   │   └── index.js
 │   │   ├── Community
 │   │   │   ├── CommunityPage.jsx
 │   │   │   └── components
@@ -181,6 +208,6 @@
 ├── vite.config.js
 └── vite.logger.plugin.js
 
-59 directories, 120 files
+64 directories, 142 files
 
 ```
