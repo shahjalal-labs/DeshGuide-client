@@ -1,8 +1,10 @@
 import { motion } from "framer-motion";
 import { FaPaperPlane, FaCheckCircle, FaFilePdf } from "react-icons/fa";
 import { MdOutlineTravelExplore } from "react-icons/md";
+import useScrollToTop from "../../hooks/useScrollToTop";
 
 const PartnerSignup = () => {
+  useScrollToTop();
   return (
     <motion.div
       initial={{ opacity: 0 }}
@@ -28,7 +30,7 @@ const PartnerSignup = () => {
         </div>
 
         {/* Application Process */}
-        <div className="bg-gray-800 rounded-xl p-6 mb-12 border border-cyan-400/20 shadow-lg shadow-cyan-400/10">
+        <div className="bg-gray-800 rounded-xl p-6 mb-12 border border-cyan-400/20 shadow-lg shadow-cyan-400/10 jhiliimili-glow glow-text">
           <h2 className="text-2xl font-semibold mb-6 flex items-center gap-2">
             <FaCheckCircle className="text-cyan-400" />
             <span>Application Process</span>
@@ -80,7 +82,7 @@ const PartnerSignup = () => {
         <motion.div
           whileHover={{ scale: 1.02 }}
           whileTap={{ scale: 0.98 }}
-          className="bg-gray-800 rounded-xl p-8 border-2 border-dashed border-cyan-400/30 text-center"
+          className="bg-gray-800 rounded-xl p-8 border-2 border-dashed border-cyan-400/30 text-center glow-border pulse-glow  jhilimili-glow glow-text"
         >
           <div className="flex justify-center mb-4">
             <div className="p-4 bg-cyan-900/20 rounded-full">
