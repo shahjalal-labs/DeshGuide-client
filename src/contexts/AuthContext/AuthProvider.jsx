@@ -12,13 +12,12 @@ import { useEffect, useState } from "react";
 import { AuthContext } from "./AuthContext";
 import { auth } from "../../firebase/firebase.init";
 import axios from "axios";
+import useAxiosSecure from "../../hooks/useAxiosSecure";
 const AuthProvider = ({ children }) => {
+  const axiosSecure = useAxiosSecure();
+  const clearJwtToken = async () => {
     try {
-      await axios.post(
-        "http://localhost:5000/api/v1/auth/clear-jwt",
-        {},
-        { withCredentials: true },
-      );
+      await axiosSecure.post("auth/clear-jwt", { withCredentials: true });
     } catch (error) {
       console.error("Failed to clear JWT:", error);
     }
