@@ -12,8 +12,18 @@ import { useEffect, useState } from "react";
 import { AuthContext } from "./AuthContext";
 import { auth } from "../../firebase/firebase.init";
 import axios from "axios";
-
 const AuthProvider = ({ children }) => {
+    try {
+      await axios.post(
+        "http://localhost:5000/api/v1/auth/clear-jwt",
+        {},
+        { withCredentials: true },
+      );
+    } catch (error) {
+      console.error("Failed to clear JWT:", error);
+    }
+  };
+
   const [loading, setLoading] = useState(true);
   const [user, setUser] = useState(null);
   const googleProvder = new GoogleAuthProvider();
