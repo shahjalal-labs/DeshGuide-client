@@ -14,6 +14,7 @@ import Packages from "../modules/Packages/Packages/Packages";
 import Stories from "../modules/landing/home/Overview/Stories/Stories";
 import AboutUs from "../pages/AboutUs";
 import StoryDetails from "../modules/Dashbaord/ManageStories/StoryDetails/StoryDetails";
+import TermsOfUse from "../pages/TermsOfUse/TermsOfUse";
 
 const router = createBrowserRouter([
   {
@@ -62,6 +63,10 @@ const router = createBrowserRouter([
       {
         path: "community/:id",
         element: <StoryDetails />,
+      },
+      {
+        path: "terms-of-use",
+        element: <TermsOfUse />,
       },
     ],
   },
