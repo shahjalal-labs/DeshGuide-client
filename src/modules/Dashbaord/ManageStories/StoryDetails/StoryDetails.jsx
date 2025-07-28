@@ -3,16 +3,17 @@ import { useParams } from "react-router";
 import { motion } from "framer-motion";
 import { FacebookShareButton, FacebookIcon } from "react-share";
 import Swal from "sweetalert2";
-import useAxiosSecure from "../../../../../hooks/useAxiosSecure";
-import { useAuth } from "../../../../../contexts/AuthContext/AuthContext";
-import Spinner from "../../../../../shared/Layout/Spinner";
 import { useEffect } from "react";
+import useAuth from "../../../../hooks/useAuth";
+import useAxiosSecure from "../../../../hooks/useAxiosSecure";
+import Spinner from "../../../shared/Layout/Spinner";
 
 const StoryDetails = () => {
   const { id } = useParams();
   const axiosSecure = useAxiosSecure();
   const { user } = useAuth();
-  const shareUrl = `${window.location.origin}/dashboard/manage-stories/${id}`;
+  const shareUrl = window.location.href;
+  console.log(shareUrl, "shareurl StoryDetails.jsx", 13);
 
   const {
     data: story,
@@ -111,11 +112,7 @@ const StoryDetails = () => {
           {/* Image gallery */}
           <div className="space-y-4">
             <div className="relative rounded-2xl overflow-hidden border-2 border-indigo-500 shadow-[0_0_30px_rgba(99,102,241,0.3)]">
-              <img
-                src={story.images[0]}
-                alt={story.title}
-                className="w-full h-96 object-cover"
-              />
+              <img src={story.images[0]} className="w-full h-96 object-cover" />
               <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/80 to-transparent p-6">
                 <h1 className="text-3xl font-bold text-white">{story.title}</h1>
               </div>
@@ -127,11 +124,7 @@ const StoryDetails = () => {
                   key={index}
                   className="rounded-xl overflow-hidden border border-indigo-400/30 hover:border-indigo-400 transition-all"
                 >
-                  <img
-                    src={image}
-                    alt={`${story.title} ${index + 1}`}
-                    className="w-full h-32 object-cover"
-                  />
+                  <img src={image} className="w-full h-32 object-cover" />
                 </div>
               ))}
             </div>
@@ -146,7 +139,6 @@ const StoryDetails = () => {
                     src={
                       story.userPhoto || "https://avatar.iran.liara.run/public"
                     }
-                    alt={story.userName}
                     className="w-12 h-12 rounded-full border-2 border-purple-500"
                   />
                   <div>
