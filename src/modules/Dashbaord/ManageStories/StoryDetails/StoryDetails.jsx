@@ -57,7 +57,7 @@ const StoryDetails = () => {
     }
   }, [error]);
 
-  if (isLoading) return <Spinner />;
+  if (isLoading) return <Spinner message="story details" />;
 
   if (!story) {
     return (
@@ -83,7 +83,7 @@ const StoryDetails = () => {
         {/* Back button */}
         <div className="mb-8">
           <button
-            onClick={() => window.history.back()}
+            onClick={() => navigate(-1)}
             className="flex items-center text-indigo-400 hover:text-indigo-300 transition-colors"
           >
             <svg
