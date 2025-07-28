@@ -15,6 +15,7 @@ import Stories from "../modules/landing/home/Overview/Stories/Stories";
 import AboutUs from "../pages/AboutUs";
 import StoryDetails from "../modules/Dashbaord/ManageStories/StoryDetails/StoryDetails";
 import TermsOfUse from "../pages/TermsOfUse/TermsOfUse";
+import PrivacyPolicy from "../pages/PrivacyPolicy/PrivacyPolicy";
 
 const router = createBrowserRouter([
   {
@@ -67,6 +68,10 @@ const router = createBrowserRouter([
       {
         path: "terms-of-use",
         element: <TermsOfUse />,
+      },
+      {
+        path: "privacy-policy",
+        element: <PrivacyPolicy />,
       },
     ],
   },

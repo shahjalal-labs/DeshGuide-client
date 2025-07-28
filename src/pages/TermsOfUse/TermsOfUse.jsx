@@ -1,10 +1,9 @@
 import { motion } from "framer-motion";
 import { Link } from "react-router";
 import { Helmet } from "react-helmet-async";
-import useScrollToTop from "../../../../hooks/useScrollToTop";
 
 const TermsOfUse = () => {
-  useScrollToTop();
+  // useScrollToTop();
 
   return (
     <motion.div
