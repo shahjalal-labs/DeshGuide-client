@@ -1,4 +1,0 @@
-[2025-07-28T02:52:44.320Z] ReferenceError: ScrollToTopWrapper is not defined http://localhost:5173/src/App.jsx?t=1753671163326 34 252
-[2025-07-28T02:52:45.354Z] ReferenceError: ScrollToTopWrapper is not defined http://localhost:5173/src/App.jsx?t=1753671163851 34 252
-[2025-07-28T02:52:51.232Z] Error: useLocation() may be used only in the context of a <Router> component. http://localhost:5173/node_modules/.vite/deps/react-router.js?v=014bd7f6 528 11
-[2025-07-28T02:54:04.785Z] Error: useLocation() may be used only in the context of a <Router> component. http://localhost:5173/node_modules/.vite/deps/react-router.js?v=014bd7f6 528 11
