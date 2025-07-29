@@ -5484,3 +5484,25 @@
     "updatedAt": "2025-07-29T02:10:47.527Z"
   }
 } booking PackageDetails.jsx 81
+[08:12 AM 29-07-25] {
+  "success": true,
+  "message": "Booking created successfully!",
+  "data": {
+    "packageId": "68858b3698f52bacf98f9fe9",
+    "packageName": "Sylhet Tea Garden & Waterfall Tour",
+    "touristId": "68882b921d3c524f9c96201b",
+    "touristName": "Jubayer Kabri",
+    "touristEmail": "iict5159@gmail.com",
+    "touristPhoto": "",
+    "guideId": "68851af3606080f1804fcc36",
+    "guideName": "Md. Shahjalal",
+    "price": 4800,
+    "tourDate": "2026-04-25T00:00:00.000Z",
+    "status": "pending",
+    "paymentStatus": "unpaid",
+    "transactionId": "",
+    "_id": "68882e01cdcfcf2002eb0852",
+    "createdAt": "2025-07-29T02:12:17.364Z",
+    "updatedAt": "2025-07-29T02:12:17.364Z"
+  }
+} booking PackageDetails.jsx 81

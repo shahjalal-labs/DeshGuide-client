@@ -323,6 +323,7 @@ const PackageDetails = () => {
           <button
             className="btn btn-accent mt-4 shadow-lg hover:shadow-purple-500/50 transition-all duration-300 glow-pulse rounded-full"
             type="submit"
+            disabled={isPending}
           >
             🚀 Book Now
           </button>

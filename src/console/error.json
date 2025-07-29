@@ -3,3 +3,35 @@
 [2025-07-29T01:42:54.614Z] ReferenceError: Signout is not defined http://localhost:5173/src/modules/shared/ui/DropDown.jsx?t=1753753373264 60 34
 [2025-07-29T01:42:54.891Z] ReferenceError: Signout is not defined http://localhost:5173/src/modules/shared/ui/DropDown.jsx?t=1753753374062 60 34
 [2025-07-29T01:42:55.655Z] ReferenceError: Signout is not defined http://localhost:5173/src/modules/shared/ui/DropDown.jsx?t=1753753374062 60 34
+[2025-07-29T02:12:52.065Z] Unhandled Promise Rejection: {
+  "message": "You have an in-flight confirmCardPayment! Please be sure to disable your form submit button when confirmCardPayment is called.",
+  "name": "IntegrationError"
+}
+[2025-07-29T02:12:52.429Z] Unhandled Promise Rejection: {
+  "message": "You have an in-flight confirmCardPayment! Please be sure to disable your form submit button when confirmCardPayment is called.",
+  "name": "IntegrationError"
+}
+[2025-07-29T02:12:52.590Z] Unhandled Promise Rejection: {
+  "message": "You have an in-flight confirmCardPayment! Please be sure to disable your form submit button when confirmCardPayment is called.",
+  "name": "IntegrationError"
+}
+[2025-07-29T02:12:52.792Z] Unhandled Promise Rejection: {
+  "message": "You have an in-flight confirmCardPayment! Please be sure to disable your form submit button when confirmCardPayment is called.",
+  "name": "IntegrationError"
+}
+[2025-07-29T02:12:52.975Z] Unhandled Promise Rejection: {
+  "message": "You have an in-flight confirmCardPayment! Please be sure to disable your form submit button when confirmCardPayment is called.",
+  "name": "IntegrationError"
+}
+[2025-07-29T02:12:53.102Z] Unhandled Promise Rejection: {
+  "message": "You have an in-flight confirmCardPayment! Please be sure to disable your form submit button when confirmCardPayment is called.",
+  "name": "IntegrationError"
+}
+[2025-07-29T02:12:53.280Z] Unhandled Promise Rejection: {
+  "message": "You have an in-flight confirmCardPayment! Please be sure to disable your form submit button when confirmCardPayment is called.",
+  "name": "IntegrationError"
+}
+[2025-07-29T02:12:53.596Z] Unhandled Promise Rejection: {
+  "message": "You have an in-flight confirmCardPayment! Please be sure to disable your form submit button when confirmCardPayment is called.",
+  "name": "IntegrationError"
+}
