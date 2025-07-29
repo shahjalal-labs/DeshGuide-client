@@ -7,7 +7,7 @@ const DropDown = ({ children }) => {
 
   const links = [
     {
-      path: "/forgot-password",
+      path: "/auth/forgot-pass",
       name: "Change Password",
     },
     {

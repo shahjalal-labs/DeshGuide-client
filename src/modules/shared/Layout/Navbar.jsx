@@ -7,6 +7,7 @@ import Brand from "../ui/Brand";
 import Avatar from "../ui/Avatar";
 import navbarLinks from "./navbarLinksConstant";
 import DropDown from "../ui/DropDown";
+import InversionToggle from "../ui/InversionToggle";
 
 const Navbar = () => {
   const { user } = useAuth();
@@ -71,6 +72,7 @@ const Navbar = () => {
             Sign In
           </Link>
         )}
+        <InversionToggle />
       </div>
     </motion.nav>
   );
