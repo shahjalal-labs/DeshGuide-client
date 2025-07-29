@@ -47,6 +47,7 @@ The **Tourist Guide** site is an online platform to help travelers explore **Ban
 
 - **Navbar**: Logo + Website Name, `Home`, `Community`, `About Us`, `Trips`, `Login/Register`
 - **Profile Dropdown**:
+
   - Dashboard
   - Offer Announcements _(optional)_
   - Username & Email (not clickable)
@@ -84,7 +85,7 @@ The **Tourist Guide** site is an online platform to help travelers explore **Ban
 
 ### 3. Tourism & Travel Guide Tabs
 
-#### 🔹 Our Packages
+### 🔹 Our Packages
 
 - Use MongoDB `$sample` to show **3 random packages** each visit
 - Card format: Photo, Tour Type, Title, Price, `View Package` button
@@ -180,6 +181,7 @@ The **Tourist Guide** site is an online platform to help travelers explore **Ban
 ### Dashboard Routes:
 
 1. **Manage Profile**
+
    - Welcome message
    - Info, picture, role
    - Edit modal (except email & role)
@@ -200,10 +202,12 @@ The **Tourist Guide** site is an online platform to help travelers explore **Ban
 - On success ➜ Change status to `in review`
 
 3. **Add Stories**
+
    - Title, Description, Multiple Images
    - Save ➜ Go to `Manage Stories`
 
 4. **Manage Stories**
+
    - Cards of user's stories
    - Edit ➜ separate route
      - Remove images using `$pull`
@@ -259,9 +263,11 @@ The **Tourist Guide** site is an online platform to help travelers explore **Ban
 - Edit modal (except email & role)
 
 2. **Add Package**
+
    - Package form ➜ Submit to save
 
 3. **Manage Users**
+
    - Table: info + roles
    - Search by Name/Email
    - Filter by Role (Dropdown with `react-select`)
