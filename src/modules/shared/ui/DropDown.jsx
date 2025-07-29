@@ -1,18 +1,24 @@
 import { Link } from "react-router";
+import useAuth from "../../../hooks/useAuth";
 // import Avatar from "./Avatar";
 
-const links = [
-  {
-    path: "assignments/create",
-    name: "Create Assignment",
-  },
-  {
-    path: "assignment/my-submit",
-    name: "My Submitted Assignments",
-  },
-];
-
 const DropDown = ({ children }) => {
+  const { user } = useAuth();
+
+  const links = [
+    {
+      path: "/forgot-password",
+      name: "Change Password",
+    },
+    {
+      path: "#",
+      name: `${user?.displayName}`,
+    },
+    {
+      path: "#",
+      name: `${user?.email}`,
+    },
+  ];
   return (
     <div className="dropdown  w-fit dropdown-end ">
       <div tabIndex={0} role="button" className="bt m-1">
