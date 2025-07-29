@@ -38,6 +38,7 @@ export const footerLinks = [
       { name: "Terms of use", path: "/terms-of-use" },
       { name: "Privacy policy", path: "/privacy-policy" },
       { name: "Cookie policy", path: "/cookie-policy" },
+      { name: "Error Page", path: "/error-page" },
     ],
   },
 ];

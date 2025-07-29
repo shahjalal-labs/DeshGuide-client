@@ -36,7 +36,7 @@ const DropDown = ({ children }) => {
           </li>
         ))}
         <Signout>
-          <button className="ml-3">Sign Out</button>
+          <button className="ml-3 cursor-pointer">Sign Out</button>
         </Signout>
       </ul>
     </div>
