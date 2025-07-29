@@ -20,6 +20,7 @@ import ProjectInfoPage from "../pages/ProjectInfoPage";
 import PartnerSignup from "../pages/PartnerSignup/PartnerSignup";
 import ContactUs from "../pages/ContactUs/ContactUs";
 import Forbidden from "../pages/Forbidden/Forbidden";
+import TourGuideRoute from "../routes/TourGuideRoute";
 
 const router = createBrowserRouter([
   {
@@ -39,7 +40,13 @@ const router = createBrowserRouter([
       // guide profile page
       {
         path: "/guides/:id",
-        element: <GuideProfile />,
+        element: (
+          <ProtectedRoute>
+            <TourGuideRoute>
+              <GuideProfile />
+            </TourGuideRoute>
+          </ProtectedRoute>
+        ),
       },
 
       {

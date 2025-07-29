@@ -2,7 +2,7 @@ import { Navigate } from "react-router";
 import useAuth from "../hooks/useAuth";
 import useUserRole from "../hooks/useUserRole";
 
-const AdminRoute = ({ children }) => {
+const TourGuideRoute = ({ children }) => {
   const { user, loading } = useAuth();
   const { role, roleLoading } = useUserRole();
 
@@ -19,4 +19,4 @@ const AdminRoute = ({ children }) => {
   return children;
 };
 
-export default AdminRoute;
+export default TourGuideRoute;
