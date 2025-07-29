@@ -1,5 +1,6 @@
 import { Link } from "react-router";
 import useAuth from "../../../hooks/useAuth";
+import Signout from "../../Auth/components/Signout";
 // import Avatar from "./Avatar";
 
 const DropDown = ({ children }) => {
@@ -7,16 +8,16 @@ const DropDown = ({ children }) => {
 
   const links = [
     {
-      path: "/auth/forgot-pass",
-      name: "Change Password",
-    },
-    {
       path: "#",
       name: `${user?.displayName}`,
     },
     {
       path: "#",
       name: `${user?.email}`,
+    },
+    {
+      path: "/auth/forgot-pass",
+      name: "Change Password",
     },
   ];
   return (
@@ -34,6 +35,9 @@ const DropDown = ({ children }) => {
             <Link to={link.path}>{link.name}</Link>
           </li>
         ))}
+        <Signout>
+          <button className="ml-3">Sign Out</button>
+        </Signout>
       </ul>
     </div>
   );

@@ -55,6 +55,7 @@ const Navbar = () => {
       <div className="navbar-end">
         {user ? (
           <div className="flex items-center gap-4">
+            <InversionToggle />
             <DropDown>
               <Avatar />
             </DropDown>
@@ -72,7 +73,6 @@ const Navbar = () => {
             Sign In
           </Link>
         )}
-        <InversionToggle />
       </div>
     </motion.nav>
   );
