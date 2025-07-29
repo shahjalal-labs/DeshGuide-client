@@ -92,7 +92,7 @@ const DropDown = ({ children }) => {
         >
           <Signout>
             <motion.button
-              className="w-full flex items-center gap-3 px-4 py-2 text-sm text-red-400 hover:text-red-300 rounded-lg transition-all duration-200 hover:bg-red-500/10"
+              className="w-full flex items-center gap-3 px-4 py-2 text-sm text-red-400 hover:text-red-300 rounded-lg transition-all duration-200 hover:bg-red-500/10 cursor-pointer"
               whileHover={{
                 boxShadow: "0 0 10px rgba(239, 68, 68, 0.5)",
                 scale: 1.02,
