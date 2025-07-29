@@ -66,7 +66,7 @@ const BookingDetails = () => {
         </p>
         <div>
           <span className="font-medium">Gallery:</span>
-          <div className="flex gap-2 mt-2">
+          <div className="flex gap-2 mt-2" data-aos="fade-up-left">
             {packageId?.gallery?.map((img, idx) => (
               <img
                 key={idx}
