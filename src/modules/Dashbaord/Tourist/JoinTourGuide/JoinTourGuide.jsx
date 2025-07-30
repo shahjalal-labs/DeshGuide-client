@@ -6,8 +6,10 @@ import { toast } from "react-hot-toast";
 import useAxiosSecure from "../../../../hooks/useAxiosSecure";
 import useUserRole from "../../../../hooks/useUserRole";
 import { darkSwal } from "../../../../hooks/usePostData";
+import useScrollToTop from "../../../../hooks/useScrollToTop";
 
 const JoinTourGuide = () => {
+  useScrollToTop();
   const { userData } = useUserRole();
   const axiosSecure = useAxiosSecure();
   const navigate = useNavigate();

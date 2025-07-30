@@ -2,19 +2,20 @@ import { Link } from "react-router";
 import { motion } from "framer-motion";
 import useAuth from "../../../hooks/useAuth";
 import Signout from "../../Auth/components/Signout";
+import useUserRole from "../../../hooks/useUserRole";
 
 const DropDown = ({ children }) => {
-  const { user } = useAuth();
+  const { userData } = useUserRole();
 
   const links = [
     {
-      path: "#",
-      name: `${user?.displayName}`,
+      path: "dashboard/manage-profile",
+      name: `${userData?.name}`,
       icon: "👤",
     },
     {
-      path: "#",
-      name: `${user?.email}`,
+      path: "dashboard/manage-profile",
+      name: `${userData?.email}`,
       icon: "✉️",
     },
     {
@@ -67,7 +68,7 @@ const DropDown = ({ children }) => {
 
         {links.map((link, i) => (
           <motion.li
-            key={link.path}
+            key={i}
             custom={i}
             variants={itemVariants}
             initial="hidden"

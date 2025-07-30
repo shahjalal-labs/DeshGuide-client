@@ -12,6 +12,7 @@
 │   └── CNAME
 ├── README.md
 ├── refactor_project_info.sh
+├── showCase.mp4\012
 ├── src
 │   ├── animation
 │   │   ├── auth-lottie.json
@@ -28,16 +29,20 @@
 │   │   ├── error.json
 │   │   └── log.json
 │   ├── contexts
-│   │   └── AuthContext
-│   │       ├── AuthContext.jsx
-│   │       └── AuthProvider.jsx
+│   │   ├── AuthContext
+│   │   │   ├── AuthContext.jsx
+│   │   │   └── AuthProvider.jsx
+│   │   └── refractorContextsPrompt.md
 │   ├── docs
 │   │   ├── cli.md
 │   │   ├── DATA_MODEL.md
 │   │   ├── deployment.md
+│   │   ├── fbPost.md
 │   │   ├── note.md
+│   │   ├── paste.md
 │   │   ├── prompt.md
-│   │   └── Requirement.md
+│   │   ├── Requirement.md
+│   │   └── taskRemained.md
 │   ├── firebase
 │   │   └── firebase.init.js
 │   ├── hooks
@@ -45,6 +50,7 @@
 │   │   ├── useAxiosSecure.jsx
 │   │   ├── useFetchData.js
 │   │   ├── useHelmet.jsx
+│   │   ├── useInversionToggle.js
 │   │   ├── usePostData.jsx
 │   │   ├── useScrollToTop.js
 │   │   ├── useSecureQuery.jsx
@@ -165,9 +171,7 @@
 │   │       │   │   ├── constants
 │   │       │   │   │   ├── footerLinks.js
 │   │       │   │   │   └── socialIcons.js
-│   │       │   │   ├── Footer.jsx
-│   │       │   │   └── hooks
-│   │       │   │       └── useFooterAnimation.js
+│   │       │   │   └── Footer.jsx
 │   │       │   ├── index.js
 │   │       │   ├── NavbarDrawer.jsx
 │   │       │   ├── Navbar.jsx
@@ -184,6 +188,7 @@
 │   │           ├── DropDown.jsx
 │   │           ├── index.js
 │   │           ├── Input.jsx
+│   │           ├── InversionToggle.jsx
 │   │           └── swalToast.js
 │   ├── pages
 │   │   ├── AboutUs
@@ -208,6 +213,8 @@
 │   │   ├── faq
 │   │   │   ├── faq.constant.js
 │   │   │   └── FAQ.jsx
+│   │   ├── Forbidden
+│   │   │   └── Forbidden.jsx
 │   │   ├── PartnerSignup
 │   │   │   └── PartnerSignup.jsx
 │   │   ├── PrivacyPolicy
@@ -232,10 +239,13 @@
 │   │   ├── ProtectedRoute.jsx
 │   │   └── router.jsx
 │   ├── routes
-│   │   └── AdminRoute.jsx
+│   │   ├── AdminRoute.jsx
+│   │   ├── routeCheck.md
+│   │   └── TourGuideRoute.jsx
 │   └── utils
 │       ├── axiosInstance.js
 │       ├── customAlert.js
+│       ├── darkModeToggle.js
 │       ├── deleteData.js
 │       ├── ErrorMessage.jsx
 │       ├── fetchData.js
@@ -244,10 +254,9 @@
 │       ├── TypeWriterEffect.jsx
 │       └── updateData.js
 ├── structure.md
-├── tmuxShow03_25_অপরাহ্ণ_19_07_25.mp4
 ├── vite.config.js
 └── vite.logger.plugin.js
 
-79 directories, 167 files
+79 directories, 176 files
 
 ```

@@ -1,3 +1,4 @@
+//---------------------------------------
 import UseHelmet from "../../../hooks/useHelmet";
 import Banner from "./Bannnerr/Banner";
 import Overview from "./Overview/Overview";
@@ -12,19 +13,21 @@ import HowItWorks from "./HowItWorks/HowItWorks.jsx";
 import WhyChooseUs from "./WhyChooseUs/WhyChooseUs.jsx";
 import CallToActionFull from "./CallToActionFull/CallToActionFull.jsx";
 import TrendingDestinations from "./TrendingDestinations/TrendingDestinations.jsx";
-import Packages from "../../Packages/Packages/Packages.jsx";
-import RandomGuides from "./RandomGuides/RandomGuides.jsx";
+import "react-tabs/style/react-tabs.css";
+import ExploreTabs from "./ExploreTabs/ExploreTabs.jsx";
 
 const Home = () => {
   return (
-    <div>
+    <div className="overflow-hidden">
       <UseHelmet title="Home" />
 
       <Banner />
       <Overview />
-      {/* <TourismAndGuides /> */}
-      <Packages apiEndpoint="packages/random" />
-      <RandomGuides />
+
+      {/* Tab View Section for Packages and Guides */}
+
+      <ExploreTabs />
+
       <TrendingDestinations />
       <Stories apiEndpoint="stories" />
       <LiveStats />

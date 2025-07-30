@@ -2,10 +2,9 @@ import { motion } from "motion/react";
 import { Link } from "react-router";
 import { topToBottom } from "../../../animation/motion";
 import useAuth from "../../../hooks/useAuth";
-import Signout from "../../Auth/components/Signout";
 import Brand from "../ui/Brand";
 import Avatar from "../ui/Avatar";
-import navbarLinks from "./navbarLinksConstant";
+import { desktopNavLinks, mobileNavLinks } from "./navbarLinksConstant";
 import DropDown from "../ui/DropDown";
 import InversionToggle from "../ui/InversionToggle";
 
@@ -16,11 +15,12 @@ const Navbar = () => {
     <motion.nav {...topToBottom} className="navbar max-container ">
       {/* Left Section */}
       <div className="navbar-start">
-        <div className="dropdown dropdown-right lg:hidden">
+        {/* Mobile Menu Button */}
+        <div className="dropdown dropdown-bottom lg:hidden">
           <div
             tabIndex={0}
             role="button"
-            className="btn btn-ghost btn-circle hover:bg-[#1a1a1a]"
+            className="btn btn-circle btn-ghost border border-[#222] hover:bg-[#111] hover:shadow-[0_0_12px_#00FF9C] transition-all"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -30,40 +30,45 @@ const Navbar = () => {
               stroke="currentColor"
               strokeWidth={2}
             >
-              <path d="M4 6h16M4 12h16M4 18h16" />
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                d="M4 6h16M4 12h16M4 18h16"
+              />
             </svg>
           </div>
           <ul
             tabIndex={0}
-            className="menu dropdown-content mt-3 p-2 shadow-xl 
-            bg-[#1a1a2e] text-white rounded-xl border border-[#333] min-w-[180px] z-[999]"
+            className="menu dropdown-content mt-3 p-2 z-[999] shadow-xl rounded-xl border border-[#333] bg-[#0f172a]/90 text-white backdrop-blur-md space-y-1 min-w-[180px]"
           >
-            {navbarLinks()}
+            {mobileNavLinks()}
           </ul>
         </div>
+
+        {/* Logo */}
         <Brand />
       </div>
-
-      {/* Center Section */}
+      {/* Center Section (Desktop Only) */}
       <div className="navbar-center hidden lg:flex">
-        <ul className="menu menu-horizontal gap-2 text-white">
-          {navbarLinks()}
+        <ul className="menu menu-horizontal gap-3 font-medium tracking-wide">
+          {desktopNavLinks().map((link, idx) => (
+            <li
+              key={idx}
+              className="transition-all duration-200 hover:scale-105"
+            >
+              {link}
+            </li>
+          ))}
         </ul>
-      </div>
-
+      </div>{" "}
       {/* Right Section */}
       <div className="navbar-end">
         {user ? (
           <div className="flex items-center gap-4">
-            <InversionToggle />
             <DropDown>
               <Avatar />
             </DropDown>
-            <Signout>
-              <button className="px-4 py-2 rounded-full bg-[#00FF9C]/50 text-black font-semibold hover:scale-105 hover:shadow-[0_0_12px_#00FF9C] transition-all duration-200">
-                Sign Out
-              </button>
-            </Signout>
+            <InversionToggle />
           </div>
         ) : (
           <Link

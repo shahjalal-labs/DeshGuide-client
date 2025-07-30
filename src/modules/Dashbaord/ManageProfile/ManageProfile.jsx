@@ -9,10 +9,11 @@ import { useState } from "react";
 import "dayjs/locale/en";
 import { Link } from "react-router";
 import useUserRole from "../../../hooks/useUserRole";
+import useScrollToTop from "../../../hooks/useScrollToTop";
 dayjs.extend(relativeTime);
 
 const ManageProfile = () => {
-  // const { user } = useAuth();
+  useScrollToTop();
   const axiosSecure = useAxiosSecure();
   const [showModal, setShowModal] = useState(false);
   const { userData } = useUserRole();

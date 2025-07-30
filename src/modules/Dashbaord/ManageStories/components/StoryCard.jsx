@@ -1,3 +1,5 @@
+import { Link } from "react-router";
+
 const StoryCard = ({ story, setSelectedStory, handleDelete }) => {
   return (
     <div
@@ -20,18 +22,26 @@ const StoryCard = ({ story, setSelectedStory, handleDelete }) => {
       )}
 
       <div className="flex justify-between items-center px-4 py-2 mt-1">
-        <button
-          onClick={() => setSelectedStory(story)}
-          className="text-xs font-semibold text-blue-400 hover:text-blue-300"
+        <div className="flex items-center gap-x-3">
+          <button
+            onClick={() => setSelectedStory(story)}
+            className="text-xs font-semibold text-blue-400 hover:text-blue-300"
+          >
+            ✏️ Edit
+          </button>
+          <button
+            onClick={() => handleDelete(story._id)}
+            className="text-xs text-red-400 hover:text-red-300"
+          >
+            🗑 Delete
+          </button>
+        </div>
+        <Link
+          to={`/community/${story._id}`}
+          className="text-xs bg-indigo-600 hover:bg-indigo-700 text-white px-3 py-1 rounded-full transition-colors"
         >
-          ✏️ Edit
-        </button>
-        <button
-          onClick={() => handleDelete(story._id)}
-          className="text-xs text-red-400 hover:text-red-300"
-        >
-          🗑 Delete
-        </button>
+          Details
+        </Link>
       </div>
     </div>
   );

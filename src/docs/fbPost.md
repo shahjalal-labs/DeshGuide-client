@@ -89,4 +89,10 @@ Salam and happy coding! ✌️
 
 urlPartYankerSurfingKeysShowcase
 
-urlPartYankerSurfingKeysShowcase_10_07_am_29_07_25.mp4
+urlPartYankerSurfingKeysShowcase_10_07_am_cr9_07_25.mp4
+
+tourist/join-tour-guide
+
+https://example.com/settings/tourist/join-tour-guide
+
+https://example.com/dashboard/tourist/join-tour-guide

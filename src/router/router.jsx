@@ -42,9 +42,7 @@ const router = createBrowserRouter([
         path: "/guides/:id",
         element: (
           <ProtectedRoute>
-            <TourGuideRoute>
-              <GuideProfile />
-            </TourGuideRoute>
+            <GuideProfile />
           </ProtectedRoute>
         ),
       },
@@ -70,7 +68,11 @@ const router = createBrowserRouter([
 
       {
         path: "community/:id",
-        element: <StoryDetails />,
+        element: (
+          <ProtectedRoute>
+            <StoryDetails />
+          </ProtectedRoute>
+        ),
       },
 
       {

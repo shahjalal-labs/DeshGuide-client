@@ -84,7 +84,6 @@ const AllBookings = () => {
                     <div className="flex items-center gap-2">
                       <img
                         src={booking.touristPhoto}
-                        alt={booking.touristName}
                         className="w-8 h-8 rounded-full border-2 border-white"
                       />
                       <span>{booking.touristName}</span>
