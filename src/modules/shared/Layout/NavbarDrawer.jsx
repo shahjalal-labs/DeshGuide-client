@@ -3,6 +3,7 @@ import { motion } from "framer-motion";
 import SidebarLink from "./SidebarLink";
 import { adminLinks, guideLinks, touristLinks } from "./sidebarLinks";
 import useUserRole from "../../../hooks/useUserRole";
+import InversionToggle from "../ui/InversionToggle";
 
 const NavbarDrawer = () => {
   const { role } = useUserRole(); // example: { role: 'tourist' }
@@ -25,6 +26,8 @@ const NavbarDrawer = () => {
 
       {/* Top Navbar */}
       <div className="drawer-content flex flex-col">
+        <InversionToggle />
+
         <div className="w-full p-4 border-b border-gray-700 flex justify-between items-center bg-gray-900 shadow-lg shadow-indigo-800/20 sticky top-0 z-40">
           <label
             htmlFor="my-drawer-3"
