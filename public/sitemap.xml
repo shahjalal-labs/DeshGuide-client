@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://deshguide.surge.sh/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://deshguide.surge.sh/all-trips</loc>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://deshguide.surge.sh/tour-guides</loc>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://deshguide.surge.sh/stories</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://deshguide.surge.sh/login</loc>
+    <priority>0.40</priority>
+  </url>
+
+  <url>
+    <loc>https://deshguide.surge.sh/register</loc>
+    <priority>0.40</priority>
+  </url>
+
+</urlset>
+
