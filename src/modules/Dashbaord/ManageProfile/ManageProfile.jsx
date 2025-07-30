@@ -373,6 +373,7 @@ import useAuth from "../../../hooks/useAuth";
 import Spinner from "../../shared/Layout/Spinner";
 import "aos/dist/aos.css";
 import { swalErrorToast, swalSuccessToast } from "../../shared/ui/swalToast";
+import PageIntro from "../../../utils/PageIntro";
 
 dayjs.extend(relativeTime);
 
@@ -427,118 +428,121 @@ const ManageProfile = () => {
   const { name, photoURL, email, role, createdAt, last_loggedIn } = userData;
 
   return (
-    <motion.div
-      className="p-4 md:p-6"
-      initial={{ opacity: 0, y: 40 }}
-      animate={{ opacity: 1, y: 0 }}
-      transition={{ duration: 0.4 }}
-      data-aos="fade-up"
-    >
-      <h2 className="text-3xl font-bold mb-6 text-cyan-400">
-        👤 Manage Profile
-      </h2>
-
-      <div className="bg-[#10192b] rounded-xl p-6 shadow-xl border border-cyan-800/30 pulse-glow">
-        <div className="flex flex-col md:flex-row gap-6 items-start md:items-center">
-          <img
-            src={photoURL}
-            alt="Profile"
-            className="w-28 h-28 rounded-full border-4 border-cyan-600 shadow-md glow-border"
-          />
-          <div className="flex-1 space-y-2">
-            <h3 className="text-2xl font-semibold text-white">{name}</h3>
-            <p className="text-gray-400">📧 {email}</p>
-            <p className="text-gray-400">🧩 Role: {role}</p>
-            <p className="text-gray-400">
-              🕐 Joined: {dayjs(createdAt).fromNow()}
-            </p>
-            <p className="text-gray-400">
-              🔄 Last Login: {dayjs(last_loggedIn).fromNow()}
-            </p>
-            <button
-              onClick={() => {
-                reset({ name, photoURL });
-                setShowModal(true);
-              }}
-              className="btn btn-outline btn-block md:btn-wide border-cyan-500 text-cyan-300 hover:bg-cyan-600 hover:text-white pulse-glow"
-            >
-              ✏️ Update Profile
-            </button>
+    <>
+      <PageIntro h1={`👤 Welcome back, ${name || "Explorer"}`} />
+      <motion.div
+        className="p-4 md:p-6"
+        initial={{ opacity: 0, y: 40 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.4 }}
+        data-aos="fade-up"
+      >
+        <div className="bg-[#10192b] rounded-xl p-6 shadow-xl border border-cyan-800/30 pulse-glow">
+          <div className="fle flex-col  gap-6 items-tart items-center">
+            <img
+              src={photoURL}
+              alt="Profile"
+              className="w-28 h-28 rounded-full border-4 border-cyan-600 shadow-md glow-border mx-auto"
+            />
+            <div className="flex-1 space-y-2">
+              <h3 className="text-2xl font-semibold text-white">{name}</h3>
+              <p className="text-gray-400">📧 {email}</p>
+              <p className="text-gray-400">🧩 Role: {role}</p>
+              <p className="text-gray-400">
+                🕐 Joined: {dayjs(createdAt).fromNow()}
+              </p>
+              <p className="text-gray-400">
+                🔄 Last Login: {dayjs(last_loggedIn).fromNow()}
+              </p>
+              <button
+                onClick={() => {
+                  reset({ name, photoURL });
+                  setShowModal(true);
+                }}
+                className="btn btn-outline btn-block md:btn-wide border-cyan-500 text-cyan-300 hover:bg-cyan-600 hover:text-white pulse-glow"
+              >
+                ✏️ Update Profile
+              </button>
+            </div>
           </div>
         </div>
-      </div>
 
-      <div className="mt-6">
-        <Link
-          to="/dashboard/join-tour-guide"
-          className="btn btn-block md:btn-wide bg-gradient-to-r from-cyan-500 to-blue-600 text-white hover:scale-105 hover:from-cyan-600 transition-transform pulse-glow"
-        >
-          🚀 Join as Tour Guide
-        </Link>
-      </div>
-
-      {/* Modal */}
-      {showModal && (
-        <div className="modal modal-open">
-          <div className="modal-box bg-[#0f172a] text-white border border-cyan-800">
-            <h3 className="font-bold text-lg mb-4">Update Profile</h3>
-
-            <form onSubmit={handleSubmit(onSubmit)} className="space-y-4">
-              <div>
-                <label className="block mb-1 text-sm text-cyan-400">Name</label>
-                <input
-                  type="text"
-                  {...register("name", { required: "Name is required" })}
-                  className="input input-bordered w-full bg-[#1e293b] text-white"
-                />
-                {errors.name && (
-                  <p className="text-red-400 text-sm">{errors.name.message}</p>
-                )}
-              </div>
-
-              <div>
-                <label className="block mb-1 text-sm text-cyan-400">
-                  Photo URL
-                </label>
-                <input
-                  type="text"
-                  {...register("photoURL", {
-                    required: "Photo URL is required",
-                    pattern: {
-                      value:
-                        /^(https?:\/\/.*\.(?:png|jpg|jpeg|webp|svg|gif))$/i,
-                      message: "Enter a valid image URL",
-                    },
-                  })}
-                  className="input input-bordered w-full bg-[#1e293b] text-white"
-                />
-                {errors.photoURL && (
-                  <p className="text-red-400 text-sm">
-                    {errors.photoURL.message}
-                  </p>
-                )}
-              </div>
-
-              <div className="modal-action">
-                <button
-                  type="submit"
-                  className="btn bg-cyan-600 text-white hover:bg-cyan-700"
-                >
-                  Save
-                </button>
-                <button
-                  type="button"
-                  onClick={() => setShowModal(false)}
-                  className="btn btn-ghost text-gray-300"
-                >
-                  Cancel
-                </button>
-              </div>
-            </form>
-          </div>
+        <div className="mt-6">
+          <Link
+            to="/dashboard/join-tour-guide"
+            className="btn btn-block md:btn-wide bg-gradient-to-r from-cyan-500 to-blue-600 text-white hover:scale-105 hover:from-cyan-600 transition-transform pulse-glow"
+          >
+            🚀 Join as Tour Guide
+          </Link>
         </div>
-      )}
-    </motion.div>
+
+        {/* Modal */}
+        {showModal && (
+          <div className="modal modal-open">
+            <div className="modal-box bg-[#0f172a] text-white border border-cyan-800">
+              <h3 className="font-bold text-lg mb-4">Update Profile</h3>
+
+              <form onSubmit={handleSubmit(onSubmit)} className="space-y-4">
+                <div>
+                  <label className="block mb-1 text-sm text-cyan-400">
+                    Name
+                  </label>
+                  <input
+                    type="text"
+                    {...register("name", { required: "Name is required" })}
+                    className="input input-bordered w-full bg-[#1e293b] text-white"
+                  />
+                  {errors.name && (
+                    <p className="text-red-400 text-sm">
+                      {errors.name.message}
+                    </p>
+                  )}
+                </div>
+
+                <div>
+                  <label className="block mb-1 text-sm text-cyan-400">
+                    Photo URL
+                  </label>
+                  <input
+                    type="text"
+                    {...register("photoURL", {
+                      required: "Photo URL is required",
+                      pattern: {
+                        value:
+                          /^(https?:\/\/.*\.(?:png|jpg|jpeg|webp|svg|gif))$/i,
+                        message: "Enter a valid image URL",
+                      },
+                    })}
+                    className="input input-bordered w-full bg-[#1e293b] text-white"
+                  />
+                  {errors.photoURL && (
+                    <p className="text-red-400 text-sm">
+                      {errors.photoURL.message}
+                    </p>
+                  )}
+                </div>
+
+                <div className="modal-action">
+                  <button
+                    type="submit"
+                    className="btn bg-cyan-600 text-white hover:bg-cyan-700"
+                  >
+                    Save
+                  </button>
+                  <button
+                    type="button"
+                    onClick={() => setShowModal(false)}
+                    className="btn btn-ghost text-gray-300"
+                  >
+                    Cancel
+                  </button>
+                </div>
+              </form>
+            </div>
+          </div>
+        )}
+      </motion.div>
+    </>
   );
 };
 
