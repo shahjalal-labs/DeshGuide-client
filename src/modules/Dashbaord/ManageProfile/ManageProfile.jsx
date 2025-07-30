@@ -139,7 +139,7 @@ const ManageProfile = () => {
       data-aos="fade-up"
     >
       <PageIntro
-        h1={`👋 Welcome back, ${name || "Explorer"}`}
+        h1={`👋 Welcome , ${name || "Explorer"}`}
         p={`You can update your profile details and manage your account.`}
       />
       <div className="flex flex-col d:flex-row gap-6 items-center">
