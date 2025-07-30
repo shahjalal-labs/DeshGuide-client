@@ -5,7 +5,7 @@ const FooterColumns = () => {
   return (
     <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
       {footerLinks.map((column) => (
-        <div key={column.title}>
+        <div key={column.title} data-aos="fade-up-left">
           <h6 className="footer-title text-cyan-400 mb-2">{column.title}</h6>
           <ul className="space-y-1">
             {column.links.map((link) => (
