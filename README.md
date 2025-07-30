@@ -2,6 +2,12 @@
 
 A comprehensive tourism management platform built with React, featuring multi-role authentication, package booking, story sharing, and administrative controls for exploring Bangladesh's tourist destinations.
 
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
+![Stripe](https://img.shields.io/badge/Payments-Stripe-blueviolet)
+![Deployed](https://img.shields.io/badge/Live-Surge-green)
+
 ## 🎯 Key Features
 
 - 🔐 **Multi-Role Authentication** - Role-based access for Tourists, Tour Guides, and Admins
@@ -15,20 +21,20 @@ A comprehensive tourism management platform built with React, featuring multi-ro
 - 📊 **Admin Dashboard** - Comprehensive analytics and user management
 - 🌐 **Real-time Updates** - TanStack Query for efficient data fetching
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
-| Category             | Technologies                            |
-| -------------------- | --------------------------------------- |
-| **Frontend**         | React 19, Vite, Tailwind CSS, DaisyUI   |
-| **State Management** | TanStack Query, React Context API       |
-| **Authentication**   | Firebase Auth, JWT                      |
-| **UI Components**    | Lucide React, React Icons, Lottie React |
-| **Animations**       | Framer Motion, AOS                      |
-| **Forms**            | React Hook Form, React Select           |
-| **Payment**          | Stripe                                  |
-| **Routing**          | React Router v7                         |
-| **Date Handling**    | Date-fns, DayJS, React DatePicker       |
-| **Build Tool**       | Vite                                    |
+| 🧩 **Category**         | 🚀 **Technologies Used**                |
+| ----------------------- | --------------------------------------- |
+| 🎨 **Frontend**         | React 19, Vite, Tailwind CSS, DaisyUI   |
+| 🗂️ **State Management** | TanStack Query, React Context API       |
+| 🔐 **Authentication**   | Firebase Auth, JSON Web Token (JWT)     |
+| 🧱 **UI Components**    | Lucide React, React Icons, Lottie React |
+| 🎞️ **Animations**       | Framer Motion, AOS (Animate On Scroll)  |
+| 📝 **Forms**            | React Hook Form, React Select           |
+| 💳 **Payment**          | Stripe                                  |
+| 🧭 **Routing**          | React Router v7                         |
+| 📅 **Date Handling**    | Date-fns, Day.js, React DatePicker      |
+| 🏗️ **Build Tool**       | Vite                                    |
 
 ## 🌍 Live Demo
 
@@ -39,33 +45,35 @@ A comprehensive tourism management platform built with React, featuring multi-ro
 
 ### 🔑 Demo Credentials
 
-| Role           | Email                 | Password              |
-| -------------- | --------------------- | --------------------- |
-| **Admin**      | admin@example.com     | admin@example.com     |
-| **Tour Guide** | tourguide@example.com | tourguide@example.com |
-| **Tourist**    | tourist@example.com   | tourist@example.com   |
+| 👤 **Role**       | 📧 **Email**          | 🔒 **Password**       |
+| ----------------- | --------------------- | --------------------- |
+| 🛡️ **Admin**      | admin@example.com     | admin@example.com     |
+| 🧭 **Tour Guide** | tourguide@example.com | tourguide@example.com |
+| 🎒 **Tourist**    | tourist@example.com   | tourist@example.com   |
+
+---
 
 ## 🧭 Routing Structure
 
 ### 1️⃣ Routes Summary Table (Quick Overview)
 
-| Route Path          | Purpose                                  | Auth Required | Role Access |
-| ------------------- | ---------------------------------------- | ------------- | ----------- |
-| `/`                 | Home page with packages, guides, stories | No            | Public      |
-| `/all-trips`        | All tour packages listing                | No            | Public      |
-| `/packages/:id`     | Package details with booking             | Yes           | All Users   |
-| `/tour-guides`      | All tour guides listing                  | No            | Public      |
-| `/guides/:id`       | Tour guide profile                       | Yes           | All Users   |
-| `/community`        | All stories with sharing                 | No            | Public      |
-| `/community/:id`    | Story details                            | Yes           | All Users   |
-| `/about-us`         | About us page                            | No            | Public      |
-| `/contact-us`       | Contact information                      | No            | Public      |
-| `/partner-signup`   | Partner registration                     | No            | Public      |
-| `/project-info`     | Project information                      | No            | Public      |
-| `/auth/signin`      | User login                               | No            | Public      |
-| `/auth/signup`      | User registration                        | No            | Public      |
-| `/auth/forgot-pass` | Password reset                           | No            | Public      |
-| `/dashboard/*`      | User dashboard routes                    | Yes           | Role-based  |
+| 🔗 **Route Path**   | 📝 **Purpose**                              | 🔐 **Auth Required** | 🧑‍💼 **Role Access** |
+| ------------------- | ------------------------------------------- | -------------------- | ------------------ |
+| `/`                 | 🏠 Home page with packages, guides, stories | No                   | Public             |
+| `/all-trips`        | 🧳 All tour packages listing                | No                   | Public             |
+| `/packages/:id`     | 📦 Package details with booking             | ✅ Yes               | All Users          |
+| `/tour-guides`      | 🧭 All tour guides listing                  | No                   | Public             |
+| `/guides/:id`       | 🧑‍✈️ Tour guide profile                       | ✅ Yes               | All Users          |
+| `/community`        | 🗺️ All stories with sharing                 | No                   | Public             |
+| `/community/:id`    | 🧾 Story details                            | ✅ Yes               | All Users          |
+| `/about-us`         | 🧑‍🤝‍🧑 About us page                            | No                   | Public             |
+| `/contact-us`       | 📞 Contact information                      | No                   | Public             |
+| `/partner-signup`   | 🤝 Partner registration                     | No                   | Public             |
+| `/project-info`     | ℹ️ Project information                      | No                   | Public             |
+| `/auth/signin`      | 🔑 User login                               | No                   | Public             |
+| `/auth/signup`      | 🆕 User registration                        | No                   | Public             |
+| `/auth/forgot-pass` | 🧠 Password reset                           | No                   | Public             |
+| `/dashboard/*`      | 📊 User dashboard routes                    | ✅ Yes               | 🎯 Role-based      |
 
 ### 2️⃣ Dashboard Routes (Role-based Access)
 
