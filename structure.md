@@ -9,7 +9,11 @@
 ├── index.html
 ├── package.json
 ├── public
-│   └── CNAME
+│   ├── CNAME
+│   ├── google4b54b9926d2c85b8.html
+│   ├── refractorPublicPrompt.md
+│   ├── robots.txt
+│   └── sitemap.xml
 ├── README.md
 ├── refactor_project_info.sh
 ├── showCase.mp4\012
@@ -24,7 +28,17 @@
 │   │   └── images
 │   │       ├── favicon.jpg
 │   │       ├── index.js
-│   │       └── notfound3.jpg
+│   │       ├── notfound3.jpg
+│   │       └── preview
+│   │           ├── Desktop
+│   │           │   ├── AboutUs
+│   │           │   │   └── AboutUs2.png
+│   │           │   ├── Home
+│   │           │   │   └── HomePage1.png
+│   │           │   └── ProjectInfo
+│   │           │       └── ProjectInfo.png
+│   │           ├── Laptop
+│   │           └── Mobile
 │   ├── console
 │   │   ├── error.json
 │   │   └── log.json
@@ -41,6 +55,9 @@
 │   │   ├── note.md
 │   │   ├── paste.md
 │   │   ├── prompt.md
+│   │   ├── readmeGenerateFull.md
+│   │   ├── readmeGenerate.md
+│   │   ├── READMEPREV.md
 │   │   ├── Requirement.md
 │   │   └── taskRemained.md
 │   ├── firebase
@@ -126,9 +143,13 @@
 │   │   ├── landing
 │   │   │   ├── home
 │   │   │   │   ├── Bannnerr
-│   │   │   │   │   └── Banner.jsx
+│   │   │   │   │   ├── Banner.jsx
+│   │   │   │   │   └── Slider
+│   │   │   │   │       └── Slider.jsx
 │   │   │   │   ├── CallToActionFull
 │   │   │   │   │   └── CallToActionFull.jsx
+│   │   │   │   ├── ExploreTabs
+│   │   │   │   │   └── ExploreTabs.jsx
 │   │   │   │   ├── Home.jsx
 │   │   │   │   ├── HowItWorks
 │   │   │   │   │   └── HowItWorks.jsx
@@ -257,6 +278,6 @@
 ├── vite.config.js
 └── vite.logger.plugin.js
 
-79 directories, 176 files
+88 directories, 188 files
 
 ```
