@@ -512,13 +512,21 @@ const ManageProfile = () => {
         p={`You can update your profile details and manage your account.`}
       />
       <div className="flex flex-col d:flex-row gap-6 items-center">
-        <img
-          src={photoURL || "https://avatar.iran.liara.run/public"}
-          alt="User"
-          className="w-32 h-32 rounded-full border-4 border-cyan-500 shadow-cyan-700"
-          data-aos="zoom-in"
-        />
-
+        <div className="relative">
+          <img
+            src={photoURL || "https://avatar.iran.liara.run/public"}
+            alt="User"
+            className="w-32 h-32 rounded-full border-4 border-cyan-400 shadow-lg shadow-cyan-500/50 animate-pulse hover:animate-none transition-all duration-300 hover:scale-105"
+            style={{
+              boxShadow:
+                "0 0 20px rgba(34, 211, 238, 0.6), 0 0 40px rgba(34, 211, 238, 0.4), 0 0 60px rgba(34, 211, 238, 0.2)",
+            }}
+            data-aos="zoom-in"
+          />
+          {/* Neon glow ring */}
+          <div className="absolute inset-0 rounded-full border-2 border-cyan-400 animate-ping opacity-75"></div>
+          <div className="absolute inset-0 rounded-full bg-gradient-to-r from-cyan-400/20 to-blue-500/20 animate-pulse"></div>
+        </div>
         <div className="flex-1 space-y-2">
           <p className="text-lg text-cyan-300 font-medium">📧 {email}</p>
           <p className="text-md text-gray-300">
