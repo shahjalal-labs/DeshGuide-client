@@ -450,4 +450,4 @@ If you discover a security vulnerability, please send an email to security@deshg
 | 📍 **Location**         | Sharifpur, Gazipur, Dhaka                                                                                            |
 | 💼 **LinkedIn**         | [https://www.linkedin.com/in/shahjalal-labs/](https://www.linkedin.com/in/shahjalal-labs/)                           |
 | 📘 **Facebook**         | [https://www.facebook.com/shahjalal.labs](https://www.facebook.com/shahjalal.labs)                                   |
-| ▶️ **Twitter**          | [shahjalal_labs](x.com/shahjalal_labs)                                                                               |
+| ▶️ **Twitter**          | [shahjalal_labs](https://www.x.com/shahjalal_labs)                                                                   |
