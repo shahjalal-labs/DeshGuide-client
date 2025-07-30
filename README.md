@@ -45,11 +45,11 @@ A comprehensive tourism management platform built with React, featuring multi-ro
 
 ### 🔑 Demo Credentials
 
-| 👤 **Role**       | 📧 **Email**          | 🔒 **Password**       |
-| ----------------- | --------------------- | --------------------- |
-| 🛡️ **Admin**      | admin@example.com     | admin@example.com     |
-| 🧭 **Tour Guide** | tourguide@example.com | tourguide@example.com |
-| 🎒 **Tourist**    | tourist@example.com   | tourist@example.com   |
+| 👤 **Role**              | 📧 **Email**          | 🔒 **Password**       |
+| ------------------------ | --------------------- | --------------------- |
+| 🛡️ **Admin**             | admin@example.com     | admin@example.com     |
+| 🧭 **Sample Tour Guide** | tourguide@example.com | tourguide@example.com |
+| 🎒 **Sample Tourist**    | tourist@example.com   | tourist@example.com   |
 
 ---
 
