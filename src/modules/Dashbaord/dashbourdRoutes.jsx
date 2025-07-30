@@ -15,6 +15,7 @@ import MyBookings from "./Tourist/Bookings/MyBookings";
 import JoinTourGuide from "./Tourist/JoinTourGuide/JoinTourGuide";
 import PaymentBooking from "./Tourist/PaymentBooking/PaymentBooking";
 import TourGuideRoute from "../../routes/TourGuideRoute";
+import AdminHome from "./Admin/AdminHome";
 
 const dashbourdRoutes = {
   path: "/dashboard",
@@ -108,6 +109,12 @@ const dashbourdRoutes = {
           <AllPayments />
         </AdminRoute>
       ),
+    },
+    {
+    path: "admin/overview",
+      element: <AdminRoute>
+        <AdminHome />
+      </AdminRoute>,
     },
     {
       path: "bookings/:bookingId",

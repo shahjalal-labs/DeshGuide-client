@@ -1,5 +1,6 @@
 // ✅ Role-based sidebar links
 export const adminLinks = [
+  { name: "Overview", path: "/dashboard/admin/overview" },
   { name: "Manage Profile", path: "/dashboard/manage-profile" },
   { name: "Manage Users", path: "/dashboard/admin/manage-users" },
   { name: "Add Package", path: "/dashboard/admin/add-package" },
