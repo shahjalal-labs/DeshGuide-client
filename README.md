@@ -130,6 +130,9 @@ src/
 **About Us Page**  
 ![About Us](src/assets/images/preview/Desktop/AboutUs/AboutUs2.png)
 
+**Project Info Page**  
+![Project Info](src/assets/images/preview/Desktop/ProjectInfo/ProjectInfo.png)
+
 **Full website**
 
 - [view the live site](deshguide.surge.sh)
