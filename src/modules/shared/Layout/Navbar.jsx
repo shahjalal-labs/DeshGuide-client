@@ -68,7 +68,7 @@ const Navbar = () => {
             <DropDown>
               <Avatar />
             </DropDown>
-            <InversionToggle />
+            {/* <InversionToggle /> */}
           </div>
         ) : (
           <Link
