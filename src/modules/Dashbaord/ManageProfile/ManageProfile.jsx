@@ -359,6 +359,198 @@
 // export default ManageProfile;
 //
 // -----------------------------------------------------------------------------
+// import { useState } from "react";
+// import { useForm } from "react-hook-form";
+// import { useQuery, useQueryClient } from "@tanstack/react-query";
+// import { motion } from "framer-motion";
+// import dayjs from "dayjs";
+// import relativeTime from "dayjs/plugin/relativeTime";
+// import { updateProfile } from "firebase/auth";
+//
+// import { Link } from "react-router";
+// import useAxiosSecure from "../../../hooks/useAxiosSecure";
+// import useAuth from "../../../hooks/useAuth";
+// import Spinner from "../../shared/Layout/Spinner";
+// import "aos/dist/aos.css";
+// import { swalErrorToast, swalSuccessToast } from "../../shared/ui/swalToast";
+// import PageIntro from "../../../utils/PageIntro";
+//
+// dayjs.extend(relativeTime);
+//
+// const ManageProfile = () => {
+//   const { user } = useAuth();
+//   const axiosSecure = useAxiosSecure();
+//   const queryClient = useQueryClient();
+//   const [showModal, setShowModal] = useState(false);
+//
+//   const { data: userData, isLoading } = useQuery({
+//     queryKey: ["manage-profile", user?.email],
+//     enabled: !!user?.email,
+//     queryFn: async () => {
+//       const res = await axiosSecure.get(`/users/email/${user?.email}`);
+//       return res.data?.data;
+//     },
+//   });
+//
+//   const {
+//     register,
+//     handleSubmit,
+//     reset,
+//     formState: { errors },
+//   } = useForm();
+//
+//   const onSubmit = async (data) => {
+//     try {
+//       await updateProfile(user, {
+//         displayName: data.name,
+//         photoURL: data.photoURL,
+//       });
+//
+//       const res = await axiosSecure.patch(`/users/${userData?._id}`, {
+//         name: data.name,
+//         photoURL: data.photoURL,
+//       });
+//
+//       if (res.data?.success) {
+//         swalSuccessToast({ text: "Profile updated successfully!" });
+//         queryClient.invalidateQueries(["manage-profile", user?.email]);
+//         setShowModal(false);
+//       } else {
+//         throw new Error("Failed to update profile");
+//       }
+//     } catch (err) {
+//       swalErrorToast({ text: err.message });
+//     }
+//   };
+//
+//   if (isLoading || !userData) return <Spinner />;
+//
+//   const { name, photoURL, email, role, createdAt, last_loggedIn } = userData;
+//
+//   return (
+//     <>
+//       <PageIntro h1={`👤 Welcome back, ${name || "Explorer"}`} />
+//       <motion.div
+//         className="p-4 md:p-6"
+//         initial={{ opacity: 0, y: 40 }}
+//         animate={{ opacity: 1, y: 0 }}
+//         transition={{ duration: 0.4 }}
+//         data-aos="fade-up"
+//       >
+//         <div className="bg-[#10192b] rounded-xl p-6 shadow-xl border border-cyan-800/30 pulse-glow">
+//           <div className="fle flex-col  gap-6 items-tart items-center">
+//             <img
+//               src={photoURL}
+//               alt="Profile"
+//               className="w-28 h-28 rounded-full border-4 border-cyan-600 shadow-md glow-border mx-auto"
+//             />
+//             <div className="flex-center">
+//               <div className=" space-y-2 w-full">
+//                 <h3 className="text-2xl font-semibold text-white">{name}</h3>
+//                 <p className="text-gray-400">📧 {email}</p>
+//                 <p className="text-gray-400">🧩 Role: {role}</p>
+//                 <p className="text-gray-400">
+//                   🕐 Joined: {dayjs(createdAt).fromNow()}
+//                 </p>
+//                 <p className="text-gray-400">
+//                   🔄 Last Login: {dayjs(last_loggedIn).fromNow()}
+//                 </p>
+//                 <button
+//                   onClick={() => {
+//                     reset({ name, photoURL });
+//                     setShowModal(true);
+//                   }}
+//                   className="btn btn-outline btn-block md:btn-wide border-cyan-500 text-cyan-300 hover:bg-cyan-600 hover:text-white pulse-glow"
+//                 >
+//                   ✏️ Update Profile
+//                 </button>
+//               </div>
+//             </div>
+//           </div>
+//         </div>
+//
+//         <div className="mt-6">
+//           <Link
+//             to="/dashboard/join-tour-guide"
+//             className="btn btn-block md:btn-wide bg-gradient-to-r from-cyan-500 to-blue-600 text-white hover:scale-105 hover:from-cyan-600 transition-transform pulse-glow"
+//           >
+//             🚀 Join as Tour Guide
+//           </Link>
+//         </div>
+//
+//         {/* Modal */}
+//         {showModal && (
+//           <div className="modal modal-open">
+//             <div className="modal-box bg-[#0f172a] text-white border border-cyan-800">
+//               <h3 className="font-bold text-lg mb-4">Update Profile</h3>
+//
+//               <form onSubmit={handleSubmit(onSubmit)} className="space-y-4">
+//                 <div>
+//                   <label className="block mb-1 text-sm text-cyan-400">
+//                     Name
+//                   </label>
+//                   <input
+//                     type="text"
+//                     {...register("name", { required: "Name is required" })}
+//                     className="input input-bordered w-full bg-[#1e293b] text-white"
+//                   />
+//                   {errors.name && (
+//                     <p className="text-red-400 text-sm">
+//                       {errors.name.message}
+//                     </p>
+//                   )}
+//                 </div>
+//
+//                 <div>
+//                   <label className="block mb-1 text-sm text-cyan-400">
+//                     Photo URL
+//                   </label>
+//                   <input
+//                     type="text"
+//                     {...register("photoURL", {
+//                       required: "Photo URL is required",
+//                       pattern: {
+//                         value:
+//                           /^(https?:\/\/.*\.(?:png|jpg|jpeg|webp|svg|gif))$/i,
+//                         message: "Enter a valid image URL",
+//                       },
+//                     })}
+//                     className="input input-bordered w-full bg-[#1e293b] text-white"
+//                   />
+//                   {errors.photoURL && (
+//                     <p className="text-red-400 text-sm">
+//                       {errors.photoURL.message}
+//                     </p>
+//                   )}
+//                 </div>
+//
+//                 <div className="modal-action">
+//                   <button
+//                     type="submit"
+//                     className="btn bg-cyan-600 text-white hover:bg-cyan-700"
+//                   >
+//                     Save
+//                   </button>
+//                   <button
+//                     type="button"
+//                     onClick={() => setShowModal(false)}
+//                     className="btn btn-ghost text-gray-300"
+//                   >
+//                     Cancel
+//                   </button>
+//                 </div>
+//               </form>
+//             </div>
+//           </div>
+//         )}
+//       </motion.div>
+//     </>
+//   );
+// };
+//
+// export default ManageProfile;
+//
+// -----------------------------------------------------------------------------
 import { useState } from "react";
 import { useForm } from "react-hook-form";
 import { useQuery, useQueryClient } from "@tanstack/react-query";
@@ -366,8 +558,8 @@ import { motion } from "framer-motion";
 import dayjs from "dayjs";
 import relativeTime from "dayjs/plugin/relativeTime";
 import { updateProfile } from "firebase/auth";
-
 import { Link } from "react-router";
+
 import useAxiosSecure from "../../../hooks/useAxiosSecure";
 import useAuth from "../../../hooks/useAuth";
 import Spinner from "../../shared/Layout/Spinner";
@@ -438,22 +630,26 @@ const ManageProfile = () => {
         data-aos="fade-up"
       >
         <div className="bg-[#10192b] rounded-xl p-6 shadow-xl border border-cyan-800/30 pulse-glow">
-          <div className="fle flex-col  gap-6 items-tart items-center">
+          <div className="flex flex-col md:flex-row gap-6 items-center">
             <img
-              src={photoURL}
+              src={photoURL || "https://avatar.iran.liara.run/public"}
               alt="Profile"
-              className="w-28 h-28 rounded-full border-4 border-cyan-600 shadow-md glow-border mx-auto"
+              className="w-28 h-28 rounded-full border-4 border-cyan-600 shadow-md glow-border"
             />
-            <div className="flex-1 space-y-2">
+            <div className="space-y-2 w-full">
               <h3 className="text-2xl font-semibold text-white">{name}</h3>
               <p className="text-gray-400">📧 {email}</p>
               <p className="text-gray-400">🧩 Role: {role}</p>
               <p className="text-gray-400">
-                🕐 Joined: {dayjs(createdAt).fromNow()}
+                🕐 Joined: {dayjs(createdAt).format("MMM D, YYYY")} (
+                {dayjs(createdAt).fromNow()})
               </p>
               <p className="text-gray-400">
-                🔄 Last Login: {dayjs(last_loggedIn).fromNow()}
+                🔄 Last Login:{" "}
+                {dayjs(last_loggedIn).format("MMM D, YYYY h:mm A")} (
+                {dayjs(last_loggedIn).fromNow()})
               </p>
+
               <button
                 onClick={() => {
                   reset({ name, photoURL });
@@ -478,10 +674,9 @@ const ManageProfile = () => {
 
         {/* Modal */}
         {showModal && (
-          <div className="modal modal-open">
+          <dialog className="modal modal-open">
             <div className="modal-box bg-[#0f172a] text-white border border-cyan-800">
               <h3 className="font-bold text-lg mb-4">Update Profile</h3>
-
               <form onSubmit={handleSubmit(onSubmit)} className="space-y-4">
                 <div>
                   <label className="block mb-1 text-sm text-cyan-400">
@@ -493,7 +688,7 @@ const ManageProfile = () => {
                     className="input input-bordered w-full bg-[#1e293b] text-white"
                   />
                   {errors.name && (
-                    <p className="text-red-400 text-sm">
+                    <p className="text-red-400 text-sm mt-1">
                       {errors.name.message}
                     </p>
                   )}
@@ -516,7 +711,7 @@ const ManageProfile = () => {
                     className="input input-bordered w-full bg-[#1e293b] text-white"
                   />
                   {errors.photoURL && (
-                    <p className="text-red-400 text-sm">
+                    <p className="text-red-400 text-sm mt-1">
                       {errors.photoURL.message}
                     </p>
                   )}
@@ -539,7 +734,7 @@ const ManageProfile = () => {
                 </div>
               </form>
             </div>
-          </div>
+          </dialog>
         )}
       </motion.div>
     </>
