@@ -127,7 +127,7 @@ const AdminHome = () => {
         transition={{ duration: 0.6 }}
         className="text-center px-4 md:px-10 py-8 space-y-4"
       >
-        <h1 className="text-4xl md:text-5xl font-extrabold bg-clip-text text-transparent bg-gradient-to-r from-cyan-400 to-blue-500 drop-shadow-[0_0_15px_#0ff]">
+        <h1 className="text-2xl sm:text-4xl font-extrabold bg-clip-text text-transparent bg-gradient-to-r from-cyan-400 to-blue-500 drop-shadow-[0_0_15px_#0ff]">
           🔥 Admin Control Center
         </h1>
         <p className="text-gray-300 text-lg md:text-xl max-w-3xl mx-auto leading-relaxed">

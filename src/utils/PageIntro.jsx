@@ -4,7 +4,7 @@ import TypewriterText from "./TypeWriterEffect";
 
 const PageIntro = ({ h1 = "Welcome to tha page ____", p = "" }) => {
   return (
-    <div className="mt-10">
+    <div className="mt-0">
       <motion.div className="text-center mb-10" {...bottomToTop}>
         <h1 className="text-xl sm:text-3xl font-bold text-cyan-400 mb-4 text-center">
           <TypewriterText words={[h1]} />
