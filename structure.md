@@ -63,6 +63,7 @@
 │   ├── firebase
 │   │   └── firebase.init.js
 │   ├── hooks
+│   │   ├── useAdminStats.jsx
 │   │   ├── useAuth.jsx
 │   │   ├── useAxiosSecure.jsx
 │   │   ├── useFetchData.js
@@ -99,6 +100,7 @@
 │   │   │   ├── Admin
 │   │   │   │   ├── AddPackage
 │   │   │   │   │   └── AddPackage.jsx
+│   │   │   │   ├── AdminHome.jsx
 │   │   │   │   ├── Bookings
 │   │   │   │   │   ├── AllBookings.jsx
 │   │   │   │   │   └── BookingDetails.jsx
@@ -278,6 +280,6 @@
 ├── vite.config.js
 └── vite.logger.plugin.js
 
-88 directories, 188 files
+88 directories, 190 files
 
 ```
