@@ -360,3 +360,4 @@ echo ""
 echo "✅ Refactoring complete!"
 echo "The improved ProjectInfoPage has been created at: ${REFACTORED_DIR}"
 echo "The changes have been committed to git with message: 'refactor: added improved ProjectInfoPage version'"
+

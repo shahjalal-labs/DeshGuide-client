@@ -2,8 +2,8 @@
 
 ```bash
 .
-├── 03_37_অপরাহ্ণ_28_07_25.mp4
 ├── bun.lock
+├── dist_1 -> /run/media/sj/developer/web/L1B11/12mi/ass/DeshGuide/DeshGuide-client/dist
 ├── eslint.config.js
 ├── generate_aboutus_refactor.sh
 ├── index.html
@@ -280,6 +280,6 @@
 ├── vite.config.js
 └── vite.logger.plugin.js
 
-88 directories, 190 files
+89 directories, 189 files
 
 ```
