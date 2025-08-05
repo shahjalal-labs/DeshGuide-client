@@ -39,6 +39,7 @@ A comprehensive tourism management platform built with React, featuring multi-ro
 ## 🌍 Live Demo
 
 🔗 **Live Site**: [https://deshguide.surge.sh](https://deshguide.surge.sh)  
+🎥 **Preview Video** [https://www.youtube.com/watch?v=V_u5M37B-es](https://www.youtube.com/watch?v=V_u5M37B-es) <br />
 📂 **GitHub Client**: [https://github.com/shahjalal-labs/DeshGuide-client](https://github.com/shahjalal-labs/DeshGuide-client)  
 🖥️ **GitHub Server**: [https://github.com/shahjalal-labs/DeshGuide-server](https://github.com/shahjalal-labs/DeshGuide-server)  
 ⚡ **Server URL**: [https://deshguide-server.vercel.app](https://deshguide-server.vercel.app)
@@ -446,7 +447,7 @@ If you discover a security vulnerability, please send an email to security@deshg
 | 📘 **Facebook**  | [https://www.facebook.com/shahjalal.labs](https://www.facebook.com/shahjalal.labs)         |
 | 💻 **Portfolio** | [http://shahjalal-labs.surge.sh](http://shahjalal-labs.surge.sh)                           |
 | 🔗 **GitHub**    | [https://github.com/shahjalal-labs](https://github.com/shahjalal-labs)                     |
-| ▶️ **YouTube**   | Coming Soon                                                                                |
+| ▶️ **YouTube**   | [https://www.youtube.com/@shahjalal-labs](https://www.youtube.com/@shahjalal-labs)         |
 
 ---
 
