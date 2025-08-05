@@ -1,6 +1,7 @@
 # 🌟 DeshGuide - Tourism Management System
 
 A comprehensive tourism management platform built with React, featuring multi-role authentication, package booking, story sharing, and administrative controls for exploring Bangladesh's tourist destinations.
+![DeshGuide Preview](src/assets/images/deshguide.png)
 
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 ![React](https://img.shields.io/badge/Frontend-React-blue)

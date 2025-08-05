@@ -3,7 +3,6 @@
 ```bash
 .
 ├── bun.lock
-├── dist_1 -> /run/media/sj/developer/web/L1B11/12mi/ass/DeshGuide/DeshGuide-client/dist
 ├── eslint.config.js
 ├── generate_aboutus_refactor.sh
 ├── index.html
@@ -16,7 +15,6 @@
 │   └── sitemap.xml
 ├── README.md
 ├── refactor_project_info.sh
-├── showCase.mp4\012
 ├── src
 │   ├── animation
 │   │   ├── auth-lottie.json
@@ -26,6 +24,7 @@
 │   ├── App.jsx
 │   ├── assets
 │   │   └── images
+│   │       ├── deshguide.png
 │   │       ├── favicon.jpg
 │   │       ├── index.js
 │   │       ├── notfound3.jpg
@@ -280,6 +279,6 @@
 ├── vite.config.js
 └── vite.logger.plugin.js
 
-89 directories, 189 files
+88 directories, 189 files
 
 ```
