@@ -5,6 +5,7 @@
 ├── bun.lock
 ├── eslint.config.js
 ├── generate_aboutus_refactor.sh
+├── ghAbout.md
 ├── index.html
 ├── package.json
 ├── public
@@ -50,7 +51,6 @@
 │   │   ├── cli.md
 │   │   ├── DATA_MODEL.md
 │   │   ├── deployment.md
-│   │   ├── fbPost.md
 │   │   ├── note.md
 │   │   ├── paste.md
 │   │   ├── prompt.md
