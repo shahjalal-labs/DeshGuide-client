@@ -2,8 +2,8 @@
 
 ## ✅ Live Server URL
 
-https://deshguide-server.vercel.app/
+https://deshguide.surge.sh/
 
 ## 📦 Platform
 
-[Vercel](https://vercel.com)
+[surge](https://surge.sh/)
