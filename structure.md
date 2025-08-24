@@ -52,13 +52,9 @@
 │   │   ├── DATA_MODEL.md
 │   │   ├── deployment.md
 │   │   ├── note.md
-│   │   ├── paste.md
-│   │   ├── prompt.md
 │   │   ├── readmeGenerateFull.md
-│   │   ├── readmeGenerate.md
 │   │   ├── READMEPREV.md
-│   │   ├── Requirement.md
-│   │   └── taskRemained.md
+│   │   └── Requirement.md
 │   ├── firebase
 │   │   └── firebase.init.js
 │   ├── hooks
@@ -279,6 +275,7 @@
 ├── vite.config.js
 └── vite.logger.plugin.js
 
-88 directories, 189 files
+
+88 directories, 185 files
 
 ```
